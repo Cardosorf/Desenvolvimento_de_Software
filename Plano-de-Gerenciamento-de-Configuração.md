@@ -1,7 +1,7 @@
 # Plano de Gerenciamento de configuração
 
 ## Sumário
-1.  Introdução [Introdução](#1-introducao)
+1.  Introdução [Introdução](1. Introdução)
 2.  Ferramentas
  1. Git e GitHub
  2. Utilização
