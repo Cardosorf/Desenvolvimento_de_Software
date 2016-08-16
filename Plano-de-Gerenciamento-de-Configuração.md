@@ -16,7 +16,7 @@ mesmas e os padrões de organização e nomeclatura a serem utilizados.
 
 ### 2.1. Git e GitHub
 
-Será utilizado o Git como ferramenta de versionamento do código e o "GitHub":http://github.com/ como repositório para hospedagem do mesmo.
+Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](http://github.com/) como repositório para hospedagem do mesmo.
 
 ### 2.2. Utilização
 
