@@ -11,7 +11,7 @@
 ***
 
 # Sumário
-1.  [Introdução](#2-ferramentas)
+1.  [Introdução](#1-Introdução)
 2.  [Ferramentas](#2-ferramentas)
  1. [Git e GitHub](#21-git-e-github)
      1. [Utilização](#211-utiliza%C3%A7%C3%A3o)
