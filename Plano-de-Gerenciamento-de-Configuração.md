@@ -1,28 +1,26 @@
-# Plano de Gerenciamento de configuração
-
-## Sumário
+# Sumário
 1.  [Introdução](#2-ferramentas)
 2.  [Ferramentas](#2-ferramentas)
  1. [Git e GitHub](#21-git-e-github)
  2. [Utilização](#22-utiliza%C3%A7%C3%A3o)
 
-## 1. Introdução
+# 1. Introdução
 
 Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema X, 
 com o objetivo de apresentar as ferramentas utilizadas na configuração do projeto, o processo de utilização das 
 mesmas e os padrões de organização e nomeclatura a serem utilizados.
 
-## 2. Ferramentas
+# 2. Ferramentas
 
-### 2.1. Git e GitHub
+## 2.1. Git e GitHub
 
 Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](http://github.com/) como repositório para hospedagem do mesmo.
 
-### 2.2 Chef
+## 2.2 Chef
 
 Ferramenta utilizada para automatizar ambientes de desenvolvimento. O [site oficial](https://www.chef.io/chef/)  apresenta mais informações sobre a mesma. Iremos aplicar funcionalidades simples, que executam a instalação na própria máquina do usuário.
 
-### 2.2. Utilização
+## 2.2. Utilização
 
 ### Política de Branches
 
