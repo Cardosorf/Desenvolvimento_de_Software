@@ -13,7 +13,7 @@
 1.  [Introdução](#2-ferramentas)
 2.  [Ferramentas](#2-ferramentas)
  1. [Git e GitHub](#21-git-e-github)
- 2. [Utilização](#22-utiliza%C3%A7%C3%A3o)
+ 2. [Chef](#22-chef)
 
 # 1. Introdução
 
