@@ -6,6 +6,8 @@
 
 # 1. Introdução
 
+Este documento tem como objetivo a formalização do projeto Wikilegis mobile. As informações contidas nos tópicos a seguir foram produzidos afim de mostrar o como  e quando o projeto será executado. Além disso, quem são o envolvidos (stakeholders) e suas respectivas responsabilidades.
+
 # 2. Descrição do Projeto
 
 # 3. Propósito do Projeto
