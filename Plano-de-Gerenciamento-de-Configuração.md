@@ -34,6 +34,7 @@ Dentro da branch "devel" deverão ser criadas branches para cada issue.
 
 ```sh
 git commit -m "Issue #X: commit message"
+```
 
 ### Instalação do Ambiente (Chef)
-Para a configuração do ambiente de desenvolvimento, foi utiliza a tecnologia C
+Para a configuração do ambiente de desenvolvimento, foi utiliza a tecnologia [Chef](#22-chef)
