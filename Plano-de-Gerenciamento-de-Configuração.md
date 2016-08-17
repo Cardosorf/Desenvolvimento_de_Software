@@ -18,9 +18,9 @@ Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](h
 
 ## 2.2 Chef
 
-Ferramenta utilizada para automatizar ambientes de desenvolvimento. O [site oficial](https://www.chef.io/chef/)  apresenta mais informações sobre a mesma. Iremos aplicar funcionalidades simples, que executam a instalação na própria máquina do usuário.
+Ferramenta utilizada para automatizar ambientes de desenvolvimento. O [site oficial](https://www.chef.io/chef/)  apresenta mais informações sobre a mesma. Esta é implementada em [Ruby](https://www.ruby-lang.org/pt/), permitindo a execução de lógicas de programação no momento de configurar o ambiente, possibilitando a manipulação de arquivos, variáveis, pacotes, políticas de permissões, entre outros pontos. Iremos aplicar funcionalidades simples, que executam a instalação na própria máquina do usuário.
 
-## 2.2. Utilização
+## 2.3. Utilização
 
 ### Política de Branches
 
@@ -32,3 +32,6 @@ Dentro da branch "devel" deverão ser criadas branches para cada issue.
 
 ```sh
 git commit -m "Issue #X: commit message"
+
+### Instalação do Ambiente (Chef)
+Para a configuração do ambiente de desenvolvimento, foi utiliza a tecnologia C
