@@ -1,3 +1,14 @@
+### Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+| ??/08/2016 | 1 | Elaboração Inicial | Izabela|
+| ??/08/2016 | 1.1 | Ferramentas(Git)  | Izabela |
+| 16/08/2016 | 1.2 | Ferramentas(Chef) | Tiago Assunção |
+
+
+***
+
 # Sumário
 1.  [Introdução](#2-ferramentas)
 2.  [Ferramentas](#2-ferramentas)
