@@ -23,3 +23,6 @@ A seguir é apresentado uma tabela com as ferramentas que serão utilizadas para
 | :---: | :---: | --- |
 | ![telegram](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/telegram.png) | Telegram | Utilizado para mensagens rápidas, tirar dúvidas e marcar reuniões. |
 | ![slack](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/slack.png) | Slack | Organização do trabalho e manter separado conversas de tarefas separadas. |
+| ![google-drive](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/google-drive.png) | Google drive | Utilizado como ferramenta de comunicação estática, onde os artefatos são mantidos, caso necessário. |
+| ![hangouts](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/hangouts.png) | Hangouts | Ferramenta utilizada para reuniões online. |
+| ![github](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/github.png) | Github | Utilizado para disponibilizar e alterar documentos para todos atravéz wiki |
