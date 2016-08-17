@@ -10,7 +10,7 @@ Este documento tem como objetivo a formalização do projeto Wikilegis mobile. A
 
 # 2. Descrição do Projeto
 
-O projeto trata-se de uma adaptação para android de uma aplicação web, de código aberto, desenvolvida pelo Laboratório Hacker da Câmara dos Deputados. Seu objetivo é oferecer aos seus usuários a oportunidade de propor alterações à redação de projetos de lei.
+O projeto trata-se de uma adaptação para android de uma aplicação web, de código aberto, desenvolvida pelo Laboratório Hacker da Câmara dos Deputados. Seu objetivo é oferecer aos seus usuários a oportunidade de propor alterações e discussões relacionadas à redação de projetos de lei.
 
 # 3. Propósito do Projeto
 
@@ -19,6 +19,8 @@ O projeto trata-se de uma adaptação para android de uma aplicação web, de c�
 # 5. Restrições do Projeto
 
 # 6. Riscos do Projeto
+
+
 
 # 7. Custos do Projeto
 
