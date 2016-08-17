@@ -2,9 +2,10 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | --- | :---: |
-| ??/08/2016 | 1 | Elaboração Inicial | Izabela|
-| ??/08/2016 | 1.1 | Ferramentas(Git)  | Izabela |
+| 10/08/2016 | 1 | Elaboração Inicial | Izabela Cardoso |
+| 13/08/2016 | 1.1 | Ferramentas(Git)  | Izabela Cardoso |
 | 16/08/2016 | 1.2 | Ferramentas(Chef) | Tiago Assunção |
+| 17/08/2016 | 1.2 | Modelo do Processo | Izabela Cardoso |
 
 
 ***
@@ -22,6 +23,8 @@
 Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema X, 
 com o objetivo de apresentar as ferramentas utilizadas na configuração do projeto, o processo de utilização das 
 mesmas e os padrões de organização e nomeclatura a serem utilizados.
+
+![Processo de Configuração do Software](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/processo_gcs.png)
 
 # 2. Ferramentas
 
