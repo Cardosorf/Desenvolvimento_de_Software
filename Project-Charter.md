@@ -10,6 +10,8 @@ Este documento tem como objetivo a formalização do projeto Wikilegis mobile. A
 
 # 2. Descrição do Projeto
 
+O projeto trata-se de uma adaptação para android de uma aplicação web, de código aberto, desenvolvida pelo Laboratório Hacker da Câmara dos Deputados. Seu objetivo é oferecer aos seus usuários a oportunidade de propor alterações à redação de projetos de lei.
+
 # 3. Propósito do Projeto
 
 # 4. Justificativa do Projeto
@@ -33,4 +35,3 @@ De acordo com o Relatório de Gestão da UnB, o custo anual de um aluno de Engen
 # 11. Entregáveis do Projeto
 
 ## 11.1. Estrutura Analítica do Projeto (EAP)
-
