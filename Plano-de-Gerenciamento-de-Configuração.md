@@ -5,7 +5,7 @@
 | 10/08/2016 | 1 | Elaboração Inicial | Izabela Cardoso |
 | 13/08/2016 | 1.1 | Ferramentas(Git)  | Izabela Cardoso |
 | 16/08/2016 | 1.2 | Ferramentas(Chef) | Tiago Assunção |
-| 17/08/2016 | 1.2 | Modelo do Processo | Izabela Cardoso |
+| 17/08/2016 | 1.3 | Modelo do Processo | Izabela Cardoso |
 
 
 ***
