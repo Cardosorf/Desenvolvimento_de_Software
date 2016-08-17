@@ -20,7 +20,7 @@
 
 # 1. Introdução
 
-Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema X, 
+Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
 com o objetivo de apresentar as ferramentas utilizadas na configuração do projeto, o processo de utilização das 
 mesmas e os padrões de organização e nomeclatura a serem utilizados.
 
@@ -37,9 +37,15 @@ Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](h
 
 Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.
 
-Dentro da branch "devel" deverão ser criadas branches para cada issue.
+Dentro da branch "devel" deverão ser criadas branches para cada issue, cujo nome deve estar no seguinte padrão: "issueX", onde X é o número da issue a ser solucionada naquela branch, por exemplo "issue01". As issues serão criadas pela equipe de gerenciamento e deverão ser escritas em inglês.
+
+Quando a issue for resolvida, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel" e fechar a issue. 
+
+Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" e deletar as branches daquela iteração, caso o mesmo seja reprovado a equipe de desenvolvimento deve corrigir os problemas encontrados. 
 
 #### Padrões de nomeclatura
+
+As mensagens de commits deverão ser escritas em inglês, seguindo o padrão abaixo, onde o X representa o número da issue a qual o commit corresponde, por exemplo, "Issue #01". 
 
 ```sh
 git commit -m "Issue #X: commit message"
