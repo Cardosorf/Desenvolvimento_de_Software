@@ -18,6 +18,10 @@ mesmas e os padrões de organização e nomeclatura a serem utilizados.
 
 Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](http://github.com/) como repositório para hospedagem do mesmo.
 
+### 2.2 Chef
+
+Ferramenta utilizada para automatizar ambientes de desenvolvimento. O [site oficial](https://www.chef.io/chef/)  apresenta mais informações sobre a mesma. Iremos aplicar funcionalidades simples, que executam a instalção na própria máquina do usuário.
+
 ### 2.2. Utilização
 
 ### Política de Branches
