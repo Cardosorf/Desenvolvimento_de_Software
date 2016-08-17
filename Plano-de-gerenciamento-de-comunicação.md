@@ -36,6 +36,6 @@ A comunicação dentro da equipe (Desenvolvedores da disciplina de MDS e Gerente
 ### 3.1.1. Reuniões
 
 | Dia | Horário | finalidade | Envolvidos |
-| :---: | :---: | --- | --- |
+| :---: | :---: | :---: | :---: |
 | Sábados | 13:00 - 16:00 | Alinhar equipe | Equipe de desenvolvimento e gerência |
 | A definir | A definir | A definir | A definir |
