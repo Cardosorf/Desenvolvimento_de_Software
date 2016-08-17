@@ -43,3 +43,6 @@ Para a configuração do ambiente de desenvolvimento, foi utiliza a tecnologia [
 2. Instalação do ferramental
 3. Configuração do ferramental
 
+No primeiro passo, basicamente foi feita a atualização do sistema e instalação de pacotes básicos do linux, necessários para o desenvolvimento, como: vim, unzip, wget, git.
+
+Posteriormente, foram obtidos os arquivos fontes necessários para executar o ambiente: android-studio, sdk. Estes foram instalados, 
