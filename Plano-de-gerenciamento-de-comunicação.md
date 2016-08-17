@@ -21,5 +21,5 @@ A seguir é apresentado uma tabela com as ferramentas que serão utilizadas para
 
 | Logo | Ferramenta | Descrição |
 | :---: | :---: | --- |
-| ![telegram](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/telegram.gif) | Telegram | Utilizado para mensagens rápidas, tirar dúvidas e marcar reuniões. |
-| ![slack](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/slack.jpg) | Slack | Organização do trabalho e manter separado conversas de tarefas separadas. |
+| ![telegram](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/telegram.png) | Telegram | Utilizado para mensagens rápidas, tirar dúvidas e marcar reuniões. |
+| ![slack](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/slack.png) | Slack | Organização do trabalho e manter separado conversas de tarefas separadas. |
