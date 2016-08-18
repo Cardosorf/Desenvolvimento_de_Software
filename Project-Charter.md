@@ -3,6 +3,7 @@
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | --- | :---: |
 | 17/08/2016 | 1 | Elaboração Inicial | Igor Duarte |
+| 18/08/2016 | 1.1 | Adição da Equipe | Izabela Cardoso |
 
 # 1. Introdução
 
