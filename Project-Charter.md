@@ -14,9 +14,19 @@ O projeto trata-se de uma adaptação para android de uma aplicação web, de c�
 
 # 3. Propósito do Projeto
 
+A proposta do projeto é adaptar a aplicação web Wikilegis para uma plataforma mobile, dessa forma alcançando mais pessoas com os projetos de lei, trazendo mais cidadania pra população.
+
 # 4. Justificativa do Projeto
 
+O projeto tem como objetivo alcançar o cidadão que tem o direito democrático de contribuir com as legislações que regem seu pais. O wikilegis procura fazer isso de forma interativa e atrativa, dessa forma se justifica a necessidade de uma adaptação mobile tendo em vista que mais de 30% dos acessos a internet são feitos por aparelhos mobile.
+
 # 5. Restrições do Projeto
+
+As restrições do projeto wikilegis mobile é:
+* A aplicação está restrita a plataforma android.
+* A aplicação está restrita a utilizar a API do próprio wikilegis, que retorna os projetos de lei em JSON.
+* O projeto está restrito ao tempo da disciplina de GPP/MDS.
+* O projeto está restrito ao escopo de recursos de alunos da matéria de GPP/MDS.
 
 # 6. Riscos do Projeto
 
