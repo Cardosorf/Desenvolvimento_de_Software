@@ -20,6 +20,21 @@ O projeto trata-se de uma adaptação para android de uma aplicação web, de c�
 
 # 6. Riscos do Projeto
 
+Os principais riscos do desenvolvimento do aplicativo android do Wikilegis e suas respectivas medidas 
+preventivas são:
+
+* Equipe de desenvolvimento não conseguir se adaptar às tecnologias propostas para o projeto
+
+**Plano de ação: Realização de treinamentos com o intuito de ensinar as tecnologias com as quais a equipe de desenvolvimento possui dificuldade ou não conhece**
+
+
+* Membro da equipe trancar ou abandonar a disciplina
+
+**Plano de ação: Distribuir as tarefas entre os integrantes remanescentes de forma que não sobrecarregue nenhum dos membros da equipe**.
+
+* As ferramentas propostas não funcionarem corretamente nos computadores dos integrantes do grupo
+
+**Plano de ação: Configurar o ambiente através de uma receita de configuração de ambiente**
 
 
 # 7. Custos do Projeto
