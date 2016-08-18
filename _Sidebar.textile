@@ -2,7 +2,7 @@ h3. Release 01
 
 *Gestão de Portfólios e Projetos*
 
-# "Project Charter":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Project-Charter
+# "Termo de Abertura do Projeto":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Project-Charter
 # "Plano de Gerenciamento de Configuração":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o
 # "Plano de Gerenciamento de Comunicação":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o
 # "Plano de Gerenciamento de Tempo":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
