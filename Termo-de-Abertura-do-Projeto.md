@@ -16,14 +16,14 @@ O projeto trata-se de uma adaptação para Android de uma aplicação web, de c�
 # 3. Propósito e justificativa do Projeto
 
 O projeto tem como objetivo alcançar o cidadão que tem o direito democrático de contribuir com as legislações que regem seu pais. O Wikilegis procura fazer isso de forma interativa e atrativa, de forma a atrair o cidadão comum. Portanto se justifica a necessidade de uma adaptação mobile da plataforma web, tendo em vista que dos domicílios brasileiros que acessam a internet:
-*80,4% o fizeram por celular
-*76,6% via microcomputador
-*21,9% por tablet
-*4,9% por TV 
-*0,9% por outros equipamentos.
+* 80,4% o fizeram por celular
+* 76,6% via microcomputador
+* 21,9% por tablet
+* 4,9% por TV 
+* 0,9% por outros equipamentos.
 fonte:[IBGE](http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id=1&busca=1&idnoticia=3133)
 
-# 5. Restrições do Projeto
+# 4. Restrições do Projeto
 
 As restrições do projeto wikilegis mobile é:
 * A aplicação está restrita a plataforma android.
@@ -31,7 +31,7 @@ As restrições do projeto wikilegis mobile é:
 * O projeto está restrito ao tempo da disciplina de GPP/MDS.
 * O projeto está restrito ao escopo de recursos de alunos da matéria de GPP/MDS.
 
-# 6. Riscos do Projeto
+# 5. Riscos do Projeto
 
 Os principais riscos do desenvolvimento do aplicativo Android do Wikilegis e suas respectivas medidas 
 preventivas são:
@@ -50,14 +50,14 @@ preventivas são:
 **Plano de ação: Configurar o ambiente através de uma receita de configuração de ambiente**
 
 
-# 7. Custos do Projeto
+# 6. Custos do Projeto
 
 De acordo com o Relatório de Gestão da UnB, o custo anual de um aluno de Engenharia de Software é cerca de R$ 11.020, 00. Dessa forma, levando em consideração que um aluno do mesmo curso pega em média 48 créditos por ano e estimando que cada crédito corresponda a 15 horas de aula, estima-se que o custo por hora de um aluno de Engenharia de Software da UnB seja R$ 15,30.
 
 Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrante deva trabalhar em média 10 horas por semana e que o projeto durará cerca de 16 semanas, o valor estimado para gasto com recursos humanos é de R$ 24480,00.
 
 
-# 8. Equipe do Projeto
+# 7. Equipe do Projeto
 
 | Nome                  | Disciplina | E-mail                     | Github              |
 |-----------------------|:----------:|----------------------------|---------------------|
@@ -72,12 +72,12 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 | Josué Nascimento    | MDS      | josuetk63@gmail.com | [@josutk](https://github.com/josutk) | 
 | Rodrigo Campos    | MDS      | rodrigo.redcode@gmail.com | [@rodrigocam](https://github.com/rodrigocam) | 
 
-# 9. Produto do Projeto
+# 8. Produto do Projeto
 
-## 9.1 Requisitos conhecidos da aplicação
+## 8.1 Requisitos conhecidos da aplicação
 
-# 10. Modelo de Negócios  CANVAS
+# 9. Modelo de Negócios  CANVAS
 
-# 11. Entregáveis do Projeto
+# 10. Entregáveis do Projeto
 
-## 11.1. Estrutura Analítica do Projeto (EAP)
+## 10.1. Estrutura Analítica do Projeto (EAP)
