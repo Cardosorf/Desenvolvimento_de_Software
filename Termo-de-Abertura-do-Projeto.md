@@ -7,19 +7,21 @@
 
 # 1. Introdução
 
-Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar como  e quando o projeto será executado. Além disso, quem são os envolvidos (stakeholders) e suas respectivas responsabilidades.
+Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar a relação de custo, escopo e tempo, bem como mostrar o estudo de viabilidade do projeto.
 
 # 2. Descrição do Projeto
 
 O projeto trata-se de uma adaptação para Android de uma aplicação web, de código aberto, desenvolvida pelo Laboratório Hacker da Câmara dos Deputados. Seu objetivo é oferecer aos seus usuários a oportunidade de propor alterações e discussões relacionadas à redação de projetos de lei.
 
-# 3. Propósito do Projeto
+# 3. Propósito e justificativa do Projeto
 
-A proposta do projeto é adaptar a aplicação web Wikilegis para uma plataforma mobile, dessa forma alcançando mais pessoas com os projetos de lei, trazendo mais cidadania pra população.
-
-# 4. Justificativa do Projeto
-
-O projeto tem como objetivo alcançar o cidadão que tem o direito democrático de contribuir com as legislações que regem seu pais. O Wikilegis procura fazer isso de forma interativa e atrativa, dessa forma se justifica a necessidade de uma adaptação mobile tendo em vista que mais de 30% dos acessos a internet são feitos por aparelhos mobile.
+O projeto tem como objetivo alcançar o cidadão que tem o direito democrático de contribuir com as legislações que regem seu pais. O Wikilegis procura fazer isso de forma interativa e atrativa, de forma a atrair o cidadão comum. Portanto se justifica a necessidade de uma adaptação mobile da plataforma web, tendo em vista que dos domicílios brasileiros que acessam a internet:
+*80,4% o fizeram por celular
+*76,6% via microcomputador
+*21,9% por tablet
+*4,9% por TV 
+*0,9% por outros equipamentos.
+fonte:[IBGE](http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id=1&busca=1&idnoticia=3133)
 
 # 5. Restrições do Projeto
 
