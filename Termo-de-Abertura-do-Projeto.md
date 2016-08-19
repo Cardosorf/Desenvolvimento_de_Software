@@ -53,12 +53,27 @@ preventivas são:
 
 # 6. Custos do Projeto
 
-## 6.1 Custos com Recursos Humanos
+## 6.1. Recursos Humanos
+
 De acordo com o Relatório de Gestão da UnB, o custo anual de um aluno de Engenharia de Software é cerca de R$ 11.020,00. Dessa forma, levando em consideração que um aluno do mesmo curso pega em média 48 créditos por ano e estimando que cada crédito corresponda a 15 horas de aula, estima-se que o custo por hora de um aluno de Engenharia de Software da UnB seja:
+
 11.020,00 / (48 * 15) ≃ R$ 15,30
 
+
 Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrante deva trabalhar em média 10 horas por semana e que o projeto durará cerca de 16 semanas, o valor estimado para gasto com recursos humanos é de:
+
 10 * 10 * 16 * 15,30 = R$ 24.480,00
+
+
+## 6.2. Equipamentos e Serviços
+
+Os equipamentos e serviços levados em consideração para o cálculo dos custos foram: 
+
+* Aluguel de espaço no Gama (180 m²);
+* Energia Elétrica;
+* Notebooks;
+* Internet (15 MB/s);
+* Publicação (Google Play),
 
 
 # 7. Steakholders (Partes interessadas)
