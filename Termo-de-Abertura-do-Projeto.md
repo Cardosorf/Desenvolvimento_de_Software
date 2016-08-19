@@ -91,12 +91,24 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 
 | Nome                  | Github     |
 |-----------------------|:----------:|
-| Carla Silva           |  |
+| Carla Rocha          | [@rochaCarla](https://github.com/RochaCarla) |
+
 # 8. Produto do Projeto
+
+As entregas do produtos serão feitas em duas fases Release 1 (R1) e Release 2 (R2).
+
+**R1:** Arquitetura pronta e incremento de software (Duas funcionalidades)
+
+**R2:** Incremento de software e deploy (Todos casos de uso restantes)
 
 ## 8.1 Requisitos conhecidos da aplicação
 
-# 9. Modelo de Negócios  CANVAS
+|ID|Requisito|Prioridade|
+|:--:|:--:|:--:|
+|R01|Realizar Login|Alta|
+|R02|-|-|
+
+# 9. Modelo de Negócios CANVAS
 
 # 10. Entregáveis do Projeto
 
