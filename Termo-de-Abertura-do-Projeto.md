@@ -7,7 +7,7 @@
 
 # 1. Introdução
 
-Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar a relação de custo, escopo e tempo, bem como mostrar o estudo de viabilidade do projeto.
+Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar um grande resumo dos riscos, limites e recursos, bem como mostrar o estudo de viabilidade do projeto. (PMBOK quinta edição, cap.4.1.3.1, pag. 71)
 
 # 2. Descrição do Projeto
 
@@ -62,6 +62,8 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 
 ## 7.1. Equipe de Gerência
 
+Alunos da disciplina que tem a responsabilidade de planejar, monitorar e controlar o projeto, dessa forma garantindo um equilíbrio e assim o sucesso do projeto. Além disso, tem a responsabilidade de tomar decisões fundamentais dentro do projeto, sendo assim, responsabilizados por estas.
+
 | Nome                  | Disciplina | E-mail                     | Github              |
 |-----------------------|:----------:|----------------------------|---------------------|
 | Lucas Brilhante           | GPP        | lbrilhante82@gmail.com  | [@lucasBrilhante](https://github.com/lucasBrilhante)     |
@@ -71,6 +73,8 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 | Tiago Assunção      | GPP        | tthiagoribeironiquel@gmail.com | [@tiagoassuncao](https://github.com/tiagoassuncao)|
 
 ## 7.1. Equipe de desenvolvimento
+
+Alunos da disciplina de MDS(Métodos de desenvolviemnto de software), que tem a responsabilidade de construir o produto e a documentação relacionada a metodologia seguida (RUP).
 
 | Nome                  | Disciplina | E-mail                     | Github              |
 |-----------------------|:----------:|----------------------------|---------------------|
@@ -82,6 +86,8 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 
 ## 7.2. Monitores
 
+Ex-Aluno das disciplinas de MDS e GPP que tem a responsabilidade de acompanhar e ajudar a equipe de desenvolvimento e planejamento, garantindo que a avaliação do docente será terá uma fundamentação ótima. Além disso, devem tirar duvidas quanto as metodologias e as tecnologias das disciplinas.
+
 | Nome                  | Disciplina | E-mail                     | Github              |
 |-----------------------|:----------:|----------------------------|---------------------|
 | Victor Hugo       | MDS        |  |  |
@@ -89,9 +95,15 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 
 ## 7.3. Docente
 
+Professor das matérias de GPP e mds que tem a responsabilidade de avaliar os alunos responsáveis pelo projeto.
+
 | Nome                  | Github     |
 |-----------------------|:----------:|
 | Carla Rocha          | [@rochaCarla](https://github.com/RochaCarla) |
+
+## 7.4. Usuários
+
+Os principais alvos do produto deste projeto são os cidadãos brasileiros.
 
 # 8. Produto do Projeto
 
@@ -101,15 +113,9 @@ As entregas do produtos serão feitas em duas fases Release 1 (R1) e Release 2 (
 
 **R2:** Incremento de software e deploy (Todos casos de uso restantes)
 
-## 8.1 Requisitos conhecidos da aplicação
+## 8.1 Requisitos de alto nível
 
 |ID|Requisito|Prioridade|
 |:--:|:--:|:--:|
 |R01|Realizar Login|Alta|
 |R02|-|-|
-
-# 9. Modelo de Negócios CANVAS
-
-# 10. Entregáveis do Projeto
-
-## 10.1. Estrutura Analítica do Projeto (EAP)
