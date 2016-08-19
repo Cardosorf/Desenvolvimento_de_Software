@@ -67,13 +67,17 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 
 ## 6.2. Equipamentos e Serviços
 
-Os equipamentos e serviços levados em consideração seus respectivas custos foram: 
+Os equipamentos e serviços levados em consideração e seus respectivas custos foram: 
 
-* Aluguel de espaço no Gama (180 m²): R$ 1200,00 / mês
+* Aluguel de espaço no Gama (180 m²): R$ 1.200,00 / mês
 * Energia Elétrica: Levando-se em consideração a estimativa de 447,60 kWh para consumo mensal e utilizando uma média de preço de R$ 0,54 por kWh, calcula-se um total de 447,60 * 0,54 ≃ R$ 241,70 / mês
-* Notebooks:
-* Internet (15 MB/s);
-* Publicação (Google Play),
+* Notebooks: Utilizando uma média de preço de R$ 2.300,00 para cada notebook e tendo em vista que cada um dos 10 membros da equipe precisará do seu próprio notebook, calcula-se um total de 2.300,00 * 10 =  R$ 23.000,00
+* Internet (15 MB/s): R$ 75,90 / mês
+* Publicação (Google Play): R$ 80,10
+
+Sendo assim, o valor total gasto com equipamentos e serviços durante o período de desenvolvimento do projeto (aproximadamente 4 meses) é de:
+
+1.200,00 * 4 + 241,70 * 4 + 23.000 + 75,90 * 4 + 80,10 = R$ 29.150,50
 
 
 # 7. Steakholders (Partes interessadas)
