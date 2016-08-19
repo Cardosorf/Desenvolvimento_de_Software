@@ -67,11 +67,11 @@ Tendo em vista que a equipe do projeto possui 10 integrantes, que cada integrant
 
 ## 6.2. Equipamentos e Serviços
 
-Os equipamentos e serviços levados em consideração para o cálculo dos custos foram: 
+Os equipamentos e serviços levados em consideração seus respectivas custos foram: 
 
-* Aluguel de espaço no Gama (180 m²);
-* Energia Elétrica;
-* Notebooks;
+* Aluguel de espaço no Gama (180 m²): R$ 1200,00 / mês
+* Energia Elétrica: Levando-se em consideração a estimativa de 447,60 kWh para consumo mensal e utilizando uma média de preço de R$ 0,54 por kWh, calcula-se um total de 447,60 * 0,54 ≃ R$ 241,70 / mês
+* Notebooks:
 * Internet (15 MB/s);
 * Publicação (Google Play),
 
