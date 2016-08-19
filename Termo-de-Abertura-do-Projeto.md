@@ -21,8 +21,8 @@ O projeto tem como objetivo alcançar o cidadão que tem o direito democrático 
 * 21,9% por tablet
 * 4,9% por TV 
 * 0,9% por outros equipamentos.
-fonte:[IBGE](http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id=1&busca=1&idnoticia=3133) 
-      [statista](http://www.statista.com/statistics/262167/market-share-held-by-mobile-operating-systems-in-brazil/)
+
+fonte:[IBGE](http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id=1&busca=1&idnoticia=3133), [statista](http://www.statista.com/statistics/262167/market-share-held-by-mobile-operating-systems-in-brazil/)
 
 # 4. Restrições do Projeto
 
