@@ -13,4 +13,51 @@
 # 5. Manutenção da Integridade das Linhas de Base de Medição do Desempenho
 
 
-# 6. Manutenção da Integridade das Linhas de Base de Medição do Desempenho
+# 6. Necessidades e Técnicas para Comunicação Entre as Partes Interessadas
+
+
+# 7. Revisões Chave para Gerenciamento de Conteúdo, Prorrogações, Prazos para Tratamento, Questões Abertas e Decisões Pendentes
+
+
+# 8. Linha de Base do Escopo
+
+
+# 9. Linha de Base do Cronograma
+
+
+# 10. Linha de Base de Custos
+
+
+# 11. Plano de Gerenciamento do Escopo
+
+
+# 12. Plano de Gerenciamento dos Requisitos
+
+
+# 13. Plano de Gerenciamento do Cronograma
+
+
+# 14. Plano de Gerenciamento dos Custos
+
+
+# 15. Plano de Gerenciamento da Qualidade
+
+
+# 16. Plano de Melhorias no Processo
+
+
+# 17. Plano de Gerenciamento dos Recursos Humanos
+
+
+# 18. Plano de Gerenciamento das Comunicações
+
+
+# 19. Plano de Gerenciamento dos Riscos
+
+
+# 20. Plano de Gerenciamento das Aquisições
+
+
+# 21. Plano de Gerenciamento das Partes Interessadas
+
+
