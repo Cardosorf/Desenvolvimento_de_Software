@@ -145,6 +145,6 @@ As entregas do produtos serão feitas em duas fases Release 1 (R1) e Release 2 (
 
 |ID|Requisito|Prioridade|
 |:--:|:--:|:--:|
-|R01|Gerenciamento dos Usuários|Alta|
+|R01|Gerenciamento dos usuários|Alta|
 |R02|Gerenciamento dos projetos de lei|Alta|
 |R03|Gerenciamento de sugestões de alterações em projetos de lei|Alta|
