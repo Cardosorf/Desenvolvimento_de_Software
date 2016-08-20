@@ -35,10 +35,10 @@ A comunicação dentro da equipe (Desenvolvedores da disciplina de MDS e Gerente
 
 ### 3.1.1. Comunicação interna (Reuniões)
 
-|Tema | Dia | Horário | finalidade | Responsável | Envolvidos |
+|Tema | Dia / Horário | finalidade | Responsável | Envolvidos |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Reunião fixa | Sábados | 13:00 - 16:00 | Alinhas conhecimentos produzidos durante a interação de acordo com o cronograma. | GPP | GPP/MDS |
-| Reunião de produção | Quando necessário | Quando necessário | Juntar equipe online a fim de produzir artefatos complexos de forma eficiente | GPP ou MDS | GPP/MDS |
+| Reunião fixa | Sábados / 13:00-16:00 | Alinhas conhecimentos produzidos durante a interação de acordo com o cronograma. | GPP | GPP/MDS |
+| Reunião de produção | Quando necessário | Juntar equipe online a fim de produzir artefatos complexos de forma eficiente | GPP ou MDS | GPP/MDS |
 
 ## 3.2. Comunicação externa
 
