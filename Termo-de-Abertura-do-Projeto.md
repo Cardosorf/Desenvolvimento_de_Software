@@ -55,7 +55,7 @@ preventivas são:
 
 ## 6.1. Recursos Humanos
 
-De acordo com o Relatório de Gestão da UnB, o custo anual de um aluno de Engenharia de Software é cerca de R$ 11.020,00. Dessa forma, levando em consideração que um aluno do mesmo curso pega em média 48 créditos por ano e estimando que cada crédito corresponda a 15 horas de aula, estima-se que o custo por hora de um aluno de Engenharia de Software da UnB seja:
+De acordo com o [Relatório de Gestão da UnB do ano de 2015](http://www.dpo.unb.br/documentos/Relatorio_Gestao_2015.pdf), o custo anual de um aluno de Engenharia de Software é cerca de R$ 11.020,00. Dessa forma, levando em consideração que um aluno do mesmo curso pega em média 48 créditos por ano e estimando que cada crédito corresponda a 15 horas de aula, estima-se que o custo por hora de um aluno de Engenharia de Software da UnB seja:
 
 11.020,00 / (48 * 15) ≃ R$ 15,30.
 
