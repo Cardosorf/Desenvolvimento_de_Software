@@ -79,6 +79,12 @@ Sendo assim, o valor total gasto com equipamentos e serviços durante o período
 
 1.200,00 * 4 + 241,70 * 4 + 23.000 + 75,90 * 4 + 80,10 = R$ 29.150,50
 
+## 6.3. Custo Total
+
+Por fim, para se obter o custo total do projeto, basta somar os custos com recursos humanos e equipamentos e serviços:
+
+24.480,00 + 29.150,50 = R$ 53.630,00
+
 
 # 7. Steakholders (Partes interessadas)
 
