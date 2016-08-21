@@ -1,5 +1,5 @@
 # 1. Ciclo de Vida do Projeto
-
+Tiago TODO
 
 # 2. Diretrizes para a execução do projeto
 
@@ -8,7 +8,7 @@
 
 
 # 4. Plano de Gerenciamento de Configuração
-
+Tiago/IZA TODO
 
 # 5. Manutenção da Integridade das Linhas de Base de Medição do Desempenho
 
