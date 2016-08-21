@@ -20,7 +20,7 @@ Tiago/IZA TODO
 
 
 # 8. Linha de Base do Escopo
-
+EAP
 
 # 9. Linha de Base do Cronograma
 
