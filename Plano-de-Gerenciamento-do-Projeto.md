@@ -11,12 +11,14 @@ A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvo
 
 Logo abaixo, é possível visualizar a Estrutura Analítica do Projeto (EAP):
 
-
-
 # 3. Linha de Base do Cronograma
+
+Colocar aqui uma imagem do cronograma.
 
 
 # 4. Linha de Base dos Custos
+
+Perguntar para a Carla se pode ser uma reta
 
 
 # 5. Plano de Gerenciamento do Escopo
