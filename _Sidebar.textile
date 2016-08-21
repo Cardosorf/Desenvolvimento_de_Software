@@ -1,5 +1,7 @@
 h3. Release 01
 
+# "Folha de Estilo":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Folha-de-Estilo
+
 *Gestão de Portfólios e Projetos*
 
 # "Termo de Abertura do Projeto":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Termo-de-Abertura-do-Projeto
