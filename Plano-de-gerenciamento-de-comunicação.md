@@ -18,12 +18,12 @@ Este documento, o plano de gerenciamento de comunicação, tem como objetivo esp
 
 # 2. Ferramentas
 
-A seguir é apresentado uma tabela com as ferramentas que serão utilizadas para garantir a comunicação sempre que necessário durante a execução do projeto entre todos os steakholders.
+A seguir é apresentada uma tabela com as ferramentas que serão utilizadas para garantir a comunicação sempre que necessário durante a execução do projeto entre todos os stakeholders.
 
 | Logo | Ferramenta | Descrição |
 | :---: | :---: | --- |
 | ![telegram](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/telegram.png) | Telegram | Utilizado para mensagens rápidas, tirar dúvidas e marcar reuniões. |
-| ![slack](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/slack.png) | Slack | Organização do trabalho e manter separado conversas de tarefas separadas. |
+| ![slack](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/slack.png) | Slack | Organização do trabalho e manter conversas a respeito de tarefas diferentes separadas. |
 | ![Google-drive](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Google-Drive.png) | Google drive | Utilizado como ferramenta de comunicação estática, onde os artefatos são mantidos, caso necessário. |
 | ![hangouts](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/hangouts.png) | Hangouts | Ferramenta utilizada para reuniões online. |
 | ![github](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/github.png) | Github | Utilizado para disponibilizar e alterar documentos para todos através da wiki |
@@ -31,14 +31,14 @@ A seguir é apresentado uma tabela com as ferramentas que serão utilizadas para
 # 3. Estratégia de comunicação
 ## 3.1. Comunicação interna
 
-A comunicação dentro da equipe (Desenvolvedores da disciplina de MDS e Gerentes da disciplina de GPP) deve acontecer de forma dinâmica e constante.
+A comunicação dentro da equipe (desenvolvedores da disciplina de MDS e gerentes da disciplina de GPP) deve acontecer de forma dinâmica e constante.
 
 ### 3.1.1. Comunicação interna (Reuniões)
 
 |Tema | Dia / Horário | finalidade | Responsável | Envolvidos |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Reunião fixa | Sábados / 13:00-16:00 | Alinhas conhecimentos produzidos durante a interação de acordo com o cronograma. | GPP | GPP/MDS |
-| Reunião de produção | Quando necessário | Juntar equipe online a fim de produzir artefatos complexos de forma eficiente | GPP ou MDS | GPP/MDS |
+| Reunião fixa | Sábados / 13:00-16:00 | Alinhar conhecimentos produzidos durante a interação de acordo com o cronograma. | GPP | GPP/MDS |
+| Reunião de produção | Quando necessário | Juntar a equipe online a fim de produzir artefatos complexos de forma eficiente | GPP ou MDS | GPP/MDS |
 
 ## 3.2. Comunicação externa
 
