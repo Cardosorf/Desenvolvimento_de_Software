@@ -110,19 +110,19 @@ Na tabela a seguir é possível ver a posição do produto:
 
 O aplicativo Wikilegis oferece as seguintes funcionalidades ao usuário:
 
-Gerenciar usuário: Essa funcionalidade permite o usuário cadastrar, editar e visualizar o seu perfil.
+* **Gerenciar usuário:** Essa funcionalidade permite o usuário cadastrar, editar e visualizar o seu perfil.
 
-Filtrar projetos: Essa funcionalidade permite ao usuário filtrar projetos por data, relevância ou por status (aberto ou encerrado).
+* **Filtrar projetos:** Essa funcionalidade permite ao usuário filtrar projetos por data, relevância ou por status (aberto ou encerrado).
 
-Avaliar artigo: Essa funcionalidade permite o usuário avaliar um artigo de um projeto de lei em gostei ou não gostei.
+* **Avaliar artigo:** Essa funcionalidade permite o usuário avaliar um artigo de um projeto de lei em gostei ou não gostei.
 
-Comentar: Essa funcionalidade permite ao usuário comentar em artigos de propostas de leis ou em propostas feitas no artigo.
+* **Comentar:** Essa funcionalidade permite ao usuário comentar em artigos de propostas de leis ou em propostas feitas no artigo.
 
-Sugerir proposta: Essa funcionalidade permite ao usuário sugerir uma proposta de mudança em um projeto de lei.
+* **Sugerir proposta:** Essa funcionalidade permite ao usuário sugerir uma proposta de mudança em um projeto de lei.
 
-Pesquisar projetos de lei: Essa funcionalidade permite ao usuário pesquisar um projeto de lei.
+* **Pesquisar projetos de lei:** Essa funcionalidade permite ao usuário pesquisar um projeto de lei.
 
-Seguir projeto: Essa funcionalidade permite ao usuário escolher receber notificações de um projeto por e-mail semanalmente ou diariamente.
+* **Seguir projeto:** Essa funcionalidade permite ao usuário escolher receber notificações de um projeto por e-mail semanalmente ou diariamente.
 
 
 #5  Requisitos não funcionais
