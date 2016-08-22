@@ -1,5 +1,34 @@
 # 1. Ciclo de Vida do Projeto
 Tiago Doing...
+A engenharia de software surgiu para resolver o problema da chamada crise do
+software em 1970. Baseada em modelos industriais, foram criadas as metodologias de
+desenvolvimento que organizariam de maneira profissional e padronizada a forma de
+desenvolver software.
+
+Esses métodos, hoje conhecidos como tradicionais, apresentavam problemas
+quanto ao desenvolvimento do software, pois o processo de desenvolvimento é
+bastante mutável. Ao longo do tempo os requisitos mudam por parte do cliente, e em
+uma abordagem tradicional é mais custoso e difícil lidar com essas mudanças, pois o
+processo é mais engessado e suas fases ocorrem de forma linear.
+
+Com o objetivo de solucionar esses problemas, líderes experientes de
+desenvolvimento criaram o manifesto ágil. As metodologias ágeis buscam resultados
+práticos em um tempo mais reduzido, o que é alcançado através do foco no produto em
+vez do processo. Trazer o cliente para perto da equipe de desenvolvimento também é
+uma de suas características, pois a obtenção de informações e tomada de decisões se
+torna mais rápida.
+
+Ambas abordagens possuem vantagens e desvantagens, que individualmente
+cada uma delas não é capaz de solucionar todos os problemas do desenvolvimento de
+software. Dessa maneira, ao longo deste projeto, todos os stakeholders irão vivenciar
+ambas abordagens. Será utilizada uma abordagem tradicional durante metade do período
+de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.
+
+## Metodologia Tradicional
+Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
+onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/)
+
+
 
 # 2. Linha de Base do Escopo
 
