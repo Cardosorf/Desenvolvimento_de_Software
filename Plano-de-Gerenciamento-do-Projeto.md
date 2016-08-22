@@ -49,14 +49,14 @@ presentes no Manifesto Ágil são:
 
 Para [(BECK et al, 2001)](), por mais que exista valor nos itens à direita da
 frase, os itens a esquerda são mais valorizados nessa metodologia.
-Segundo [Pressman (2011)](), o surgimento das metodologias ágeis foi uma
+Segundo [Pressman (2011)](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#6-pressman-r-sengenharia-de-software-uma-abordagem-profissional-7a-edi%C3%A7%C3%A3o-porto-alegre-rs-amgh-2011-isbn-9788563308337-8563308335), o surgimento das metodologias ágeis foi uma
 estratégia de sanar os empecilhos vigentes da engenharia de software tradicional.
 A metodologia apresenta inúmeros benefícios, porém, não pode ser aplicada em
 qualquer projeto de desenvolvimento, produtos pessoas e situações. Para cada
 ambiente existe uma metodologia que atenda melhor as necessidades
 específicas dele.
 
-Nessa linha de pensamento, [Pressman (2011)]() diz que os métodos ágeis
+Nessa linha de pensamento, [Pressman (2011)](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#6-pressman-r-sengenharia-de-software-uma-abordagem-profissional-7a-edi%C3%A7%C3%A3o-porto-alegre-rs-amgh-2011-isbn-9788563308337-8563308335) diz que os métodos ágeis
 são muito convenientes para projetos que estão em constante mudança e que as
 necessidades são alteradas em um período de tempo curto. Isso é permitido
 devido à política de entrega de uma pequena parte do software pronta para o
