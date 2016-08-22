@@ -49,15 +49,15 @@
 
 #1  Introdução
 
-Este documento apresenta uma visão geral do projeto, definindo as necessidades, características e requisitos do sistema. 
+<p align="justify">Este documento apresenta uma visão geral do projeto, definindo as necessidades, características e requisitos do sistema.</p>
 
 ##1.1 Objetivos
 
-Os objetivos deste documento são auxiliar na obtenção de informações dos usuários a cerca do aplicativo WikilegisApp,  do projeto ajudar a equipe desenvolvedora a ter uma visão alinhada sobre o escopo, melhorar a avaliação do desenvolvimento do software e validar com o cliente a visão da equipe de desenvolvimento acerca do aplicativo.
+<p align="justify">Os objetivos deste documento são auxiliar na obtenção de informações dos usuários a cerca do aplicativo WikilegisApp,  do projeto ajudar a equipe desenvolvedora a ter uma visão alinhada sobre o escopo, melhorar a avaliação do desenvolvimento do software e validar com o cliente a visão da equipe de desenvolvimento acerca do aplicativo.</p>
 
 ##1.2 Visão geral da solução
 
-Na tabela a seguir, é mostrado um resumo acerca do problema e da solução apresentada.
+<p align="justify">Na tabela a seguir, é mostrado um resumo acerca do problema e da solução apresentada.</p>
 
 <table style="width:100%">
   <tr>
@@ -80,7 +80,7 @@ Na tabela a seguir, é mostrado um resumo acerca do problema e da solução apre
 
 #2  Descrição do usuário
 
-Como o aplicativo traz uma oportunidade de políticos apresentarem suas propostas de lei, criadas na plataforma web do Wikilegis, e dos cidadãos poderem analisar e contribuir com elas, os usuários serão em sua maioria, cidadãos e políticos brasileiros.
+<p align="justify">Como o aplicativo traz uma oportunidade de políticos apresentarem suas propostas de lei, criadas na plataforma web do Wikilegis, e dos cidadãos poderem analisar e contribuir com elas, os usuários serão em sua maioria, cidadãos e políticos brasileiros.</p>
 
 ##2.1 Usuário
 
@@ -99,93 +99,114 @@ Como o aplicativo traz uma oportunidade de políticos apresentarem suas proposta
 
 ##2.3 Ambiente do usuário
 
-Para que o usuário possa usar o aplicativo com maior mobilidade e para que ele atinja uma gama maior de usuários, visto que 80,4% (IBGE) dos usuários de internet no Brasil em 2016 já utilizam smartphones para acesso e 91,8% (Kantar) destes usuários utilizavam o sistema operacional Android até 2015, o sistema será desenvolvido para o sistema operacional Android, esperando-se que o usuário possua um telefone celular com este sistema, e que o mesmo possua acesso à internet.
+<p align="justify">Para que o usuário possa usar o aplicativo com maior mobilidade e para que ele atinja uma gama maior de usuários, visto que 80,4% (IBGE) dos usuários de internet no Brasil em 2016 já utilizam smartphones para acesso e 91,8% (Kantar) destes usuários utilizavam o sistema operacional Android até 2015, o sistema será desenvolvido para o sistema operacional Android, esperando-se que o usuário possua um telefone celular com este sistema, e que o mesmo possua acesso à internet.</p>
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao1.png)
+<figure>
+    <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao1.png" alt="Ambiente do usuário" align="middle">
+    <br>
+    <figcaption style="text-align: center">Figura 1 - Ambiente do usuário.</figcaption>
+</figure>
+
 
 ##2.4 Alternativas e competição
 
-Nesta seção serão descritos os principais produtos semelhantes encontrados encontrados.
+<p align="justify">Nesta seção serão descritos os principais produtos semelhantes encontrados encontrados.</p>
 
 ###2.4.1 Plataforma web Wikilegis
 
-O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma, entretanto tem exatamente as mesmas  funcionalidades da plataforma web Wikilegis.
+<p align="justify">O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma, entretanto tem exatamente as mesmas  funcionalidades da plataforma web Wikilegis.</p>
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao2.png)
+<figure>
+    <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao2.png" alt="Plataforma web wikilegis" align="middle">
+    <br>
+    <figcaption style="text-align: center">Figura 2 - Plataforma web wikilegis.</figcaption>
+</figure>
 
 ###2.4.2 SigaLei
 
-Trata-se de um aplicativo informativo que tem como principal objetivo, mostrar as leis que estão em trâmite de aprovação no Congresso nacional e assembleias de Minas Gerais. Os usuários podem acompanhar as discussões a respeito das leis e ser informado das atualizações de projetos de leis do seu interesse.
+<p align="justify">Trata-se de um aplicativo informativo que tem como principal objetivo, mostrar as leis que estão em trâmite de aprovação no Congresso nacional e assembleias de Minas Gerais. Os usuários podem acompanhar as discussões a respeito das leis e ser informado das atualizações de projetos de leis do seu interesse.</p>
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao3.png)
+<figure>
+    <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao3.png" align="middle">
+    <br>
+    <figcaption style="text-align: center">Figura 3 - Tela do aplicativo SigaLei.</figcaption>
+</figure>
 
 ###2.4.3 Monitora, Brasil!
 
-Monitora, Brasil é um aplicativo para Android que possibilita a qualquer pessoa pesquisar e monitorar o que os Deputados Federais estão fazendo na Câmara dos Deputados. Com ele, é possível verificar a assiduidade, os projetos propostos, rankings, Twitter e outras informações.
+<p align="justify">Monitora, Brasil é um aplicativo para Android que possibilita a qualquer pessoa pesquisar e monitorar o que os Deputados Federais estão fazendo na Câmara dos Deputados. Com ele, é possível verificar a assiduidade, os projetos propostos, rankings, Twitter e outras informações.</p>
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao4.png)
+<figure>
+    <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao4.png" align="middle">
+    <br>
+    <figcaption style="text-align: center">Figura 4 - Tela do aplicativo Monitora, Brasil!.</figcaption>
+</figure>
 
 ###2.4.4 Infoleg
 
-Aplicativo com informações das atividades legislativas da Câmara dos Deputados, com informações sobre deputados, projetos de lei e outras proposições, sessões no plenário, reuniões nas comissões e legislação.
+<p align="justify">Aplicativo com informações das atividades legislativas da Câmara dos Deputados, com informações sobre deputados, projetos de lei e outras proposições, sessões no plenário, reuniões nas comissões e legislação.</p>
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao5.png)
+<figure>
+    <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao5.png" align="middle">
+    <br>
+    <figcaption style="text-align: center">Figura 5 - Tela do aplicativo Infoleg.</figcaption>
+</figure>
 
 #3  Envolvidos
 
 #4  Visão geral do produto
 
-O aplicativo tem por funcionalidade principal, a contribuição e interação de usuários com as propostas de leis dos parlamentares.
+<p align="justify">O aplicativo tem por funcionalidade principal, a contribuição e interação de usuários com as propostas de leis dos parlamentares.</p>
 
-Usuários cadastrados podem curtir ou descurtir um artigo ou comentário de uma proposta de lei, sugerir uma alteração no artigo de uma proposta de lei, comentar em artigos de propostas de lei e escolher receber notificações via e-mail a respeito de alterações em um projeto. Já os usuários não cadastrados, poderão apenas visualizar as informações e comentários dos projetos de leis.
+<p align="justify">Usuários cadastrados podem curtir ou descurtir um artigo ou comentário de uma proposta de lei, sugerir uma alteração no artigo de uma proposta de lei, comentar em artigos de propostas de lei e escolher receber notificações via e-mail a respeito de alterações em um projeto. Já os usuários não cadastrados, poderão apenas visualizar as informações e comentários dos projetos de leis.</p>
 
 ##4.1 Perspectiva do produto
 
-Tem por expectativa que o aplicativo fomente o interesse do cidadão brasileiro em verificar quais as leis estão em trâmite para serem aprovados, podendo assim, contribuir com as mesmas.
+<p align="justify">Tem por expectativa que o aplicativo fomente o interesse do cidadão brasileiro em verificar quais as leis estão em trâmite para serem aprovados, podendo assim, contribuir com as mesmas.</p>
 
 ##4.2 Declaração de posição do produto
 
-Na tabela a seguir é possível ver a posição do produto:
+<p align="justify">Na tabela a seguir é possível ver a posição do produto:</p>
 
 ##4.3 Recursos do produto
 
-O aplicativo Wikilegis oferece as seguintes funcionalidades ao usuário:
+<p align="justify">O aplicativo Wikilegis oferece as seguintes funcionalidades ao usuário:</p>
 
-* **Gerenciar usuário:** Essa funcionalidade permite o usuário cadastrar, editar e visualizar o seu perfil.
+* <p align="justify"><b>Gerenciar usuário:</b> Essa funcionalidade permite o usuário cadastrar, editar e visualizar o seu perfil.</p>
 
-* **Filtrar projetos:** Essa funcionalidade permite ao usuário filtrar projetos por data, relevância ou por status (aberto ou encerrado).
+* <p align="justify"><b>Filtrar projetos:</b> Essa funcionalidade permite ao usuário filtrar projetos por data, relevância ou por status (aberto ou encerrado).</p>
 
-* **Avaliar artigo:** Essa funcionalidade permite o usuário avaliar um artigo de um projeto de lei em gostei ou não gostei.
+* <p align="justify"><b>Avaliar artigo:</b> Essa funcionalidade permite o usuário avaliar um artigo de um projeto de lei em gostei ou não gostei.</p>
 
-* **Comentar:** Essa funcionalidade permite ao usuário comentar em artigos de propostas de leis ou em propostas feitas no artigo.
+* <p align="justify"><b>Comentar:</b> Essa funcionalidade permite ao usuário comentar em artigos de propostas de leis ou em propostas feitas no artigo.</p>
 
-* **Sugerir proposta:** Essa funcionalidade permite ao usuário sugerir uma proposta de mudança em um projeto de lei.
+* <p align="justify"><b>Sugerir proposta:</b> Essa funcionalidade permite ao usuário sugerir uma proposta de mudança em um projeto de lei.</p>
 
-* **Pesquisar projetos de lei:** Essa funcionalidade permite ao usuário pesquisar um projeto de lei.
+* <p align="justify"><b>Pesquisar projetos de lei:</b> Essa funcionalidade permite ao usuário pesquisar um projeto de lei.</p>
 
-* **Seguir projeto:** Essa funcionalidade permite ao usuário escolher receber notificações de um projeto por e-mail semanalmente ou diariamente.
+* <p align="justify"><b>Seguir projeto:</b> Essa funcionalidade permite ao usuário escolher receber notificações de um projeto por e-mail semanalmente ou diariamente.</p>
 
 
 #5  Requisitos não funcionais
 
 ##5.1 Usabilidade
 
-Em caso de erro, o aplicativo deverá apresentar mensagens de fácil entendimento, para ajudar o usuário a identificar o problema.
+<p align="justify">Em caso de erro, o aplicativo deverá apresentar mensagens de fácil entendimento, para ajudar o usuário a identificar o problema.</p>
 
 ##5.2 Confiabilidade
 
-O aplicativo deve funcionar 24 horas por dia , 7 dias na semana. Além disso, não deve haver erro nas informações apresentadas sobre as leis.
+<p align="justify">O aplicativo deve funcionar 24 horas por dia , 7 dias na semana. Além disso, não deve haver erro nas informações apresentadas sobre as leis.</p>
 
 ##5.3 Desempenho
 
 ##5.4 Suportabilidade
 
-O sistema deverá ser suportado pelo sistema operacional Android versão 4.4 (KitKat) ou superior.
+<p align="justify">O sistema deverá ser suportado pelo sistema operacional Android versão 4.4 (KitKat) ou superior.</p>
 
-Para o funcionamento correto do aplicativo, é necessário que o dispositivo mobile possua acesso à internet para poder interagir com a plataforma do wikilegis, que é de onde provém as informações dinâmicas.
+<p align="justify">Para o funcionamento correto do aplicativo, é necessário que o dispositivo mobile possua acesso à internet para poder interagir com a plataforma do wikilegis, que é de onde provém as informações dinâmicas.</p>
 
 ##5.5 Outros
 
 ###5.5.1 Licença, Segurança e Instalação
 
- O aplicativo deverá ser instalado através do aplicativo Google Play. Deve-se deixar claro ao usuário que o sistema será seguro, não causando danos ao celular do usuário, além disso, as informações pessoais do usuário devem ser confidenciais.
+<p align="justify">O aplicativo deverá ser instalado através do aplicativo Google Play. Deve-se deixar claro ao usuário que o sistema será seguro, não causando danos ao celular do usuário, além disso, as informações pessoais do usuário devem ser confidenciais.</p>
