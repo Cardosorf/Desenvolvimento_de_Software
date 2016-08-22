@@ -61,12 +61,12 @@ são muito convenientes para projetos que estão em constante mudança e que as
 necessidades são alteradas em um período de tempo curto. Isso é permitido
 devido à política de entrega de uma pequena parte do software pronta para o
 cliente, com ciclos curtos, chamados de iterações.
-Como consequência das filosofias ágeis, [SOARES (2004)]() observou que
+Como consequência das filosofias ágeis, [SOARES (2004)](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#5-m-dos-s-soares-compara%C3%A7%C3%A3o-entre-metodologias-%C3%81geis-e-tradicionais-para-o-desenvolvimento-de-software-infocomp-j-comput-sci-vol-3-no2-p-813-2004) observou que
 há uma grande preocupação com a otimização do tempo, ao ter um esforço
 menor com documentação desnecessária para alcançar o produto final e mais
 devoção para na produção.
 
-De acordo com [SOARES (2004)](), o desenvolvimento ágil também é
+De acordo com [SOARES (2004)](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#5-m-dos-s-soares-compara%C3%A7%C3%A3o-entre-metodologias-%C3%81geis-e-tradicionais-para-o-desenvolvimento-de-software-infocomp-j-comput-sci-vol-3-no2-p-813-2004), o desenvolvimento ágil também é
 conhecido por ser adaptativo ao invés de preditivo. Nos processos utilizando
 modelo cascata, o planejamento e escopo são inteiramente definidos no começo
 do projeto. Esse planejamento tem um custo elevado, além de ser extremamente
