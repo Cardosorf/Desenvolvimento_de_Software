@@ -1,5 +1,4 @@
 # 1. Ciclo de Vida do Projeto
-Tiago Doing...
 
 A engenharia de software surgiu para resolver o problema da chamada crise do
 software em 1970. Baseada em modelos industriais, foram criadas as metodologias de
