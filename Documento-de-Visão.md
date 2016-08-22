@@ -199,6 +199,8 @@
 
 ##5.3 Desempenho
 
+<p align="justify">O sistema deve ser fluido e funcional, executando de forma que não comprometa a usabilidade dos  celulares.</p>
+
 ##5.4 Suportabilidade
 
 <p align="justify">O sistema deverá ser suportado pelo sistema operacional Android versão 4.4 (KitKat) ou superior.</p>
