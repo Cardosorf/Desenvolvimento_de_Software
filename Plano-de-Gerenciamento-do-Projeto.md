@@ -120,7 +120,7 @@ Perguntar para a Carla se pode ser uma reta
 
 
 # 6. Plano de Gerenciamento de Configuração
-https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o
+[Plano de Gerenciamento de Configuração(https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
 #7. Plano de Gerenciamento dos Requisitos
 
@@ -141,7 +141,7 @@ https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamen
 
 
 #13. Plano de Gerenciamento das Comunicações
-https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o
+[Plano de Gerenciamento das Comunicações](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o)
 
 #14. Plano de Gerenciamento dos Riscos
 
