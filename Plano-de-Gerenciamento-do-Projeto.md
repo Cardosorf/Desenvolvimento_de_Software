@@ -1,5 +1,5 @@
 # 1. Ciclo de Vida do Projeto
-Tiago TODO
+Tiago Doing...
 
 # 2. Linha de Base do Escopo
 
