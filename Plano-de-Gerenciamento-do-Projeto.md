@@ -24,9 +24,9 @@ software. Dessa maneira, ao longo deste projeto, todos os stakeholders irão viv
 ambas abordagens. Será utilizada uma abordagem tradicional durante metade do período
 de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.
 
-## Metodologia Tradicional
+## 1.1 Metodologia Tradicional
 Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
-onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/)
+onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP(Rational Unified Process)](http://sce.uhcl.edu/helm/rationalunifiedprocess/)
 
 
 
