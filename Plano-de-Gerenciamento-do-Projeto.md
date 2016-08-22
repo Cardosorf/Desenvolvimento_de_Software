@@ -1,5 +1,6 @@
 # 1. Ciclo de Vida do Projeto
 Tiago Doing...
+
 A engenharia de software surgiu para resolver o problema da chamada crise do
 software em 1970. Baseada em modelos industriais, foram criadas as metodologias de
 desenvolvimento que organizariam de maneira profissional e padronizada a forma de
@@ -25,8 +26,11 @@ ambas abordagens. Será utilizada uma abordagem tradicional durante metade do pe
 de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.
 
 ## 1.1 Metodologia Tradicional
-Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
-onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP(Rational Unified Process)](http://sce.uhcl.edu/helm/rationalunifiedprocess/)
+Bem como dito, a parte inicial do proj### eto será guiada pela metodologia tradicional,
+onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP (Rational Unified Process)](http://sce.uhcl.edu/helm/rationalunifiedprocess/) e o gerenciamento será direcionado
+pelo corpo de conhecimentos sobre gerenciamento de projetos gerais, 
+[PMBoK](http://www.pmi.org/pmbok-guide-standards), mantido pelo
+[Instituto de Gerenciamento de Projeto (PMI)](http://www.pmi.org/)
 
 
 
