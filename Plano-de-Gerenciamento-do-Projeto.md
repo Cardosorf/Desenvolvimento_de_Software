@@ -30,9 +30,27 @@ Bem como dito, a parte inicial do proj### eto será guiada pela metodologia trad
 onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP (Rational Unified Process)](http://sce.uhcl.edu/helm/rationalunifiedprocess/) e o gerenciamento será direcionado
 pelo corpo de conhecimentos sobre gerenciamento de projetos gerais, 
 [PMBoK](http://www.pmi.org/pmbok-guide-standards), mantido pelo
-[Instituto de Gerenciamento de Projeto (PMI)](http://www.pmi.org/)
+[Instituto de Gerenciamento de Projeto (PMI)](http://www.pmi.org/).
 
+Como esta primeira metade corresponde à parte inicial do projeto, iremos entrar no projeto
+com a Iniciação, segundo as diretrizes do [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/).
+Após, entraremos na elaboração do projeto, fazendo a especificação dos requisitos e já entregando
+um incremento de software com valor agregado para o cliente. 
 
+## Metodologia Adaptativa
+
+Na segunda metade do projeto, serão aplicados métodos adaptativos, mais propriamente dito e regido
+pelo ciclo de vida [Scrum](https://www.scrum.org/). Muitas mudanças serão aplicadas dentre essas
+metodologias, sendo algumas das principais as seguintes:
+
+1. Remoção dos papeis de gerente de projeto
+2. Entregáveis para o cliente com menor período de tempo
+3. Proximidade dos antigos desenvolvedores aos antigos gerentes
+4. Proximidade da equipe de desenvolvimento ao cliente
+5. Foco no produto ao processo
+
+Dessa maneira, todo o projeto será guiado por esta metodologia até o fim entregável do produto
+para o cliente final
 
 # 2. Linha de Base do Escopo
 
