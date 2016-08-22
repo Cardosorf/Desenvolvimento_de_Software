@@ -145,17 +145,15 @@ Tiago/IZA TODO
 #16. Plano de Gerenciamento das Partes Interessadas
 
 #17. Referências
-### 1. Rational Unified Process (RUP): [http://sce.uhcl.edu/helm/rationalunifiedprocess/](http://sce.uhcl.edu/helm/rationalunifiedprocess/) 
+###### 1. Rational Unified Process (RUP): [http://sce.uhcl.edu/helm/rationalunifiedprocess/](http://sce.uhcl.edu/helm/rationalunifiedprocess/) 
 
-### 2. Project Management Body of Knowledge (PMBoK): [http://www.pmi.org/pmbok-guide-standards](http://www.pmi.org/pmbok-guide-standards)
+###### 2. Project Management Body of Knowledge (PMBoK): [http://www.pmi.org/pmbok-guide-standards](http://www.pmi.org/pmbok-guide-standards)
 
-### 3. Instituto de Gerenciamento de Projeto (PMI): [http://www.pmi.org/](http://www.pmi.org/)
+###### 3. Instituto de Gerenciamento de Projeto (PMI): [http://www.pmi.org/](http://www.pmi.org/)
 
-### 4. “Manifesto para Desenvolvimento Ágil de Software”. [Online]. Available at:
-http://agilemanifesto.org/iso/ptbr/. [Acessado: 22-nov-2014].
+###### 4. “Manifesto para Desenvolvimento Ágil de Software”. [Online]. Available at: http://agilemanifesto.org/iso/ptbr/. [Acessado: 22-nov-2014].
 
-### 5. M. dos S. Soares, “Comparação entre metodologias Ágeis e tradicionais para o
-desenvolvimento de software”, INFOCOMP J. Comput. Sci., vol. 3, no2, p. 8–13, 2004
+###### 5. M. dos S. Soares, “Comparação entre metodologias Ágeis e tradicionais para o desenvolvimento de software”, INFOCOMP J. Comput. Sci., vol. 3, no2, p. 8–13, 2004
 
-### 6. PRESSMAN, R. S."Engenharia de software: uma abordagem profissional", 7a
-edição, Porto Alegre (RS): AMGH, 2011. ISBN 9788563308337 8563308335.
+###### 6. PRESSMAN, R. S."Engenharia de software: uma abordagem profissional", 7a edição, Porto Alegre (RS): AMGH, 2011. ISBN 9788563308337 8563308335.
+
