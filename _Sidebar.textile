@@ -19,7 +19,7 @@ h3. Release 01
 # "Plano de Gerenciamento de Recursos Humanos":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 
 *Métodos de Desenvolvimento de Software*
-# "Documento de Visão":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+# "Documento de Visão":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Documento-de-Vis%C3%A3o
 # "Documento de Arquitetura":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Especificação dos Casos de Uso":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Especificação dos Casos de Teste":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
