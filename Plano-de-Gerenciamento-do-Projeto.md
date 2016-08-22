@@ -26,7 +26,7 @@ ambas abordagens. Será utilizada uma abordagem tradicional durante metade do pe
 de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.
 
 ## 1.1 Metodologia Tradicional
-Bem como dito, a parte inicial do proj### eto será guiada pela metodologia tradicional,
+Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
 onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP (Rational Unified Process)](http://sce.uhcl.edu/helm/rationalunifiedprocess/) e o gerenciamento será direcionado
 pelo corpo de conhecimentos sobre gerenciamento de projetos gerais, 
 [PMBoK](http://www.pmi.org/pmbok-guide-standards), mantido pelo
@@ -73,7 +73,12 @@ do projeto. Esse planejamento tem um custo elevado, além de ser extremamente
 complexo, pois o escopo não pode ser alterado durante o desenvolvimento do 
 software. Esse fato pode trazer a insatisfação do cliente, pois as suas
 necessidades podem mudar com o passar do tempo. Se houver algum erro no
-planejamento, ele será encontrado apenas no entrega final para o cliente. 
+planejamento, ele será encontrado apenas no entrega final para o cliente.
+
+Tendo em vista o contraste entre abordagens adaptativas e tradicionais, é possível
+notar que existirá um grande contraste ao se fazer a mudança de metodologia. 
+Várias mudanças serão aplicadas no momento da troca de metodologia, porém,
+algumas das mais marcantes serão descristas abaixo: 
 
 1. Remoção dos papeis de gerente de projeto
 2. Entregáveis para o cliente com menor período de tempo
