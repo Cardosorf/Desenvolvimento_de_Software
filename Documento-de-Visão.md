@@ -57,13 +57,45 @@ Os objetivos deste documento são auxiliar na obtenção de informações dos us
 
 ##1.2 Visão geral da solução
 
+Na tabela a seguir, é mostrado um resumo acerca do problema e da solução apresentada.
+
+<table style="width:100%">
+  <tr>
+    <td><b>O problema da</b></td>
+    <td>Difícil comunicação entre a população e seus representantes políticos,</td> 
+  </tr>
+  <tr>
+    <td><b>Afeta</b></td>
+    <td>A elaboração de leis que não correspondem às reais necessidades da população,</td> 
+  </tr>
+  <tr>
+    <td><b>cujo impacto é</b></td>
+    <td>A elaboração de leis que não correspondem às reais necessidades da população,</td> 
+  </tr>
+   <tr>
+    <td><b>e uma boa solução seria</b></td>
+    <td>Um aplicativo que utiliza características de redes sociais para uma maior integração entre os cidadãos e seus representantes políticos.</td> 
+  </tr>
+</table>
+
 #2  Descrição do usuário
 
 Como o aplicativo traz uma oportunidade de políticos apresentarem suas propostas de lei, criadas na plataforma web do Wikilegis, e dos cidadãos poderem analisar e contribuir com elas, os usuários serão em sua maioria, cidadãos e políticos brasileiros.
 
 ##2.1 Usuário
 
+| Tipo | Descrição | Principais Responsabilidades |
+| :---: | :---: | --- |
+|Cidadão|Cidadãos brasileiros.|Fiscalizar e colaborar com as leis propostas por parlamentares.|
+|Parlamentar|Representantes legais da população.|Acompanhar as sugestões para suas propostas de lei.|
+
+
 ##2.2 Principais necessidades do usuário
+
+| Necessidade | Problema | Solução atual | Solução proposta |
+| :---: | :---: | :---: | :---: |
+|O usuário tem a necessidade de analisar e contribuir com os projetos de leis.|A dificuldade de alcançar os políticos para se fazer sugestões em projetos de lei de forma prática, acessível e que permita mobilidade.|Um sistema web que possibilita ao usuário analisar e contribuir com os projetos de leis propostos pelos deputados.|Um sistema mobile que possibilita ao usuário analisar e contribuir com os projetos de leis propostos pelos deputados.|
+|O usuário tem a necessidade de acompanhar o debate da sociedade acerca de seus projetos de lei.|A dificuldade de alcançar os cidadãos de uma maneira prática para receber sugestões acerca de seus projetos de lei.|Um sistema web que possibilita ao usuário expor projetos de leis para debate com a sociedade.|Um sistema mobile que possibilita ao usuário expor projetos de leis para debate com a sociedade.|
 
 ##2.3 Ambiente do usuário
 
