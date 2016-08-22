@@ -32,6 +32,14 @@ pelo corpo de conhecimentos sobre gerenciamento de projetos gerais,
 [PMBoK](http://www.pmi.org/pmbok-guide-standards), mantido pelo
 [Instituto de Gerenciamento de Projeto (PMI)](http://www.pmi.org/).
 
+O [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/) é divido em quatro fases ao longo do
+desenvolvimento do software. Elas são:
+
+1. Iniciação
+2. Elaboração
+3. Construção
+4. Implantação
+
 Como esta primeira metade corresponde à parte inicial do projeto, iremos entrar no projeto
 com a Iniciação, segundo as diretrizes do [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/).
 Após, entraremos na elaboração do projeto, fazendo a especificação dos requisitos e já entregando
