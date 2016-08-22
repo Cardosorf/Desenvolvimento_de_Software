@@ -191,6 +191,8 @@
 
 ##5.1 Usabilidade
 
+<p align="justify">O aplicativo deverá possuir boa usabilidade, de modo que qualquer usuário faça uso correto do sistema.</p>
+
 <p align="justify">Em caso de erro, o aplicativo deverá apresentar mensagens de fácil entendimento, para ajudar o usuário a identificar o problema.</p>
 
 ##5.2 Confiabilidade
