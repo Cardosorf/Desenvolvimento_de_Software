@@ -143,3 +143,10 @@ Tiago/IZA TODO
 
 
 #16. Plano de Gerenciamento das Partes Interessadas
+
+#17. Referências
+Rational Unified Process (RUP): [http://sce.uhcl.edu/helm/rationalunifiedprocess/](http://sce.uhcl.edu/helm/rationalunifiedprocess/) 
+
+Project Management Body of Knowledge (PMBoK): [http://www.pmi.org/pmbok-guide-standards](http://www.pmi.org/pmbok-guide-standards)
+
+Instituto de Gerenciamento de Projeto (PMI): [http://www.pmi.org/](http://www.pmi.org/).
