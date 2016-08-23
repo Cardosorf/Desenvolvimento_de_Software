@@ -56,7 +56,7 @@
 <p align="justify">Os objetivos deste documento são auxiliar na obtenção de informações dos usuários a cerca do aplicativo WikilegisApp,  do projeto ajudar a equipe desenvolvedora a ter uma visão alinhada sobre o escopo, melhorar a avaliação do desenvolvimento do software e validar com o cliente a visão da equipe de desenvolvimento acerca do aplicativo.</p>
 
 ##1.2 Visão geral da solução
-<p align="justify"><i>A dinâmica atual da democracia representativa em nosso país revela uma triste realidade, a parcela da população que se posiciona e questiona ativamente as irregularidades praticadas e a não representatividade dos partidos políticos e governantes do país é bastante reduzida.(FONSECA, 2009, p. 15) .</i></p>
+<p align="justify">"A dinâmica atual da democracia representativa em nosso país revela uma triste realidade, a parcela da população que se posiciona e questiona ativamente as irregularidades praticadas e a não representatividade dos partidos políticos e governantes do país é bastante reduzida".(FONSECA, 2009, p. 15) .</p>
 
 <p align="justify">assim, o que ocorre em nosso sistema político é que grande parcela da população não tem acesso a meios para contribuir com a criação das leis ou não possuem interesse em entrar em um computador para acessar uma aplicação web e contribuir.</p>
 <p align="justify">O sistema WikilegisApp é a transformação da plataforma Web em uma plataforma mobile e vem como uma forma de promover uma interação maior entre a população e seus representantes políticos, promovendo um ambiente onde qualquer cidadão com um smartphone possa analisar e contribuir com os projetos de leis.</p>
