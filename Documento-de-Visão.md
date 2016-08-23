@@ -118,17 +118,15 @@
 
 ###2.4.1 Plataforma web Wikilegis
 
-<p align="justify">O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma, entretanto tem exatamente as mesmas  funcionalidades da plataforma web Wikilegis.</p>
-
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao2.png" alt="Plataforma web wikilegis" align="middle">
     <br>
     <figcaption style="text-align: center">Figura 2 - Plataforma web wikilegis.</figcaption>
 </figure>
 
-###2.4.2 SigaLei
+<p align="justify">O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma, entretanto tem exatamente as mesmas  funcionalidades da plataforma web Wikilegis.</p>
 
-<p align="justify">Trata-se de um aplicativo informativo que tem como principal objetivo, mostrar as leis que estão em trâmite de aprovação no Congresso nacional e assembleias de Minas Gerais. Os usuários podem acompanhar as discussões a respeito das leis e ser informado das atualizações de projetos de leis do seu interesse.</p>
+###2.4.2 SigaLei
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao3.png" align="middle">
@@ -136,9 +134,9 @@
     <figcaption style="text-align: center">Figura 3 - Tela do aplicativo SigaLei.</figcaption>
 </figure>
 
-###2.4.3 Monitora, Brasil!
+<p align="justify">Trata-se de um aplicativo informativo que tem como principal objetivo, mostrar as leis que estão em trâmite de aprovação no Congresso nacional e assembleias de Minas Gerais. Os usuários podem acompanhar as discussões a respeito das leis e ser informado das atualizações de projetos de leis do seu interesse.</p>
 
-<p align="justify">Monitora, Brasil é um aplicativo para Android que possibilita a qualquer pessoa pesquisar e monitorar o que os Deputados Federais estão fazendo na Câmara dos Deputados. Com ele, é possível verificar a assiduidade, os projetos propostos, rankings, Twitter e outras informações.</p>
+###2.4.3 Monitora, Brasil!
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao4.png" align="middle">
@@ -146,9 +144,9 @@
     <figcaption style="text-align: center">Figura 4 - Tela do aplicativo Monitora, Brasil!.</figcaption>
 </figure>
 
-###2.4.4 Infoleg
+<p align="justify">Monitora, Brasil é um aplicativo para Android que possibilita a qualquer pessoa pesquisar e monitorar o que os Deputados Federais estão fazendo na Câmara dos Deputados. Com ele, é possível verificar a assiduidade, os projetos propostos, rankings, Twitter e outras informações.</p>
 
-<p align="justify">Aplicativo com informações das atividades legislativas da Câmara dos Deputados, com informações sobre deputados, projetos de lei e outras proposições, sessões no plenário, reuniões nas comissões e legislação.</p>
+###2.4.4 Infoleg
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao5.png" align="middle">
@@ -156,7 +154,27 @@
     <figcaption style="text-align: center">Figura 5 - Tela do aplicativo Infoleg.</figcaption>
 </figure>
 
+<p align="justify">Aplicativo com informações das atividades legislativas da Câmara dos Deputados, com informações sobre deputados, projetos de lei e outras proposições, sessões no plenário, reuniões nas comissões e legislação.</p>
+
 #3  Envolvidos
+
+| Nome | Descrição | Principais Responsabilidades |
+| :---: | :---: | --- |
+|Carla Silva Rocha Aguiar|Orientadora e avaliadora do projeto e do produto|Acompanhar e avaliar o desenvolvimento do projeto e do produto.|
+|Josué Nascimento da Silva|Membro da equipe de desenvolvimento.|Executar o projeto, desenvolvendo e mantendo a documentação e o software.|
+|Marcelo Augusto Araújo dos Reis|Membro da equipe de desenvolvimento.|Executar o projeto, desenvolvendo e mantendo a documentação e o software.|
+|Rodrigo Oliveira Campos|Membro da equipe de desenvolvimento.|Executar o projeto, desenvolvendo e mantendo a documentação e o software.|
+|Thiago Nogueira Freire|Membro da equipe de desenvolvimento.|Executar o projeto, desenvolvendo e mantendo a documentação e o software.|
+|Augusto Moreno Vilarins Cardoso da Silva|Membro da equipe de desenvolvimento.|Executar o projeto, desenvolvendo e mantendo a documentação e o software.|
+|Izabela Cristina Nere Rodrigues Cardoso|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
+|Igor Ribeiro Barbosa Duarte|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
+|Pedro Ivo Andrade|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
+|Tiago Assunção|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
+|Lucas Brilhante|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
+|Victor Hugo|Coach da equipe de desenvolvimento|Auxiliar no desenvolvimento do projeto|
+|?|Coach da equipe de gerenciamento.|Auxiliar a equipe no gerenciamento do projeto|
+
+
 
 #4  Visão geral do produto
 
