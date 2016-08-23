@@ -191,6 +191,35 @@
 
 <p align="justify">Na tabela a seguir é possível ver a posição do produto:</p>
 
+<table style="width:100%">
+  <tr>
+    <td><b>Para</b></td>
+    <td>Cidadãos e parlamentares do Brasil</td> 
+  </tr>
+  <tr>
+    <td><b>Que</b></td>
+    <td>Desejam ter mais praticidade e mobilidade no acesso a um sistema de análise e contribuição de projetos de leis</td> 
+  </tr>
+  <tr>
+    <td><b>O</b></td>
+    <td>WikilegisApp</td> 
+  </tr>
+   <tr>
+    <td><b>Que</b></td>
+    <td>Permite aos usuários debaterem entre si e proporem alterações nos projetos de leis</td> 
+  </tr>
+   <tr>
+    <td><b>Ao contrário</b></td>
+    <td>De outros meios de acompanhamento de projetos de leis</td> 
+  </tr>
+   <tr>
+    <td><b>Nosso produto</b></td>
+    <td>Permite que usuários, além de analisar os projetos, possam sugerir alterações nos artigos e debater com outros usuários.</td> 
+  </tr>
+</table>
+
+
+
 ##4.3 Recursos do produto
 
 <p align="justify">O aplicativo Wikilegis oferece as seguintes funcionalidades ao usuário:</p>
