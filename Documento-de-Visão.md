@@ -218,3 +218,9 @@
 ###5.5.1 Licença, Segurança e Instalação
 
 <p align="justify">O aplicativo deverá ser instalado através do aplicativo Google Play. Deve-se deixar claro ao usuário que o sistema será seguro, não causando danos ao celular do usuário, além disso, as informações pessoais do usuário devem ser confidenciais.</p>
+
+#6 Referências
+
+<p align="justify">FONSECA, Jumária Fernandes Ribeiro. <strong>O Orçamento Participativo e a Gestão Democrática de Goiânia</strong>. Dissertação (Mestrado em Desenvolvimento e Planejamento Territorial). Programa de Pós-Graduação em Desenvolvimento e Planejamento Territorial da Universidade Católica de Goiás. Goiânia, 2009. Disponível em: http://www.portalconscienciapolitica.com.br/ciber-democracia/democracia-participativa/. Acesso em:  20 set. 2010.
+
+</p>
