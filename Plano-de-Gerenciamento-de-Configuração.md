@@ -7,6 +7,7 @@
 | 16/08/2016 | 1.2 | Ferramentas(Chef) | Tiago Assunção |
 | 17/08/2016 | 1.3 | Modelo do Processo | Izabela Cardoso |
 | 17/08/2016 | 1.4 | Atualizando utilização do Git | Izabela Cardoso |
+| 17/08/2016 | 1.5 | Atualizando utilização do padrão de nome de branch Izabela Cardoso |
 
 ***
 
@@ -37,7 +38,7 @@ Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](h
 
 Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.
 
-Dentro da branch "devel" deverão ser criadas branches para cada issue, cujo nome deve estar no seguinte padrão: "issueX", onde X é o número da issue a ser solucionada naquela branch, por exemplo "issue01". As issues serão criadas pela equipe de gerenciamento e deverão ser escritas em inglês.
+Dentro da branch "devel" deverão ser criadas branches para cada issue, cujo nome deve estar no seguinte padrão: "issueX_nomeDaIssue", onde X é o número da issue a ser solucionada naquela branch e "nomeDaIssue" será o nome da issue em inglês, utilizando camelCase, por exemplo "issue01_registerUser". As issues serão criadas pela equipe de gerenciamento e deverão ser escritas em também em inglês.
 
 Quando a issue for resolvida, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel" e fechar a issue. 
 
