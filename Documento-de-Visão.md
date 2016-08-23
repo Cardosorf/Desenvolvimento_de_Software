@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td><b>Afeta</b></td>
-    <td>A elaboração de leis que não correspondem às reais necessidades da população,</td> 
+    <td>Toda a população brasileira,</td> 
   </tr>
   <tr>
     <td><b>cujo impacto é</b></td>
