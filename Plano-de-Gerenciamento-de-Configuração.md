@@ -2,15 +2,17 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | --- | :---: |
-| ??/08/2016 | 1 | Elaboração Inicial | Izabela|
-| ??/08/2016 | 1.1 | Ferramentas(Git)  | Izabela |
+| 10/08/2016 | 1 | Elaboração Inicial | Izabela Cardoso |
+| 13/08/2016 | 1.1 | Ferramentas(Git)  | Izabela Cardoso |
 | 16/08/2016 | 1.2 | Ferramentas(Chef) | Tiago Assunção |
-
+| 17/08/2016 | 1.3 | Modelo do Processo | Izabela Cardoso |
+| 17/08/2016 | 1.4 | Atualizando utilização do Git | Izabela Cardoso |
+| 17/08/2016 | 1.5 | Atualizando utilização do padrão de nome de branch Izabela Cardoso |
 
 ***
 
 # Sumário
-1.  [Introdução](#2-ferramentas)
+1.  [Introdução](#1-Introdução)
 2.  [Ferramentas](#2-ferramentas)
  1. [Git e GitHub](#21-git-e-github)
      1. [Utilização](#211-utiliza%C3%A7%C3%A3o)
@@ -19,9 +21,11 @@
 
 # 1. Introdução
 
-Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema X, 
+Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
 com o objetivo de apresentar as ferramentas utilizadas na configuração do projeto, o processo de utilização das 
 mesmas e os padrões de organização e nomeclatura a serem utilizados.
+
+![Processo de Configuração do Software](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/processo_gcs.png)
 
 # 2. Ferramentas
 
@@ -34,9 +38,15 @@ Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](h
 
 Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.
 
-Dentro da branch "devel" deverão ser criadas branches para cada issue.
+Dentro da branch "devel" deverão ser criadas branches para cada issue, cujo nome deve estar no seguinte padrão: "issueX_nomeDaIssue", onde X é o número da issue a ser solucionada naquela branch e "nomeDaIssue" será o nome da issue em inglês, utilizando camelCase, por exemplo "issue01_registerUser". As issues serão criadas pela equipe de gerenciamento e deverão ser escritas em também em inglês.
+
+Quando a issue for resolvida, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel" e fechar a issue. 
+
+Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" e deletar as branches daquela iteração, caso o mesmo seja reprovado a equipe de desenvolvimento deve corrigir os problemas encontrados. 
 
 #### Padrões de nomeclatura
+
+As mensagens de commits deverão ser escritas em inglês, seguindo o padrão abaixo, onde o X representa o número da issue a qual o commit corresponde, por exemplo, "Issue #01". 
 
 ```sh
 git commit -m "Issue #X: commit message"
