@@ -191,6 +191,16 @@
 * <p align="justify"><b>Seguir projeto:</b> Essa funcionalidade permite ao usuário escolher receber notificações de um projeto por e-mail semanalmente ou diariamente.</p>
 
 
+| Recurso| Benefícios|
+| :---: | :---: |
+| Gerenciar usuário| É possível que o usuário deixe o perfil com a suas características pessoais |
+| Filtrar projetos| Tornar as leis de interesse do usuário mais fáceis de serem encontradas. |
+| Avaliar artigo| O usuário faz valer seu direito de voz no aplicativo através de suas avaliações. |
+| Sugerir proposta| O usuário poderá participar ativamente das discussões políticas do seu pais, podendo sugerir propostas. |
+| Comentar proposta| Permite ao usuário se manter ativo em discussões, podendo expressar opinião quanto às elaborações dos projetos. |
+| Seguir projeto| O usuário se mantem informado sobre a evolução de um projeto de lei , recebendo periodicamente notificação. |
+| Pesquisar projeto| O usuário consegue encontrar o projeto de forma mais rápida e pratica. |
+
 #5  Requisitos não funcionais
 
 ##5.1 Usabilidade
