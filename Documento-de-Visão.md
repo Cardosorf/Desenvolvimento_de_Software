@@ -15,7 +15,7 @@
 | 20/08/2016 | 2.0 | Requisitos não funcionais usabilidade e confiabilidade | Thiago Nogueira |
 | 21/08/2016 | 2.1 | Adição de gráfico do ambiente do usuário | Marcelo Augusto |
 | 21/08/2016 | 2.2 | Mudança da tabela de declaração da posição do produto | Rodrigo Oliveira |
-
+| 22/08/2016 | 2.3 | Mudanças na visão geral da solução  |Josué Nascimento|
 ***
 
 #Índice
