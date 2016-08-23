@@ -44,6 +44,7 @@
  4. [Suportabilidade](#54-suportabilidade)
  5. [Outros](#55-outros)
      1. [Licença, Segurança e Instalação](#551-licença-segurança-e-instalação)
+6.  [Referências](#6-referências)
 
 ***
 
@@ -103,7 +104,7 @@
 
 ##2.3 Ambiente do usuário
 
-<p align="justify">Para que o usuário possa usar o aplicativo com maior mobilidade e para que ele atinja uma gama maior de usuários, visto que 80,4% (IBGE) dos usuários de internet no Brasil em 2016 já utilizam smartphones para acesso e 91,8% (Kantar) destes usuários utilizavam o sistema operacional Android até 2015, o sistema será desenvolvido para o sistema operacional Android, esperando-se que o usuário possua um telefone celular com este sistema, e que o mesmo possua acesso à internet.</p>
+<p align="justify">Para que o usuário possa usar o aplicativo com maior mobilidade e para que ele atinja uma gama maior de usuários, visto que 80,4% (<a href="http://agenciabrasil.ebc.com.br/economia/noticia/2016-04/celular-e-principal-meio-de-acesso-internet-na-maioria-dos-lares">IBGE</a>) dos usuários de internet no Brasil em 2016 já utilizam smartphones para acesso e 91,8% (<a href="https://macmagazine.com.br/2016/02/01/ios-fechou-2015-com-apenas-28-de-mercado-no-brasil-android-dominou-com-918/">Kantar Worldpanel</a>) destes usuários utilizavam o sistema operacional Android até 2015, o sistema será desenvolvido para o sistema operacional Android, esperando-se que o usuário possua um telefone celular com este sistema, e que o mesmo possua acesso à internet.</p>
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao1.png" alt="Ambiente do usuário" align="middle">
@@ -123,7 +124,7 @@
     <br>
     <figcaption style="text-align: center">Figura 2 - Plataforma web wikilegis.</figcaption>
 </figure>
-
+<br>
 <p align="justify">O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma, entretanto tem exatamente as mesmas  funcionalidades da plataforma web Wikilegis.</p>
 
 ###2.4.2 SigaLei
@@ -133,7 +134,7 @@
     <br>
     <figcaption style="text-align: center">Figura 3 - Tela do aplicativo SigaLei.</figcaption>
 </figure>
-
+<br>
 <p align="justify">Trata-se de um aplicativo informativo que tem como principal objetivo, mostrar as leis que estão em trâmite de aprovação no Congresso nacional e assembleias de Minas Gerais. Os usuários podem acompanhar as discussões a respeito das leis e ser informado das atualizações de projetos de leis do seu interesse.</p>
 
 ###2.4.3 Monitora, Brasil!
@@ -143,7 +144,7 @@
     <br>
     <figcaption style="text-align: center">Figura 4 - Tela do aplicativo Monitora, Brasil!.</figcaption>
 </figure>
-
+<br>
 <p align="justify">Monitora, Brasil é um aplicativo para Android que possibilita a qualquer pessoa pesquisar e monitorar o que os Deputados Federais estão fazendo na Câmara dos Deputados. Com ele, é possível verificar a assiduidade, os projetos propostos, rankings, Twitter e outras informações.</p>
 
 ###2.4.4 Infoleg
@@ -153,7 +154,7 @@
     <br>
     <figcaption style="text-align: center">Figura 5 - Tela do aplicativo Infoleg.</figcaption>
 </figure>
-
+<br>
 <p align="justify">Aplicativo com informações das atividades legislativas da Câmara dos Deputados, com informações sobre deputados, projetos de lei e outras proposições, sessões no plenário, reuniões nas comissões e legislação.</p>
 
 #3  Envolvidos
@@ -249,6 +250,11 @@
 
 #6 Referências
 
-<p align="justify">FONSECA, Jumária Fernandes Ribeiro. <strong>O Orçamento Participativo e a Gestão Democrática de Goiânia</strong>. Dissertação (Mestrado em Desenvolvimento e Planejamento Territorial). Programa de Pós-Graduação em Desenvolvimento e Planejamento Territorial da Universidade Católica de Goiás. Goiânia, 2009. Disponível em: http://www.portalconscienciapolitica.com.br/ciber-democracia/democracia-participativa/. Acesso em:  20 set. 2010.
+<p align="justify">FONSECA, Jumária Fernandes Ribeiro. <strong>O Orçamento Participativo e a Gestão Democrática de Goiânia</strong>. Dissertação (Mestrado em Desenvolvimento e Planejamento Territorial). Programa de Pós-Graduação em Desenvolvimento e Planejamento Territorial da Universidade Católica de Goiás. Goiânia, 2009. Disponível em: http://www.portalconscienciapolitica.com.br/ciber-democracia/democracia-participativa/. Acesso em:  20 set. 2016.
+</p>
 
+<p align="justify">Agência Brasil, Celular é principal meio de acesso à internet no Brasil, mostra IBGE. Disponível em: http://agenciabrasil.ebc.com.br/economia/noticia/2016-04/celular-e-principal-meio-de-acesso-internet-na-maioria-dos-lares. Acesso em: 19 set. 2016
+</p>
+
+<p align="justify">Kantar Worldpanel, Smartphone OS sales market share. Disponível em: http://www.kantarworldpanel.com/global/smartphone-os-market-share/. Acesso em: 19 set. 2016
 </p>
