@@ -59,7 +59,7 @@
 ##1.2 Visão geral da solução
 ####_<p align="right">"A dinâmica atual da democracia representativa em nosso país revela uma triste realidade, a parcela da população que se posiciona e questiona ativamente as irregularidades praticadas e a não representatividade dos partidos políticos e governantes do país é bastante reduzida".(FONSECA, 2009, p. 15) .</p>_
 
-<p align="justify">assim, o que ocorre em nosso sistema político é que grande parcela da população não tem acesso a meios para contribuir com a criação das leis ou não possuem interesse em entrar em um computador para acessar uma aplicação web e contribuir.</p>
+<p align="justify">Assim, o que ocorre em nosso sistema político é que grande parcela da população não tem acesso a meios para contribuir com a criação das leis ou não possuem interesse em entrar em um computador para acessar uma aplicação web e contribuir.</p>
 <p align="justify">O sistema WikilegisApp é a transformação da plataforma Web em uma plataforma mobile e vem como uma forma de promover uma interação maior entre a população e seus representantes políticos, promovendo um ambiente onde qualquer cidadão com um smartphone possa analisar e contribuir com os projetos de leis.</p>
 
 <p align="justify">Na tabela a seguir, é mostrado um resumo acerca do problema e da solução apresentada.</p>
@@ -100,11 +100,11 @@
 | Necessidade | Problema | Solução atual | Solução proposta |
 | :---: | :---: | :---: | :---: |
 |O usuário tem a necessidade de analisar e contribuir com os projetos de leis.|A dificuldade de alcançar os políticos para se fazer sugestões em projetos de lei de forma prática, acessível e que permita mobilidade.|Um sistema web que possibilita ao usuário analisar e contribuir com os projetos de leis propostos pelos deputados.|Um sistema mobile que possibilita ao usuário analisar e contribuir com os projetos de leis propostos pelos deputados.|
-|O usuário tem a necessidade de acompanhar o debate da sociedade acerca de seus projetos de lei.|A dificuldade de alcançar os cidadãos de uma maneira prática para receber sugestões acerca de seus projetos de lei.|Um sistema web que possibilita ao usuário expor projetos de leis para debate com a sociedade.|Um sistema mobile que possibilita ao usuário expor projetos de leis para debate com a sociedade.|
+|O usuário tem a necessidade de acompanhar o debate da sociedade acerca de seus projetos de lei.|A dificuldade de alcançar os cidadãos de uma maneira prática e abrangente para receber sugestões acerca de seus projetos de lei.|Um sistema web que possibilita ao usuário expor projetos de leis para debate com a sociedade.|Um sistema mobile que possibilita ao usuário expor projetos de leis para debate com a sociedade.|
 
 ##2.3 Ambiente do usuário
 
-<p align="justify">Para que o usuário possa usar o aplicativo com maior mobilidade e para que ele atinja uma gama maior de usuários, visto que 80,4% (<a href="http://agenciabrasil.ebc.com.br/economia/noticia/2016-04/celular-e-principal-meio-de-acesso-internet-na-maioria-dos-lares">IBGE</a>) dos usuários de internet no Brasil em 2016 já utilizam smartphones para acesso e 91,8% (<a href="https://macmagazine.com.br/2016/02/01/ios-fechou-2015-com-apenas-28-de-mercado-no-brasil-android-dominou-com-918/">Kantar Worldpanel</a>) destes usuários utilizavam o sistema operacional Android até 2015, o sistema será desenvolvido para o sistema operacional Android, esperando-se que o usuário possua um telefone celular com este sistema, e que o mesmo possua acesso à internet.</p>
+<p align="justify">Para que o usuário possa usar o aplicativo com maior mobilidade e para que ele atinja uma gama maior de usuários, visto que 80,4% (<a href="http://agenciabrasil.ebc.com.br/economia/noticia/2016-04/celular-e-principal-meio-de-acesso-internet-na-maioria-dos-lares">IBGE</a>) dos usuários de internet no Brasil em 2016 já utilizam smartphones para acesso e 91,8% (<a href="https://macmagazine.com.br/2016/02/01/ios-fechou-2015-com-apenas-28-de-mercado-no-brasil-android-dominou-com-918/">Kantar Worldpanel</a>) dos usuários que utilizam smartphone utilizavam o sistema operacional Android até 2015, o sistema será desenvolvido para o sistema operacional Android, esperando-se que o usuário possua um telefone celular com este sistema, e que o mesmo possua acesso à internet.</p>
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao1.png" alt="Ambiente do usuário" align="middle">
@@ -125,7 +125,7 @@
     <figcaption style="text-align: center">Figura 2 - Plataforma web wikilegis.</figcaption>
 </figure>
 <br>
-<p align="justify">O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma, entretanto tem exatamente as mesmas  funcionalidades da plataforma web Wikilegis.</p>
+<p align="justify">O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma tornando assim a aplicação mais abrangente.</p>
 
 ###2.4.2 SigaLei
 
@@ -246,8 +246,8 @@
 | Avaliar artigo| O usuário faz valer seu direito de voz no aplicativo através de suas avaliações. |
 | Sugerir proposta| O usuário poderá participar ativamente das discussões políticas do seu pais, podendo sugerir propostas. |
 | Comentar proposta| Permite ao usuário se manter ativo em discussões, podendo expressar opinião quanto às elaborações dos projetos. |
-| Seguir projeto| O usuário se mantem informado sobre a evolução de um projeto de lei , recebendo periodicamente notificação. |
-| Pesquisar projeto| O usuário consegue encontrar o projeto de forma mais rápida e pratica. |
+| Seguir projeto| O usuário se mantém informado sobre a evolução de um projeto de lei , recebendo periodicamente notificação. |
+| Pesquisar projeto| O usuário consegue encontrar o projeto de forma mais rápida e prática. |
 
 #5  Requisitos não funcionais
 
