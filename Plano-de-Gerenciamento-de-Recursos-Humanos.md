@@ -14,9 +14,16 @@ terá seu papel ao longo do desenvolvimento.
 # 3. Equipe e Responsabilidades
 | Nome  | Papel  | Responsabilidade  |
 |---|---|---|
-| Tiago  | Gerente  |   |
-| Igor  | Gerente  |   |
-| Augusto  | Desenvolvedor  |   |
+| Izabela Cristina Nere Rodrigues Cardoso  | Gerente  | Planejamento, monitoramento e controlo do projeto |
+| Igor Ribeiro  | Gerente  | Planejamento, monitoramento e controlo do projeto  |
+| Lucas Vilela Taveira Brilhante  | Gerente  |  Planejamento, monitoramento e controlo do projeto |
+| Pedro Ivo de Andrade  | Gerente  | Planejamento, monitoramento e controlo do projeto  |
+| Tiago Assunção  | Gerente  |  Planejamento, monitoramento e controlo do projeto |
+| Augusto Moreno Vilarins Cardoso da Silva  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
+| Marcelo Augusto Araújo dos Reis  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
+| Josué  Nascimento  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
+| Rodrigo Oliveira Campos  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
+| Thiago Freire  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
 
 # 4. Treinamentos
 
