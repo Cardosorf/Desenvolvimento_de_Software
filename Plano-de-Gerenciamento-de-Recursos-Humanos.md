@@ -39,3 +39,6 @@ O [Plano de Treinamentos]() detalha todo o procedimento e planejamento para a
 execução dos treinamentos.
 
 # 5. Gerenciamento da Equipe
+A alocação da equipe em tarefas será feita abordando os pontos estabelecidos no
+[Cronograma]().  As reuniões oficiais da equipe serão realizadas de acordo com o
+estabelecido no [Plano de Comunicações]()
