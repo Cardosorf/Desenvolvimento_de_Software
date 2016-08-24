@@ -35,7 +35,7 @@ Estes treinamentos focaram em todas as tecnologias que foram planejadas para
 se utilizar durante o projeto. E envolveram os seguintes temas: Programação
 para plataforma Android, gerenciamento de configuração de software e documentação.
 
-O [Plano de Treinamentos]() detalha todo o procedimento e planejamento para a
+O [Plano de Treinamentos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Treinamento) detalha todo o procedimento e planejamento para a
 execução dos treinamentos.
 
 # 5. Gerenciamento da Equipe
