@@ -40,5 +40,5 @@ execução dos treinamentos.
 
 # 5. Gerenciamento da Equipe
 A alocação da equipe em tarefas será feita abordando os pontos estabelecidos no
-[Cronograma]().  As reuniões oficiais da equipe serão realizadas de acordo com o
-estabelecido no [Plano de Comunicações]()
+[Cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).  As reuniões oficiais da equipe serão realizadas de acordo com o
+estabelecido no [Plano de gerenciamento de comunicações](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o)
