@@ -12,6 +12,11 @@ Em conjunto e agregando valor com seus respectivos conhecimentos, cada equipe
 terá seu papel ao longo do desenvolvimento.
 
 # 3. Equipe e Responsabilidades
+| Nome  | Papel  | Responsabilidade  |
+|---|---|---|
+| Tiago  | Gerente  |   |
+| Igor  | Gerente  |   |
+| Augusto  | Desenvolvedor  |   |
 
 # 4. Treinamentos
 
