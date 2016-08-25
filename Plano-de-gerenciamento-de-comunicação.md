@@ -1,11 +1,3 @@
-### Histórico de Revisão
-
-| Data | Versão | Descrição | Autor(es) |
-| :---: | :---: | --- | :---: |
-| 17/08/2016 | 1 | Elaboração Inicial | Lucas Brilhante |
-
-***
-
 # Sumário
 
 1.  [Introdução](#1-Introdução)
