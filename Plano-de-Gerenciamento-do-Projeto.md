@@ -106,6 +106,8 @@ A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvo
 
 Logo abaixo, é possível visualizar a Estrutura Analítica do Projeto (EAP):
 
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/EAP.png)
+
 # 3. Linha de Base do Cronograma
 
 Colocar aqui uma imagem do cronograma.
