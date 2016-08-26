@@ -4,7 +4,7 @@ Este documento tem como objetivo especificar como será feito o controle de qual
 
 #2. Definições
 
-Medir é atribuir valores à atributos de uma entidade, dessa forma podendo avaliar esta entidade de acordo com regras bem definidas, não dependendo diretamente de interpretações subjetivas. Sendo assim, medir, monitorar e controlar a qualidade de um software é fundamental.[1] 
+Medir é atribuir valores à atributos de uma entidade, dessa forma podendo avaliar esta entidade de acordo com regras bem definidas, não dependendo diretamente de interpretações subjetivas. Sendo assim, medir, monitorar e controlar o projeto de software em sua fase de desenvolvimento é fundamental para garantir sua qualidade.[1] 
 
 
 
