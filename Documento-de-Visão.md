@@ -16,6 +16,7 @@
 | 21/08/2016 | 2.1 | Adição de gráfico do ambiente do usuário | Marcelo Augusto |
 | 21/08/2016 | 2.2 | Mudança da tabela de declaração da posição do produto | Rodrigo Oliveira |
 | 22/08/2016 | 2.3 | Mudanças na visão geral da solução  |Josué Nascimento|
+| 25/08/2016 | 2.4 | Adição de RNF | Marcelo Augusto |
 ***
 
 #Índice
@@ -253,9 +254,13 @@
 
 ##5.1 Usabilidade
 
-<p align="justify">O aplicativo deverá possuir boa usabilidade, de modo que qualquer usuário faça uso correto do sistema.</p>
-
 <p align="justify">Em caso de erro, o aplicativo deverá apresentar mensagens de fácil entendimento, para ajudar o usuário a identificar o problema.</p>
+
+<p align="justify">O sistema deverá ser de fácil memorização de forma que o usuário seja capaz de adquirir os conhecimentos necessário em no máximo 30 minutos.</p>
+
+<p align="justify">O usuário deve realizar ações críticas com no máximo 5 clicks.</p>
+
+<p align="justify">O sistema terá ícones intuitivos que direcionem o uso do aplicativo pelo usuário.</p>
 
 ##5.2 Confiabilidade
 
@@ -263,7 +268,9 @@
 
 ##5.3 Desempenho
 
-<p align="justify">O sistema deve ser fluido e funcional, executando de forma que não comprometa a usabilidade dos  celulares.</p>
+<p align="justify">O sistema deve ser executado de forma que não comprometa a usabilidade dos  celulares.</p>
+
+<p align="justify">O sistema deve ter um tempo de resposta de no máximo 3 segundos.</p>
 
 ##5.4 Suportabilidade
 
