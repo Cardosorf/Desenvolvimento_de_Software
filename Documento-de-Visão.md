@@ -174,7 +174,7 @@
 |Tiago Assunção|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
 |Lucas Brilhante|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
 |Victor Hugo|Coach da equipe de desenvolvimento|Auxiliar no desenvolvimento do projeto|
-|?|Coach da equipe de gerenciamento.|Auxiliar a equipe no gerenciamento do projeto|
+|Emilie Morais|Coach da equipe de gerenciamento.|Auxiliar a equipe no gerenciamento do projeto|
 
 
 
