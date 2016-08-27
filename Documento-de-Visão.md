@@ -17,6 +17,7 @@
 | 21/08/2016 | 2.2 | Mudança da tabela de declaração da posição do produto | Rodrigo Oliveira |
 | 22/08/2016 | 2.3 | Mudanças na visão geral da solução  |Josué Nascimento|
 | 25/08/2016 | 2.4 | Adição de RNF | Marcelo Augusto |
+| 26/08/2016 | 2.5 | Correção de requisitos não funcionais | Thiago Freire |
 ***
 
 #Índice
@@ -254,7 +255,7 @@
 
 ##5.1 Usabilidade
 
-<p align="justify">Em caso de erro, o aplicativo deverá apresentar mensagens de fácil entendimento, para ajudar o usuário a identificar o problema.</p>
+<p align="justify">Em caso de erro, o aplicativo deverá apresentar mensagens, para ajudar o usuário a identificar o problema.</p>
 
 <p align="justify">O sistema deverá ser de fácil memorização de forma que o usuário seja capaz de adquirir os conhecimentos necessário em no máximo 30 minutos.</p>
 
@@ -269,8 +270,6 @@
 ##5.3 Desempenho
 
 <p align="justify">O sistema deve ser executado de forma que não comprometa a usabilidade dos  celulares.</p>
-
-<p align="justify">O sistema deve ter um tempo de resposta de no máximo 3 segundos.</p>
 
 ##5.4 Suportabilidade
 
