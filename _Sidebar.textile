@@ -13,7 +13,7 @@ h3. Release 01
 # "Plano de Gerenciamento de Escopo":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Plano de Gerenciamento de Riscos":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Plano de Gerenciamento de Custos":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Plano de Gerenciamento de Aquisicões":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+# "Plano de Gerenciamento de Aquisicões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es
 # "Plano de Gerenciamento de Qualidade":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Plano de Gerenciamento de Integração":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Plano de Gerenciamento das Partes Interessadas":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
