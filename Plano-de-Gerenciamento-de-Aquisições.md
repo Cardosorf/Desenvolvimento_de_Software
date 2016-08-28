@@ -22,4 +22,4 @@ Após a escolha do fornecedor, a compra será efetivada e a equipe de gerência 
 
 # 3. Frequência de solicitação de aquisições
 
-As solicitações poderão ser feitas a qualquer momento, mas, para melhor organização, é esperado que sejam feitas ainda no início da iteração em que a aquisição em questão será necessária.
+Uma aquisições poderá ser solicitada a qualquer momento, mas, para melhor organização, é esperado que seja solicitada ainda no início da iteração em que será necessária.
