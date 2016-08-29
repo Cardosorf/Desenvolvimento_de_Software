@@ -1,6 +1,8 @@
-**Local da Reunião:**
+### Local/Horário da Reunião:
 
 Lab Hacker - Câmara dos Deputados
+
+17:00  ~  18:30
 
 ### Presentes e Ausentes:
 **GPP**
@@ -22,6 +24,6 @@ Marcelo   |    :white_check_mark:
 Rodrigo   |    :x:
 Thiago Freire|    :white_check_mark:
 
-**Pautas da Reunião:**
+### Pautas da Reunião:
 
 Apresentação e validação do documento de Visão com o cliente, validação do diagrama de casos de uso, levantamento de requisitos funcionais e não-funcionais.
