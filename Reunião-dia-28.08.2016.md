@@ -1,4 +1,4 @@
-**Local da Reunião:**
+**Local/Horário da Reunião:**
 
 Internet - Hangout
 
@@ -22,6 +22,6 @@ Marcelo   |    :white_check_mark:
 Rodrigo   |    :x:
 Thiago Freire|    :white_check_mark:
 
-**Pautas da Reunião:**
+### Pautas da Reunião:
 
 Refinamento do documento de Arquitetura, refinamento do diagrama de pacotes, diagrama de casos de uso, e configuração do projeto inicial no GitHub.
