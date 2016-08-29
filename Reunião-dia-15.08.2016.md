@@ -1,6 +1,8 @@
-**Local da Reunião:**
+### Local/Horário da Reunião:
 
 Lab Hacker - Câmara dos Deputados
+
+11:00  ~  12:30
 
 ### Presentes e Ausentes:
 **GPP**
@@ -23,6 +25,6 @@ Marcelo   |    :x:
 Rodrigo   |    :x:
 Thiago Freire|    :x:
 
-**Pautas da Reunião:**
+### Pautas da Reunião:
 
 Primeiro contato com o cliente, definição sobre o escopo do sistema, arquitetura, e versão do Android a ser utilizada.
