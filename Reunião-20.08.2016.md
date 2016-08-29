@@ -27,8 +27,8 @@ Thiago Freire|    :white_check_mark:
 
 ### Pautas da Reunião:
 
-* Refinar o Documento de Visão.
-* Configurar ambientes de desenvolvimento.
+* Refinou-se o Documento de Visão.
+* Configurou-se os ambientes de desenvolvimento.
 
 ### Pendências:
 * Estabilizar o Android Studio do Augusto
