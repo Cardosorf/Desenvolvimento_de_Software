@@ -24,6 +24,14 @@ Marcelo   |    :white_check_mark:
 Rodrigo   |    :x:
 Thiago Freire|    :white_check_mark:
 
-### Pautas da Reunião:
+### Relato da Reunião:
 
-Apresentação e validação do documento de Visão com o cliente, validação do diagrama de casos de uso, levantamento de requisitos funcionais e não-funcionais.
+* Apresentou-se o Documento de Visão ao cliente.
+* Validou-se o Documento de Visão junto ao cliente.
+* Validou-se o Diagrama de Casos de Uso.
+* Levantou-se alguns requisitos funcionais e não-funcionais.
+
+### Pendências
+
+* Atualizar Diagrama de Caso de Uso.
+* Criar Glossário
