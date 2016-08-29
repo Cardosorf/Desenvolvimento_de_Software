@@ -27,4 +27,8 @@ Thiago Freire|    :white_check_mark:
 
 ### Pautas da Reunião:
 
-Refinamento do Documento de Visão produzido pela equipe de desenvolvimento e a equipe de gerência, configuração de ambientes de desenvolvimento.
+* Refinar o Documento de Visão.
+* Configurar ambientes de desenvolvimento.
+
+### Pendências:
+* Estabilizar o Android Studio do Augusto
