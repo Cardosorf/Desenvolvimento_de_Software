@@ -1,6 +1,7 @@
 h3. Release 01
 
 # "Folha de Estilo":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Folha-de-Estilo
+# "Atas de Reuniões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Atas-de-Reuni%C3%B5es
 
 *Gestão de Portfólios e Projetos*
 
