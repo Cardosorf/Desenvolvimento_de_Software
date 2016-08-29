@@ -2,6 +2,8 @@
 
 Internet - Hangout
 
+13:30  ~  16:30
+
 ### Presentes e Ausentes:
 **GPP**
 
