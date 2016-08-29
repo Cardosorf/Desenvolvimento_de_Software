@@ -25,6 +25,12 @@ Marcelo   |    :x:
 Rodrigo   |    :x:
 Thiago Freire|    :x:
 
-### Pautas da Reunião:
+### Relato da Reunião:
 
-Primeiro contato com o cliente, definição sobre o escopo do sistema, arquitetura, e versão do Android a ser utilizada.
+* Realizou-se o primeiro contato com o cliente
+* Delimitou-se o escopo do sistema e a arquitetura
+* Definiu-se a versão do Android a ser utilizada - API 19
+
+### Pendências:
+
+* Dar feedback da reunião com os stakeholders para a equipe de desenvolvimento.
