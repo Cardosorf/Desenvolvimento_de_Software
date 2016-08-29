@@ -1,6 +1,8 @@
-**Local da Reunião:**
+### Local/Horário da Reunião:
 
-QG do Time 01
+QG do Time WikiLegis (Casa da Izabela)
+
+13:30  ~  16:00
 
 ### Presentes e Ausentes:
 **GPP**
@@ -23,6 +25,6 @@ Marcelo   |    :white_check_mark:
 Rodrigo   |    :white_check_mark:
 Thiago Freire|    :white_check_mark:
 
-**Pautas da Reunião:**
+### Pautas da Reunião:
 
 Refinamento do Documento de Visão produzido pela equipe de desenvolvimento e a equipe de gerência, configuração de ambientes de desenvolvimento.
