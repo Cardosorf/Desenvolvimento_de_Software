@@ -25,7 +25,7 @@ Marcelo   |    :white_check_mark:
 Rodrigo   |    :white_check_mark:
 Thiago Freire|    :white_check_mark:
 
-### Pautas da Reunião:
+### Relato da Reunião:
 
 * Refinou-se o Documento de Visão.
 * Configurou-se os ambientes de desenvolvimento.
