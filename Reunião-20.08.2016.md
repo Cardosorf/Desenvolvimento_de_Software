@@ -18,7 +18,7 @@ Tiago     |    :x:
 Nome      |   Presença
 ---       |    ---
 Augusto   |    :white_check_mark:
-Josue     |    :white_check_mark:
+Josue     |    :x:
 Marcelo   |    :white_check_mark:
 Rodrigo   |    :white_check_mark:
 Thiago Freire|    :white_check_mark:
