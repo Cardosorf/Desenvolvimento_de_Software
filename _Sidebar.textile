@@ -25,5 +25,5 @@ h3. Release 01
 # "Documento de Arquitetura":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Documento-de-Arquitetura
 # "Especificação dos Casos de Uso":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-de-caso-de-uso
 # "Especificação dos Casos de Teste":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-de-casos-de-teste
-# "Relatório de Execução dos Testes":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Especificação Suplementar":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+# "Relatório de Execução dos Testes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Relat%C3%B3rio-de-execu%C3%A7%C3%A3o-dos-casos-de-testes
+# "Especificação Suplementar":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar
