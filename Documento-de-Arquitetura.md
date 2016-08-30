@@ -1,0 +1,1 @@
+Aqui será o documento de arquitetura
