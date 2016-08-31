@@ -133,35 +133,15 @@
 
 * <p align="justify">Tela inicial</p>
 
-* <p align="justify">Tela inicial</p>
-
-* <p align="justify">Tela de login</p>
-
 * <p align="justify">Tela de cadastro</p>
 
 * <p align="justify">Tela de resultado da pesquisa</p>
 
-* <p align="justify">Tela de filtragem</p>
+* <p align="justify">Tela de listagem e filtragem</p>
 
 * <p align="justify">Tela de exibição do projeto de lei</p>
 
-* <p align="justify">Tela de exibição do artigo de lei</p>
-
-* <p align="justify">Sugestões de proposta de alteração no artigo</p>
-
-* <p align="justify">Comentários</p>
-
-* <p align="justify">Tela de exibição do parágrafo do artigo</p>
-
-* <p align="justify">Sugestões de proposta de alteração no parágrafo</p>
-
-* <p align="justify">Comentários</p>
-
-* <p align="justify">Tela de exibição do inciso do artigo</p>
-
-* <p align="justify">Sugestões de proposta de alteração no inciso</p>
-
-* <p align="justify">Comentários</p>
+* <p align="justify">Tela de exibição dos segmentos</p>
 
 * <p align="justify">Tela de informações adicionais do wikilegisApp</p>
 
