@@ -33,7 +33,9 @@
 <b>Pré condições:</b> Não há.
 
 <b>Fluxo principal</b> O fluxo principal é iniciado quando o usuário seleciona uma combinação de modos de filtragem.
-    <b>1</b>.O Usuário seleciona uma combinação dos modos de filtragem [RN02], [FE01].
+
+***
+    1.O Usuário seleciona uma combinação dos modos de filtragem [RN02], [FE01].
     2.O Sistema reorganiza os projetos e lista ao usuário de acordo com o modo de filtragem.
     3.O caso de uso é encerrado.
 
