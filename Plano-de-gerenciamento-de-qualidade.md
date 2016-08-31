@@ -26,7 +26,7 @@ Também serão feitas reuniões com o cliente para validar a corretude das infor
 Métricas de código-fonte são importantes para garantir que o produto está sendo desenvolvido dentro dos padrões de qualidade pré-definidos. Todos os conceitos relacionados a métricas de código estão no [apêndice A](#Apêndice A) deste documento, atrás do plano de medição GQM (Goal, Question, Métric). Porque utilizar-se deste modelo de medição? Para garantir que a medição está dentro dos objetivos estratégicos do projeto. Isso ocorro através da arvores de rastreabilidade, que sempre mapeia a métrica com um objetivo. Isto torna mais fácil identificar métricas que não atendem mais as necessidades do projeto.
 
  
-#X. Referências
+#4. Referências
 
 [1] Carlos Morais de Oliveira Filho. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, Universidade de São Paulo.[URL.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
 
@@ -34,3 +34,21 @@ Métricas de código-fonte são importantes para garantir que o produto está se
 
 #GQM (Goal, Question, Métric)
 
+OBJETIVOS ESTRATÉGICOS
+
+O.1 - Boas entregas
+
+|Analisar| código|
+|:---:|:---:|
+|Com o propósito de|melhorar|
+|Com respeito a|qualidade interna do software|
+|Sobre o ponto de vista do|desenvolvedor|
+|No contexto do |projeto wikilegis mobile|
+
+O.2 - Dedicação constante
+|:---:|:---:|
+|Analisar|os desenvolvedores e os gerentes|
+|Com o propósito de|monitorar|
+|Com respeito ao|comprometimento da equipe de desenvolvimento|
+|Sobre o ponto de vista do|?|
+|No contexto do| projeto de desenho wikilegis mobile|
