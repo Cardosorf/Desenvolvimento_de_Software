@@ -39,7 +39,7 @@
  1. [Perspectiva do produto](#41-perspectiva-do-produto)
  2. [Declaração de posição do produto](#42-declaração-de-posição-do-produto)
  3. [Recursos do produto](#43-recursos-do-produto)
-5.  [Requisitos não funcionais](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar)
+5.  [Requisitos não funcionais](#5--requisitos-não-funcionais)
 6.  [Referências](#6-referências)
 
 ***
@@ -247,7 +247,8 @@
 
 #5  Requisitos não funcionais
 
-Os requisitos não funcionais especificarão requisitos relacionados a: Usabilidade, Confiabilidade, Desempenho, Suportabilidade e Outros. Eles podem ser visualizados na (<a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar">Especificação Suplementar</a>).
+<p align="justify">Os requisitos não funcionais especificarão requisitos relacionados a: Usabilidade, Confiabilidade, Desempenho, Suportabilidade e Outros. Eles podem ser visualizados na <a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar">Especificação Suplementar</a>.
+</p>
 
 #6 Referências
 
