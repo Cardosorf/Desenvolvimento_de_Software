@@ -16,8 +16,29 @@
 | 29/08 | 2.1 | Ediçãp CT01 | Rodrigo Oliveira |
 ***
 
+#Índice
+
+1. [UC01 - Listar Projetos](#uc01-listar-projetos)
+ 1. [CT001_01](#uc01-listar-projetos)
+ 2. [CT001_02](#uc01-listar-projetos)
+ 3. [CT001_03](#uc01-listar-projetos)
+ 4. [CT001_04](#uc01-listar-projetos)
+ 5. [CT001_05](#uc01-listar-projetos)
+ 6. [CT001_06](#uc01-listar-projetos)
+ 7. [CT001_07](#uc01-listar-projetos)
+ 8. [CT001_08](#uc01-listar-projetos)
+2. [UC02 - Visuaizar projeto de lei](#uc02-visualizar-projeto-de-lei)
+ 1. [CT002_01](#uc01-listar-projetos)
+3. [UC03 - Visualizar segmento](#uc03-visualizar-segmento)
+ 1. [CT003_01](#uc01-listar-projetos)
+4. [UC04 - Cadastrar usuário](#uc04-cadastrar-usuário)
+ 1. [CT004_01](#uc01-listar-projetos)
+ 2. [CT004_02](#uc01-listar-projetos)
+
+***
+
 #UC01: Listar projetos
-<b>CT001_01:</b> Listar Projetos por status fechado sem a existência de projetos com tal status.
+###<b>CT001_01:</b> Listar Projetos por status fechado sem a existência de projetos com tal status.
 
  <b>Descrição:</b> Este caso de teste irá verificar se, ao listar projetos por status fechado sem a existência de projetos fechados, aparecerá uma mensagem informando ao usuário que não há projetos.
 
@@ -27,7 +48,7 @@
 
 <b>Dados requeridos:</b> Não há
 
-<b>CT001_02:</b> Listar Projetos por status fechado com a existência de tal.
+###<b>CT001_02:</b> Listar Projetos por status fechado com a existência de tal.
 
 <b>Descrição:</b> Este caso teste irá verificar se, ao filtrar projetos por status fechado com a existência de projetos fechados, serão listados todos os projetos de lei com o status de fechado.
 
@@ -37,7 +58,7 @@
 
 <b>Dados requeridos:</b> Não há
 
-<b>CT001_03:</b> Listar  Projetos por status aberto com a existência de tal
+###<b>CT001_03:</b> Listar  Projetos por status aberto com a existência de tal
 
  <b>Descrição:</b> Este caso teste irá verificar se, ao filtrar os projetos por status aberto com a existência de projetos abertos, serão listados todos os projetos de lei com o status de aberto.
 
@@ -47,7 +68,7 @@
 
 <b>Dados requeridos:</b> Não há
 
-<b>CT001_04:</b> Listar Projetos por status aberto sem a existência de projetos com tal status.
+###<b>CT001_04:</b> Listar Projetos por status aberto sem a existência de projetos com tal status.
 
 <b>Descrição:</b>  Este caso de teste irá verificar se, ao filtrar projetos por status aberto sem a existência de projetos abertos, aparecerá uma mensagem informando ao usuário que não há projetos.
 
@@ -57,7 +78,7 @@
 
 <b>Dados requeridos:</b> Não há
 
-<b>CT001_05:</b> Listar projetos por relevância
+###<b>CT001_05:</b> Listar projetos por relevância
 
 <b>Descrição:</b> Este caso irá verificar se, ao filtrar os projetos de lei de acordo com o numero de propostas, o sistema organizou os projetos de acordo com a relevância, ou seja, do projeto com mais sugestões de propostas para o projeto que tem menos sugestões de propostas.
 
@@ -67,7 +88,7 @@
 
 <b>Dados requeridos:</b> Não há
 
-<b>CT001_06:</b> Listar projetos por relevância sem a existência de projetos.
+###<b>CT001_06:</b> Listar projetos por relevância sem a existência de projetos.
 
 <b>Descrição:</b> Este caso irá verificar se ao listar projetos por relevância, sem a existência de projetos, aparecerá uma mensagem informando ao usuário que não existem projetos.
 
@@ -77,7 +98,7 @@
 
 <b>Dados requeridos:</b> Não há
 
-<b>CT001_07:</b> Listar Projetos por data.
+###<b>CT001_07:</b> Listar Projetos por data.
 
 <b>Descrição:</b> Este caso irá verificar se, ao filtrar os Projetos de lei de acordo com a data de criação do projeto, o sistema organizou os projetos de acordo com a data de criação mais recente para a menos recente, nesta ordem de prioridade.
 
@@ -87,7 +108,7 @@
 
 <b>Dados requeridos:</b> Não há
 
-<b>CT001_08:</b> Listar Projetos por data sem a existência de projetos.
+###<b>CT001_08:</b> Listar Projetos por data sem a existência de projetos.
 
 <b>Descrição:</b> Este caso irá verificar se, ao filtrar projetos de lei de acordo com a data de criação do projeto, sem a existência de projetos, aparecerá uma mensagem informando ao usuário que não existem projetos.
 
@@ -99,7 +120,7 @@
 
 #UC02: Visualizar Projeto de Lei
 
-<b>CT002_01:</b> Clicar para visualizar um projeto de lei.
+###<b>CT002_01:</b> Clicar para visualizar um projeto de lei.
 
 <b>Descrição:</b> Este caso de teste irá verificar se o usuário foi redirecionado ao projeto de lei selecionado pelo usuário.
 
@@ -111,7 +132,7 @@
 
 #UC03: Visualizar segmento
 
-<b>CT003_01:</b> Clicar para visualizar um segmento.
+###<b>CT003_01:</b> Clicar para visualizar um segmento.
 
 <b>Descrição:</b> Este caso de teste irá verificar se o usuário foi redirecionado ao segmento do projeto de lei selecionado.
 
@@ -123,7 +144,7 @@
 
 #UC04: Cadastrar Usuário
 
-<b>CT004_01:</b> Cadastrar Usuário com todos os campos de registro válidos 
+###<b>CT004_01:</b> Cadastrar Usuário com todos os campos de registro válidos 
 
 <b>Descrição:</b> Esse caso de teste irá verificar se todos os campos do registro estão preenchidos corretamente.
 
@@ -133,7 +154,7 @@
 
 <b>Dados requeridos:</b> Email, primeiro nome, segundo nome e senha.
 
-<b>CT004_02:</b> Cadastrar Usuário com pelo menos um campo preenchido incorretamente.
+###<b>CT004_02:</b> Cadastrar Usuário com pelo menos um campo preenchido incorretamente.
 
 <b>Descrição:</b> Esse caso de teste irá verificar se existe algum campo preenchido de forma incorreta.
 
