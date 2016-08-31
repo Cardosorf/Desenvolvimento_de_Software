@@ -40,7 +40,6 @@
     3. O caso de uso é encerrado.
 
 ***
-<b>Pós condições:</b> Não há
 
 <b>Fluxo Alternativo FA01:</b> É iniciado quando o usuário faz o login ou entra como visitante na aplicação.
 
@@ -61,5 +60,11 @@
 | Abertos | Proposta de lei em aberto |
 | Fechados | Proposta de lei fechada |
 
+<b>Fluxo de exceção FE01:</b>
 
-
+***
+    1. Caso não existam projetos referentes a ordem definida.
+    2. O sistema informa ao usuário que não há projetos.
+    3. O sistema vai para o passo 3 do fluxo principal.
+***
+<b>Pós condições:</b> Não há.
