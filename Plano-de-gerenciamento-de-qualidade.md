@@ -46,8 +46,9 @@ O.1 - Boas entregas
 |No contexto do |projeto wikilegis mobile|
 
 O.2 - Dedicação constante
-|:---:|:---:|
+
 |Analisar|os desenvolvedores e os gerentes|
+|:---:|:---:|
 |Com o propósito de|monitorar|
 |Com respeito ao|comprometimento da equipe de desenvolvimento|
 |Sobre o ponto de vista do|?|
