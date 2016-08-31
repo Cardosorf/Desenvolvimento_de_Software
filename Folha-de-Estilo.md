@@ -1,6 +1,6 @@
 ### Stylesheet
 
-This document is a set of code conventions to be used at EuVou project. 
+Este documento define as convenções de código a serem usados no projeto Wikilegis Mobile.
 
 * 1. [[Nomeação|Folha-de-Estilo#1-nomeação]]
 * 2. [[Formatação|Folha-de-Estilo#2-formatação]]
