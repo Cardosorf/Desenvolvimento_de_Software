@@ -2,10 +2,10 @@
 
 This document is a set of code conventions to be used at EuVou project. 
 
-* 1. [[Naming|Stylesheet#1-nomeação]]
-* 2. [[Formatting|Stylesheet#2-formatação]]
-* 3. [[Comments|Stylesheet#3-comentários]]
-* 4. [[Good Practices|Stylesheet#4-boas-práticas]]
+* 1. [[Nomeação|Stylesheet#1-nomeação]]
+* 2. [[Formatação|Stylesheet#2-formatação]]
+* 3. [[Comentários|Stylesheet#3-comentários]]
+* 4. [[Boas Práticas|Stylesheet#4-boas-práticas]]
 
 ***
 
