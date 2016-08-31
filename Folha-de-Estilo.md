@@ -1,4 +1,4 @@
-### Stylesheet
+###Folha de Estilo
 
 Este documento define as convenções de código a serem usados no projeto Wikilegis Mobile.
 
@@ -125,7 +125,7 @@ Este documento define as convenções de código a serem usados no projeto Wikil
 
 ```
 
-**[[Back to top|Stylesheet#stylesheet]]**
+**[[Voltar ao topo|Folha-de-Estilo#Folha-de-Estilo]]**
 
 #### 2. Formatação
 
