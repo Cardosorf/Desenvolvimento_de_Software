@@ -19,21 +19,21 @@
 #Índice
 
 1. [UC01 - Listar Projetos](#uc01-listar-projetos)
- 1. [CT001_01](#uc01-listar-projetos)
- 2. [CT001_02](#uc01-listar-projetos)
- 3. [CT001_03](#uc01-listar-projetos)
- 4. [CT001_04](#uc01-listar-projetos)
- 5. [CT001_05](#uc01-listar-projetos)
- 6. [CT001_06](#uc01-listar-projetos)
- 7. [CT001_07](#uc01-listar-projetos)
- 8. [CT001_08](#uc01-listar-projetos)
+ 1. [CT001_01](#ct001_01-listar-projetos-por-status-fechado-sem-a-existência-de-projetos-com-tal-status)
+ 2. [CT001_02](#ct001_02-listar-projetos-por-status-fechado-com-a-existência-de-tal)
+ 3. [CT001_03](#ct001_03-listar--projetos-por-status-aberto-com-a-existência-de-tal)
+ 4. [CT001_04](#ct001_04-listar-projetos-por-status-aberto-sem-a-existência-de-projetos-com-tal-status)
+ 5. [CT001_05](#ct001_05-listar-projetos-por-relevância)
+ 6. [CT001_06](#ct001_06-listar-projetos-por-relevância-sem-a-existência-de-projetos)
+ 7. [CT001_07](#ct001_07-listar-projetos-por-data)
+ 8. [CT001_08](#ct001_08-listar-projetos-por-data-sem-a-existência-de-projetos)
 2. [UC02 - Visuaizar projeto de lei](#uc02-visualizar-projeto-de-lei)
- 1. [CT002_01](#uc01-listar-projetos)
+ 1. [CT002_01](#ct002_01-clicar-para-visualizar-um-projeto-de-lei)
 3. [UC03 - Visualizar segmento](#uc03-visualizar-segmento)
- 1. [CT003_01](#uc01-listar-projetos)
+ 1. [CT003_01](#ct003_01-clicar-para-visualizar-um-segmento)
 4. [UC04 - Cadastrar usuário](#uc04-cadastrar-usuário)
- 1. [CT004_01](#uc01-listar-projetos)
- 2. [CT004_02](#uc01-listar-projetos)
+ 1. [CT004_01](#ct004_01-cadastrar-usuário-com-todos-os-campos-de-registro-válidos)
+ 2. [CT004_02](#ct004_02-cadastrar-usuário-com-pelo-menos-um-campo-preenchido-incorretamente)
 
 ***
 
