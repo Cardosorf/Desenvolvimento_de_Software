@@ -2,7 +2,7 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | --- | :---: |
-| 24/08/2016 | 1 | Abertura do documento | Marcelo Augusto |
+| 24/08/2016 | 1.0 | Abertura do documento | Marcelo Augusto |
 | 24/08/2016 | 1.1 | Adição do UC01 | Josué Nascimento |
 | 24/08/2016 | 1.2 | Adição do UC02 | Thiago Freire |
 | 24/08/2016| 1.3 | Edição do UC01, UC02 e UC03 | Marcelo Augusto |
