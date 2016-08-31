@@ -28,15 +28,38 @@
 
  <b>Descrição:</b> Este caso de uso permite ao usuário listar projetos de lei de acordo com a ordem desejada , podendo ser por relevância, data e  status (abertos).
 
-<b>Ator principal</b> Usuário cadastrado ou Usuário visitante.
+<b>Ator principal:</b> Usuário cadastrado ou Usuário visitante.
 
 <b>Pré condições:</b> Não há.
 
-<b>Fluxo principal</b> O fluxo principal é iniciado quando o usuário seleciona uma combinação de modos de filtragem.
+<b>Fluxo principal:</b> O fluxo principal é iniciado quando o usuário seleciona uma combinação de modos de filtragem.
 
 ***
-    1.O Usuário seleciona uma combinação dos modos de filtragem [RN02], [FE01].
-    2.O Sistema reorganiza os projetos e lista ao usuário de acordo com o modo de filtragem.
-    3.O caso de uso é encerrado.
+    1. O Usuário seleciona uma combinação dos modos de filtragem [RN02] [FE01].
+    2. O Sistema reorganiza os projetos e lista ao usuário de acordo com o modo de filtragem.
+    3. O caso de uso é encerrado.
 
+***
 <b>Pós condições:</b> Não há
+
+<b>Fluxo Alternativo FA01:</b> É iniciado quando o usuário faz o login ou entra como visitante na aplicação.
+
+***
+    1. O sistema exibe ao usuário uma lista dos projetos encontrados [RN01] [FE01].
+    2. O sistema volta ao passo 3 do fluxo principal.
+
+***
+
+<b>Regras de Negócio:</b>
+#####<b>[RN01]- </b>A ordem de exibição default da tela inicial é por projetos mais relevantes e abertos.
+#####<b>[RN02] - Modos de filtragem:</b>
+
+| Opção de filtragem | Valor | 
+| :---: | :---: |
+| Relevantes | Proposta de lei com maior quantidade de sugestões de propostas |
+| Recentes | Proposta de lei com a data de criação mais recente |
+| Abertos | Proposta de lei em aberto |
+| Fechados | Proposta de lei fechada |
+
+
+
