@@ -91,12 +91,7 @@
 
 ##3.1 Garantia do funcionamento em tempo integral
 
-<p align="justify">O usuário do aplicativo não necessitará de nenhum treinamento específico para conseguir utilizar o sistema.</p>
-
-<p align="justify">O usuário deve realizar ações críticas com no máximo 5 clicks.</p>
-
-<p align="justify">O sistema terá ícones intuitivos que direcionem o uso do aplicativo pelo usuário.</p>
-
+<p align="justify">O aplicativo deve funcionar 24 horas por dia, 7 dias na semana.</p>
 
 ##3.2 Garantia de segurança dos dados informados
 
@@ -119,8 +114,7 @@
 
 ##4.3 Suportabilidade para uso offline
 
-<p align="justify">O sistema também operará offline, dando a possibilidade  do usuário ler os projetos de leis e seus respectivos itens.</p>
-
+<p align="justify">O sistema também operará offline, dando a possibilidade  do usuário ler os projetos de leis e seus respectivos segmentos.</p>
 
 
 #5  Restrições de Design
