@@ -39,13 +39,7 @@
  1. [Perspectiva do produto](#41-perspectiva-do-produto)
  2. [Declaração de posição do produto](#42-declaração-de-posição-do-produto)
  3. [Recursos do produto](#43-recursos-do-produto)
-5.  [Requisitos não funcionais](#5--requisitos-não-funcionais)
- 1. [Usabilidade](#51-usabilidade)
- 2. [Confiabilidade](#52-confiabilidade)
- 3. [Desempenho](#53-desempenho)
- 4. [Suportabilidade](#54-suportabilidade)
- 5. [Outros](#55-outros)
-     1. [Licença, Segurança e Instalação](#551-licença-segurança-e-instalação)
+5.  [Requisitos não funcionais](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar)
 6.  [Referências](#6-referências)
 
 ***
@@ -253,35 +247,7 @@
 
 #5  Requisitos não funcionais
 
-##5.1 Usabilidade
-
-<p align="justify">Em caso de erro, o aplicativo deverá apresentar mensagens, para ajudar o usuário a identificar o problema.</p>
-
-<p align="justify">O sistema deverá ser de fácil memorização de forma que o usuário seja capaz de adquirir os conhecimentos necessário em no máximo 30 minutos.</p>
-
-<p align="justify">O usuário deve realizar ações críticas com no máximo 5 clicks.</p>
-
-<p align="justify">O sistema terá ícones intuitivos que direcionem o uso do aplicativo pelo usuário.</p>
-
-##5.2 Confiabilidade
-
-<p align="justify">O aplicativo deve funcionar 24 horas por dia, 7 dias na semana. Além disso, não deve haver erro nas informações apresentadas sobre as leis.</p>
-
-##5.3 Desempenho
-
-<p align="justify">O sistema deve ser executado de forma que não comprometa a usabilidade dos  celulares.</p>
-
-##5.4 Suportabilidade
-
-<p align="justify">O sistema deverá ser suportado pelo sistema operacional Android versão 4.4 (KitKat) ou superior.</p>
-
-<p align="justify">Para o funcionamento correto do aplicativo, é necessário que o dispositivo mobile possua acesso à internet para poder interagir com a plataforma do wikilegis, que é de onde provém as informações dinâmicas.</p>
-
-##5.5 Outros
-
-###5.5.1 Licença, Segurança e Instalação
-
-<p align="justify">O aplicativo deverá ser instalado através do aplicativo Google Play. Deve-se deixar claro ao usuário que o sistema será seguro, não causando danos ao celular do usuário, além disso, as informações pessoais do usuário devem ser confidenciais.</p>
+Os requisitos não funcionais especificarão requisitos relacionados a: Usabilidade, Confiabilidade, Desempenho, Suportabilidade e Outros. Eles podem ser visualizados na (<a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar">Especificação Suplementar</a>).
 
 #6 Referências
 
