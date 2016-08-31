@@ -54,3 +54,14 @@ O.2 - Dedicação constante
 |Com respeito ao|comprometimento da equipe|
 |Sobre o ponto de vista do|docente|
 |No contexto do| projeto de desenho wikilegis mobile|
+
+QUESTÕES
+
+|**Foco na qualidade**
+* **Q.1.1** O produto apresenta uma boa manutenibilidade?
+* **Q.1.2** O produto apresenta uma boa usabilidade?|
+|**Fatores de variação**
+* A produtividade não atender a expectativa
+* Conhecimento da equipe limitado|
+
+
