@@ -30,8 +30,7 @@
  3. [Garantia de segurança dos dados dos clientes](#33-garantia-de-segurança-dos-dados-dos-clientes)
 4. [Suportabilidade](#4--suportabilidade)
  1. [Suportabilidade para Android](#41-suportabilidade-para-android)
- 2. [Suportabilidade para uso online](#42-suportabilidade-para-uso-online)
- 3. [Suportabilidade para uso offline](#43-suportabilidade-para-uso-offline)
+ 2. [Suportabilidade para uso offline](#42-suportabilidade-para-uso-offline)
 5. [Restrições de Design](#5--restrições-de-design)
  1. [Responsividade](#51-responsividade)
  2. [Lei de disposição das propostas de lei](#52-lei-de-disposição-das-propostas-de-lei)
@@ -108,11 +107,7 @@
 
 <p align="justify">O sistema deverá ser suportado pelo sistema operacional Android versão 4.4 (KitKat) ou superior.</p>
 
-##4.2. Suportabilidade para uso online
-
-<p align="justify">Para um total aproveitamento do sistema, é necessário que o dispositivo mobile possua acesso à internet para poder interagir com a plataforma do Wikilegis, pelos meios de avaliação, comentário e sugestão de proposta.</p>
-
-##4.3. Suportabilidade para uso offline
+##4.2. Suportabilidade para uso offline
 
 <p align="justify">O sistema também operará offline, dando a possibilidade  do usuário ler os projetos de leis e seus respectivos segmentos.</p>
 
@@ -125,7 +120,7 @@
 
 ##5.2. Lei de disposição das propostas de lei
 
-<p align="justify"></p>
+<p align="justify">A exibição das propostas de leis no aplicativo, seguem o padrão de exposição de lei conforme a lei complementar número 95, de 26 de fevereiro de 1998.</p>
 
 #6.  Interfaces
 
