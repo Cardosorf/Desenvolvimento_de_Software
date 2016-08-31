@@ -125,7 +125,7 @@ Este documento define as convenções de código a serem usados no projeto Wikil
 
 ```
 
-**[[Voltar ao topo|Folha-de-Estilo#Folha-de-Estilo]]**
+**[[Voltar ao topo|Folha-de-Estilo#folha-de-estilo]]**
 
 #### 2. Formatação
 
@@ -320,7 +320,7 @@ Este documento define as convenções de código a serem usados no projeto Wikil
 ```
 
 
-**[[Back to top|Stylesheet#stylesheet]]**
+**[[Voltar ao topo|Folha-de-Estilo#folha-de-estilo]]**
 
 #### 3. Comentários
 
@@ -385,8 +385,7 @@ Este documento define as convenções de código a serem usados no projeto Wikil
     }
 ```
 
-**[[Back to top|Stylesheet#stylesheet]]**
-
+**[[Voltar ao topo|Folha-de-Estilo#folha-de-estilo]]**
 
 #### 4. Boas Práticas
 
