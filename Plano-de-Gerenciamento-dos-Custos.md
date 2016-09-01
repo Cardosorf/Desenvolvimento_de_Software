@@ -2,9 +2,9 @@
 
 Este plano tem como objetivo explicar como será feita a gestão dos custos do projeto, deixando claras as técnicas utilizadas para medição e manutenção dos custos.
 
-# 2. Avaliação dos Custos
+# 2. Medição e avaliação dos Custos
 
-# 2.1. Como Será Feita 
+# 2.1. Como Será Feita a Avaliação
 
 A avaliação dos custos do projeto será feita por meio da comparação entre 3 estimativas: Valor planejado, valor real e valor agregado. Como os custos de equipamentos e serviços não variam em nenhuma das 3 estimativas, não serão levados em consideração durante a comparação.
 
