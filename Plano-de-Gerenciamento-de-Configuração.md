@@ -19,9 +19,9 @@
       * [2.1.1 Utilização](#211-utiliza%C3%A7%C3%A3o)
    * [2.2 Chef](#22-chef)
       * [2.2.1 Instalação do ambiente (Chef)](#221-instala%C3%A7%C3%A3o-do-ambiente-chef)
-   * [2.3 Checkstyle](#3-Checkstyle)
-      * [3.1.1 Instalação no Android Studio](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o/_edit#231-instala%C3%A7%C3%A3o-no-android-studio)
-      * [3.1.2 Configuração do Checkstyle](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o/_edit#232-configura%C3%A7%C3%A3o-do-checkstyle)
+   * [2.3 Checkstyle](#23-checkstyle)
+      * [3.1.1 Instalação no Android Studio](#231-instala%C3%A7%C3%A3o-no-android-studio)
+      * [3.1.2 Configuração do Checkstyle](#232-configura%C3%A7%C3%A3o-do-checkstyle)
    
 # 1. Introdução
 
