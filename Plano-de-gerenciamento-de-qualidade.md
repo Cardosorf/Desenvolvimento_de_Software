@@ -57,11 +57,8 @@ O.2 - Dedicação constante
 
 QUESTÕES
 
-|**Foco na qualidade**
-* **Q.1.1** O produto apresenta uma boa manutenibilidade?
-* **Q.1.2** O produto apresenta uma boa usabilidade?|
-|**Fatores de variação**
-* A produtividade não atender a expectativa
-* Conhecimento da equipe limitado|
-
+|||
+|---|---|
+|**Foco na qualidade** <br/> **- Q.1.1** O produto apresenta uma boa manutenibilidade? <br/> **- Q.1.2** O produto apresenta uma boa usabilidade?|**Fatores de variação** <br/> - A produtividade não atender a expectativa; <br/> - Conhecimento da equipe limitado;|
+|**Hipótese de baseline** <br/> - 30% de cobertura de teste até a primeira release; <br/> - 90% de cobertura de teste até a segunda release; <br/> - X de duplicação de código;<br/> - X de acoplamento;<br/> - X de coesão;<br/> - 0 discordâncias com a folha de estilo||
 
