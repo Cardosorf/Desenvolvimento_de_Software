@@ -7,18 +7,22 @@
 | 16/08/2016 | 1.2 | Ferramentas(Chef) | Tiago Assunção |
 | 17/08/2016 | 1.3 | Modelo do Processo | Izabela Cardoso |
 | 17/08/2016 | 1.4 | Atualizando utilização do Git | Izabela Cardoso |
-| 17/08/2016 | 1.5 | Atualizando utilização do padrão de nome de branch Izabela Cardoso |
+| 17/08/2016 | 1.5 | Atualizando utilização do padrão de nome de branch | Izabela Cardoso |
+| 01/09/2016 | 1.6 | Instalação e configuração do Checkstyle | Pedro Ivo |
 
 ***
 
 # Sumário
 1.  [Introdução](#1-Introdução)
 2.  [Ferramentas](#2-ferramentas)
- 1. [Git e GitHub](#21-git-e-github)
-     1. [Utilização](#211-utiliza%C3%A7%C3%A3o)
- 2. [Chef](#22-chef)
-     1. [Instalação do ambiente (Chef)](#221-instala%C3%A7%C3%A3o-do-ambiente-chef)
-
+   * [2.1 Git e GitHub](#21-git-e-github)
+      * [2.1.1 Utilização](#211-utiliza%C3%A7%C3%A3o)
+   * [2.2 Chef](#22-chef)
+      * [2.2.1 Instalação do ambiente (Chef)](#221-instala%C3%A7%C3%A3o-do-ambiente-chef)
+   * [2.3 Checkstyle](#3-Checkstyle)
+      * [3.1.1 Instalação no Android Studio](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o/_edit#231-instala%C3%A7%C3%A3o-no-android-studio)
+      * [3.1.2 Configuração do Checkstyle](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o/_edit#232-configura%C3%A7%C3%A3o-do-checkstyle)
+   
 # 1. Introdução
 
 Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
