@@ -22,4 +22,11 @@ O valor agregado é calculado tendo como base o valor planejado. Durante cada it
 
 # 2.5. Resultado Esperado
 
-Ao fim dos cálculos
+Ao fim dos cálculos, espera-se que o valor agregado e o valor real do projeto sejam os mesmos, sendo aceitável para o valor agregado uma margem de erro de até 7% acima ou abaixo do valor real. Alcançar esse resultado, é um indicativo de que o custo real do projeto condiz com o que foi prometido ao cliente. Além disso, espera-se também que o valor real do projeto não exceda em mais de 15% o valor planejado, o que poderia tornar o projeto insustentável.
+
+# 3. Estratégias para evitar divergências durante a análise dos custos
+
+* Coordenar as equipe de desenvolvimento e gerência para que não trabalhem mais de 25% acima ou abaixo da meta estabelecida.
+* Caso algum membro exceda em mais de 25% a meta estabelecida para a carga horária semanal, garantir que nas semanas seguintes ele trabalhe até 25% menos do que a meta estabelecida, de forma a compensar gradualmente o custo que ele acrescentou em relação ao planejado para o projeto.
+* Caso algum membro trabalhe mais de 25% abaixo do esperado para a carga horária semanal, garantir que nas semanas seguintes ele trabalhe até 25% mais do que a meta estabelecida.
+* Caso algum membro das equipes de desenvolvimento ou gerência saia do projeto, contratar outro membro, ou aumentar a carga de trabalho semanal para o restante da equipe a qual o membro em questão pertencia.
