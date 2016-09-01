@@ -77,9 +77,12 @@ Caracteres A-Z, a-z, 0-9. Além desses caracteres, é permitido usar: “ - ”,
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
-| CT001_01 | Toque do usuário em listar projetos por status fechado, sem a existência de projetos com tal status | O sistema exibir uma mensagem, informando que não existem projetos com este status |
-| CT001_02 | Toque do usuário em listar projetos por status fechado, com a existência de projetos com  tal status | O sistema lista todos os projetos de lei com status fechado |
-| CT001_03 | Toque do usuário em listar projetos por status aberto, com a existência de projetos com tal status | O sistema lista todos os projetos de lei com status aberto |
-| CT001_04 | Toque do usuário em listar projetos por status aberto, sem a existência de projetos com tal status | O sistema exibe uma mensagem, informando que não existem projetos com este status |
-| CT001_05 | Toque do usuário em listar projetos por relevância | O sistema lista todos os projetos de lei, ordenando do projeto com mais sugestões de proposta para o projeto com menos sugestões de proposta |
-| CT001_06 | Toque do usuário em listar projetos por relevância, sem a existêcia de projetos | O sistema exibe uma mensagem, informando que não existem projetos |
+| CT004_01 | Nome Válido | O nome do usuário é cadastrado com sucesso |
+| CT004_02 | Nome Inválido | O sistema notifica que o nome do usuário é inválido e solicita uma nova entrada de dados |
+| CT004_01 | Segundo nome Válido | O segundo nome do usuário é cadastrado com sucesso |
+| CT004_02 |Segundo nome Inválido | O sistema notifica que o segundo nome do usuário é inválido e solicita uma nova entrada de dados |
+| CT004_01 | E-Mail Válido | O e-mail digitado é cadastrado com sucesso |
+| CT004_02 | E-Mail Inválido | O sistema informa que o e-mail digitado é inválido e solicita uma nova entrada de dados |
+| CT004_02 | E-Mail Já Cadastrado | O sistema informa que o e-mail digitado já foi cadastrado |
+| CT004_01 | Senha Válida | A senha do usuário é cadastrada com sucesso |
+| CT004_02 | Senha Inválida | O sistema informa ao usuário que a senha digitada é inválida e solicita uma nova entrada de dados |
