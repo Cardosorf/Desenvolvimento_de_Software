@@ -63,7 +63,7 @@
 
 <p align="justify">Especificação dos Casos de Uso.</p>
 
-##1.5. Escopo
+##1.5. Visão Geral
 <p align="justify">O que objetiva este documento é levantar os requisitos suplementares do sistema, portanto os requisitos não funcionais como: confiabilidade, usabilidade, suportabilidade, etc.</p>
 
 #2.  Usabilidade
