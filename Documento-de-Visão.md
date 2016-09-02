@@ -15,7 +15,9 @@
 | 20/08/2016 | 2.0 | Requisitos não funcionais usabilidade e confiabilidade | Thiago Nogueira |
 | 21/08/2016 | 2.1 | Adição de gráfico do ambiente do usuário | Marcelo Augusto |
 | 21/08/2016 | 2.2 | Mudança da tabela de declaração da posição do produto | Rodrigo Oliveira |
-
+| 22/08/2016 | 2.3 | Mudanças na visão geral da solução  |Josué Nascimento|
+| 25/08/2016 | 2.4 | Adição de RNF | Marcelo Augusto |
+| 26/08/2016 | 2.5 | Correção de requisitos não funcionais | Thiago Freire |
 ***
 
 #Índice
@@ -38,26 +40,20 @@
  2. [Declaração de posição do produto](#42-declaração-de-posição-do-produto)
  3. [Recursos do produto](#43-recursos-do-produto)
 5.  [Requisitos não funcionais](#5--requisitos-não-funcionais)
- 1. [Usabilidade](#51-usabilidade)
- 2. [Confiabilidade](#52-confiabilidade)
- 3. [Desempenho](#53-desempenho)
- 4. [Suportabilidade](#54-suportabilidade)
- 5. [Outros](#55-outros)
-     1. [Licença, Segurança e Instalação](#551-licença-segurança-e-instalação)
 6.  [Referências](#6-referências)
 
 ***
 
-#1  Introdução
+#1.  Introdução
 
 <p align="justify">Este documento apresenta uma visão geral do projeto, definindo as necessidades, características e requisitos do sistema.</p>
 
-##1.1 Objetivos
+##1.1. Objetivos
 
 <p align="justify">Os objetivos deste documento são auxiliar na obtenção de informações dos usuários a cerca do aplicativo WikilegisApp,  do projeto ajudar a equipe desenvolvedora a ter uma visão alinhada sobre o escopo, melhorar a avaliação do desenvolvimento do software e validar com o cliente a visão da equipe de desenvolvimento acerca do aplicativo.</p>
 
-##1.2 Visão geral da solução
-####_<p align="right">"A dinâmica atual da democracia representativa em nosso país revela uma triste realidade, a parcela da população que se posiciona e questiona ativamente as irregularidades praticadas e a não representatividade dos partidos políticos e governantes do país é bastante reduzida".(FONSECA, 2009, p. 15) .</p>_
+##1.2. Visão geral da solução
+<p align="justify">"A dinâmica atual da democracia representativa em nosso país revela uma triste realidade, a parcela da população que se posiciona e questiona ativamente as irregularidades praticadas e a não representatividade dos partidos políticos e governantes do país é bastante reduzida" (FONSECA, 2009, p. 15).</p>
 
 <p align="justify">Assim, o que ocorre em nosso sistema político é que grande parcela da população não tem acesso a meios para contribuir com a criação das leis ou não possuem interesse em entrar em um computador para acessar uma aplicação web e contribuir.</p>
 <p align="justify">O sistema WikilegisApp é a transformação da plataforma Web em uma plataforma mobile e vem como uma forma de promover uma interação maior entre a população e seus representantes políticos, promovendo um ambiente onde qualquer cidadão com um smartphone possa analisar e contribuir com os projetos de leis.</p>
@@ -83,11 +79,11 @@
   </tr>
 </table>
 
-#2  Descrição do usuário
+#2.  Descrição do usuário
 
 <p align="justify">Como o aplicativo traz uma oportunidade de políticos apresentarem suas propostas de lei, criadas na plataforma web do Wikilegis, e dos cidadãos poderem analisar e contribuir com elas, os usuários serão em sua maioria, cidadãos e políticos brasileiros.</p>
 
-##2.1 Usuário
+##2.1. Usuário
 
 | Tipo | Descrição | Principais Responsabilidades |
 | :---: | :---: | --- |
@@ -95,14 +91,14 @@
 |Parlamentar|Representantes legais da população.|Acompanhar as sugestões para suas propostas de lei.|
 
 
-##2.2 Principais necessidades do usuário
+##2.2. Principais necessidades do usuário
 
 | Necessidade | Problema | Solução atual | Solução proposta |
 | :---: | :---: | :---: | :---: |
 |O usuário tem a necessidade de analisar e contribuir com os projetos de leis.|A dificuldade de alcançar os políticos para se fazer sugestões em projetos de lei de forma prática, acessível e que permita mobilidade.|Um sistema web que possibilita ao usuário analisar e contribuir com os projetos de leis propostos pelos deputados.|Um sistema mobile que possibilita ao usuário analisar e contribuir com os projetos de leis propostos pelos deputados.|
 |O usuário tem a necessidade de acompanhar o debate da sociedade acerca de seus projetos de lei.|A dificuldade de alcançar os cidadãos de uma maneira prática e abrangente para receber sugestões acerca de seus projetos de lei.|Um sistema web que possibilita ao usuário expor projetos de leis para debate com a sociedade.|Um sistema mobile que possibilita ao usuário expor projetos de leis para debate com a sociedade.|
 
-##2.3 Ambiente do usuário
+##2.3. Ambiente do usuário
 
 <p align="justify">Para que o usuário possa usar o aplicativo com maior mobilidade e para que ele atinja uma gama maior de usuários, visto que 80,4% (<a href="http://agenciabrasil.ebc.com.br/economia/noticia/2016-04/celular-e-principal-meio-de-acesso-internet-na-maioria-dos-lares">IBGE</a>) dos usuários de internet no Brasil em 2016 já utilizam smartphones para acesso e 91,8% (<a href="https://macmagazine.com.br/2016/02/01/ios-fechou-2015-com-apenas-28-de-mercado-no-brasil-android-dominou-com-918/">Kantar Worldpanel</a>) dos usuários que utilizam smartphone utilizavam o sistema operacional Android até 2015, o sistema será desenvolvido para o sistema operacional Android, esperando-se que o usuário possua um telefone celular com este sistema, e que o mesmo possua acesso à internet.</p>
 
@@ -113,11 +109,11 @@
 </figure>
 
 
-##2.4 Alternativas e competição
+##2.4. Alternativas e competição
 
 <p align="justify">Nesta seção serão descritos os principais produtos semelhantes encontrados encontrados.</p>
 
-###2.4.1 Plataforma web Wikilegis
+###2.4.1. Plataforma web Wikilegis
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/imageVisao2.png" alt="Plataforma web wikilegis" align="middle">
@@ -127,7 +123,7 @@
 <br>
 <p align="justify">O uso de celular para acessar a internet ultrapassou, de acordo com o IBGE em 2016, o do computador pela primeira vez no Brasil, com esta grande crescente de utilização de internet no celular está surgindo cada vez mais a necessidade de fazer plataformas mobiles de diversas aplicações. O versão mobile Wikilegis trás consigo a mudança de plataforma tornando assim a aplicação mais abrangente.</p>
 
-###2.4.2 SigaLei
+###2.4.2. SigaLei
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao3.png" align="middle">
@@ -137,7 +133,7 @@
 <br>
 <p align="justify">Trata-se de um aplicativo informativo que tem como principal objetivo, mostrar as leis que estão em trâmite de aprovação no Congresso nacional e assembleias de Minas Gerais. Os usuários podem acompanhar as discussões a respeito das leis e ser informado das atualizações de projetos de leis do seu interesse.</p>
 
-###2.4.3 Monitora, Brasil!
+###2.4.3. Monitora, Brasil!
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao4.png" align="middle">
@@ -147,7 +143,7 @@
 <br>
 <p align="justify">Monitora, Brasil é um aplicativo para Android que possibilita a qualquer pessoa pesquisar e monitorar o que os Deputados Federais estão fazendo na Câmara dos Deputados. Com ele, é possível verificar a assiduidade, os projetos propostos, rankings, Twitter e outras informações.</p>
 
-###2.4.4 Infoleg
+###2.4.4. Infoleg
 
 <figure>
     <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/ImageVisao5.png" align="middle">
@@ -157,7 +153,7 @@
 <br>
 <p align="justify">Aplicativo com informações das atividades legislativas da Câmara dos Deputados, com informações sobre deputados, projetos de lei e outras proposições, sessões no plenário, reuniões nas comissões e legislação.</p>
 
-#3  Envolvidos
+#3.  Envolvidos
 
 | Nome | Descrição | Principais Responsabilidades |
 | :---: | :---: | --- |
@@ -173,21 +169,21 @@
 |Tiago Assunção|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
 |Lucas Brilhante|Membro da equipe de gerenciamento.|Gerir o projeto, planejando e administrando o andamento a fim de garantir que o produto final seja conforme especificado.|
 |Victor Hugo|Coach da equipe de desenvolvimento|Auxiliar no desenvolvimento do projeto|
-|?|Coach da equipe de gerenciamento.|Auxiliar a equipe no gerenciamento do projeto|
+|Emilie Morais|Coach da equipe de gerenciamento.|Auxiliar a equipe no gerenciamento do projeto|
 
 
 
-#4  Visão geral do produto
+#4.  Visão geral do produto
 
 <p align="justify">O aplicativo tem por funcionalidade principal, a contribuição e interação de usuários com as propostas de leis dos parlamentares.</p>
 
 <p align="justify">Usuários cadastrados podem curtir ou descurtir um artigo ou comentário de uma proposta de lei, sugerir uma alteração no artigo de uma proposta de lei, comentar em artigos de propostas de lei e escolher receber notificações via e-mail a respeito de alterações em um projeto. Já os usuários não cadastrados, poderão apenas visualizar as informações e comentários dos projetos de leis.</p>
 
-##4.1 Perspectiva do produto
+##4.1. Perspectiva do produto
 
 <p align="justify">Tem por expectativa que o aplicativo fomente o interesse do cidadão brasileiro em verificar quais as leis estão em trâmite para serem aprovados, podendo assim, contribuir com as mesmas.</p>
 
-##4.2 Declaração de posição do produto
+##4.2. Declaração de posição do produto
 
 <p align="justify">Na tabela a seguir é possível ver a posição do produto:</p>
 
@@ -220,7 +216,7 @@
 
 
 
-##4.3 Recursos do produto
+##4.3. Recursos do produto
 
 <p align="justify">O aplicativo Wikilegis oferece as seguintes funcionalidades ao usuário:</p>
 
@@ -249,35 +245,12 @@
 | Seguir projeto| O usuário se mantém informado sobre a evolução de um projeto de lei , recebendo periodicamente notificação. |
 | Pesquisar projeto| O usuário consegue encontrar o projeto de forma mais rápida e prática. |
 
-#5  Requisitos não funcionais
+#5.  Requisitos não funcionais
 
-##5.1 Usabilidade
+<p align="justify">Os requisitos não funcionais especificarão requisitos relacionados a: Usabilidade, Confiabilidade, Desempenho, Suportabilidade e Outros. Eles podem ser visualizados na <a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar">Especificação Suplementar</a>.
+</p>
 
-<p align="justify">O aplicativo deverá possuir boa usabilidade, de modo que qualquer usuário faça uso correto do sistema.</p>
-
-<p align="justify">Em caso de erro, o aplicativo deverá apresentar mensagens de fácil entendimento, para ajudar o usuário a identificar o problema.</p>
-
-##5.2 Confiabilidade
-
-<p align="justify">O aplicativo deve funcionar 24 horas por dia , 7 dias na semana. Além disso, não deve haver erro nas informações apresentadas sobre as leis.</p>
-
-##5.3 Desempenho
-
-<p align="justify">O sistema deve ser fluido e funcional, executando de forma que não comprometa a usabilidade dos  celulares.</p>
-
-##5.4 Suportabilidade
-
-<p align="justify">O sistema deverá ser suportado pelo sistema operacional Android versão 4.4 (KitKat) ou superior.</p>
-
-<p align="justify">Para o funcionamento correto do aplicativo, é necessário que o dispositivo mobile possua acesso à internet para poder interagir com a plataforma do wikilegis, que é de onde provém as informações dinâmicas.</p>
-
-##5.5 Outros
-
-###5.5.1 Licença, Segurança e Instalação
-
-<p align="justify">O aplicativo deverá ser instalado através do aplicativo Google Play. Deve-se deixar claro ao usuário que o sistema será seguro, não causando danos ao celular do usuário, além disso, as informações pessoais do usuário devem ser confidenciais.</p>
-
-#6 Referências
+#6. Referências
 
 <p align="justify">FONSECA, Jumária Fernandes Ribeiro. <strong>O Orçamento Participativo e a Gestão Democrática de Goiânia</strong>. Dissertação (Mestrado em Desenvolvimento e Planejamento Territorial). Programa de Pós-Graduação em Desenvolvimento e Planejamento Territorial da Universidade Católica de Goiás. Goiânia, 2009. Disponível em: http://www.portalconscienciapolitica.com.br/ciber-democracia/democracia-participativa/. Acesso em:  20 set. 2016.
 </p>

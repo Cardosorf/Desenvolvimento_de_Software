@@ -1,6 +1,7 @@
 h3. Release 01
 
 # "Folha de Estilo":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Folha-de-Estilo
+# "Atas de Reuniões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Atas-de-Reuni%C3%B5es
 
 *Gestão de Portfólios e Projetos*
 
@@ -9,18 +10,20 @@ h3. Release 01
 # "Plano de Gerenciamento de Configuração":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o
 # "Plano de Gerenciamento de Comunicação":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o
 # "Plano de Gerenciamento de Tempo":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+## "Cronograma":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma
 # "Plano de Gerenciamento de Escopo":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Plano de Gerenciamento de Riscos":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Plano de Gerenciamento de Custos":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Plano de Gerenciamento de Aquisicões":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Plano de Gerenciamento de Qualidade":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+# "Plano de Gerenciamento de Custos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-dos-Custos
+# "Plano de Gerenciamento de Aquisicões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es
+# "Plano de Gerenciamento de Qualidade":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade
 # "Plano de Gerenciamento de Integração":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
 # "Plano de Gerenciamento das Partes Interessadas":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Plano de Gerenciamento de Recursos Humanos":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+# "Plano de Gerenciamento de Recursos Humanos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos
 
 *Métodos de Desenvolvimento de Software*
 # "Documento de Visão":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Documento-de-Vis%C3%A3o
-# "Documento de Arquitetura":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Especificação dos Casos de Uso":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Especificação dos Casos de Teste":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
-# "Relatório de Execução dos Testes":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+# "Documento de Arquitetura":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Documento-de-Arquitetura
+# "Especificação dos Casos de Uso":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-de-caso-de-uso
+# "Especificação dos Casos de Teste":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-de-casos-de-teste
+# "Relatório de Execução dos Testes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Relat%C3%B3rio-de-execu%C3%A7%C3%A3o-dos-casos-de-testes
+# "Especificação Suplementar":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar

@@ -7,18 +7,22 @@
 | 16/08/2016 | 1.2 | Ferramentas(Chef) | Tiago Assunção |
 | 17/08/2016 | 1.3 | Modelo do Processo | Izabela Cardoso |
 | 17/08/2016 | 1.4 | Atualizando utilização do Git | Izabela Cardoso |
-| 17/08/2016 | 1.5 | Atualizando utilização do padrão de nome de branch Izabela Cardoso |
+| 17/08/2016 | 1.5 | Atualizando utilização do padrão de nome de branch | Izabela Cardoso |
+| 01/09/2016 | 1.6 | Instalação e configuração do Checkstyle | Pedro Ivo |
 
 ***
 
 # Sumário
 1.  [Introdução](#1-Introdução)
 2.  [Ferramentas](#2-ferramentas)
- 1. [Git e GitHub](#21-git-e-github)
-     1. [Utilização](#211-utiliza%C3%A7%C3%A3o)
- 2. [Chef](#22-chef)
-     1. [Instalação do ambiente (Chef)](#221-instala%C3%A7%C3%A3o-do-ambiente-chef)
-
+   * [2.1 Git e GitHub](#21-git-e-github)
+      * [2.1.1 Utilização](#211-utiliza%C3%A7%C3%A3o)
+   * [2.2 Chef](#22-chef)
+      * [2.2.1 Instalação do ambiente (Chef)](#221-instala%C3%A7%C3%A3o-do-ambiente-chef)
+   * [2.3 Checkstyle](#23-checkstyle)
+      * [3.1.1 Instalação no Android Studio](#231-instala%C3%A7%C3%A3o-no-android-studio)
+      * [3.1.2 Configuração do Checkstyle](#232-configura%C3%A7%C3%A3o-do-checkstyle)
+   
 # 1. Introdução
 
 Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
@@ -69,4 +73,58 @@ No primeiro passo, basicamente foi feita a atualização do sistema e instalaç�
 
 Posteriormente, foram obtidos os arquivos fontes necessários para executar o ambiente: android-studio, sdk. Estes foram manipulados em seus diretórios corretos e instalados.
 
-Para finalizar, utilizamos alguns parâmetros para instalação e configuração de pacotes advindos do sdk. Dessa maneira, os desenvolvedores tiveram a única necessidade de rodar o script para executar toda a instalação. 
+Para finalizar, utilizamos alguns parâmetros para instalação e configuração de pacotes advindos do sdk. Dessa maneira, os desenvolvedores tiveram a única necessidade de rodar o script para executar toda a instalação.
+
+## 2.3 Checkstyle
+
+O Checkstyle, conforme descrito no [Plano de Qualidade](), é uma ferramenta de análise estática para análise de códigos fonte JAVA, produzido pela IDEA. Promove uma análise em tempo real e sob demanda de padrões de código que devem ser seguidos pelos desenvolvedores. Ela é totalmente configurável e possui documentação disponível para os usuários, para mais informações, acesse: [Checkstyle Documentation](http://checkstyle.sourceforge.net/)
+
+### 2.3.1 Instalação no Android Studio
+
+Na IDE do Android Studio selecione, **File > Settings...**, e depois clique em **Plugins**, e selecione o botão **Browse Repositories...** conforme a figura abaixo:
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_022.png|width=600px|height=400px]]
+
+Na nova janela que se abriu clique no campo de busca e pesquise por "Checkstyle", selecione o **CheckStyle-IDEA** e clique em **Install**.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_024.png|width=600px|height=400px]]
+
+Aguarde o download e instalação do plugin e clique em **Restart Android Studio**.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_025.png|width=600px|height=400px]]
+
+### 2.3.2 Configuração do Checkstyle
+
+Na IDE do Android Studio, selecione **File > Settings...**, selecione **Other Settings** e depois clique em Checkstyle. Na interface lateral, próximo ao campo **Configuration File** selecione o botão **+** para adicionar um arquivo de configuração.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_026.png|width=600px|height=400px]]
+
+Adicione uma descrição para o arquivo de configuração, selecione o marcador **"Use a local Checkstyle file"**, e clique no botão **Browse**.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_027.png|width=600px|height=400px]]
+
+Na nova janela que se abriu, busque a pasta checkstyle, localizada na pasta do repositório do WikiLegis, e escolha o **wikilegis_check.xml** e clique em **OK**.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_028.png|width=600px|height=400px]]
+
+Na janela subsequente selecione o botão **Next**.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_029.png|width=600px|height=400px]]
+
+Clique no botão **Finish** na janela de confirmação de instalação.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_030.png|width=600px|height=400px]]
+
+Selecione o arquivo adicionado ao Android Studio, ative-o e clique em **OK**.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_031.png|width=600px|height=400px]]
+
+Na IDE do Android Studio, na barra inferior, com um projeto aberto, selecione **Checkstyle**. Clique no drop-down list chamado **Rules**.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_032.png|width=1100px|height=300px]]
+
+Selecione o arquivo de configuração adicionado.
+
+[[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_033.png|width=600px|height=400px]]
+
+Pronto! Basta rodar o Checkstyle no arquivo ou módulo do sistema em implementação para realizar a verificação de sintaxe.

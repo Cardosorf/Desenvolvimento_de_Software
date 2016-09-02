@@ -1,11 +1,3 @@
-### Histórico de Revisão
-
-| Data | Versão | Descrição | Autor(es) |
-| :---: | :---: | --- | :---: |
-| 17/08/2016 | 1 | Elaboração Inicial | Lucas Brilhante |
-
-***
-
 # Sumário
 
 1.  [Introdução](#1-Introdução)
@@ -42,11 +34,11 @@ A comunicação dentro da equipe (desenvolvedores da disciplina de MDS e gerente
 
 ## 3.2. Comunicação externa
 
-As informações sobre o projeto serão disponibilizados através dos artefatos produzidos baseados no processo Unificado (RUP). Estes documentos são:
+A comunicação com o cliente é feita através de e-mail,e quando necessário, reuniões presenciais no Laboratório hacker da câmera legislativa. As informações sobre o projeto serão disponibilizados através dos artefatos produzidos baseados no processo Unificado (RUP). Estes documentos são:
 
-| Artefato | objetivos | Informações |
-| :---: | :---: | :---: |
-| Documento de abertura do projeto | Formalizar o inicio do projeto. | |
-| Documento de visão | Alinhar visão de todos os steakholders sobre o projeto. | |
-| Documento de arquitetura | Apresentar uma visão arquitetural que especifica a implementação para o desenvolvedor. | |
-| Planos do projeto | Especificam o planejamento, monitoramento e controle do projeto do ponto de vista dos gerentes. | |
+| Artefato | objetivos |
+| :---: | :---: |
+| Documento de abertura do projeto | Formalizar o inicio do projeto. |
+| Documento de visão | Alinhar visão de todos os steakholders sobre o projeto. |
+| Documento de arquitetura | Apresentar uma visão arquitetural que especifica a implementação para o desenvolvedor. |
+| Planos do projeto | Especificam o planejamento, monitoramento e controle do projeto do ponto de vista dos gerentes. |
