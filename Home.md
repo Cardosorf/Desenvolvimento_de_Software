@@ -4,6 +4,8 @@
 
 <p align="justify">O Wikilegis é um projeto desenvolvido pelo Laboratório Hacker da Câmara dos Deputados, com o objetivo de permitir ao(à) cidadão(ã) a propor alterações à redação de projetos de lei. O projeto Wikilegis mobile visa implementar uma versão para Android da aplicação web do Wikilegis.</p>
 
+## Equipe
+
 | Nome                  | Disciplina | E-mail                     | Github              |
 |-----------------------|:----------:|----------------------------|---------------------|
 | Lucas Brilhante           | GPP        | lbrilhante82@gmail.com  | [@lucasBrilhante](https://github.com/lucasBrilhante)     |
