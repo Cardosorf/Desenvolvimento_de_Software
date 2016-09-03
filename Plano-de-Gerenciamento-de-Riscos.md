@@ -2,7 +2,8 @@
 
 |Responsável|Descrição|Data|
 |-----------|---------|----|
-|Izabela Cardoso| Criação da introdução |02/09/2016|
+|Izabela Cardoso| Criação da introdução e identificação dos riscos |02/09/2016|
+|Izabela Cardoso| Adicionando probabilidade |03/09/2016|
 
 ## 1. Introdução
 
@@ -36,3 +37,24 @@
 | R08        | Redução de Membros | Sobrecarga de trabalha aos demais membros | Desmotivação |
 | R09        | Erros de Estimativa e Planejamento | Membros sub/sobrecarregados, custo muito alto ou muito baixo | Inexperiência nas atividades de estimativa e planejamento |
 | R10        | Falhas de comunicação entre a equipe | Retrabalho, execução de tarefas incorretamente, sobrecarga em membros específicos | Falta de organização da equipe |
+
+## 3. Análise quantitativa dos riscos
+
+Para a análise dos riscos foram definidos os níveis de probabilidade, impacto e prioridade utilizados no projeto.
+
+### 3.1. Probabilidade
+
+|Probabilidade|Intervalo|Representação|
+|-------------|---------|-------------|
+|Muito Baixa|Menor que 20%|1|
+|Baixa|De 21% a 40%|2|
+|Média|De 41% a 60%|3|
+|Alta|De 61% a 80%|4|
+|Muito Alta|Acima de 80%|5|
+
+### 3.2. Impacto 
+
+### 3.3. Prioridade
+
+
+## 4. Planejamento de respostas ao riscos
