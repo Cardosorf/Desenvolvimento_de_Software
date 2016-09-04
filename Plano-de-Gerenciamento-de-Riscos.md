@@ -86,22 +86,22 @@ A partir desta matriz foram obtidos os níveis de prioridade utilizados.
 
 ### 4.1. Riscos negativos
 
-|ID|Descrição|Probabilidade|Impacto|Prioridade|Estratégia|Resposta Recomendada|
-|--|---------|----------|-------------|-------|----------|--------------------|
-| R01         | Dificuldade com as tecnologias utilizadas | Alta (4) | Alto (4) | Alta (16) | Prevenir | Realização de treinamentos e transferência de conhecimentos entre os membros | 
-| R02         | Produto não atender ao esperado pelo cliente | Baixa (2) | Alto (4) | Média (8) | Prevenir e Mitigar | Realização de validações com o cliente a cada iteração |
-| R03         | Produto possuir desempenho ruim | Baixa (2) | Alto (4) | Média (8) | Prevenir e Mitigar | Realizar análises constantes do desempenho, transferir conhecimentos sobre características que influem no desempenho, Refatorar código buscando melhorar o desempenho |
-| R04         | Mudança no calendário acadêmico | Baixa (1) | Alto (4) | Média (4) | Mitigar | Trabalhar de casa em caso de greve ou Renegociar com cliente cronograma de acordo com novo calendário |
-| R05         | Redução do uso da plataforma escolhida |  Baixa (1) | Alto (4) | Média (4) | Mitigar | Reavaliar requisitos e ambiente do usuário |
-| R06         | Atraso nas entregas das atividades | Alto (4) | Médio (3) | Média (3) | Mitigar | Replanejar o cronograma e realizar reuniões de acompanhamento |
-| R07         | Mudanças no Escopo | Média (3) | Médio (3) | Média (9) | Prevenir e Mitigar | Validar escopo com o cliente e replanejar cronograma no caso de mudanças|
-| R08        | Redução de Membros | Média (3) | Médio (3)  | Média (9) | Prevenir e Mitigar | Integrar e motivar a equipe, e em caso de redução de membros, realocar as atividades e refazer planejamento |
-| R09        | Erros de Estimativa e Planejamento | Alta (4) | Médio (4) | Alto (16) | Prevenir e Mitigar | Pesquisar projetos anteriores e utilizar técnicas para embasar o planejamento, Replanejar conforme atividades anteriores | 
-| R10        | Falhas de comunicação entre a equipe | Média (3) | Médio (3) | Médio (9) | Prevenir e Mitigar | Estabelecendo ferramentas de comunicação eficientes e reuniões fixas semanais, Agendando reuniões pontuais quando necessário para alinhar a equipe |
+| ID  | Descrição | Probabilidade | Impacto | Prioridade | Estratégia | Resposta Recomendada |
+|-----|---------|-------------|-------|----------|----------|--------------------|
+| R01 | Dificuldade com as tecnologias utilizadas | Alta (4) | Alto (4) | Alta (16) | Prevenir | Realização de treinamentos e transferência de conhecimentos entre os membros | 
+| R02 | Produto não atender ao esperado pelo cliente | Baixa (2) | Alto (4) | Média (8) | Prevenir e Mitigar | Realização de validações com o cliente a cada iteração |
+| R03 | Produto possuir desempenho ruim | Baixa (2) | Alto (4) | Média (8) | Prevenir e Mitigar | Realizar análises constantes do desempenho, transferir conhecimentos sobre características que influem no desempenho, Refatorar código buscando melhorar o desempenho |
+| R04 | Mudança no calendário acadêmico | Baixa (1) | Alto (4) | Média (4) | Mitigar | Trabalhar de casa em caso de greve ou Renegociar com cliente cronograma de acordo com novo calendário |
+| R05 | Redução do uso da plataforma escolhida |  Baixa (1) | Alto (4) | Média (4) | Mitigar | Reavaliar requisitos e ambiente do usuário |
+| R06 | Atraso nas entregas das atividades | Alto (4) | Médio (3) | Média (3) | Mitigar | Replanejar o cronograma e realizar reuniões de acompanhamento |
+| R07 | Mudanças no Escopo | Média (3) | Médio (3) | Média (9) | Prevenir e Mitigar | Validar escopo com o cliente e replanejar cronograma no caso de mudanças|
+| R08 | Redução de Membros | Média (3) | Médio (3)  | Média (9) | Prevenir e Mitigar | Integrar e motivar a equipe, e em caso de redução de membros, realocar as atividades e refazer planejamento |
+| R09 | Erros de Estimativa e Planejamento | Alta (4) | Médio (4) | Alto (16) | Prevenir e Mitigar | Pesquisar projetos anteriores e utilizar técnicas para embasar o planejamento, Replanejar conforme atividades anteriores | 
+| R10 | Falhas de comunicação entre a equipe | Média (3) | Médio (3) | Médio (9) | Prevenir e Mitigar | Estabelecendo ferramentas de comunicação eficientes e reuniões fixas semanais, Agendando reuniões pontuais quando necessário para alinhar a equipe |
 
 ### 4.2. Riscos Positivos
 
-|ID|Descrição|Probabilidade|Impacto|Prioridade|Estratégia|Resposta Recomendada|
-|--|--------|--------------|--------|------|-----------|----------|
-| R11        | Entregas antes do previsto | Baixa (2) | Alto (4) | Médio (8) | Aceitar | Evoluir atividades concluída e executar novas atividades |
-| R12        | Interesse do cliente em continuar o projeto | Alta (4) | Alto (4) | Alto (16) | Aceitar | avaliar possíveis evoluções |
+| ID | Descrição | Probabilidade | Impacto | Prioridade | Estratégia | Resposta Recomendada |
+|-----|---------|-------------|-------|----------|----------|----------|
+| R11 | Entregas antes do previsto | Baixa (2) | Alto (4) | Médio (8) | Aceitar | Evoluir atividades concluída e executar novas atividades |
+| R12 | Interesse do cliente em continuar o projeto | Alta (4) | Alto (4) | Alto (16) | Aceitar | Avaliar possíveis evoluções |
