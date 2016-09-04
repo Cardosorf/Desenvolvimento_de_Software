@@ -4,6 +4,7 @@
 |-----------|---------|----|
 |Izabela Cardoso| Criação da introdução e identificação dos riscos |02/09/2016|
 |Izabela Cardoso| Adicionando probabilidade |03/09/2016|
+|Izabela Cardoso| Adicionando impacto e prioridade |04/09/2016|
 
 ## 1. Introdução
 
@@ -54,7 +55,26 @@ Para a análise dos riscos foram definidos os níveis de probabilidade, impacto 
 
 ### 3.2. Impacto 
 
+|Impacto|Descrição|Representação|
+|-------------|---------|-------------|
+|Muito Baixo|Impacto inexpressivo no desenvolvimento do projeto|1|
+|Baixo|Pouco impacto no desenvolvimento do projeto|2|
+|Médio|Impacto que prejudica o projeto porém de fácil recuperação|3|
+|Alto|Impacto traz grave prejuízo ao projeto|4|
+|Muito Alto|O impacto inviabiliza o projeto|5|
+
 ### 3.3. Prioridade
 
+Para o auxílio das definições dos níveis de prioridade dos requisitos foi utilizada a matriz de probabilidade X impacto. Nessa matriz, os impactos e probabilidades são representados nas linhas e colunas, sendo cada uma das células o produto dos valores de representação do impacto de sua respectiva linha e da probabilidade de sua respectiva coluna.
+
+![Matriz Probabilidade / Impacto](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-WikiLegis/imagens/tabela.png)
+
+A partir desta matriz foram obtidos os níveis de prioridade e estabelecidas as respostas para cada um deles.
+
+|Nível de Prioridade|Intervalo|Ação de resposta|
+|-------------------|---------|----------------|
+|Baixo|1 à 5|Aceitação|
+|Médio|6 à 14|Mitigação|
+|Alto|15 à 25|Prevenção e Mitigação|
 
 ## 4. Planejamento de respostas ao riscos
