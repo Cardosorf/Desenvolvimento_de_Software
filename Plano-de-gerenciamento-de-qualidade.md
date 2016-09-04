@@ -31,6 +31,8 @@ Métricas de código-fonte são importantes para garantir que o produto está se
 
 O Checkstyle é um plugin para a plataforma JetBrains IntelliJ IDEA, que promove ao usuário um feedback em tempo real para um determinado conjunto de regras de sintaxe de uma linguagem de programação. Este plugin verifica códigos escritos no formato _.java_ e gera _warnings_ na IDE em que é instalado, caso alguma regra de sintaxe não venha a ser rigorosamente seguida pelo programador.
 
+O uso dessa ferramenta permitirá que o sistema seja implementado de forma padrão por todos desenvolvedores. Tal fato é importante ao stakeholder, pois não trabalham oficialmente com a linguagem de implementação do aplicativo, e seria um facilitador para eles que irão manter o aplicativo após o fim do projeto.
+
 Mais informações podem ser encontradas nos links:
 
 [CheckStyle Documentation](http://checkstyle.sourceforge.net/)
@@ -50,6 +52,27 @@ Esta ferramenta permitirá que a equipe acompanhe como estão sendo realizadas a
 O Espresso é uma ferramenta para Testes de Interface de Usuário da plataforma Android. Com tal ferramenta a equipe garante não realizar somente testes unitários na aplicação, permite verificar de forma automatizada a interação que um usuário teria com a interface do aplicativo. Garante, também, um aumento na cobertura de testes do projeto, visto que o método _**onCreate**_ das classes controladoras de interface não pode ser testado com testes unitários.
 
 ##4.4 Mezuro
+
+O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza de duas outras ferramentas o Kalibro e o Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal.
+
+A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são relevantes à equipe para garantir a qualidade de implementação do software.
+
+| Métrica (PT-BR) | Métrica (EN-US) | Código | Escopo da Métrica |
+| --- | --- | --- | --- |
+| Conexões Aferentes | Afferents Connections | acc | Acoplamento |
+| Média da Complexidade Ciclomática | Average Cyclomatic Complexity | accm | Complexidade |
+| Média do Tamanho dos Métodos | Average Method Lines of Code | amloc | Tamanho |
+| Complexidade Estrutural | Structural Complexity | sc | Coesão |
+
+### 4.4.1 Uma Breve Descrição das Métricas
+
+#### 4.4.1.1 Conexões Aferentes:
+
+#### 4.4.1.2 Complexidade Ciclomática:
+
+#### 4.4.1.3 Tamanho dos Métodos:
+
+#### 4.4.1.4 Complexidade Estrutural:
 
 
 #X. Referências
