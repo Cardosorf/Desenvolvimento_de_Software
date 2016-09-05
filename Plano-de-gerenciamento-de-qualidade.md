@@ -85,7 +85,7 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 
 ##OBJETIVOS ESTRATÉGICOS
 
-O.1 - Boas entregas
+O.1 - Qualidade do produto
 
 |Analisar| código|
 |:---:|:---:|
