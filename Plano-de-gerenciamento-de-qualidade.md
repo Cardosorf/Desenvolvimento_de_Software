@@ -1,27 +1,42 @@
 #1. Introdução
 
-Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software, documentação e produtividade dos membros presentes no projeto Wikilegis mobile. Para isso serão necessárias métricas que indiquem o _status_ do projeto, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.
+Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software e artefatos relacionados presentes no projeto Wikilegis mobile. Para que o monitoramento e controle aconteça é necessário adquirir dados que indiquem características relevantes, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.
 
 #2. Definições
 
-Medir é atribuir valores à atributos de uma entidade, dessa forma podendo avaliar esta entidade de acordo com regras bem definidas, não dependendo diretamente de interpretações subjetivas. Sendo assim, medir, monitorar e controlar o projeto de software em sua fase de desenvolvimento é fundamental para garantir sua qualidade.[1] 
+##2.1. Métricas de software
+
+Métricas de software estão lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) 
+
+De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:
+* Simples e calculadas de forma precisa. Deve ser claro como a métrica é coletada.
+* Objetiva, ou seja, deve atender um objetivo do projeto.
+* apresentar uma boa relação custo-benefício.
+* Valida, isto é, deve medir o que foi determinada a medir.
+* Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.
+
+##2.2. Por que medir?
+
+Nos anos 90 a industria de software crescia a um ritmo assustador. Até então 50% de toda a industria empregadora já contava com a industria de software. Mas apesar do crescimento a industria de software ainda apresentava grandes problemas. Dentre eles estavam: Estimativa de custo e prazo absurdamente imprecisos; Baixa qualidade de software, com baixos níveis de confiabilidade e; a produtividade dos times não crescia tanto quanto a demanda de novos softwares. (1988, Mills) 
+
+Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo, melhorar a qualidade do software e aumentar a produtividade. Acontece que isso pode ser alcançado através de uma gerência de projetos mais eficaz, que por sua vez, pode ser alcançado por um melhor uso das métricas. (1988, Mills)
 
 #3. Estratégias de controle de qualidade
 
-A qualidade do projeto depende de muitas variáveis, por isso, várias estratégias diferentes devem ser tomadas a fim de assegurar a qualidade do produto.
+A fim de assegurar a qualidade do produto de software e seu desenvolvimento foram adotadas as seguintes estratégias.
 
-##3.1. Treinamentos
+##3.1 Inspeção e validação dos artefatos
 
-A fim de garantir um certo nível de maturidade da equipe de desenvolvimento foram planejados treinamentos relacionados aos entregáveis do projeto.
+Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. 
 
-##3.2 Inspeção e validação dos artefatos
-
-Os documentação produzida na fase de iniciação e elaboração dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista dos steakholders. Estes são: Os gerentes(GPP) que fazem uma validação minuciosa e os couches (Monitores) que se espera uma assistência sobre duvidas que possam aparecer, já que são a referência de experiência de outros semestres na disciplinas.
+* Os gerentes(GPP) devem ler e fazer uma validação nos artefatos produzidos por eles e pela equipe de desenvolvimento(MDS).
+* Os couches (Monitores) são responsáveis por ajudar a equipe com dúvidas na documentação. Essas dúvidas podem surgir na hora da produção ou da validação.
+* O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. 
 
 Também serão feitas reuniões com o cliente para validar a corretude das informações levantadas nos requisitos. Essas reuniões podem ser vistas no [cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
 (adicionar processo)
 
-##3.3 Métricas de código
+##3.2 Métricas de código
 
 Métricas de código-fonte são importantes para garantir que o produto está sendo desenvolvido dentro dos padrões de qualidade pré-definidos. Todos os conceitos relacionados a métricas de código estão no [apêndice A](#Apêndice A) deste documento, atrás do plano de medição GQM (Goal, Question, Métric). Porque utilizar-se deste modelo de medição? Para garantir que a medição está dentro dos objetivos estratégicos do projeto. Isso ocorro através da arvores de rastreabilidade, que sempre mapeia a métrica com um objetivo. Isto torna mais fácil identificar métricas que não atendem mais as necessidades do projeto.
 
@@ -77,7 +92,8 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 
 #X. Referências
 
-[1] Carlos Morais de Oliveira Filho. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, Universidade de São Paulo.[URL.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
+[1] Mill, Everald E. **Software Métrics**. SEI - Carnegie Mellon University, 1988. [Link](http://www.sei.cmu.edu/reports/88cm012.pdf)
+[2] Filho, Carlos M. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
 
 
 #Apêndice A
