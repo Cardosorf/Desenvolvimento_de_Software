@@ -94,16 +94,6 @@ O.1 - Boas entregas
 |Sobre o ponto de vista do|desenvolvedor|
 |No contexto do |projeto wikilegis mobile|
 
-
-O.2 - Dedicação constante
-
-|Analisar|os desenvolvedores e os gerentes|
-|:---:|:---:|
-|Com o propósito de|monitorar|
-|Com respeito ao|comprometimento da equipe|
-|Sobre o ponto de vista do|docente|
-|No contexto do| projeto de desenho wikilegis mobile|
-
 QUESTÕES
 
 |||
@@ -113,12 +103,22 @@ QUESTÕES
 
 MÉTRICAS
 
-|Métrica|M.1.1.1|
+|Métrica|M.1.1.1 - Cobertura de teste|
 |---|---|
-|**Objetivo da Medição**|Garantir que o software tenha menor quantidade de defeitos possível dentro dos padrões escolhidos.|
+|**Objetivo da Medição**|Garantir que o software não contenha erros de lógica ou digitação, assim tendo uma garantia de qualidade.|
 |**Fórmula**| CoberturaTeste =nº de itens executados/total de itens do código <br/>item = instruções de código, ramificações de código, caminhos de código.|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada commit.|
-|**Procedimentos**| Análise com auxílio de software com análise estática de código. A ferramenta Utiliza dois dados extraidos do código para realizar esta medição: Número de linhas testadas e número de linhas do projeto. Além disse também será mantido junto com as outras métricas numa tabela para acompanhar melhora da métrica.|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**| Primeira release:<br/> “Dentro do esperado” dado por CoberturaTeste > 30%<br/>“fora do planejado” dado por CoberturaTeste < 30% <br/> Segunda release: <br/> “Dentro do esperado” dado por CoberturaTeste > 90%<br/>“fora do planejado” dado por CoberturaTeste < 90%|
-|**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
+|**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
+
+|Métrica|M.1.1.2|
+|---|---|
+|**Fórmula**|A definir|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**| A definir|
+|**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
