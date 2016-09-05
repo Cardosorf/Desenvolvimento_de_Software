@@ -79,6 +79,7 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 
 [1] Carlos Morais de Oliveira Filho. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, Universidade de São Paulo.[URL.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
 
+
 #Apêndice A
 
 #GQM (Goal, Question, Métric)
