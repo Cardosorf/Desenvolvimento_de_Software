@@ -83,7 +83,7 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 
 #GQM (Goal, Question, Métric)
 
-OBJETIVOS ESTRATÉGICOS
+##OBJETIVOS ESTRATÉGICOS
 
 O.1 - Boas entregas
 
@@ -94,19 +94,19 @@ O.1 - Boas entregas
 |Sobre o ponto de vista do|desenvolvedor|
 |No contexto do |projeto wikilegis mobile|
 
-QUESTÕES
+##QUESTÕES
 
 |||
 |---|---|
 |**Foco na qualidade** <br/> **- Q.1.1** O produto apresenta uma boa manutenibilidade? <br/> **- Q.1.2** O produto apresenta uma boa usabilidade?|**Fatores de variação** <br/> - A produtividade não atender a expectativa; <br/> - Conhecimento da equipe limitado;|
 |**Hipótese de baseline** <br/> - 30% de cobertura de teste até a primeira release; <br/> - 90% de cobertura de teste até a segunda release; <br/> - X de duplicação de código;<br/> - X de acoplamento;<br/> - X de coesão;<br/> - 0 discordâncias com a folha de estilo.|**Impacto das hipóteses de base line**<br/> - Baixa qualidade do produto de software;<br/> - Baixa manutenibilidade.|
 
-MÉTRICAS
+##MÉTRICAS
 
 |Métrica|M.1.1.1 - Cobertura de teste|
 |---|---|
 |**Objetivo da Medição**|Garantir que o software não contenha erros de lógica ou digitação, assim tendo uma garantia de qualidade.|
-|**Fórmula**| CoberturaTeste =nº de itens executados/total de itens do código <br/>item = instruções de código, ramificações de código, caminhos de código.|
+|**Fórmula**||
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
@@ -120,5 +120,42 @@ MÉTRICAS
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**| A definir|
-|**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
+|Métrica|M.1.1.3 - Complexidade estrutural (Coesão)|
+|---|---|
+|**Fórmula**|A definir|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**| A definir|
+|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+|Métrica|M.1.1.4 - Conexões Aferentes (Acoplamento)|
+|---|---|
+|**Fórmula**|A definir|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**| A definir|
+|**Providências**| Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+|Métrica|M.1.1.5 - Média do Tamanho dos Métodos (Atomicidade)|
+|---|---|
+|**Fórmula**|A definir|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**| A definir|
+|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+|Métrica|M.1.2.1 - Usabilidade|
+|---|---|
+|**Fórmula**|Não se aplica|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**| A definir|
+|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+##INDICADORES
