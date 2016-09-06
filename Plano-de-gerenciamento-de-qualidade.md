@@ -88,12 +88,16 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 model. International Organization for Standardization and International Electrotechnical Com-
 mission. [Link.](http://luizcamargo.com.br/arquivos/NBR%20ISO_IEC%209126-1.pdf)
 
-[3] Filho, Carlos M. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
+[3] Filho, Carlos Morais de Oliveira Filho **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
 
 [4] Harman(2010) Mark Harman. Why source code analysis and manipulation will always be impor-
 tant. Em 10th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM). [Link.](http://www0.cs.ucl.ac.uk/staff/mharman/scam10.pdf)
 
 [5] McCabe(1976) Thomas J. McCabe. A complexity measure. IEEE Transactions on Software Engineering. [Link.](http://www.literateprogramming.com/mccabe.pdf)
+
+[6] Analizo: an Extensible Multi-Language Source Code Analysis and Visualization Toolkit, by Antonio Terceiro , Joenio Costa , João Miranda, Paulo Meirelles, Luiz Romário Rios, Lucianna Almeida, Christina Chavez, and Fabio Kon. Paper published in the Tools Session of the 1st Brazilian Conference on Software, September 2010. Describes analizo, its architecture and research work using analizo. [Link](http://www.analizo.org/publications/analizo-cbsoft2010-tools.pdf)
+
+[7] Meirelles(2013) Paulo Roberto Miranda Meirelles. Monitoramento de métricas de código-fonte em projetos de software livre. Tese de Doutorado, Universidade de São Paulo. [Link.](https://social.stoa.usp.br/articles/0030/6046/tesePauloMeirelles.pdf)
 
 #Apêndice A
 
@@ -107,7 +111,7 @@ O.1 - Qualidade do produto
 |:---:|:---:|
 |Com o propósito de|melhorar|
 |Com respeito a|Manutenibilidade do software|
-|Sobre o ponto de vista do|desenvolvedor |
+|Sobre o ponto de vista do|desenvolvedor|
 |No contexto do |projeto wikilegis mobile|
 
 ##QUESTÕES
@@ -132,7 +136,7 @@ O.1 - Qualidade do produto
 |Métrica|M.1.1.2 - Complexidade ciclomática|
 |---|---|
 |**Objetivo da Medição**||
-|**Descrição**|Complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
+|**Descrição**| <br/>Complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
@@ -148,16 +152,18 @@ O.1 - Qualidade do produto
 |**Análise**| A definir|
 |**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.1.4 - Conexões Aferentes (Acoplamento)|
+|Métrica|M.1.1.4 - Conexões Aferentes de uma classe (ACC)|
 |---|---|
-|**Fórmula**|A definir|
+|**Objetivo da Medição**||
+|**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.[7]|
+|**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_2.png)|
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
-|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
-|**Análise**| A definir|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit da interação para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar a evolução do software.|
+|**Análise**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim |
 |**Providências**| Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.1.5 - Média do Tamanho dos Métodos (Atomicidade)|
+|Métrica|M.1.1.5 - Tamanho médio dos Métodos (Atomicidade)|
 |---|---|
 |**Fórmula**|A definir|
 |**Escala da Medição**|Racional|
