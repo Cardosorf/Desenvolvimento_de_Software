@@ -127,6 +127,9 @@
 
 ###5.1.2. Diagrama de pacotes
 
+![Diagrama de pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Package Diagram.jpg)
+
+
 ##5.2. Visão de implementação
 
 <p align="justify">Representando a camada View, teremos o pacote View. Esta é a camada de apresentação, nela irão ficar os arquivos referentes à parte visual do projeto, que são os arquivos XML, as classes Activities e as classes Fragments. Embora as classes Activities tenham características tanto de View quanto de Controller a trataremos como View pois as Activities cuidam de toda a interação da aplicação com o usuário, ou seja, como o XML será renderizado pela aplicação, como por exemplo: No caso de uma interação de um usuário clicar em um botão e acontecer uma ação na tela do usuário, toda a parte de ouvidores de botão e apresentação de dados na tela seria controlada pela Activity.
