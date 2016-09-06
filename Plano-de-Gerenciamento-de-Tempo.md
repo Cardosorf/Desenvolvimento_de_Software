@@ -24,7 +24,13 @@
 
 # 1. Objetivo
 
+O Plano de Gerenciamento de Tempo, tem como objetivos estabelecer os princípios, processos e documentação necessária ao planejamento, desenvolvimento, gerenciamento, execução e controle do cronograma do Projeto. Além disso, o Gerenciamento do Tempo, estabelece em seus processos, boas práticas para que se conclua o projeto no prazo estabelecido, evitando-se atrasos.
+
 # 2. Processos de Gerenciamento de Tempo
+
+Os processos de gerenciamento do tempo do projeto, suas ferramentas e técnicas associadas são atreladas ao gerenciamento do cronograma. O plano de gerenciamento do cronograma é um plano auxiliar, em que identifica um método e uma ferramenta de cronograma, estabelecendo formato e critérios para o desenvolvimento e controle do cronograma do projeto (PMBOK, 2014). 
+
+A metodologia de elaboração do cronograma da equipe WikiLegis se restringiu ao método do caminho crítico (MCC), onde é possível identificar atividades essenciais à conclusão do projeto.
 
 ## 2.1 Definição das Atividades
 
