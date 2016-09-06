@@ -9,14 +9,14 @@ Portfólios (GPP) e Métodos de Desenvolvimento de Software (MDS). Sendo que cin
 integrantes fazem parte da disciplina de MDS e quatro de GPP.</p>
 
 <p align="justify">Em conjunto e agregando valor com seus respectivos conhecimentos, cada equipe
-terá seu papel ao longo do desenvolvimento.</p:
+terá seu papel ao longo do desenvolvimento.</p>
 
 # 3. Equipe e Responsabilidades
 
 ## 3.1. Equipe de Gerenciamento 
 
 | Nome  | Papel  | Responsabilidade  |
-|---|---|---|
+|-------|--------|-------------------|
 | Izabela Cristina Nere Rodrigues Cardoso  | Gerente  | Planejamento, monitoramento e controlo do projeto |
 | Igor Ribeiro  | Gerente  | Planejamento, monitoramento e controlo do projeto  |
 | Lucas Vilela Taveira Brilhante  | Gerente  |  Planejamento, monitoramento e controlo do projeto |
@@ -27,7 +27,7 @@ terá seu papel ao longo do desenvolvimento.</p:
 ## 3.2. Equipe de Desenvolvimento 
 
 | Nome  | Papel  | Responsabilidade  |
-|---|---|---|
+|-------|--------|-------------------|
 | Augusto Moreno Vilarins Cardoso da Silva  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
 | Marcelo Augusto Araújo dos Reis  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
 | Josué  Nascimento  | Desenvolvedor  | Desenvolvimento e documentação do projeto  |
