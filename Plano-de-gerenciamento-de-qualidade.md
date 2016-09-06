@@ -83,12 +83,16 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 #5. Referências
 
 [1] Mill, Everald E. **Software Métrics**. SEI - Carnegie Mellon University, 1988. [Link](http://www.sei.cmu.edu/reports/88cm012.pdf)
+
 [2]ISO/IEC9126-1(2001) ISO/IEC9126-1. Software engineering – product quality – part 1: Quality
 model. International Organization for Standardization and International Electrotechnical Com-
 mission. [Link.](http://luizcamargo.com.br/arquivos/NBR%20ISO_IEC%209126-1.pdf)
+
 [3] Filho, Carlos M. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
+
 [4] Harman(2010) Mark Harman. Why source code analysis and manipulation will always be impor-
 tant. Em 10th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM). [Link.](http://www0.cs.ucl.ac.uk/staff/mharman/scam10.pdf)
+
 [5] McCabe(1976) Thomas J. McCabe. A complexity measure. IEEE Transactions on Software Engineering. [Link.](http://www.literateprogramming.com/mccabe.pdf)
 
 #Apêndice A
