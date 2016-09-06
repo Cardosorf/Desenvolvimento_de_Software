@@ -44,10 +44,10 @@ a equipe de desenvolvimento.</p>
 se utilizar durante o projeto e conhecimentos necessários para produção dos artefatos, envolvendo os seguintes temas: Programação
 para plataforma Android, Gerenciamento de configuração de software e Documentação.</p>
 
-<p align="justify">O [Plano de Treinamentos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Treinamento) detalha todo o procedimento e planejamento para a
+<p align="justify">O <a href="">Plano de Treinamentos</a> detalha todo o procedimento e planejamento para a
 execução dos treinamentos.</p>
 
 # 5. Gerenciamento da Equipe
 A alocação da equipe em tarefas será feita abordando os pontos estabelecidos no
-[Cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).  As reuniões oficiais da equipe serão realizadas de acordo com o
-estabelecido no [Plano de gerenciamento de comunicações](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o)
+<a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma">Cronograma</a>.  As reuniões oficiais da equipe serão realizadas de acordo com o
+estabelecido no <a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o">Plano de gerenciamento de comunicações</a>.
