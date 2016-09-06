@@ -67,9 +67,9 @@
 
 ##4.1. Atores
 
-* **Usuário Cadastrado**: O usuário  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
+* **Cidadão brasileiro Cadastrado**: O cidadão  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
 
-* **Usuário Visitante**: O usuário  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
+* **Cidadão brasileiro Visitante**: O cidadão  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
 
 ##4.2. Diagrama de Casos de Uso
 
@@ -78,35 +78,35 @@
 <p align="justify">A seguir são apresentadas as descrições dos casos de uso do sistema , dos quais do UC01 ao UC04 serão apresentados funcionais na 1° release:</p>
 
 
-* **UC01 - Realizar cadastro:** <p align="justify">Esse caso de uso permite ao usuário visitante cadastrar-se no sistema.</p>
+* **UC01 - Realizar cadastro:** <p align="justify">Esse caso de uso permite ao cidadão visitante cadastrar-se no sistema.</p>
 
-* **UC02 - Visualizar projeto de lei:** <p align="justify">Esse caso de uso permite que a ambos os usuários (cadastrados ou visitantes), visualizar os projetos de lei.</p>
+* **UC02 - Visualizar projeto de lei:** <p align="justify">Esse caso de uso permite que a ambos os cidadãos (cadastrados ou visitantes), visualizar os projetos de lei.</p>
 
-* **UC03 - Visualizar segmento de projeto:** <p align="justify">Esse caso de uso permite aos usuários, visualizar os itens dos projetos de lei.</p>
+* **UC03 - Visualizar segmento de projeto:** <p align="justify">Esse caso de uso permite aos cidadãos, visualizar os itens dos projetos de lei.</p>
 
-* **UC04 - Listar projetos de lei:** <p align="justify">Este caso de uso permite ao usuário listar projetos de lei de acordo com a forma de filtragem desejada, podendo ser por relevância, data e status (abertos).</p>
+* **UC04 - Listar projetos de lei:** <p align="justify">Este caso de uso permite ao cidadão listar projetos de lei de acordo com a forma de filtragem desejada, podendo ser por relevância, data e status (abertos).</p>
 
-* **UC05 - Editar perfil:** <p align="justify">Esse caso de uso permite ao usuário cadastrado editar seu perfil pessoal no sistema.</p>
+* **UC05 - Editar perfil:** <p align="justify">Esse caso de uso permite ao cidadão cadastrado editar seu perfil pessoal no sistema.</p>
 
-* **UC06 - Pesquisar projeto:** <p align="justify">Esse caso de uso permite ao usuário pesquisar por projetos que contenham uma determinada palavra chave em seu título ou em algum de seus itens.</p>
+* **UC06 - Pesquisar projeto:** <p align="justify">Esse caso de uso permite ao cidadão pesquisar por projetos que contenham uma determinada palavra chave em seu título ou em algum de seus itens.</p>
 
-* **UC07 - Efetuar login:** <p align="justify">Esse caso permite ao usuário cadastrado efetuar o login em sua conta no sistema.</p>
+* **UC07 - Efetuar login:** <p align="justify">Esse caso permite ao cidadão cadastrado efetuar o login em sua conta no sistema.</p>
 
-* **UC08 - Sugerir proposta:** <p align="justify">Permite exclusivamente ao usuário cadastrado fazer uma sugestão ao projeto de lei de seu interesse.</p>
+* **UC08 - Sugerir proposta:** <p align="justify">Permite exclusivamente ao cidadão cadastrado fazer uma sugestão ao projeto de lei de seu interesse.</p>
 
-* **UC09 - Relatar erro:** <p align="justify">Esse caso permite aos usuários informar algum mal funcionamento no sistema.</p>
+* **UC09 - Relatar erro:** <p align="justify">Esse caso permite aos cidadãos informar algum mal funcionamento no sistema.</p>
 
-* **UC10 - compartilhar projeto:** <p align="justify">Permite ao usuário cadastrado compartilhar um projeto de lei por completo em suas redes pessoais.</p>
+* **UC10 - compartilhar projeto:** <p align="justify">Permite ao cidadão cadastrado compartilhar um projeto de lei por completo em suas redes pessoais.</p>
 
-* **UC11 - Ativar notificações:** <p align="justify">Permite ao usuário cadastrado receber notificações sobre ao andamento de projetos de lei de seu interesse.</p>
+* **UC11 - Ativar notificações:** <p align="justify">Permite ao cidadão cadastrado receber notificações sobre ao andamento de projetos de lei de seu interesse.</p>
 
-* **UC12 - Visualizar seguimento do projeto:** <p align="justify">Permite tanto ao usuário cadastrado com ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
+* **UC12 - Visualizar seguimento do projeto:** <p align="justify">Permite tanto ao cidadão cadastrado como ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
 
-* **UC13 - Avaliar seguimento:** <p align="justify">Permite exclusivamente ao usuário cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
+* **UC13 - Avaliar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
 
-* **UC14 - Comentar seguimento:** <p align="justify">Permite ao usuário cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
+* **UC14 - Comentar seguimento:** <p align="justify">Permite ao cidadão cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
 
-* **UC15 - Compartilhar seguimento:** <p align="justify">Permite exclusivamente ao usuário cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
+* **UC15 - Compartilhar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
 
 #5. Visão lógica
 
