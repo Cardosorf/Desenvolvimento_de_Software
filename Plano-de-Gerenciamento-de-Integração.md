@@ -73,7 +73,8 @@ progresso para atender aos objetivos de desempenho definidos no plano de gerenci
 
 ## 6. Controle integrado de mudanças
 
-<p align="justify"></p>
+<p align="justify">O controle integrado de mudanças é o processo de revisar todas as solicitações de mudança,
+aprovar as mudanças e gerenciar as mudanças sendo feitas nas entregas. Dessa forma, quando surgir a necessidade de alguma mudança, tanto por parte da equipe, quanto por um envolvido externo, deve ser marcada uma reunião com a equipe de gerenciamento para discussão da mudança, ou, caso não seja possível, deve ser feita uma solicitação da mudança por escrito. Caso a equipe de gerenciamento aprove a mudança, a mesma deve planejar como ela deve ser inserida no projeto, para então executar esta inserção. Caso a mudança não seja aprovada, a mesma será descartada.</p>
 
 ## 7. Encerramento do projeto ou fase
 
