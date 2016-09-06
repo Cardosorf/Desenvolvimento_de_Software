@@ -5,8 +5,8 @@ Este documento tem como objetivo especificar como será feito o controle de qual
 #2. Definições
 
 ##2.1. Métricas de software
-
-Métricas de software estão lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) 
+Métricas são compostas por procedimentos de medição e escalas de medidas (ISO/IEC9126-1)[2].
+Métricas de software lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) 
 
 De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:
 * Simples e calculadas de forma precisa. Deve ser claro como a métrica é coletada.
@@ -33,12 +33,12 @@ Os documentação produzida na fase de iniciação e elaboração do processo un
 * Os couches (Monitores) são responsáveis por ajudar a equipe com dúvidas na documentação. Essas dúvidas podem surgir na hora da produção ou da validação.
 * O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. 
 
-Também serão feitas reuniões com o cliente para validar a corretude das informações levantadas nos requisitos. Essas reuniões podem ser vistas no [cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
-(adicionar processo)
+Pode-se ver estas reuniões no [cronograma.](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
 
 ##3.2 Métricas de código
 
-Métricas de código-fonte são importantes para garantir que o produto está sendo desenvolvido dentro dos padrões de qualidade pré-definidos. Todos os conceitos relacionados a métricas de código estão no [apêndice A](#Apêndice A) deste documento, atrás do plano de medição GQM (Goal, Question, Métric). Porque utilizar-se deste modelo de medição? Para garantir que a medição está dentro dos objetivos estratégicos do projeto. Isso ocorro através da arvores de rastreabilidade, que sempre mapeia a métrica com um objetivo. Isto torna mais fácil identificar métricas que não atendem mais as necessidades do projeto.
+"Métricas de código-fonte são aquelas obtidas através da análise do código-fonte."[3]. E código-fonte é “qualquer descrição completamente executável de um sistema de software”[4]. Métricas de código serão sempre importante, pois ele é a unica representação precisa do comportamento do sistema [4]. E não se engane, ele se tornará cada vez mais importante, pois cada vez mais o software se torna essencial na sociedade [4]. Mas não se precipite, nem tudo vale a pena ser medido. Deve-se escolher com cuidado o que vai ser medido e assim, garantir a qualidade desejada.[4]
+Para escolher as métricas do contexto do Wikilegis mobile foi feito um plano [GQM](#Apêndice A), afim de definir os objetivos da medição e assim poder definir uma rastreabilidade, e no futuro poder identificar medições que se tornarem obsoletas.
 
 #4. Ferramentas
 
@@ -68,7 +68,7 @@ O Espresso é uma ferramenta para Testes de Interface de Usuário da plataforma 
 
 ##4.4 Mezuro
 
-O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza de duas outras ferramentas o Kalibro e o Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal.
+O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza de duas outras ferramentas o Kalibro e o Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal.[3]
 
 A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são relevantes à equipe para garantir a qualidade de implementação do software.
 
@@ -79,22 +79,17 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 | Média do Tamanho dos Métodos | Average Method Lines of Code | amloc | Tamanho |
 | Complexidade Estrutural | Structural Complexity | sc | Coesão |
 
-### 4.4.1 Uma Breve Descrição das Métricas
 
-#### 4.4.1.1 Conexões Aferentes:
-
-#### 4.4.1.2 Complexidade Ciclomática:
-
-#### 4.4.1.3 Tamanho dos Métodos:
-
-#### 4.4.1.4 Complexidade Estrutural:
-
-
-#X. Referências
+#5. Referências
 
 [1] Mill, Everald E. **Software Métrics**. SEI - Carnegie Mellon University, 1988. [Link](http://www.sei.cmu.edu/reports/88cm012.pdf)
-[2] Filho, Carlos M. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
-
+[2]ISO/IEC9126-1(2001) ISO/IEC9126-1. Software engineering – product quality – part 1: Quality
+model. International Organization for Standardization and International Electrotechnical Com-
+mission. [Link.](http://luizcamargo.com.br/arquivos/NBR%20ISO_IEC%209126-1.pdf)
+[3] Filho, Carlos M. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
+[4] Harman(2010) Mark Harman. Why source code analysis and manipulation will always be impor-
+tant. Em 10th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM). [Link.](http://www0.cs.ucl.ac.uk/staff/mharman/scam10.pdf)
+[5] McCabe(1976) Thomas J. McCabe. A complexity measure. IEEE Transactions on Software Engineering. [Link.](http://www.literateprogramming.com/mccabe.pdf)
 
 #Apêndice A
 
@@ -104,11 +99,11 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 
 O.1 - Qualidade do produto
 
-|Analisar| código|
+|Analisar|código|
 |:---:|:---:|
 |Com o propósito de|melhorar|
-|Com respeito a|qualidade interna do software|
-|Sobre o ponto de vista do|desenvolvedor|
+|Com respeito a|Manutenibilidade do software|
+|Sobre o ponto de vista do|desenvolvedor |
 |No contexto do |projeto wikilegis mobile|
 
 ##QUESTÕES
@@ -123,7 +118,7 @@ O.1 - Qualidade do produto
 |Métrica|M.1.1.1 - Cobertura de teste|
 |---|---|
 |**Objetivo da Medição**|Garantir que o software não contenha erros de lógica ou digitação, assim tendo uma garantia de qualidade.|
-|**Fórmula**||
+|**Descrição**||
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
@@ -132,7 +127,8 @@ O.1 - Qualidade do produto
 
 |Métrica|M.1.1.2 - Complexidade ciclomática|
 |---|---|
-|**Fórmula**|A definir|
+|**Objetivo da Medição**||
+|**Descrição**|Complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
