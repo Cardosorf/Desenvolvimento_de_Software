@@ -34,7 +34,7 @@ O objetivo deste documento é planejar os treinamentos a serem ministrados pela 
 
 **Data:** 18/08/2016
 
-**Responsável:** Equipe de gerenciamento (Pedro Ivo, Izabela Cardoso e Tiago Assunção) e Coachs (Gabriel Climaco e Victor Hugo)
+**Responsável:** Equipe de gerenciamento (Pedro Ivo, Izabela Cristina e Tiago Assunção) e Coachs (Gabriel Climaco e Victor Hugo)
 
 **Roteiro:**
 
@@ -54,7 +54,7 @@ O objetivo deste documento é planejar os treinamentos a serem ministrados pela 
 - Controller no Android
 - View no Android
 
-## 5. Android
+## 5. Java Android
 
 **Data:** 29/08/2016
 
