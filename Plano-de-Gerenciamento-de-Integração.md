@@ -4,11 +4,11 @@
 
 ## 2. Termo de abertura
 
-<p align="justify"></p>
+<p align="justify">O desenvolvimento do Termo de Abertura é um subprocesso do Gerenciamento de Integração, este artefato pode ser visto neste link e apresenta uma visão geral sobre o projeto.</p>
 
 ## 3. Plano de Gerenciamento do Projeto
 
-<p align="justify"></p>
+<p align="justify">O desenvolvimento do Plano de Gerenciamento do Projeto também é um subprocesso do Gerenciamento de Integração, nele são definidos todos os planos subsidiários além das linhas de base do projeto.</p>
 
 ## 4. Orientação e gerenciamento do trabalho do projeto
 
