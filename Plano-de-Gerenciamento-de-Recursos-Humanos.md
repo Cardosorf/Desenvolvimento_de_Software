@@ -44,7 +44,7 @@ a equipe de desenvolvimento.</p>
 se utilizar durante o projeto e conhecimentos necessários para produção dos artefatos, envolvendo os seguintes temas: Programação
 para plataforma Android, Gerenciamento de configuração de software e Documentação.</p>
 
-<p align="justify">O <a href="">Plano de Treinamentos</a> detalha todo o procedimento e planejamento para a
+<p align="justify">O <a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-dos-treinamentos">Plano de Treinamentos</a> detalha todo o procedimento e planejamento para a
 execução dos treinamentos.</p>
 
 # 5. Gerenciamento da Equipe
