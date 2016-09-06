@@ -34,7 +34,13 @@ A metodologia de elaboração do cronograma da equipe WikiLegis se restringiu ao
 
 ## 2.1 Definição das Atividades
 
+A definição das Atividades, segundo o PMBOK, tem como entradas a Linha de Base do Projeto, Fatores ambientais, plano de gerenciamento de cronograma e a Estrutura Analítica do Projeto. Em relação ao último fator, foi se detalhado cada ramo da EAP, com intuito de gerar atividades em sincronia com os entregáveis estabelecidos. 
+
+Outro fator relevante, diz respeito a opinião especializada da equipe de gerenciamento, que anteriormente, já fez parte da equipe de desenvolvimento, e portanto, conhece atividades importantes à atual equipe de desenvolvimento, como treinamentos, configurações e documentos extras.
+
 ## 2.2 Sequenciamento das Atividades
+
+
 
 ## 2.3 Estimativa de Recursos da Atividade
 
