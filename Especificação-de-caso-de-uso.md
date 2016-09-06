@@ -14,6 +14,7 @@
 | 29/08/2016 | 1.9 | Edição e junção dos UC01 e UC05 | Josué Nascimento |
 | 29/08/2016 | 2.0 | Edição do UC01 | Marcelo Augusto |
 | 05/09/2016 | 2.1 | Trocando numeração dos casos de uso | Marcelo Augusto |
+| 05/09/2016 | 2.2 | Alterando nome dos atores | Marcelo Augusto |
 ***
 
 #Índice
@@ -30,26 +31,26 @@
 
  <b>Descrição:</b> Este caso de uso permite ao usuário se cadastrar no aplicativo.
 
-<b>Ator principal:</b> Usuário visitante.
+<b>Ator principal:</b> Cidadão brasileiro visitante.
 
-<b>Pré condições:</b> O usuário deve estar desconectado de uma conta antes de iniciar o cadastro.
+<b>Pré condições:</b> O cidadão deve estar desconectado de uma conta antes de iniciar o cadastro.
 
-<b>Fluxo principal:</b> Este caso de uso é iniciado quando o usuário escolhe a opção de cadastrar um novo usuário.
+<b>Fluxo principal:</b> Este caso de uso é iniciado quando o cidadão escolhe a opção de cadastrar um novo usuário.
 
-    1. O sistema redireciona o usuário para da tela de cadastro. [FA01]
-    2. O usuário preenche campos com as informações necessárias para realizar o cadastro. [FA01]
-    3. O usuário confirma a realização do cadastro. [FA01]
-    4. O sistema valida os dados informados pelo usuário [RN01], [RN02], [FE01], [FA01].
+    1. O sistema redireciona o cidadão para da tela de cadastro. [FA01]
+    2. O cidadão preenche campos com as informações necessárias para realizar o cadastro. [FA01]
+    3. O cidadão confirma a realização do cadastro. [FA01]
+    4. O sistema valida os dados informados pelo cidadão [RN01], [RN02], [FE01], [FA01].
     5. O sistema exibe uma mensagem de cadastro efetuado com sucesso.
-    6. O usuário é redirecionado para a tela de log in.
+    6. O cidadão é redirecionado para a tela de log in.
     7. O caso de uso é encerrado.
 
 <b>Fluxo alternativo FA01:</b>
 
-    1. O usuário escolhe a opção de cancelar cadastro.
+    1. O cidadão escolhe a opção de cancelar cadastro.
     2. O sistema vai para o passo 7 do fluxo principal.
   
-<b>Pós condições:</b> Ao final do caso de uso, o usuário possuirá um cadastro no sistema.
+<b>Pós condições:</b> Ao final do caso de uso, o cidadão brasileiro possuirá um cadastro no sistema.
 
 <b>Regras de Negócio:</b>
 #####<b>[RN01] - Cadastro de usuário:</b>
@@ -62,7 +63,7 @@
 | Senha | String de até 10 caracteres | Sim | Deve ter no mínimo 6 e no máximo 10 caracteres |
 | Confirmação de senha | String de até 10 caracteres | Sim | Deve ser igual a senha digitada anteriormente |
 
-#####<b>[RN02] -</b> O sistema permitirá apenas um e-mail por usuário no cadastro.
+#####<b>[RN02] -</b> O sistema permitirá apenas um e-mail por cidadão brasileiro no cadastro.
 
 <b>Fluxo de exceção FE01:</b>
 #####<b>[FE01] - Dados inválidos:</b> 
@@ -70,16 +71,16 @@ No passo 4 do fluxo principal, se o sistema identifica alguma informação invá
 
 #UC02: Visualizar Projeto de Lei
 
- <b>Descrição:</b> Este caso de uso permite ao usuário visualizar projetos de lei, tendo mais informações sobre o projeto.
+ <b>Descrição:</b> Este caso de uso permite ao cidadão visualizar projetos de lei, tendo mais informações sobre o projeto.
 
-<b>Ator principal:</b> Usuário cadastrado ou Usuário visitante.
+<b>Ator principal:</b> Cidadão brasileiro cadastrado ou visitante.
 
 <b>Pré condições:</b> Não há.
 
-<b>Fluxo principal:</b> Este caso de uso se inicia quando o usuário seleciona algum projeto de lei.
+<b>Fluxo principal:</b> Este caso de uso se inicia quando o cidadão seleciona algum projeto de lei.
 
-    1. O usuário clica em qual projeto de lei deseja visualizar.
-    2. O Sistema redireciona o usuário para a tela da lei que foi selecionada.
+    1. O cidadão clica em qual projeto de lei deseja visualizar.
+    2. O Sistema redireciona o cidadão para a tela da lei que foi selecionada.
     3. O Sistema apresenta as informações do projeto lei selecionado [RN01].
     4. O caso de uso é encerrado.
 
@@ -90,27 +91,27 @@ No passo 4 do fluxo principal, se o sistema identifica alguma informação invá
 
 | Informação da lei | Valor | 
 | :---: | :---: |
-| Lei selecionada | Proposta de lei que o usuário selecionou |
+| Lei selecionada | Proposta de lei que o cidadão selecionou |
 | Número | Número que identifica qual lei está sendo apresentada |
 | Autor | Nome do autor que está propondo a lei |
 | Relator | Nome de quem redigiu a lei |
 | Número de participantes | Número de pessoas que já opinaram sobre a lei proposta |
-|Número de propostas | Quantidade de opiniões dada sobre a lei |
-|Data da contribuição | Até quando é possível opinar sobre a lei |
+| Número de propostas | Quantidade de opiniões dada sobre a lei |
+| Data da contribuição | Até quando é possível opinar sobre a lei |
 
 
 #UC03: Visualizar segmentos do projeto de lei
 
- <b>Descrição:</b> Este caso de uso permite ao usuário visualizar segmentos de um projeto de lei tendo mais informações sobre o segmento selecionado.
+ <b>Descrição:</b> Este caso de uso permite ao cidadão visualizar segmentos de um projeto de lei tendo mais informações sobre o segmento selecionado.
 
-<b>Ator principal:</b> Usuário cadastrado ou Usuário visitante.
+<b>Ator principal:</b> Cidadão brasileiro cadastrado ou visitante.
 
 <b>Pré condições:</b> Não há.
 
-<b>Fluxo principal:</b> Este caso de uso se inicia quando o usuário seleciona um segmento de algum projeto de lei.
+<b>Fluxo principal:</b> Este caso de uso se inicia quando o cidadão seleciona um segmento de algum projeto de lei.
 
-    1. O usuário clica no segmento que deseja visualizar.
-    2. O sistema redireciona o usuário para a tela do segmento selecionado [RN01].
+    1. O cidadão clica no segmento que deseja visualizar.
+    2. O sistema redireciona o cidadão para a tela do segmento selecionado [RN01].
     3. O sistema apresenta as informações do segmento selecionado [RN02].
     4. O caso de uso é encerrado.
 
@@ -123,30 +124,30 @@ No passo 4 do fluxo principal, se o sistema identifica alguma informação invá
 | Informação de segmento | Valor | 
 | :---: | :---: |
 | Segmento selecionado | Texto do segmento selecionado |
-| Avaliações do segmento | Curtidas e descurtidas feitas pelos usuários no Segmento |
+| Avaliações do segmento | Curtidas e descurtidas feitas pelos cidadãos no Segmento |
 | Sugestões | Sugestões de propostas dos usuários para o Segmento |
 | Relator | Nome de quem redigiu a lei |
-| Avaliações de sugestões | Curtidas e descurtidas feitas pelos usuários nas sugestões |
+| Avaliações de sugestões | Curtidas e descurtidas feitas pelos cidadãos nas sugestões |
 
 #UC04: Listar projetos
 
- <b>Descrição:</b> Este caso de uso permite ao usuário listar projetos de lei de acordo com a ordem desejada , podendo ser por relevância, data e  status (abertos).
+ <b>Descrição:</b> Este caso de uso permite ao cidadão listar projetos de lei de acordo com a ordem desejada, podendo ser por relevância, data e  status (abertos).
 
-<b>Ator principal:</b> Usuário cadastrado ou Usuário visitante.
+<b>Ator principal:</b> Cidadão brasileiro cadastrado ou visitante.
 
 <b>Pré condições:</b> Não há.
 
-<b>Fluxo principal:</b> O fluxo principal é iniciado quando o usuário seleciona uma combinação de modos de filtragem.
+<b>Fluxo principal:</b> O fluxo principal é iniciado quando o cidadão seleciona uma combinação de modos de filtragem.
 
-    1. O Usuário seleciona uma combinação dos modos de filtragem [RN02] [FE01].
-    2. O Sistema reorganiza os projetos e lista ao usuário de acordo com o modo de filtragem.
+    1. O cidadão seleciona uma combinação dos modos de filtragem [RN02] [FE01].
+    2. O Sistema reorganiza os projetos e lista ao cidadão de acordo com o modo de filtragem.
     3. O caso de uso é encerrado.
 
 
 
-<b>Fluxo Alternativo FA01:</b> É iniciado quando o usuário faz o login ou entra como visitante na aplicação.
+<b>Fluxo Alternativo FA01:</b> É iniciado quando o cidadão faz o login ou entra como visitante na aplicação.
 
-    1. O sistema exibe ao usuário uma lista dos projetos encontrados [RN01] [FE01].
+    1. O sistema exibe ao cidadão uma lista dos projetos encontrados [RN01] [FE01].
     2. O sistema volta ao passo 3 do fluxo principal.
 
 <b>Pós condições:</b> Não há.
@@ -165,6 +166,6 @@ No passo 4 do fluxo principal, se o sistema identifica alguma informação invá
 <b>Fluxo de exceção FE01:</b>
 
     1. Caso não existam projetos referentes a ordem definida.
-    2. O sistema informa ao usuário que não há projetos.
+    2. O sistema informa ao cidadão que não há projetos.
     3. O sistema vai para o passo 3 do fluxo principal.
 
