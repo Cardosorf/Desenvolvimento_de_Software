@@ -22,7 +22,7 @@ terá seu papel ao longo do desenvolvimento.</p>
 | Lucas Vilela Taveira Brilhante  | Gerente  |  Planejamento, monitoramento e controlo do projeto |
 | Pedro Ivo de Andrade  | Gerente  | Planejamento, monitoramento e controlo do projeto  |
 
-<p align="justify">Nas duas primeiras semanas a equipe possuía dez integrantes, sendo o décimo o aluno Tiago Assunção, que atuou como gerente, entretanto o mesmo foi transferido para outra equipe na qual poderia agregar mais valor devido às tecnologias utilizadas.>/p>
+<p align="justify">Nas duas primeiras semanas a equipe possuía dez integrantes, sendo o décimo o aluno Tiago Assunção, que atuou como gerente, entretanto o mesmo foi transferido para outra equipe na qual poderia agregar mais valor devido às tecnologias utilizadas.</p>
 
 ## 3.2. Equipe de Desenvolvimento 
 
