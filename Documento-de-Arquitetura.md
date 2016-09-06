@@ -13,6 +13,7 @@
 | 30/08/2016 | 1.8 | Edição representação arquitetural,Metas e restrições | Josué Nascimento da Silva e Rodrigo Oliveira |
 | 31/08/2016 | 1.9 | Refinando representação arquitetural, Visão lógica e visão de implementação | Marcelo Augusto |
 | 05/09/2016 | 2.0 | Arrumando numeração dos casos de uso | Marcelo Augusto |
+| 05/09/2016 | 2.1 | Adicionando imagens | Marcelo Augusto |
 
 ***
 
@@ -79,6 +80,8 @@
 
 ##4.2. Diagrama de Casos de Uso
 
+![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCase%20Diagram.jpg)
+
 ##4.3. Descrição dos Casos de Uso
 
 <p align="justify">A seguir são apresentadas as descrições dos casos de uso do sistema , dos quais do UC01 ao UC04 serão apresentados funcionais na 1° release:</p>
@@ -135,8 +138,14 @@ Representando a camada Model, teremos o pacote Model. A Model é onde se faz a e
 
 ###5.2.1. Diagrama de classe
 
+![Diagrama de classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Class Diagram.jpg)
+
 ###5.2.2. Banco de dados
 
 * **DE-R**
 
+![Diagrama entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/derMDS.jpg)
+
 * **ME-R**
+
+![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS.jpg)
