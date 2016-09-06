@@ -1,7 +1,9 @@
 **Histórico de Versão**
+
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | --- | :---: |
-| 06/09/2016 | 1 | Definição do Template | Pedro Ivo |
+| 05/09/2016 | 1 | Definição do Template | Pedro Ivo |
+| 06/09/2016 | 1.1 | Atualizando Sumario | Pedro Ivo |
 
 # Sumário
 1.  [Objetivo](#1-objetivo)
@@ -14,8 +16,8 @@
       * [2.5.1 Principais Marcos](#251-principais-marcos)
       * [2.5.2 Linha de Base](#252-linha-de-base)
    * [2.6 Controle do Cronograma](#261-avan%C3%A7o-f%C3%ADsico)
-      * [Avanço Físico](#261-avan%C3%A7o-f%C3%ADsico)
-      * [Tarefas Atrasadas](#262-tarefas-atrasadas)
+      * [2.6.1 Avanço Físico](#261-avan%C3%A7o-f%C3%ADsico)
+      * [2.6.2 Tarefas Atrasadas](#262-tarefas-atrasadas)
 3. [Cronograma](#3-cronograma)
 4. [Gráfico de Gantt](#4-gr%C3%A1fico-de-gantt)
 5. [Referências](#5-refer%C3%AAncias)
