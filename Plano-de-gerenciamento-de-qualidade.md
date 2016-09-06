@@ -84,20 +84,18 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 
 [1] Mill, Everald E. **Software Métrics**. SEI - Carnegie Mellon University, 1988. [Link](http://www.sei.cmu.edu/reports/88cm012.pdf)
 
-[2]ISO/IEC9126-1(2001) ISO/IEC9126-1. Software engineering – product quality – part 1: Quality
-model. International Organization for Standardization and International Electrotechnical Com-
+[2]ISO/IEC9126-1(2001) ISO/IEC9126-1. **Software engineering – product quality – part 1: Quality model.** International Organization for Standardization and International Electrotechnical Com-
 mission. [Link.](http://luizcamargo.com.br/arquivos/NBR%20ISO_IEC%209126-1.pdf)
 
 [3] Filho, Carlos Morais de Oliveira Filho **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
 
-[4] Harman(2010) Mark Harman. Why source code analysis and manipulation will always be impor-
-tant. Em 10th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM). [Link.](http://www0.cs.ucl.ac.uk/staff/mharman/scam10.pdf)
+[4] Harman(2010) Mark Harman. **Why source code analysis and manipulation will always be important**. Em 10th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM). [Link.](http://www0.cs.ucl.ac.uk/staff/mharman/scam10.pdf)
 
-[5] McCabe(1976) Thomas J. McCabe. A complexity measure. IEEE Transactions on Software Engineering. [Link.](http://www.literateprogramming.com/mccabe.pdf)
+[5] McCabe(1976) Thomas J. McCabe. **A complexity measure**. IEEE Transactions on Software Engineering. [Link.](http://www.literateprogramming.com/mccabe.pdf)
 
-[6] Analizo: an Extensible Multi-Language Source Code Analysis and Visualization Toolkit, by Antonio Terceiro , Joenio Costa , João Miranda, Paulo Meirelles, Luiz Romário Rios, Lucianna Almeida, Christina Chavez, and Fabio Kon. Paper published in the Tools Session of the 1st Brazilian Conference on Software, September 2010. Describes analizo, its architecture and research work using analizo. [Link](http://www.analizo.org/publications/analizo-cbsoft2010-tools.pdf)
+[6] Analizo: **an Extensible Multi-Language Source Code Analysis and Visualization Toolkit**, by Antonio Terceiro , Joenio Costa , João Miranda, Paulo Meirelles, Luiz Romário Rios, Lucianna Almeida, Christina Chavez, and Fabio Kon. Paper published in the Tools Session of the 1st Brazilian Conference on Software, September 2010. Describes analizo, its architecture and research work using analizo. [Link](http://www.analizo.org/publications/analizo-cbsoft2010-tools.pdf)
 
-[7] Meirelles(2013) Paulo Roberto Miranda Meirelles. Monitoramento de métricas de código-fonte em projetos de software livre. Tese de Doutorado, Universidade de São Paulo. [Link.](https://social.stoa.usp.br/articles/0030/6046/tesePauloMeirelles.pdf)
+[7] Meirelles(2013) Paulo Roberto Miranda Meirelles. **Monitoramento de métricas de código-fonte em projetos de software livre**. Tese de Doutorado, Universidade de São Paulo. [Link.](https://social.stoa.usp.br/articles/0030/6046/tesePauloMeirelles.pdf)
 
 #Apêndice A
 
@@ -154,9 +152,9 @@ O.1 - Qualidade do produto
 
 |Métrica|M.1.1.4 - Conexões Aferentes de uma classe (ACC)|
 |---|---|
-|**Objetivo da Medição**||
+|**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
 |**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.[7]|
-|**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_2.png)|
+|**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.1.png)|
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit da interação para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar a evolução do software.|
@@ -175,7 +173,7 @@ O.1 - Qualidade do produto
 |Métrica|M.1.2.1 - Usabilidade|
 |---|---|
 |**Fórmula**| A = amostra / U = usabilidade / M = Média <br/> U = M(A1)+M(A2)+M(A3)+M(A4)+M(A5)
-|**Escala da Medição**|Racional|
+|**Escala da Medição**|Ordinal|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.|
 |**Procedimentos**| Deverá ser feito um estudo de campo onde pessoas do contexto (Cidadãos) utilizam o software e a partir do uso da pessoa deverá ser avaliado o seguinte checklist.<br/>* O participante consegue descobrir as funcionalidades do sistema? <br/>* O participante conseguiu executar a funcionalidade pedida na primeira tentativa?<br/>* Como o participante julga a aparência do produto?<br/>* O participante julga a complexidade do sistema baixa?<br/>* O participante julga a relevância do sistema alta?<br/>Ao terminar uma amostragem de pelo menos 20 pessoas, as amostras devem ser armazenadas e concisas em uma média para cada ponto perguntado e ai então analisado. |
 |**Análise**| Caso a média das amostras dê menor que 4 a usabilidade Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.erá dada como "não satisfatória" e acima de 4 como satisfatória.|
