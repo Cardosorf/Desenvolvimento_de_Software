@@ -77,7 +77,6 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 | Conexões Aferentes | Afferents Connections | acc | Acoplamento |
 | Média da Complexidade Ciclomática | Average Cyclomatic Complexity | accm | Complexidade |
 | Média do Tamanho dos Métodos | Average Method Lines of Code | amloc | Tamanho |
-| Complexidade Estrutural | Structural Complexity | sc | Coesão |
 
 
 #5. Referências
@@ -143,19 +142,10 @@ O.1 - Qualidade do produto
 |**Análise**| De acordo com a ferramenta [Mezuro](http://mezuro.org/pt/kalibro_configurations/1/metric_configurations/2), baseado em conhecimentos empiricos:<br/> 0 - 3 Exelente <br/> 3 - 5 Bom (Esperado)<br/> 5 - 7 Regular <br/> 7 - INF Preocupante|
 |**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.1.3 - Complexidade estrutural (Coesão)|
-|---|---|
-|**Fórmula**|A definir|
-|**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
-|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
-|**Análise**| A definir|
-|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
-
-|Métrica|M.1.1.4 - Conexões Aferentes de uma classe (ACC)|
+|Métrica|M.1.1.3 - Conexões Aferentes de uma classe (ACC)|
 |---|---|
 |**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
-|**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7]|
+|**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7].Quanto menor o acoplamento melhor.|
 |**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.1.png)|
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
@@ -163,7 +153,7 @@ O.1 - Qualidade do produto
 |**Análise**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim [7]|
 |**Providências**| Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.1.5 - Tamanho médio dos Métodos (AMLOC)|
+|Métrica|M.1.1.4 - Tamanho médio dos Métodos (AMLOC)|
 |---|---|
 |**Objetivo da Medição**|Garantir que a atomicidade dos métodos, isto é, executam somente uma tarefa, facilitando o desenvolvimento de testes.|
 |**Descrição**|"Essa medida indica se o código está bem distribuido entre os métodos."[7] É melhor métodos que são pequenos e bem definidos no que fazem. Essa métrica é obtida através da contagem simples do número de linhas com operações (Não brancas) e em seguida é feita a média entre as classes.|
@@ -179,7 +169,7 @@ O.1 - Qualidade do produto
 |**Fórmula**| A = amostra / U = usabilidade / M = Média <br/> U = M(A1)+M(A2)+M(A3)+M(A4)+M(A5)
 |**Escala da Medição**|Ordinal|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.|
-|**Procedimentos**| Deverá ser feito um estudo de campo onde pessoas do contexto (Cidadãos) utilizam o software e a partir do uso da pessoa deverá ser avaliado o seguinte checklist.<br/>* O participante consegue descobrir as funcionalidades do sistema? <br/>* O participante conseguiu executar a funcionalidade pedida na primeira tentativa?<br/>* Como o participante julga a aparência do produto?<br/>* O participante julga a complexidade do sistema baixa?<br/>* O participante julga a relevância do sistema alta?<br/>Ao terminar uma amostragem de pelo menos 20 pessoas, as amostras devem ser armazenadas e concisas em uma média para cada ponto perguntado e ai então analisado. |
+|**Procedimentos**| Deverá ser feito um estudo de campo onde pessoas do contexto (Cidadãos) utilizam o software e a partir do uso da pessoa deverá ser avaliado o seguinte checklist.<br/>* O participante consegue descobrir as funcionalidades do sistema? <br/>* O participante conseguiu executar a funcionalidade pedida na primeira tentativa?<br/>* Como o participante julga a aparência do produto?<br/>* O participante julga a complexidade do sistema baixa?<br/>* O participante julga a relevância do sistema alta?<br/>Ao terminar uma amostragem de pelo menos 10 pessoas, as amostras devem ser armazenadas e concisas em uma média para cada ponto perguntado e ai então analisado. |
 |**Análise**| Caso a média das amostras dê menor que 4 a usabilidade Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.erá dada como "não satisfatória" e acima de 4 como satisfatória.|
 |**Providências**|Caso a métrica esteja abaixo do esperado deve ser avaliado qual amostra estava mais baixa e em cima dela deve-se tomar providências para melhorar a interface, para que na próxima pesquisa se consiga um resultado satisfatório.| 
 
