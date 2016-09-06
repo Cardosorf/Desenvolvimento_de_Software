@@ -57,6 +57,10 @@
 
 <p align="justify">No MVC adaptado para Android a camada Controller é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada Model - que por sua vez gerência seus dados e responde as perguntas sobre seu o estados de seus dados e também responde instruções para mudança de estado -, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária. A camada Model é a responsável por modelar e gerenciar os dados referentes ao problema que está se tentando resolver. A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir querys para atualização do banco de dados local. As relações entre as camadas está descrita na figura 1.</p>
 
+![Figura1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/mvc.png)
+<p align="justify"><b>Figura 1</b> - Funções das camadas Model-View-Controller-DAO</p>
+
+
 #3. Metas e Restrições de Arquitetura
 
 <p align="justify">O sistema será funcional em plataformas Android  partir da versão  4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, nesse ambiente será utilizada a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades offline será implementado um banco de dados local utilizado o SQLite. Para as funcionalidades online será utilizada uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
@@ -66,6 +70,8 @@
 #4. Visão de Casos de Uso
 
 ##4.1. Atores
+
+![atores](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/atores.jpg)
 
 * **Cidadão brasileiro Cadastrado**: O cidadão  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
 
