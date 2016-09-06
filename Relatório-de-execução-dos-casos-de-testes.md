@@ -19,8 +19,8 @@
 
 | Casos de teste | Entrada | Classes de Equivalência Válidas | Classes de equivalência inválidas |
 | :---: | :---: | --- | :---: |
-| CT001 | Nome | Nome com letras do alfabeto de até 30 caracteres, caracteres especiais usados na composição de nomes | Números, espaços em branco ou sem preenchimento, nomes com mais de 30 caracteres |
-| CT001 | Segundo Nome | Nome com letras do alfabeto de até 30, caracteres especiais usados na composição de nomes | Números, espaços em branco ou sem preenchimento, nomes com mais de 30 caracteres |
+| CT001 | Nome | Nome com letras do alfabeto de até 30 caracteres. Caracteres de A-Z, a-z. | Números, espaços em branco ou sem preenchimento, nomes com mais de 30 caracteres. |
+| CT001 | Segundo Nome | Nome com letras do alfabeto de até 30 caracteres. Caracteres de A-Z, a-z. | Números, espaços em branco ou sem preenchimento, nomes com mais de 30 caracteres. |
 | CT001 | E-Mail | E-Mail com até 150 caracteres. Caracteres A-Z, a-z, 0-9. Além desses caracteres, é permitido usar: “ - ”, “ _ ” , ” . ” , “+”, “@” | Outros caracteres, espaços em branco ou sem preenchimento, e-mail com mais de 150 caracteres |
 | CT001 | Senha | Senha que tenha, no mínimo 6 caracteres e no máximo 10, e seja igual a senha do campo de confirmação | Senha com menos de 6 ou mais de 10 caracteres, espaços em branco ou sem preenchimento, ou que não sejam iguais em ambos os campos (senha e confirmação de senha) |
 
@@ -28,15 +28,15 @@
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
-| CT001_01 | Nome Válido | O nome do usuário é cadastrado com sucesso |
-| CT001_02 | Nome Inválido | O sistema notifica que o nome do usuário é inválido e solicita uma nova entrada de dados |
-| CT001_01 | Segundo nome Válido | O segundo nome do usuário é cadastrado com sucesso |
-| CT001_02 |Segundo nome Inválido | O sistema notifica que o segundo nome do usuário é inválido e solicita uma nova entrada de dados |
-| CT001_01 | E-Mail Válido | O e-mail digitado é cadastrado com sucesso |
-| CT001_02 | E-Mail Inválido | O sistema informa que o e-mail digitado é inválido e solicita uma nova entrada de dados |
-| CT001_02 | E-Mail Já Cadastrado | O sistema informa que o e-mail digitado já foi cadastrado |
-| CT001_01 | Senha Válida | A senha do usuário é cadastrada com sucesso |
-| CT001_02 | Senha Inválida | O sistema informa ao usuário que a senha digitada é inválida e solicita uma nova entrada de dados |
+| CT001_01 | Nome Válido | O nome do usuário é cadastrado com sucesso | | |
+| CT001_02 | Nome Inválido | O sistema notifica que o nome do usuário é inválido e solicita uma nova entrada de dados | | |
+| CT001_01 | Segundo nome Válido | O segundo nome do usuário é cadastrado com sucesso | | |
+| CT001_02 |Segundo nome Inválido | O sistema notifica que o segundo nome do usuário é inválido e solicita uma nova entrada de dados | | |
+| CT001_01 | E-Mail Válido | O e-mail digitado é cadastrado com sucesso | | |
+| CT001_02 | E-Mail Inválido | O sistema informa que o e-mail digitado é inválido e solicita uma nova entrada de dados | | |
+| CT001_02 | E-Mail Já Cadastrado | O sistema informa que o e-mail digitado já foi cadastrado | | |
+| CT001_01 | Senha Válida | A senha do usuário é cadastrada com sucesso | | |
+| CT001_02 | Senha Inválida | O sistema informa ao usuário que a senha digitada é inválida e solicita uma nova entrada de dados | | |
 
 #TFUC02: Visualizar projeto de lei
 ###Classes de equivalência:
