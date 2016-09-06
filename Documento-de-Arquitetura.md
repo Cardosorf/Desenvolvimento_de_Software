@@ -12,6 +12,7 @@
 | 29/08/2016 | 1.7 | Adição do ME-R | Augusto Moreno |
 | 30/08/2016 | 1.8 | Edição representação arquitetural,Metas e restrições | Josué Nascimento da Silva e Rodrigo Oliveira |
 | 31/08/2016 | 1.9 | Refinando representação arquitetural, Visão lógica e visão de implementação | Marcelo Augusto |
+| 05/09/2016 | 2.0 | Arrumando numeração dos casos de uso | Marcelo Augusto |
 
 ***
 
@@ -77,13 +78,13 @@
 <p align="justify">A seguir são apresentadas as descrições dos casos de uso do sistema , dos quais do UC01 ao UC04 serão apresentados funcionais na 1° release:</p>
 
 
-* **UC01 - Listar projetos de lei:** <p align="justify">Este caso de uso permite ao usuário listar projetos de lei de acordo com a forma de filtragem desejada, podendo ser por relevância, data e status (abertos).</p>
+* **UC01 - Realizar cadastro:** <p align="justify">Esse caso de uso permite ao usuário visitante cadastrar-se no sistema.</p>
 
 * **UC02 - Visualizar projeto de lei:** <p align="justify">Esse caso de uso permite que a ambos os usuários (cadastrados ou visitantes), visualizar os projetos de lei.</p>
 
 * **UC03 - Visualizar segmento de projeto:** <p align="justify">Esse caso de uso permite aos usuários, visualizar os itens dos projetos de lei.</p>
 
-* **UC04 - Realizar cadastro:** <p align="justify">Esse caso de uso permite ao usuário visitante cadastrar-se no sistema.</p>
+* **UC04 - Listar projetos de lei:** <p align="justify">Este caso de uso permite ao usuário listar projetos de lei de acordo com a forma de filtragem desejada, podendo ser por relevância, data e status (abertos).</p>
 
 * **UC05 - Editar perfil:** <p align="justify">Esse caso de uso permite ao usuário cadastrado editar seu perfil pessoal no sistema.</p>
 
