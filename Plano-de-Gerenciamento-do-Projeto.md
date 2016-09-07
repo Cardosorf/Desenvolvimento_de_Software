@@ -1,37 +1,37 @@
 # 1. Ciclo de Vida do Projeto
 
-A engenharia de software surgiu para resolver o problema da chamada crise do
+<p align="justify">A engenharia de software surgiu para resolver o problema da chamada crise do
 software em 1970. Baseada em modelos industriais, foram criadas as metodologias de
 desenvolvimento que organizariam de maneira profissional e padronizada a forma de
-desenvolver software.
+desenvolver software.</p>
 
-Esses métodos, hoje conhecidos como tradicionais, apresentavam problemas
+<p align="justify">Esses métodos, hoje conhecidos como tradicionais, apresentavam problemas
 quanto ao desenvolvimento do software, pois o processo de desenvolvimento é
 bastante mutável. Ao longo do tempo os requisitos mudam por parte do cliente, e em
 uma abordagem tradicional é mais custoso e difícil lidar com essas mudanças, pois o
-processo é mais engessado e suas fases ocorrem de forma linear.
+processo é mais engessado e suas fases ocorrem de forma linear.</p>
 
-Com o objetivo de solucionar esses problemas, líderes experientes de
+<p align="justify">Com o objetivo de solucionar esses problemas, líderes experientes de
 desenvolvimento criaram o manifesto ágil. As metodologias ágeis buscam resultados
 práticos em um tempo mais reduzido, o que é alcançado através do foco no produto em
 vez do processo. Trazer o cliente para perto da equipe de desenvolvimento também é
 uma de suas características, pois a obtenção de informações e tomada de decisões se
-torna mais rápida.
+torna mais rápida.</p>
 
-Ambas abordagens possuem vantagens e desvantagens, que individualmente
+<p align="justify">Ambas abordagens possuem vantagens e desvantagens, que individualmente
 cada uma delas não é capaz de solucionar todos os problemas do desenvolvimento de
 software. Dessa maneira, ao longo deste projeto, todos os stakeholders irão vivenciar
 ambas abordagens. Será utilizada uma abordagem tradicional durante metade do período
-de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.
+de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.</p>
 
 ## 1.1 Metodologia Tradicional
-Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
-onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP (Rational Unified Process)](http://sce.uhcl.edu/helm/rationalunifiedprocess/) e o gerenciamento será direcionado
+<p align="justify">Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
+onde, o desenvolvimento será feito de acordo com as diretrizes do <a href="http://sce.uhcl.edu/helm/rationalunifiedprocess/">RUP (Rational Unified Process)</a> e o gerenciamento será direcionado
 pelo corpo de conhecimentos sobre gerenciamento de projetos gerais, 
-[PMBoK](http://www.pmi.org/pmbok-guide-standards), mantido pelo
-[Instituto de Gerenciamento de Projeto (PMI)](http://www.pmi.org/).
+<a href="http://www.pmi.org/pmbok-guide-standards">PMBoK</a>, mantido pelo
+<a href="http://www.pmi.org/">Instituto de Gerenciamento de Projeto (PMI)</a>.
 
-O [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/) é divido em quatro fases ao longo do
+O <a href="http://sce.uhcl.edu/helm/rationalunifiedprocess/">RUP</a> é divido em quatro fases ao longo do
 desenvolvimento do software. Elas são:
 
 1. Iniciação
@@ -39,10 +39,10 @@ desenvolvimento do software. Elas são:
 3. Construção
 4. Implantação
 
-Como esta primeira metade corresponde à parte inicial do projeto, iremos entrar no projeto
-com a Iniciação, segundo as diretrizes do [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/).
+<p align="justify>"Como esta primeira metade corresponde à parte inicial do projeto, iremos entrar no projeto
+com a Iniciação, segundo as diretrizes do <a href="http://sce.uhcl.edu/helm/rationalunifiedprocess/">RUP</a>.
 Após, entraremos na elaboração do projeto, fazendo a especificação dos requisitos e já entregando
-um incremento de software com valor agregado para o cliente. 
+um incremento de software com valor agregado para o cliente.</p>
 
 ## 1.2 Metodologia Adaptativa
  
@@ -106,7 +106,7 @@ A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvo
 
 Logo abaixo, é possível visualizar a Estrutura Analítica do Projeto (EAP):
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/EAP.png)
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/EAP_2.png)
 
 # 3. Linha de Base do Cronograma
 
