@@ -2,8 +2,9 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | --- | :---: |
-| 05/09/2016 | 1 | Definição do Template | Pedro Ivo |
+| 05/09/2016 | 1.0 | Definição do Template | Pedro Ivo |
 | 06/09/2016 | 1.1 | Atualizando Sumario | Pedro Ivo |
+| 07/09/2016 | 1.2 | Definição dos tópicos | Pedro Ivo |
 
 # Sumário
 1.  [Objetivo](#1-objetivo)
@@ -36,15 +37,21 @@ A metodologia de elaboração do cronograma da equipe WikiLegis se restringiu ao
 
 A definição das Atividades, segundo o PMBOK, tem como entradas a Linha de Base do Projeto, Fatores ambientais, plano de gerenciamento de cronograma e a Estrutura Analítica do Projeto. Em relação ao último fator, foi se detalhado cada ramo da EAP, com intuito de gerar atividades em sincronia com os entregáveis estabelecidos. 
 
-Outro fator relevante, diz respeito a opinião especializada da equipe de gerenciamento, que anteriormente, já fez parte da equipe de desenvolvimento, e portanto, conhece atividades importantes à atual equipe de desenvolvimento, como treinamentos, configurações e documentos extras.
+Outro fator relevante, diz respeito a opinião especializada da equipe de gerenciamento, que anteriormente, já fez parte de uma equipe de desenvolvimento, e portanto, conhece atividades importantes à atual equipe de desenvolvimento, como treinamentos, configurações e documentos extras.
 
 ## 2.2 Sequenciamento das Atividades
 
+Após a definição das atividades, foi possível listá-las numa ferramenta, mais especificamente o Gantter. Depois que todas atividades foram listadas, definiu-se as datas para elas, e a relação de precedência que havia entre as atividades e dependência (se houver).
 
+Além disso, a maioria das datas previstas para os artefatos da equipe de desenvolvimento foram previstas com uma semana de antecedência ao seu prazo de entrega. Tal fato justifica-se para que os coachs e a equipe de gerenciamento pudessem validar estes artefatos. 
 
 ## 2.3 Estimativa de Recursos da Atividade
 
+Os recursos das atividades estratégicas, foram definidos de formas variadas. Para atividades importantes da equipe de desenvolvimento, foi estabelecido que todos participariam das atividades, pois ganhariam experiência realizando partes dos artefatos, incetivando a equipe a trabalhar em equipe desde o início do projeto. Em relação aos casos de uso, os recursos foram alocados de acordo com o interesse/conhecimento dos integrantes de MDS, pois haviam necessidades de conhecimento de design, banco de dados, requisições de objetos JSON. As atividades da equipe de gerenciamento foram definidas de acordo com a experiência de cada um dos membros, uns conhecem mais sobre configuração, outros sobre métricas, e assim sucessivamente.
+
 ## 2.4 Estimativa de Duração da Atividade
+
+
 
 ## 2.5 Desenvolvimento do Cronograma
 
