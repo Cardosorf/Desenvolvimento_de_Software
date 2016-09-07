@@ -1,4 +1,4 @@
-Para ver o cronograma no Gantter, [https://drive.google.com/file/d/0B-txm4abVzqGWS11cXdLTFNDNWM/view?usp=sharing](clique aqui).
+Para ver o cronograma no Gantter, [clique aqui](https://drive.google.com/file/d/0B-txm4abVzqGWS11cXdLTFNDNWM/view?usp=sharing).
 
 ## 2ª Versão
 
