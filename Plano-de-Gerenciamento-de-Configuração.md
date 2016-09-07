@@ -9,6 +9,7 @@
 | 17/08/2016 | 1.4 | Atualizando utilização do Git | Izabela Cardoso |
 | 17/08/2016 | 1.5 | Atualizando utilização do padrão de nome de branch | Izabela Cardoso |
 | 01/09/2016 | 1.6 | Instalação e configuração do Checkstyle | Pedro Ivo |
+| 04/09/2016 | 1.7 | Atualizando política de branches | Izabela Cardoso |
 
 ***
 
@@ -42,18 +43,18 @@ Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](h
 
 Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.
 
-Dentro da branch "devel" deverão ser criadas branches para cada issue, cujo nome deve estar no seguinte padrão: "issueX_nomeDaIssue", onde X é o número da issue a ser solucionada naquela branch e "nomeDaIssue" será o nome da issue em inglês, utilizando camelCase, por exemplo "issue01_registerUser". As issues serão criadas pela equipe de gerenciamento e deverão ser escritas em também em inglês.
+A equipe de gerenciamento criará um fork para o time, dentro da branch "devel" do fork, deverão ser criadas branches para cada Caso de Uso, cujo nome deve estar no seguinte padrão: "ucX_nomeDoCasoDeUso", onde X é o número identificador do Caso de Uso a ser produzido naquela branch e "nomeDoCasoDeUso" será o nome do Caso de Uso em inglês, utilizando camelCase, por exemplo "uc01_registerUser".
 
-Quando a issue for resolvida, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel" e fechar a issue. 
+Quando o Caso de Uso for implementado, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel", e fazer um "Pull Request" da branch devel para a master do respositório original (upstream).
 
-Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" e deletar as branches daquela iteração, caso o mesmo seja reprovado a equipe de desenvolvimento deve corrigir os problemas encontrados. 
+Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" do respositório original e deletar as branches do fork do time, caso o mesmo seja reprovado a equipe de gerenciamento deve comentar os problemas no Pull Request e a equipe desenvolvimento deve corrigí-los. 
 
 #### Padrões de nomeclatura
 
-As mensagens de commits deverão ser escritas em inglês, seguindo o padrão abaixo, onde o X representa o número da issue a qual o commit corresponde, por exemplo, "Issue #01". 
+As mensagens de commits deverão ser escritas em inglês, seguindo o padrão abaixo, com a primeira letra maiúscula. 
 
 ```sh
-git commit -m "Issue #X: commit message"
+git commit -m "Commit message"
 ```
 
 ## 2.2 Chef

@@ -1,29 +1,44 @@
 #1. Introdução
 
-Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software, documentação e produtividade dos membros presentes no projeto Wikilegis mobile. Para isso serão necessárias métricas que indiquem o _status_ do projeto, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.
+Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software e artefatos relacionados presentes no projeto Wikilegis mobile. Para que o monitoramento e controle aconteça é necessário adquirir dados que indiquem características relevantes, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.
 
 #2. Definições
 
-Medir é atribuir valores à atributos de uma entidade, dessa forma podendo avaliar esta entidade de acordo com regras bem definidas, não dependendo diretamente de interpretações subjetivas. Sendo assim, medir, monitorar e controlar o projeto de software em sua fase de desenvolvimento é fundamental para garantir sua qualidade.[1] 
+##2.1. Métricas de software
+Métricas são compostas por procedimentos de medição e escalas de medidas (ISO/IEC9126-1)[2].
+Métricas de software lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) 
+
+De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:
+* Simples e calculadas de forma precisa. Deve ser claro como a métrica é coletada.
+* Objetiva, ou seja, deve atender um objetivo do projeto.
+* apresentar uma boa relação custo-benefício.
+* Valida, isto é, deve medir o que foi determinada a medir.
+* Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.
+
+##2.2. Por que medir?
+
+Nos anos 90 a industria de software crescia a um ritmo assustador. Até então 50% de toda a industria empregadora já contava com a industria de software. Mas apesar do crescimento a dela, ainda apresentava grandes problemas. Dentre eles estavam: Estimativa de custo e prazo absurdamente imprecisos; Baixa qualidade de software, com baixos níveis de confiabilidade e; a produtividade dos times não crescia tanto quanto a demanda de novos softwares. (1988, Mills) 
+
+Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo, melhorar a qualidade do software e aumentar a produtividade. Acontece que isso pode ser alcançado através de uma gerência de projetos mais eficaz, que por sua vez, pode ser alcançado por um melhor uso das métricas. (1988, Mills)
 
 #3. Estratégias de controle de qualidade
 
-A qualidade do projeto depende de muitas variáveis, por isso, várias estratégias diferentes devem ser tomadas a fim de assegurar a qualidade do produto.
+A fim de assegurar a qualidade do produto de software e seu desenvolvimento foram adotadas as seguintes estratégias.
 
-##3.1. Treinamentos
+##3.1 Inspeção e validação dos artefatos
 
-A fim de garantir um certo nível de maturidade da equipe de desenvolvimento foram planejados treinamentos relacionados aos entregáveis do projeto.
+Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. 
 
-##3.2 Inspeção e validação dos artefatos
+* Os gerentes(GPP) devem ler e fazer uma validação nos artefatos produzidos por eles e pela equipe de desenvolvimento(MDS).
+* Os couches (Monitores) são responsáveis por ajudar a equipe com dúvidas na documentação. Essas dúvidas podem surgir na hora da produção ou da validação.
+* O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. 
 
-Os documentação produzida na fase de iniciação e elaboração dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista dos steakholders. Estes são: Os gerentes(GPP) que fazem uma validação minuciosa e os couches (Monitores) que se espera uma assistência sobre duvidas que possam aparecer, já que são a referência de experiência de outros semestres na disciplinas.
+Pode-se ver estas reuniões no [cronograma.](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
 
-Também serão feitas reuniões com o cliente para validar a corretude das informações levantadas nos requisitos. Essas reuniões podem ser vistas no [cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
-(adicionar processo)
+##3.2 Métricas de código
 
-##3.3 Métricas de código
-
-Métricas de código-fonte são importantes para garantir que o produto está sendo desenvolvido dentro dos padrões de qualidade pré-definidos. Todos os conceitos relacionados a métricas de código estão no [apêndice A](#Apêndice A) deste documento, atrás do plano de medição GQM (Goal, Question, Métric). Porque utilizar-se deste modelo de medição? Para garantir que a medição está dentro dos objetivos estratégicos do projeto. Isso ocorro através da arvores de rastreabilidade, que sempre mapeia a métrica com um objetivo. Isto torna mais fácil identificar métricas que não atendem mais as necessidades do projeto.
+"Métricas de código-fonte são aquelas obtidas através da análise do código-fonte."[3]. E código-fonte é “qualquer descrição completamente executável de um sistema de software”[4]. Métricas de código serão sempre importante, pois ele é a unica representação precisa do comportamento do sistema [4]. E não se engane, ele se tornará cada vez mais importante, pois cada vez mais o software se torna essencial na sociedade [4]. Mas não se precipite, nem tudo vale a pena ser medido. Deve-se escolher com cuidado o que vai ser medido e assim, garantir a qualidade desejada.[4]
+Para escolher as métricas do contexto do Wikilegis mobile foi feito um plano [GQM](#Apêndice A), afim de definir os objetivos da medição e assim poder definir uma rastreabilidade, e no futuro poder identificar medições que se tornarem obsoletas.
 
 #4. Ferramentas
 
@@ -53,7 +68,7 @@ O Espresso é uma ferramenta para Testes de Interface de Usuário da plataforma 
 
 ##4.4 Mezuro
 
-O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza de duas outras ferramentas o Kalibro e o Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal.
+O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza de duas outras ferramentas o Kalibro e o Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal.[3]
 
 A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são relevantes à equipe para garantir a qualidade de implementação do software.
 
@@ -62,63 +77,100 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são re
 | Conexões Aferentes | Afferents Connections | acc | Acoplamento |
 | Média da Complexidade Ciclomática | Average Cyclomatic Complexity | accm | Complexidade |
 | Média do Tamanho dos Métodos | Average Method Lines of Code | amloc | Tamanho |
-| Complexidade Estrutural | Structural Complexity | sc | Coesão |
-
-### 4.4.1 Uma Breve Descrição das Métricas
-
-#### 4.4.1.1 Conexões Aferentes:
-
-#### 4.4.1.2 Complexidade Ciclomática:
-
-#### 4.4.1.3 Tamanho dos Métodos:
-
-#### 4.4.1.4 Complexidade Estrutural:
 
 
-#X. Referências
+#5. Referências
 
-[1] Carlos Morais de Oliveira Filho. **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, Universidade de São Paulo.[URL.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
+[1] Mill, Everald E. **Software Métrics**. SEI - Carnegie Mellon University, 1988. [Link](http://www.sei.cmu.edu/reports/88cm012.pdf)
+
+[2]ISO/IEC9126-1(2001) ISO/IEC9126-1. **Software engineering – product quality – part 1: Quality model.** International Organization for Standardization and International Electrotechnical Com-
+mission. [Link.](http://luizcamargo.com.br/arquivos/NBR%20ISO_IEC%209126-1.pdf)
+
+[3] Filho, Carlos Morais de Oliveira Filho **Kalibro: interpretação de métricas de código-fonte**, 2013, 89f, dissertação (Mestrado em Ciências), Instituto de Matemática e Estatística, USP. [Link.](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf)
+
+[4] Harman(2010) Mark Harman. **Why source code analysis and manipulation will always be important**. Em 10th IEEE Working Conference on Source Code Analysis and Manipulation (SCAM). [Link.](http://www0.cs.ucl.ac.uk/staff/mharman/scam10.pdf)
+
+[5] McCabe(1976) Thomas J. McCabe. **A complexity measure**. IEEE Transactions on Software Engineering. [Link.](http://www.literateprogramming.com/mccabe.pdf)
+
+[6] Analizo: **an Extensible Multi-Language Source Code Analysis and Visualization Toolkit**, by Antonio Terceiro , Joenio Costa , João Miranda, Paulo Meirelles, Luiz Romário Rios, Lucianna Almeida, Christina Chavez, and Fabio Kon. Paper published in the Tools Session of the 1st Brazilian Conference on Software, September 2010. Describes analizo, its architecture and research work using analizo. [Link](http://www.analizo.org/publications/analizo-cbsoft2010-tools.pdf)
+
+[7] Meirelles(2013) Paulo Roberto Miranda Meirelles. **Monitoramento de métricas de código-fonte em projetos de software livre**. Tese de Doutorado, Universidade de São Paulo. [Link.](https://social.stoa.usp.br/articles/0030/6046/tesePauloMeirelles.pdf)
 
 #Apêndice A
 
 #GQM (Goal, Question, Métric)
 
-OBJETIVOS ESTRATÉGICOS
+##OBJETIVOS ESTRATÉGICOS
 
-O.1 - Boas entregas
+O.1 - Qualidade do produto
 
-|Analisar| código|
+|Analisar|código|
 |:---:|:---:|
 |Com o propósito de|melhorar|
-|Com respeito a|qualidade interna do software|
+|Com respeito a|Manutenibilidade do software|
 |Sobre o ponto de vista do|desenvolvedor|
 |No contexto do |projeto wikilegis mobile|
 
-
-O.2 - Dedicação constante
-
-|Analisar|os desenvolvedores e os gerentes|
-|:---:|:---:|
-|Com o propósito de|monitorar|
-|Com respeito ao|comprometimento da equipe|
-|Sobre o ponto de vista do|docente|
-|No contexto do| projeto de desenho wikilegis mobile|
-
-QUESTÕES
+##QUESTÕES
 
 |||
 |---|---|
 |**Foco na qualidade** <br/> **- Q.1.1** O produto apresenta uma boa manutenibilidade? <br/> **- Q.1.2** O produto apresenta uma boa usabilidade?|**Fatores de variação** <br/> - A produtividade não atender a expectativa; <br/> - Conhecimento da equipe limitado;|
 |**Hipótese de baseline** <br/> - 30% de cobertura de teste até a primeira release; <br/> - 90% de cobertura de teste até a segunda release; <br/> - X de duplicação de código;<br/> - X de acoplamento;<br/> - X de coesão;<br/> - 0 discordâncias com a folha de estilo.|**Impacto das hipóteses de base line**<br/> - Baixa qualidade do produto de software;<br/> - Baixa manutenibilidade.|
 
-MÉTRICAS
+##MÉTRICAS
 
-|Métrica|M.1.1.1|
+|Métrica|M.1.1.1 - Cobertura de teste|
 |---|---|
-|**Objetivo da Medição**|Garantir que o software tenha menor quantidade de defeitos possível dentro dos padrões escolhidos.|
-|**Fórmula**| CoberturaTeste =nº de itens executados/total de itens do código <br/>item = instruções de código, ramificações de código, caminhos de código.|
+|**Objetivo da Medição**|Garantir que o software não contenha erros de lógica ou digitação, assim tendo uma garantia de qualidade.|
+|**Descrição**|A cobertura de deste é dada pela proporção entre linhas testadas e a quantidade total de linhas de código. A cobertura de código é importante para acompanhar o andamento dos desenvolvimento dos testes. Testes estes que garantem a qualidade e um error mínimo de erros de desenvolvimento.|
+|**Fórmula**|Cobertura = Linhas testadas / Linhas totais|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada commit.|
-|**Procedimentos**| Análise com auxílio de software com análise estática de código. A ferramenta Utiliza dois dados extraidos do código para realizar esta medição: Número de linhas testadas e número de linhas do projeto. Além disse também será mantido junto com as outras métricas numa tabela para acompanhar melhora da métrica.|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**| Primeira release:<br/> “Dentro do esperado” dado por CoberturaTeste > 30%<br/>“fora do planejado” dado por CoberturaTeste < 30% <br/> Segunda release: <br/> “Dentro do esperado” dado por CoberturaTeste > 90%<br/>“fora do planejado” dado por CoberturaTeste < 90%|
-|**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
+|**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
+
+|Métrica|M.1.1.2 - Complexidade ciclomática média por Método(CC)|
+|---|---|
+|**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
+|**Descrição**|Complexidade ciclomática é o número de caminhos independentes dentro do grafo de nós dentro do sistema. Cada nó é um bloco de código sequencial do sistema.<br/>De forma resumida e sucinta, complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
+|**Fórmula**|V(G) = e - n + p<br/>Onde V(G) é a complexidade ciclomática, n = vertice, e = aresta, p = componentes conectados<br/> A média estão é feita, M(V(G)), dando a complexidade ciclomática média por metodo.|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**| De acordo com a ferramenta [Mezuro](http://mezuro.org/pt/kalibro_configurations/1/metric_configurations/2), baseado em conhecimentos empiricos:<br/> 0 - 3 Exelente <br/> 3 - 5 Bom (Esperado)<br/> 5 - 7 Regular <br/> 7 - INF Preocupante|
+|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+|Métrica|M.1.1.3 - Conexões Aferentes de uma classe (ACC)|
+|---|---|
+|**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
+|**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7].Quanto menor o acoplamento melhor.|
+|**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.1.png)|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit da interação para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar a evolução do software.|
+|**Análise**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim [7]|
+|**Providências**| Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+|Métrica|M.1.1.4 - Tamanho médio dos Métodos (AMLOC)|
+|---|---|
+|**Objetivo da Medição**|Garantir que a atomicidade dos métodos, isto é, executam somente uma tarefa, facilitando o desenvolvimento de testes.|
+|**Descrição**|"Essa medida indica se o código está bem distribuido entre os métodos."[7] É melhor métodos que são pequenos e bem definidos no que fazem. Essa métrica é obtida através da contagem simples do número de linhas com operações (Não brancas) e em seguida é feita a média entre as classes.|
+|**Fórmula**|Não se aplica|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**| De acordo com Meirelles[7]:<br/>AMLOC <= 10 - Bom (Esperado) <br/>10 > AMLOC <= 13 Regular AMLOC >13 Ruim|
+|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+|Métrica|M.1.2.1 - Usabilidade|
+|---|---|
+|**Fórmula**| A = amostra / U = usabilidade / M = Média <br/> U = M(A1)+M(A2)+M(A3)+M(A4)+M(A5)
+|**Escala da Medição**|Ordinal|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.|
+|**Procedimentos**| Deverá ser feito um estudo de campo onde pessoas do contexto (Cidadãos) utilizam o software e a partir do uso da pessoa deverá ser avaliado o seguinte checklist.<br/>* O participante consegue descobrir as funcionalidades do sistema? <br/>* O participante conseguiu executar a funcionalidade pedida na primeira tentativa?<br/>* Como o participante julga a aparência do produto?<br/>* O participante julga a complexidade do sistema baixa?<br/>* O participante julga a relevância do sistema alta?<br/>Ao terminar uma amostragem de pelo menos 10 pessoas, as amostras devem ser armazenadas e concisas em uma média para cada ponto perguntado e ai então analisado. |
+|**Análise**| Caso a média das amostras dê menor que 4 a usabilidade Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.erá dada como "não satisfatória" e acima de 4 como satisfatória.|
+|**Providências**|Caso a métrica esteja abaixo do esperado deve ser avaliado qual amostra estava mais baixa e em cima dela deve-se tomar providências para melhorar a interface, para que na próxima pesquisa se consiga um resultado satisfatório.| 
+
+##INDICADORES

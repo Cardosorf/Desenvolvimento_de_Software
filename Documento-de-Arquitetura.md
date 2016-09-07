@@ -12,6 +12,8 @@
 | 29/08/2016 | 1.7 | Adição do ME-R | Augusto Moreno |
 | 30/08/2016 | 1.8 | Edição representação arquitetural,Metas e restrições | Josué Nascimento da Silva e Rodrigo Oliveira |
 | 31/08/2016 | 1.9 | Refinando representação arquitetural, Visão lógica e visão de implementação | Marcelo Augusto |
+| 05/09/2016 | 2.0 | Arrumando numeração dos casos de uso | Marcelo Augusto |
+| 05/09/2016 | 2.1 | Adicionando imagens | Marcelo Augusto |
 
 ***
 
@@ -56,6 +58,10 @@
 
 <p align="justify">No MVC adaptado para Android a camada Controller é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada Model - que por sua vez gerência seus dados e responde as perguntas sobre seu o estados de seus dados e também responde instruções para mudança de estado -, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária. A camada Model é a responsável por modelar e gerenciar os dados referentes ao problema que está se tentando resolver. A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir querys para atualização do banco de dados local. As relações entre as camadas está descrita na figura 1.</p>
 
+![Figura1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/mvc.png)
+<p align="justify"><b>Figura 1</b> - Funções das camadas Model-View-Controller-DAO</p>
+
+
 #3. Metas e Restrições de Arquitetura
 
 <p align="justify">O sistema será funcional em plataformas Android  partir da versão  4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, nesse ambiente será utilizada a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades offline será implementado um banco de dados local utilizado o SQLite. Para as funcionalidades online será utilizada uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
@@ -66,46 +72,50 @@
 
 ##4.1. Atores
 
-* **Usuário Cadastrado**: O usuário  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
+![atores](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/atores.jpg)
 
-* **Usuário Visitante**: O usuário  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
+* **Cidadão brasileiro Cadastrado**: O cidadão  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
+
+* **Cidadão brasileiro Visitante**: O cidadão  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
 
 ##4.2. Diagrama de Casos de Uso
+
+![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCase%20Diagram.jpg)
 
 ##4.3. Descrição dos Casos de Uso
 
 <p align="justify">A seguir são apresentadas as descrições dos casos de uso do sistema , dos quais do UC01 ao UC04 serão apresentados funcionais na 1° release:</p>
 
 
-* **UC01 - Listar projetos de lei:** <p align="justify">Este caso de uso permite ao usuário listar projetos de lei de acordo com a forma de filtragem desejada, podendo ser por relevância, data e status (abertos).</p>
+* **UC01 - Realizar cadastro:** <p align="justify">Esse caso de uso permite ao cidadão visitante cadastrar-se no sistema.</p>
 
-* **UC02 - Visualizar projeto de lei:** <p align="justify">Esse caso de uso permite que a ambos os usuários (cadastrados ou visitantes), visualizar os projetos de lei.</p>
+* **UC02 - Visualizar projeto de lei:** <p align="justify">Esse caso de uso permite que a ambos os cidadãos (cadastrados ou visitantes), visualizar os projetos de lei.</p>
 
-* **UC03 - Visualizar segmento de projeto:** <p align="justify">Esse caso de uso permite aos usuários, visualizar os itens dos projetos de lei.</p>
+* **UC03 - Visualizar segmento de projeto:** <p align="justify">Esse caso de uso permite aos cidadãos, visualizar os itens dos projetos de lei.</p>
 
-* **UC04 - Realizar cadastro:** <p align="justify">Esse caso de uso permite ao usuário visitante cadastrar-se no sistema.</p>
+* **UC04 - Listar projetos de lei:** <p align="justify">Este caso de uso permite ao cidadão listar projetos de lei de acordo com a forma de filtragem desejada, podendo ser por relevância, data e status (abertos).</p>
 
-* **UC05 - Editar perfil:** <p align="justify">Esse caso de uso permite ao usuário cadastrado editar seu perfil pessoal no sistema.</p>
+* **UC05 - Editar perfil:** <p align="justify">Esse caso de uso permite ao cidadão cadastrado editar seu perfil pessoal no sistema.</p>
 
-* **UC06 - Pesquisar projeto:** <p align="justify">Esse caso de uso permite ao usuário pesquisar por projetos que contenham uma determinada palavra chave em seu título ou em algum de seus itens.</p>
+* **UC06 - Pesquisar projeto:** <p align="justify">Esse caso de uso permite ao cidadão pesquisar por projetos que contenham uma determinada palavra chave em seu título ou em algum de seus itens.</p>
 
-* **UC07 - Efetuar login:** <p align="justify">Esse caso permite ao usuário cadastrado efetuar o login em sua conta no sistema.</p>
+* **UC07 - Efetuar login:** <p align="justify">Esse caso permite ao cidadão cadastrado efetuar o login em sua conta no sistema.</p>
 
-* **UC08 - Sugerir proposta:** <p align="justify">Permite exclusivamente ao usuário cadastrado fazer uma sugestão ao projeto de lei de seu interesse.</p>
+* **UC08 - Sugerir proposta:** <p align="justify">Permite exclusivamente ao cidadão cadastrado fazer uma sugestão ao projeto de lei de seu interesse.</p>
 
-* **UC09 - Relatar erro:** <p align="justify">Esse caso permite aos usuários informar algum mal funcionamento no sistema.</p>
+* **UC09 - Relatar erro:** <p align="justify">Esse caso permite aos cidadãos informar algum mal funcionamento no sistema.</p>
 
-* **UC10 - compartilhar projeto:** <p align="justify">Permite ao usuário cadastrado compartilhar um projeto de lei por completo em suas redes pessoais.</p>
+* **UC10 - compartilhar projeto:** <p align="justify">Permite ao cidadão cadastrado compartilhar um projeto de lei por completo em suas redes pessoais.</p>
 
-* **UC11 - Ativar notificações:** <p align="justify">Permite ao usuário cadastrado receber notificações sobre ao andamento de projetos de lei de seu interesse.</p>
+* **UC11 - Ativar notificações:** <p align="justify">Permite ao cidadão cadastrado receber notificações sobre ao andamento de projetos de lei de seu interesse.</p>
 
-* **UC12 - Visualizar seguimento do projeto:** <p align="justify">Permite tanto ao usuário cadastrado com ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
+* **UC12 - Visualizar seguimento do projeto:** <p align="justify">Permite tanto ao cidadão cadastrado como ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
 
-* **UC13 - Avaliar seguimento:** <p align="justify">Permite exclusivamente ao usuário cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
+* **UC13 - Avaliar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
 
-* **UC14 - Comentar seguimento:** <p align="justify">Permite ao usuário cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
+* **UC14 - Comentar seguimento:** <p align="justify">Permite ao cidadão cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
 
-* **UC15 - Compartilhar seguimento:** <p align="justify">Permite exclusivamente ao usuário cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
+* **UC15 - Compartilhar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
 
 #5. Visão lógica
 
@@ -116,6 +126,9 @@
 ##5.1. Visão Geral
 
 ###5.1.2. Diagrama de pacotes
+
+![Diagrama de pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Package Diagram.jpg)
+
 
 ##5.2. Visão de implementação
 
@@ -128,8 +141,14 @@ Representando a camada Model, teremos o pacote Model. A Model é onde se faz a e
 
 ###5.2.1. Diagrama de classe
 
+![Diagrama de classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Class Diagram.jpg)
+
 ###5.2.2. Banco de dados
 
 * **DE-R**
 
+![Diagrama entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/derMDS.jpg)
+
 * **ME-R**
+
+![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS.jpg)
