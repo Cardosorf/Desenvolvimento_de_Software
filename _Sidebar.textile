@@ -11,7 +11,7 @@ h3. Release 01
 # "Plano de Gerenciamento de Comunicação":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o
 # "Plano de Gerenciamento de Tempo":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Tempo
 ## "Cronograma":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma
-# "Plano de Gerenciamento de Escopo":https://github.com/fga-gpp-mds/2016.2-Time01/wiki
+# "Plano de Gerenciamento de Escopo":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo
 # "Plano de Gerenciamento de Riscos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos
 # "Plano de Gerenciamento de Custos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-dos-Custos
 # "Plano de Gerenciamento de Aquisicões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es
