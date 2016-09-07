@@ -15,6 +15,3 @@
 
 <p align="justify">Qualquer membro das equipes de gerência/desenvolvimento ou o próprio cliente do projeto, ao notar problemas com o escopo, poderá sugerir alterações nele. Cada alteração proposta deverá ser discutida por todos os envolvidos no projeto, os custos e datas previstas para término de atividades anteriormente planejados deverão ser estimados novamente para que os impactos das mudanças propostas possam ser analisados. Caso após avaliar os impactos haja consenso em relação à necessidade dessas alterações, o escopo será atualizado assim como todos os planos influenciados pela mudança.</p>
 
-# 5. Controle do Esscopo
-
-
