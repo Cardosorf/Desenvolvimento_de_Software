@@ -51,9 +51,19 @@ Os recursos das atividades estratégicas, foram definidos de formas variadas. Pa
 
 ## 2.4 Estimativa de Duração da Atividade
 
+A estimativa de tempo das atividades primordialmente de acordo com projetos anteriores, experiência dos gestores e com decisões em grupo. Tais formas apoiaram a estimativa do método PERT (Program Evaluation and Review Technique), desenvolvido pela empresa de consultoria Booz, Allen & Hamilton. O PERT consiste em estimar três cenários para as atividades, pessimista, realista e otimista e definir a estimativa de tempo para cada um destes cenários. A duração total da PERT é dada pela equação:
 
+***
+**De = P + 4R + O**
+*** 
+
+Onde, **De** corresponde à duração estimada total de uma atividade, **P**, **R** e **O** às estimativas pessimistas, realistas e otimistas, respectivamente, de uma atividade.
 
 ## 2.5 Desenvolvimento do Cronograma
+
+O cronograma foi desenvolvido com base nas atividades destacadas de macro-entregáveis da Estrutura Analítica do Projeto. Destes macro-entregáveis identificou-se a necessidade de se granular em atividades menores, de acordo com os artefatos, casos de uso, treinamentos e necessidades dos gerentes.
+
+O cronograma foi desenvolvido na ferramenta Gantter do Google Drive. Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?id=0B-txm4abVzqGdEs4cVJ5RFdyRjA), via Gantter, ou se preferir clique [AQUI](http://imagizer.imageshack.us/a/img924/5043/agYn9t.png), para visualizar a imagem.
 
 ### 2.5.1 Principais Marcos
 
