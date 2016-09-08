@@ -61,8 +61,10 @@ De acordo com o [Relatório de Gestão da UnB do ano de 2015](http://www.dpo.unb
 
 Tendo em vista que, até a terceira semana do projeto, a equipe contava com 10 integrantes e que a partir de então a equipe deverá possuir 9 integrantes até o final das 16 semanas do projeto, o valor estimado para gasto com recursos humanos é de:
 
-3 primeiras semanas: 10 * 10 * 3 * 15,3 = R$ 4.590,00
-restante do projeto: 10 * 9 * 13 * 15,3 = R$ 17.901,00
+Três primeiras semanas: 10 * 10 * 3 * 15,3 = R$ 4.590,00
+<br>
+Restante do projeto: 10 * 9 * 13 * 15,3 = R$ 17.901,00
+<br>
 Total: 4.590,00 + 17.901,00 = R$ 22.491,00
 
 
