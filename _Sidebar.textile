@@ -19,7 +19,7 @@ h3. Release 01
 # "Plano de Gerenciamento de Integração":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o
 # "Plano de Gerenciamento das Partes Interessadas":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas
 # "Plano de Gerenciamento de Recursos Humanos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos
-# "Planejamento dos Treinamentos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-dos-treinamentos
+## "Planejamento dos Treinamentos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-dos-treinamentos
 
 *Métodos de Desenvolvimento de Software*
 # "Documento de Visão":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Documento-de-Vis%C3%A3o
