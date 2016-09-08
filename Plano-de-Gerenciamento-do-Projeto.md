@@ -119,43 +119,35 @@ Tendo em vista que o projeto é dividido em iterações fixas de 2 semanas e que
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/linha_de_base_custos.png)
 
+# 5. Desenvolvimento dos planos
 
-# 5. Plano de Gerenciamento do Escopo
+O desenvolvimento dos planos de gerenciamento das áreas do projeto também contribuem para o gerenciamento do mesmo. Dessa forma, os seguintes planos foram desenvolvidos para auxiliar no gerenciamento do projeto.
 
+* [Plano de Gerenciamento de Configuração](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
-# 6. Plano de Gerenciamento de Configuração
-[Plano de Gerenciamento de Configuração](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
+* [Plano de Gerenciamento de Tempo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Tempo)
 
-#7. Plano de Gerenciamento dos Requisitos
+* [Plano de Gerenciamento dos Custos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-dos-Custos)
 
+* [Plano de Gerenciamento da Qualidade](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade)
 
-#8. Plano de Gerenciamento do Cronograma
+* [Plano de Gerenciamento dos Recursos Humanos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
+* [Plano de Gerenciamento das Comunicações](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o)
 
-#9. Plano de Gerenciamento dos Custos
+* [Plano de Gerenciamento dos Riscos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos)
 
+* [Plano de Gerenciamento das Aquisições](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es)
 
-#10. Plano de Gerenciamento da Qualidade
+* [Plano de Gerenciamento das Partes Interessadas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas)
 
+* [Plano de Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo)
 
-#11. Plano de Melhorias no Processo
+* [Plano de Gerenciamento de Integração](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o)
 
+* [Plano de Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
-#12. Plano de Gerenciamento dos Recursos Humanos
-
-
-#13. Plano de Gerenciamento das Comunicações
-[Plano de Gerenciamento das Comunicações](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o)
-
-#14. Plano de Gerenciamento dos Riscos
-
-
-#15. Plano de Gerenciamento das Aquisições
-
-
-#16. Plano de Gerenciamento das Partes Interessadas
-
-#17. Referências
+# 6. Referências
 ###### 1. Rational Unified Process (RUP): [http://sce.uhcl.edu/helm/rationalunifiedprocess/](http://sce.uhcl.edu/helm/rationalunifiedprocess/) 
 
 ###### 2. Project Management Body of Knowledge (PMBoK): [http://www.pmi.org/pmbok-guide-standards](http://www.pmi.org/pmbok-guide-standards)
