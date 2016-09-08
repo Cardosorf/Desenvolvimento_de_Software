@@ -113,19 +113,18 @@ Caso ocorra atrasos nas tarefas, a equipe de gerenciamento fica responsável por
 
 # 3. Cronograma
 
-Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?id=0B-txm4abVzqGdEs4cVJ5RFdyRjA), via Gantter.
+Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?id=0B-txm4abVzqGRUpHSmlldUJrM0E), via Gantter.
 
 # 4. Gráfico de Gantt
 
 **Dica: Clique com o botão direito na imagem e abra em uma nova aba, para poder dar zoom.**
 
-![Gráfico de Gantt](https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Cronograma%20GPP%20e%20MDS.png "Gráfico de Gantt")
+![Gráfico de Gantt](https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Cronograma%20GPP%20e%20MDS(08-09).png "Gráfico de Gantt")
 
 # 5. Referências
 
-[ATUALIZAR]
-http://pet.ecv.ufsc.br/arquivos/apoio-didatico/ECV5318%20-%20Planejamento_cap06.pdf
+[1]. AVILLA, Antônio V. O Método PERT-CPM. 2011. Disponível em [link](http://pet.ecv.ufsc.br/arquivos/apoio-didatico/ECV5318%20-%20Planejamento_cap06.pdf)
 
-http://blog.mundopm.com.br/2014/10/17/plano-de-gerenciamento-do-tempo-e-cronogrma-do-projeto-exemplo/
+[2]. TRENTIM, Mario H. Plano de Gerenciamento de Tempo. 2014. Disponível em [link](http://blog.mundopm.com.br/2014/10/17/plano-de-gerenciamento-do-tempo-e-cronogrma-do-projeto-exemplo/)
 
-PMBOK 2014...
+[3]. PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a Edição. EUA: Project Management Institute, 2013.
