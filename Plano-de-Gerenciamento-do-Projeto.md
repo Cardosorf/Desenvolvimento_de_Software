@@ -98,7 +98,7 @@ para o cliente dono do produto.
 
 # 2. Linha de Base do Escopo
 
-A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvolvida para dispositivos android por meio da linguagem de programação Java, utilizando a linguagem SQL para consulta e gerenciamento de dados. A aplicação poderá ser utilizada por meio de celulares ou tablets que possuam android como sistema operacional, cuja versão seja igual ou superior à **X.XX**. Tendo em vista que a equipe do projeto não se responsabiliza pelo fornecimento da infraestrutura necessária para o desenvolvimento da aplicação, a equipe se propõe a entregar as seguintes funcionalidades:
+A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvolvida para dispositivos android por meio da linguagem de programação Java, utilizando a linguagem SQL para consulta e gerenciamento de dados. A aplicação poderá ser utilizada por meio de celulares ou tablets que possuam android como sistema operacional, cuja versão seja igual ou superior à 4.4. Tendo em vista que a equipe do projeto não se responsabiliza pelo fornecimento da infraestrutura necessária para o desenvolvimento da aplicação, a equipe se propõe a entregar as seguintes funcionalidades:
 
 * Gerenciamento dos usuários
 * Gerenciamento dos projetos de lei
