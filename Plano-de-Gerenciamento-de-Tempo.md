@@ -63,7 +63,7 @@ Onde, **De** corresponde à duração estimada total de uma atividade, **P**, **
 
 O cronograma foi desenvolvido com base nas atividades destacadas de macro-entregáveis da Estrutura Analítica do Projeto. Destes macro-entregáveis identificou-se a necessidade de se granular em atividades menores, de acordo com os artefatos, casos de uso, treinamentos e necessidades dos gerentes.
 
-O cronograma foi desenvolvido na ferramenta Gantter do Google Drive. Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?id=0B-txm4abVzqGdEs4cVJ5RFdyRjA), via Gantter, ou se preferir clique [AQUI](http://imagizer.imageshack.us/a/img924/5043/agYn9t.png), para visualizar a imagem.
+O cronograma foi desenvolvido na ferramenta Gantter do Google Drive, conforme estabelecido por um dos stakeholders do sistema, a Professora Carla, orientadora das equipes de desenvolvimento e gestão. 
 
 ### 2.5.1 Principais Marcos
 
@@ -77,6 +77,10 @@ O cronograma foi desenvolvido na ferramenta Gantter do Google Drive. Para melhor
 
 # 3. Cronograma
 
+Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?id=0B-txm4abVzqGdEs4cVJ5RFdyRjA), via Gantter.
+
 # 4. Gráfico de Gantt
+
+[Gráfico de Gantt](http://imagizer.imageshack.us/a/img924/5043/agYn9t.png "Gráfico de Gantt")
 
 # 5. Referências
