@@ -67,13 +67,40 @@ O cronograma foi desenvolvido na ferramenta Gantter do Google Drive, conforme es
 
 ### 2.5.1 Principais Marcos
 
+| Nome | Data Final | Responsáveis |
+| --- | --- | --- |
+| Definir Equipe  | 11/08/2016  | GPP e MDS |
+| Reunir com o possível Cliente | 15/08/2016 | GPP |
+| Definir Tema do Projeto | 17/08/2016  | GPP |
+| Criar Plano de Comunicação | 19/08/2016  | GPP |
+| Redigir Plano de Abertura do Projeto | 22/08/2016  | GPP  |
+| Criar Documento de Visão  | 22/08/2016  | MDS |
+| Especificação de Caso de Uso  | 29/08/2016  | MDS  |
+| Especificação suplementar | 29/08/2016 | MDS |
+| Custo  |   |   |
+| Escopo  |   |   |
+| Risco  |   |   |
+| Qualidade  |   |   |
+| Prazo  |   |   |
+|   |   |   |
+
+
 ### 2.5.2 Linha de Base
+
+| Nome da BaseLine | Data |
+| --- | --- |
+| Release 1 | 24/09/2016 e 25/09/2016 |
+| Release 2 | 29/11/2016 |
 
 ## 2.6 Controle do Cronograma
 
 ### 2.6.1 Avanço Físico
 
+
+
 ### 2.6.2 Tarefas Atrasadas
+
+
 
 # 3. Cronograma
 
@@ -83,4 +110,13 @@ Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?
 
 ![Gráfico de Gantt](https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Cronograma%20GPP%20e%20MDS.png "Gráfico de Gantt")
 
+**Dica: Clique com o botão direito na imagem e abra em uma nova aba, para poder dar zoom.**
+
 # 5. Referências
+
+[ATUALIZAR]
+http://pet.ecv.ufsc.br/arquivos/apoio-didatico/ECV5318%20-%20Planejamento_cap06.pdf
+
+http://blog.mundopm.com.br/2014/10/17/plano-de-gerenciamento-do-tempo-e-cronogrma-do-projeto-exemplo/
+
+PMBOK 2014...
