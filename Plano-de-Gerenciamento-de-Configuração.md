@@ -76,11 +76,49 @@ Posteriormente, foram obtidos os arquivos fontes necessários para executar o am
 
 Para finalizar, utilizamos alguns parâmetros para instalação e configuração de pacotes advindos do sdk. Dessa maneira, os desenvolvedores tiveram a única necessidade de rodar o script para executar toda a instalação.
 
-## 2.3 Checkstyle
+## 2.3 Circle CI
+
+O Circle CI foi a ferramenta utilizada para implementação da integração contínua do projeto, as builds para o fork do time podem ser vistas [neste link](https://circleci.com/gh/izacristina/2016.2-WikiLegis) e as builds para a upstream podem ser vistas [neste link](https://circleci.com/gh/fga-gpp-mds/2016.2-WikiLegis).
+
+A configuração para funcionamento da integração contínua foi feita através do arquivo circle.yml, descrito a seguir:
+
+```yml
+    machine:
+        environment:
+            PATH: "~/$CIRCLE_PROJECT_REPONAME/gradle-2.9/bin:$PATH"
+            TERM: "dumb"
+            ADB_INSTALL_TIMEOUT: "10"
+            GRADLE_OPTS: '-Dorg.gradle.jvmargs="-Xmx2048m -XX:+HeapDumpOnOutOfMemoryError"'
+
+    dependencies:
+        pre:
+            - echo y | android update sdk --no-ui --all --filter "tools"
+            - echo y | android update sdk --no-ui --all --filter "build-tools-24.0.0"
+
+    test:
+        override:
+            # start the emulator
+            - emulator -avd circleci-android22 -no-audio -no-window:
+                background: true
+                parallel: true
+            # wait for it to have booted
+            - circle-android wait-for-boot
+            # unlock the emulator screen
+            - sleep 30
+            - adb shell input keyevent 82
+            # run tests  against the emulator.
+            - ./gradlew connectedAndroidTest -PdisablePreDex
+            # copy the build outputs to artifacts
+            - cp -r app/build/outputs $CIRCLE_ARTIFACTS
+            # copy the test results to the test results directory.
+            - cp -r app/build/outputs/androidTest-results/* $CIRCLE_TEST_REPORTS
+```
+
+## 2.4 Checkstyle
 
 O Checkstyle, conforme descrito no [Plano de Qualidade](), é uma ferramenta de análise estática para análise de códigos fonte JAVA, produzido pela IDEA. Promove uma análise em tempo real e sob demanda de padrões de código que devem ser seguidos pelos desenvolvedores. Ela é totalmente configurável e possui documentação disponível para os usuários, para mais informações, acesse: [Checkstyle Documentation](http://checkstyle.sourceforge.net/)
 
-### 2.3.1 Instalação no Android Studio
+### 2.4.1 Instalação no Android Studio
 
 Na IDE do Android Studio selecione, **File > Settings...**, e depois clique em **Plugins**, e selecione o botão **Browse Repositories...** conforme a figura abaixo:
 
@@ -94,7 +132,7 @@ Aguarde o download e instalação do plugin e clique em **Restart Android Studio
 
 [[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_025.png|width=600px|height=400px]]
 
-### 2.3.2 Configuração do Checkstyle
+### 2.4.2 Configuração do Checkstyle
 
 Na IDE do Android Studio, selecione **File > Settings...**, selecione **Other Settings** e depois clique em Checkstyle. Na interface lateral, próximo ao campo **Configuration File** selecione o botão **+** para adicionar um arquivo de configuração.
 
