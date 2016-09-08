@@ -81,6 +81,6 @@ Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?
 
 # 4. Gráfico de Gantt
 
-[Gráfico de Gantt](http://imagizer.imageshack.us/a/img924/5043/agYn9t.png "Gráfico de Gantt")
+![Gráfico de Gantt](https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Cronograma%20GPP%20e%20MDS.png "Gráfico de Gantt")
 
 # 5. Referências
