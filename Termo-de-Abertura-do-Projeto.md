@@ -59,13 +59,13 @@ De acordo com o [Relatório de Gestão da UnB do ano de 2015](http://www.dpo.unb
 
 11.020,00 / (48 * 15) ≃ R$ 15,30.
 
-Tendo em vista que, até a terceira semana do projeto, a equipe contava com 10 integrantes e que a partir de então a equipe deverá possuir 9 integrantes até o final das 16 semanas do projeto, o valor estimado para gasto com recursos humanos é de:
+Tendo em vista que até a terceira semana do projeto a equipe contava com 10 integrantes que trabalhavam 10 horas por semana cada e que a partir de então a equipe deverá possuir 9 integrantes trabalhando 12 horas por semana cada até o final das 16 semanas do projeto, o valor estimado para gasto com recursos humanos é de:
 
 Três primeiras semanas: 10 * 10 * 3 * 15,3 = R$ 4.590,00
 <br>
-Restante do projeto: 10 * 9 * 13 * 15,3 = R$ 17.901,00
+Restante do projeto: 12 * 9 * 13 * 15,3 = R$ 21.481,20
 <br>
-Total: 4.590,00 + 17.901,00 = R$ 22.491,00
+Total: 4.590,00 + 21.481,20 = R$ 26.071,20
 
 
 ## 6.2. Equipamentos e Serviços
@@ -86,7 +86,7 @@ Sendo assim, o valor total gasto com equipamentos e serviços durante o período
 
 Por fim, para se obter o custo total do projeto, basta somar os custos com recursos humanos e equipamentos e serviços:
 
-22.491,00 + 29.150,50 = R$ 51.641,00.
+26.071,20 + 29.150,50 = R$ 55.221,70.
 
 
 # 7. Steakholders (Partes interessadas)
