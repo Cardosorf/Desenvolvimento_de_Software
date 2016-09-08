@@ -5,6 +5,7 @@
 | 05/09/2016 | 1.0 | Definição do Template | Pedro Ivo |
 | 06/09/2016 | 1.1 | Atualizando Sumario | Pedro Ivo |
 | 07/09/2016 | 1.2 | Definição dos tópicos | Pedro Ivo |
+| 08/09/2016 | 1.3 | Refinamento dos Principais Marcos | Pedro Ivo |
 
 # Sumário
 1.  [Objetivo](#1-objetivo)
@@ -77,13 +78,16 @@ O cronograma foi desenvolvido na ferramenta Gantter do Google Drive, conforme es
 | Criar Documento de Visão  | 22/08/2016  | MDS |
 | Especificação de Caso de Uso  | 29/08/2016  | MDS  |
 | Especificação suplementar | 29/08/2016 | MDS |
-| Custo  |   |   |
-| Escopo  |   |   |
-| Risco  |   |   |
-| Qualidade  |   |   |
-| Prazo  |   |   |
-|   |   |   |
-
+| Criar Documento de Arquitetura | 01/09/2016 | MDS |
+| Desenvolver Protótipo do Sistema  | 05/09/2016  | MDS |
+| Redigir Plano de Gerenciamento de Escopo  | 05/09/2016  | GPP  |
+| Redigir Plano de Gerenciamento de Riscos  | 05/09/2016  | GPP  |
+| Redigir Plano de Gerenciamento de Qualidade  | 05/09/2016  | GPP  |
+| Redigir Plano de Gerenciamento de Tempo  | 05/09/2016  | GPP |
+| Desenvolver Caso de Uso Cadastrar Usuário  | 05/09/2016  | MDS |
+| Desenvolver Caso de Uso Listar Projetos | 20/09/2016 | MDS |
+| Desenvolver Caso de Uso Visualizar Projetos de Lei | 20/09/2016 | MDS |
+| Desenvolver Caso de Uso Visualizar Item de Projeto | 20/09/2016 | MDS |
 
 ### 2.5.2 Linha de Base
 
@@ -96,11 +100,15 @@ O cronograma foi desenvolvido na ferramenta Gantter do Google Drive, conforme es
 
 ### 2.6.1 Avanço Físico
 
-
+| Status | Atividade |
+| 25% | Iniciada |
+| 50% | Razoável Evolução |
+| 75% | Necessita de Ajustes Finais |
+| 100% | Concluída |
 
 ### 2.6.2 Tarefas Atrasadas
 
-
+Caso ocorra atrasos nas tarefas, a equipe de gerenciamento fica responsável por realizar reuniões para tentar identificar as dificuldades encontradas para realização das tarefas. Acrescenta-se ainda que caso se identifique grandes dificuldades uma tarefa pode ser replanejada (data), ou ainda, alocar-se mais recursos para o cumprimento da tarefa sem um atraso muito grande.
 
 # 3. Cronograma
 
@@ -108,9 +116,9 @@ Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?
 
 # 4. Gráfico de Gantt
 
-![Gráfico de Gantt](https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Cronograma%20GPP%20e%20MDS.png "Gráfico de Gantt")
-
 **Dica: Clique com o botão direito na imagem e abra em uma nova aba, para poder dar zoom.**
+
+![Gráfico de Gantt](https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Cronograma%20GPP%20e%20MDS.png "Gráfico de Gantt")
 
 # 5. Referências
 
