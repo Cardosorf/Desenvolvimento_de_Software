@@ -101,6 +101,7 @@ O cronograma foi desenvolvido na ferramenta Gantter do Google Drive, conforme es
 ### 2.6.1 Avanço Físico
 
 | Status | Atividade |
+| --- | --- |
 | 25% | Iniciada |
 | 50% | Razoável Evolução |
 | 75% | Necessita de Ajustes Finais |
