@@ -141,8 +141,8 @@ O.1 - Qualidade do produto
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
-|**Análise**| De acordo com a ferramenta [Mezuro](http://mezuro.org/pt/kalibro_configurations/1/metric_configurations/2), baseado em conhecimentos empiricos:<br/> 0 - 3 Exelente <br/> 3 - 5 Bom (Esperado)<br/> 5 - 7 Regular <br/> 7 - INF Preocupante|
-|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+|**Análise**| De acordo com a ferramenta [Mezuro](http://mezuro.org/pt/kalibro_configurations/1/metric_configurations/2), baseado em conhecimentos empiricos:<br/> 0 - 3 Exelente <br/> 3 - 5 Bom (Esperado)<br/> 5 - 7 Regular <br/> 7 - INF Preocupante <br/>|
+|**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.1.3 - Conexões Aferentes de uma classe (ACC)|
 |---|---|
@@ -152,8 +152,8 @@ O.1 - Qualidade do produto
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit da interação para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar a evolução do software.|
-|**Análise**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim [7]|
-|**Providências**| Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+|**Análise dos indicadores**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim [7] <br/> Segundo [FILHO](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf), caso a métrica atinja valores muito altos [5,7] a classe possui muitas dependências, sendo necessário seguir o princípio da depêndencia única e reduzir o número de interfaces utilizadas.|
+|**Providências**| Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.1.4 - Tamanho médio dos Métodos (AMLOC)|
 |---|---|
@@ -163,8 +163,8 @@ O.1 - Qualidade do produto
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
-|**Análise**| De acordo com Meirelles[7]:<br/>AMLOC <= 10 - Bom (Esperado) <br/>10 > AMLOC <= 13 Regular AMLOC >13 Ruim|
-|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+|**Análise e indicadores**| De acordo com Meirelles[7]:<br/>AMLOC <= 10 - Bom (Esperado) <br/>10 > AMLOC <= 13 Regular AMLOC >13 Ruim <br/> Segundo [FILHO](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf), caso a métrica atinja valores elevados [5,7] faz se necessário "quebrar" métodos grandes em métodos menores, e também, códigos muito aninhados são fortes candidatos a um novo método.|
+|**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 
 |Métrica|M.1.1.5 - Falta de coesão médio por método(LCOM4)|
@@ -174,9 +174,9 @@ O.1 - Qualidade do produto
 |**Fórmula**|Não se aplica|
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
-|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Procedimentos**| Será feito o uso da ferramenta no último commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**|De acordo com Pereira[8], O valor ideal é 1. Mas valores além disso não são estranhos. Considerando o escopo do projeto, valores aceitáveis serão:<br/>1-3 Aceitável<br/>4-INF Ruim|
-|**Providências**|Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+|**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.2.1 - Usabilidade|
 |---|---|
@@ -186,6 +186,4 @@ O.1 - Qualidade do produto
 |**Procedimentos**| Deverá ser feito um estudo de campo onde pessoas do contexto (Cidadãos) utilizam o software e a partir do uso da pessoa deverá ser avaliado o seguinte checklist.<br/>* O participante consegue descobrir as funcionalidades do sistema? <br/>* O participante conseguiu executar a funcionalidade pedida na primeira tentativa?<br/>* Como o participante julga a aparência do produto?<br/>* O participante julga a complexidade do sistema baixa?<br/>* O participante julga a relevância do sistema alta?<br/>Ao terminar uma amostragem de pelo menos 10 pessoas, as amostras devem ser armazenadas e concisas em uma média para cada ponto perguntado e ai então analisado. |
 |**Análise**| Caso a média das amostras dê menor que 4 a usabilidade Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.erá dada como "não satisfatória" e acima de 4 como satisfatória.|
 |**Providências**|Caso a métrica esteja abaixo do esperado deve ser avaliado qual amostra estava mais baixa e em cima dela deve-se tomar providências para melhorar a interface, para que na próxima pesquisa se consiga um resultado satisfatório.| 
-
-##INDICADORES
 
