@@ -26,8 +26,16 @@
 
 # 2.6. Variação dos custos (VC)
 
-<p align="justify">A variação dos custos será calculada através da diferença entre o valor agregado (VA) e o custo real (CR). Ela indica a relação entre o desempenho físico dos membros da equipe e os custos. O planejado é que a variação dos custos seja nula, sendo que uma variação negativa pode dificultar a recuperação do projeto.</p>
+<p align="justify">A variação dos custos será calculada tirando-se a diferença entre o valor agregado e o custo real do projeto. Ela indica a relação entre o desempenho físico dos membros da equipe e os custos. O planejado é 
+que a variação dos custos seja nula, sendo que uma variação negativa pode dificultar a recuperação do projeto.
+<br>
+Fórmula: VC = VA - CR.
+</p>
+
 
 # 2.7. Índice de desempenho dos custos (IDC)
 
-<p align="justify">Possui como objetivo medir a eficiência de custos do trabalho executado. Ele é calculado tirando-se a razão entre o valor agregado e o custo real do projeto. Um valor de IDC menor que 1.0 indica um excesso de custo para o trabalho executado, enquanto um valor de IDC maior que 1.0 indica um desempenho de custo abaixo do limite até a data presente.</p>
+<p align="justify">Possui como objetivo medir a eficiência de custos do trabalho executado. Ele é calculado tirando-se a razão entre o valor agregado e o custo real do projeto. Um valor de IDC menor que 1.0 indica um excesso de custo para o trabalho executado, enquanto um valor de IDC maior que 1.0 indica um desempenho de custo abaixo do limite até a data presente.
+<br>
+Fórmula: IDC = VA / CR
+</p>
