@@ -7,15 +7,15 @@
 
 # 1. Introdução
 
-Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar um grande resumo dos riscos, limites e recursos, bem como mostrar o estudo de viabilidade do projeto. (PMBOK quinta edição, cap.4.1.3.1, pag. 71)
+<p align="justify">Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar um grande resumo dos riscos, limites e recursos, bem como mostrar o estudo de viabilidade do projeto. (PMBOK quinta edição, cap.4.1.3.1, pag. 71)</p>
 
 # 2. Descrição do Projeto
 
-O projeto trata-se de uma adaptação para Android de uma aplicação web, de código aberto, desenvolvida pelo Laboratório Hacker da Câmara dos Deputados. Seu objetivo é oferecer aos seus usuários a oportunidade de propor alterações e discussões relacionadas à redação de projetos de lei.
+<p align="justify">O projeto trata-se de uma adaptação para Android de uma aplicação web, de código aberto, desenvolvida pelo Laboratório Hacker da Câmara dos Deputados. Seu objetivo é oferecer aos seus usuários a oportunidade de propor alterações e discussões relacionadas à redação de projetos de lei.</p>
 
 # 3. Propósito e justificativa do Projeto
 
-O projeto tem como objetivo alcançar o cidadão que tem o direito democrático de contribuir com as legislações que regem seu pais. O Wikilegis procura fazer isso de forma interativa e atrativa, de forma a atrair o cidadão comum. Portanto se justifica a necessidade de uma adaptação mobile da plataforma web, tendo em vista que dos domicílios brasileiros que acessam a internet:
+<p align="justify">O projeto tem como objetivo alcançar o cidadão que tem o direito democrático de contribuir com as legislações que regem seu pais. O Wikilegis procura fazer isso de forma interativa e atrativa, de forma a atrair o cidadão comum. Portanto se justifica a necessidade de uma adaptação mobile da plataforma web, tendo em vista que dos domicílios brasileiros que acessam a internet:</p>
 * 80,4% o fizeram por celular (63.42% são android3)
 * 76,6% via microcomputador
 * 21,9% por tablet
@@ -34,13 +34,11 @@ As restrições do projeto wikilegis mobile é:
 
 # 5. Riscos do Projeto
 
-Os principais riscos do desenvolvimento do aplicativo Android do Wikilegis e suas respectivas medidas 
-preventivas são:
+<p align="justify">Os principais riscos do desenvolvimento do aplicativo Android do Wikilegis e suas respectivas medidas preventivas são:</p>
 
 * Equipe de desenvolvimento não conseguir se adaptar às tecnologias propostas para o projeto.
 
 **Plano de ação: Realização de treinamentos com o intuito de ensinar as tecnologias com as quais a equipe de desenvolvimento possui dificuldade ou não conhece.**
-
 
 * Membro da equipe trancar ou abandonar a disciplina.
 
@@ -50,7 +48,6 @@ preventivas são:
 
 **Plano de ação: Configurar o ambiente através de uma receita de configuração de ambiente.**
 
-
 # 6. Custos do Projeto
 
 ## 6.1. Recursos Humanos
@@ -59,14 +56,13 @@ De acordo com o [Relatório de Gestão da UnB do ano de 2015](http://www.dpo.unb
 
 11.020,00 / (48 * 15) ≃ R$ 15,30.
 
-Tendo em vista que até a terceira semana do projeto a equipe contava com 10 integrantes que trabalhavam 10 horas por semana cada e que a partir de então a equipe deverá possuir 9 integrantes trabalhando 12 horas por semana cada até o final das 16 semanas do projeto, o valor estimado para gasto com recursos humanos é de:
+<p align="justify">Tendo em vista que até a terceira semana do projeto a equipe contava com 10 integrantes que trabalhavam 10 horas por semana cada e que a partir de então a equipe deverá possuir 9 integrantes trabalhando 12 horas por semana cada até o final das 16 semanas do projeto, o valor estimado para gasto com recursos humanos é de:</p>
 
 Três primeiras semanas: 10 * 10 * 3 * 15,3 = R$ 4.590,00
 <br>
 Restante do projeto: 12 * 9 * 13 * 15,3 = R$ 21.481,20
 <br>
 Total: 4.590,00 + 21.481,20 = R$ 26.071,20
-
 
 ## 6.2. Equipamentos e Serviços
 
@@ -93,7 +89,7 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 
 ## 7.1. Equipe de Gerência
 
-Alunos da disciplina que tem a responsabilidade de planejar, monitorar e controlar o projeto, dessa forma garantindo um equilíbrio e assim o sucesso do projeto. Além disso, tem a responsabilidade de tomar decisões fundamentais dentro do projeto, sendo assim, responsabilizados por estas.
+<p align="justify">Alunos da disciplina que tem a responsabilidade de planejar, monitorar e controlar o projeto, dessa forma garantindo um equilíbrio e assim o sucesso do projeto. Além disso, tem a responsabilidade de tomar decisões fundamentais dentro do projeto, sendo assim, responsabilizados por estas.</p>
 
 | Nome                  | Disciplina | E-mail                     | Github              |
 |-----------------------|:----------:|----------------------------|---------------------|
@@ -101,11 +97,10 @@ Alunos da disciplina que tem a responsabilidade de planejar, monitorar e control
 | Izabela Cardoso         | GPP        | cizabelacristina@gmail.com   | [@izacristina](https://github.com/izacristina)     |
 | Igor Ribeiro       | GPP        | igor.ribeiro.duarte@gmail.com | [@igorribeiroduarte](https://github.com/igorribeiroduarte) |
 | Pedro Ivo        | GPP        | andradepedroivo@gmail.com | [@freemanpivo](https://github.com/freemanpivo)  |
-| Tiago Assunção      | GPP        | tthiagoribeironiquel@gmail.com | [@tiagoassuncao](https://github.com/tiagoassuncao)|
 
 ## 7.1. Equipe de desenvolvimento
 
-Alunos da disciplina de MDS(Métodos de desenvolviemnto de software), que tem a responsabilidade de construir o produto e a documentação relacionada a metodologia seguida (RUP).
+<p align="justify">Alunos da disciplina de MDS(Métodos de desenvolviemnto de software), que tem a responsabilidade de construir o produto e a documentação relacionada a metodologia seguida (RUP).</p>
 
 | Nome                  | Disciplina | E-mail                     | Github              |
 |-----------------------|:----------:|----------------------------|---------------------|
@@ -117,12 +112,13 @@ Alunos da disciplina de MDS(Métodos de desenvolviemnto de software), que tem a 
 
 ## 7.2. Monitores
 
-Ex-Aluno das disciplinas de MDS e GPP que tem a responsabilidade de acompanhar e ajudar a equipe de desenvolvimento e planejamento, garantindo que a avaliação do docente será terá uma fundamentação ótima. Além disso, devem tirar duvidas quanto as metodologias e as tecnologias das disciplinas.
+<p align="justify">Ex-Aluno das disciplinas de MDS e GPP que tem a responsabilidade de acompanhar e ajudar a equipe de desenvolvimento e planejamento, garantindo que a avaliação do docente será terá uma fundamentação ótima. Além disso, devem tirar duvidas quanto as metodologias e as tecnologias das disciplinas.</p>
 
-| Nome                  | Disciplina | E-mail                     | Github              |
-|-----------------------|:----------:|----------------------------|---------------------|
-| Victor Hugo       | MDS        |  |  |
-||GPP||
+| Nome                  | Disciplina |
+|-----------------------|:----------:|
+| Victor Hugo       | MDS        |
+| Gabriel Climaco | MDS        |
+| Emilie Morais |GPP|
 
 ## 7.3. Docente
 
