@@ -85,7 +85,7 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 26.071,20 + 29.150,50 = R$ 55.221,70.
 
 
-# 7. Steakholders (Partes interessadas)
+# 7. Stakeholders (Partes interessadas)
 
 ## 7.1. Equipe de Gerência
 
