@@ -1,6 +1,6 @@
 ### Local/Horário da Reunião:
 
-Lab Hacker - Câmara dos Deputados
+UnB/FGA (Faculdade do Gama)
 
 16:00  ~  17:30
 
