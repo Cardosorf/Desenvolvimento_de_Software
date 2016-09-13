@@ -26,20 +26,18 @@
       * [2.3.3 Casos de Uso]()
       * [2.3.4 Critérios de Avaliação]()
       * [2.3.5 Planejamento da Próxima Iteração]()
-   * [2.4 Iteração 4]()
-      * [2.4.1 Atividades da Iteração]()
-      * [2.4.2 Recursos]()
-      * [2.4.3 Casos de Uso]()
-      * [2.4.4 Critérios de Avaliação]()
-      * [2.4.5 Planejamento da Próxima Iteração]() 
+   
 
-# Introdução
+# Objetivo
+
+Esse documento tem por objetivo organizar as atividades e tarefas a serem realizadas nas iterações do projeto, com a metodologia do RUP, que se iniciou no dia 09 de agosto e finaliza no dia 20 de setembro, onde cada iteração dura em média 14 dias.
+
 
 
 # Plano da Iteração
 
 
-## Iteração 1 (DATA?)
+## Iteração 1 (09/08/2016 a 22/08/2016)
 
 ### Atividades da Iteração
 
@@ -55,7 +53,7 @@
 
 
 
-## Iteração 2 (DATA?)
+## Iteração 2 (22/08/2016 a 05/09/2016)
 
 ### Atividades da Iteração
 
@@ -70,7 +68,7 @@
 
 
 
-## Iteração 3 (DATA?)
+## Iteração 3 (06/09/2016 a 20/09/2016)
 
 ### Atividades da Iteração
 
@@ -82,16 +80,3 @@
 
 ### Planejamento da Próxima Iteração
 
-
-
-## Iteração 4 (DATA?)
-
-### Atividades da Iteração
-
-### Recursos Humanos
-
-### Casos de Uso
-
-### Critérios de avaliação
-
-### Planejamento da Próxima Iteração
