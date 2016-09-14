@@ -68,16 +68,17 @@ O Espresso é uma ferramenta para Testes de Interface de Usuário da plataforma 
 
 ##4.4 Mezuro
 
-O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza de duas outras ferramentas o Kalibro e o Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal.[3]
+Analizo Metrics é uma ferramenta escrita em Perl que faz uso de extratores para analisar código-fonte.[3] 
 
-A tabela abaixo, lista algumas das métricas colhidas pelo Mezuro, e que são relevantes à equipe para garantir a qualidade de implementação do software.
+A tabela abaixo, lista algumas das métricas colhidas pelo Analizo, e que são relevantes à equipe para garantir a qualidade de implementação do software.
 
 | Métrica (PT-BR) | Métrica (EN-US) | Código | Escopo da Métrica |
 | --- | --- | --- | --- |
 | Conexões Aferentes | Afferents Connections | acc | Acoplamento |
+| Acoplamento entre objetos | Coupling between objects| cbo| Acoplamento|
 | Média da Complexidade Ciclomática | Average Cyclomatic Complexity | accm | Complexidade |
 | Média do Tamanho dos Métodos | Average Method Lines of Code | amloc | Tamanho |
-
+| Falta de coesão entre entre dos métodos|Lack of coesion of methods| LCoM4|Coesão|
 
 #5. Referências
 
@@ -117,8 +118,8 @@ O.1 - Qualidade do produto
 
 |||
 |---|---|
-|**Foco na qualidade** <br/> **- Q.1.1** O produto apresenta uma boa manutenibilidade? <br/> **- Q.1.2** O produto apresenta uma boa usabilidade?|**Fatores de variação** <br/> - A produtividade não atender a expectativa; <br/> - Conhecimento da equipe limitado;|
-|**Hipótese de baseline** <br/> - 30% de cobertura de teste até a primeira release; <br/> - 90% de cobertura de teste até a segunda release; <br/>Falta de coesão = 1<br/> - 0 - 2 de acoplamento;|**Impacto das hipóteses de base line**<br/> - Baixa qualidade do produto de software;<br/> - Baixa manutenibilidade.|
+|**Foco na qualidade** <br/> **- Q.1.1** O produto apresenta uma boa manutenibilidade? <br/> **- Q.1.2** O produto é confiável?|**Fatores de variação** <br/> - A produtividade não atender a expectativa; <br/> - Conhecimento da equipe limitado;|
+|**Hipótese de baseline** <br/> - 30% de cobertura de teste até a primeira release; <br/> - 90% de cobertura de teste até a segunda release; <br/>Falta de coesão <br/> - 0 - 2 de acoplamento;|**Impacto das hipóteses de base line**<br/> - Baixa qualidade do produto de software;<br/> - Baixa manutenibilidade.|
 
 ##MÉTRICAS
 
@@ -128,7 +129,7 @@ O.1 - Qualidade do produto
 |**Descrição**|A cobertura de deste é dada pela proporção entre linhas testadas e a quantidade total de linhas de código. A cobertura de código é importante para acompanhar o andamento dos desenvolvimento dos testes. Testes estes que garantem a qualidade e um error mínimo de erros de desenvolvimento.|
 |**Fórmula**|Cobertura = Linhas testadas / Linhas totais|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: Mezuro|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: Analizo|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**| Primeira release:<br/> “Dentro do esperado” dado por CoberturaTeste > 30%<br/>“fora do planejado” dado por CoberturaTeste < 30% <br/> Segunda release: <br/> “Dentro do esperado” dado por CoberturaTeste > 90%<br/>“fora do planejado” dado por CoberturaTeste < 90%|
 |**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
