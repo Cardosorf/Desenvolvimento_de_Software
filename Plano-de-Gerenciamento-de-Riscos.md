@@ -118,9 +118,9 @@ A partir desta matriz foram obtidos os níveis de prioridade utilizados.
 |Médio|6 à 14|
 |Alto|15 à 25|
 
-## 4. Planejamento de respostas ao riscos
+## 4. Monitoramento e Controle dos riscos
 
-<p align="justify">De acordo com as definições de probabilidade, impacto e prioridade, foram definidas quais estratégias seriam tomadas em relação a cada risco, e qual ação é recomendada para atingir sucesso na execução da estratégia.</p>
+<p align="justify">De acordo com as definições de probabilidade, impacto e prioridade, foi estabelecido como cada risco será monitorado e controlado, através da definição de quais estratégias serão adotadas em relação a cada risco, e qual ação é recomendada para atingir sucesso na execução desta estratégia.</p>
 
 ### 4.1. Riscos negativos
 
