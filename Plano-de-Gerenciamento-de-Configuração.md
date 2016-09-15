@@ -42,13 +42,13 @@ Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](h
 
 #### Política de Branches
 
-Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.
+<p align="justify">Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.</p>
 
-A equipe de gerenciamento criará um fork para o time, dentro da branch "devel" do fork, deverão ser criadas branches para cada Caso de Uso, cujo nome deve estar no seguinte padrão: "ucX_nomeDoCasoDeUso", onde X é o número identificador do Caso de Uso a ser produzido naquela branch e "nomeDoCasoDeUso" será o nome do Caso de Uso em inglês, utilizando camelCase, por exemplo "uc01_registerUser".
+<p align="justify">A equipe de gerenciamento criará um fork para o time, dentro da branch "devel" do fork, deverão ser criadas branches para cada Caso de Uso, cujo nome deve estar no seguinte padrão: "ucX_nomeDoCasoDeUso", onde X é o número identificador do Caso de Uso a ser produzido naquela branch e "nomeDoCasoDeUso" será o nome do Caso de Uso em inglês, utilizando camelCase, por exemplo "uc01_registerUser".</p>
 
-Quando o Caso de Uso for implementado, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel", e fazer um "Pull Request" da branch devel para a master do respositório original (upstream).
+<p align="justify">Quando o Caso de Uso for implementado, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel", e fazer um "Pull Request" da branch devel para a master do respositório original (upstream).</p>
 
-Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" do respositório original e deletar as branches do fork do time, caso o mesmo seja reprovado a equipe de gerenciamento deve comentar os problemas no Pull Request e a equipe desenvolvimento deve corrigí-los. 
+<p align="justify">Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" do respositório original e deletar as branches do fork do time, caso o mesmo seja reprovado a equipe de gerenciamento deve comentar os problemas no Pull Request e a equipe desenvolvimento deve corrigí-los. </p>
 
 #### Padrões de nomeclatura
 
