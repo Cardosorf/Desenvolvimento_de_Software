@@ -1,3 +1,28 @@
+### Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+| 25/08/2016 | 1 | Elaboração Inicial | Lucas Brilhante |
+| 28/08/2016 | 1.1 | Introdução e conceitos | Lucas Brilhante |
+| 31/08/2016 | 1.2 | Elaboração do GQM | Lucas Brilhante |
+| 01/09/2016 | 1.3 | Descrição das ferramentas | Lucas Brilhante |
+| 04/09/2016 | 1.4 | Refinamento dos conceitos | Lucas Brilhante |
+| 05/09/2016 | 1.5 | Revisão bibliográfica | Lucas Brilhante |
+| 05/09/2016 | 1.6 | Escolha de métricas | Lucas Brilhante |
+| 05/09/2016 | 1.7 | Análise das métricas | Lucas Brilhante |
+| 06/09/2016 | 1.8 | Atualizando métricas | Lucas Brilhante |
+| 15/09/2016 | 1.9 | Atualizando ferramentas | Lucas Brilhante |
+| 15/09/2016 | 2.0 | Formatação e histórico de versão | Lucas Brilhante |
+
+
+
+
+
+
+
+
+
+
 #1. Introdução
 
 <p align="justify">Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software e artefatos relacionados presentes no projeto Wikilegis mobile. Para que o monitoramento e controle aconteça é necessário adquirir dados que indiquem características relevantes, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.</p>
@@ -179,4 +204,3 @@ O.1 - Qualidade do produto
 |**Procedimentos**| Será feito o uso da ferramenta no último commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**|De acordo com Pereira[8], O valor ideal é 1. Mas valores além disso não são estranhos. Considerando o escopo do projeto, valores aceitáveis serão:<br/>1-3 Aceitável<br/>4-INF Ruim|
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
-
