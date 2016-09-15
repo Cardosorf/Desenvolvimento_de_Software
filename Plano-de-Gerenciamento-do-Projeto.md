@@ -1,4 +1,4 @@
-# 1. Ciclo de Vida do Projeto
+## 1. Ciclo de Vida do Projeto
 
 <p align="justify">A engenharia de software surgiu para resolver o problema da chamada crise do
 software em 1970. Baseada em modelos industriais, foram criadas as metodologias de
@@ -24,7 +24,7 @@ software. Dessa maneira, ao longo deste projeto, todos os stakeholders irão viv
 ambas abordagens. Será utilizada uma abordagem tradicional durante metade do período
 de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.</p>
 
-## 1.1 Metodologia Tradicional
+### 1.1 Metodologia Tradicional
 <p align="justify">Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
 onde, o desenvolvimento será feito de acordo com as diretrizes do <a href="http://sce.uhcl.edu/helm/rationalunifiedprocess/">RUP (Rational Unified Process)</a> e o gerenciamento será direcionado
 pelo corpo de conhecimentos sobre gerenciamento de projetos gerais, 
@@ -44,7 +44,7 @@ com a Iniciação, segundo as diretrizes do <a href="http://sce.uhcl.edu/helm/ra
 Após, entraremos na elaboração do projeto, fazendo a especificação dos requisitos e já entregando
 um incremento de software com valor agregado para o cliente.</p>
 
-## 1.2 Metodologia Adaptativa
+### 1.2 Metodologia Adaptativa
  
 As metodologias de desenvolvimento ágeis têm origem com a publicação
 do Manifesto Ágil [(BECK et al, 2001)]() que agrega princípios e valores. Os valores
@@ -96,7 +96,7 @@ algumas das mais marcantes serão descristas abaixo:
 Dessa maneira, todo o projeto será guiado por esta metodologia até o fim entregável do produto
 para o cliente dono do produto.
 
-# 2. Linha de Base do Escopo
+## 2. Linha de Base do Escopo
 
 A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvolvida para dispositivos android por meio da linguagem de programação Java, utilizando a linguagem SQL para consulta e gerenciamento de dados. A aplicação poderá ser utilizada por meio de celulares ou tablets que possuam android como sistema operacional, cuja versão seja igual ou superior à 4.4(KitKat). Tendo em vista que a equipe do projeto não se responsabiliza pelo fornecimento da infraestrutura necessária para o desenvolvimento da aplicação, a equipe se propõe a entregar as seguintes funcionalidades:
 
@@ -108,18 +108,17 @@ Logo abaixo, é possível visualizar a Estrutura Analítica do Projeto (EAP):
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/EAP_2.png)
 
-# 3. Linha de Base do Cronograma
+## 3. Linha de Base do Cronograma
 
-Colocar aqui uma imagem do cronograma.
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/schedule_second_version.png)
 
-
-# 4. Linha de Base dos Custos
+## 4. Linha de Base dos Custos
 
 Tendo em vista que o projeto é dividido em iterações fixas de 2 semanas e que, de acordo com o planejado, a quantidade de membros do projeto e as horas semanais gastas por cada um desses membros é constante durante todo o projeto, a linha de base dos custos é uma reta. Na imagem abaixo, é possível visualizar graficamente a linha de base dos custos do projeto.
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/linha_de_base_custos.png)
 
-# 5. Desenvolvimento dos planos
+## 5. Desenvolvimento dos planos
 
 O desenvolvimento dos planos de gerenciamento das áreas do projeto também contribuem para o gerenciamento do mesmo. Dessa forma, os seguintes planos foram desenvolvidos para auxiliar no gerenciamento do projeto.
 
@@ -147,7 +146,7 @@ O desenvolvimento dos planos de gerenciamento das áreas do projeto também cont
 
 * [Plano de Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
-# 6. Referências
+## 6. Referências
 ###### 1. Rational Unified Process (RUP): [http://sce.uhcl.edu/helm/rationalunifiedprocess/](http://sce.uhcl.edu/helm/rationalunifiedprocess/) 
 
 ###### 2. Project Management Body of Knowledge (PMBoK): [http://www.pmi.org/pmbok-guide-standards](http://www.pmi.org/pmbok-guide-standards)
