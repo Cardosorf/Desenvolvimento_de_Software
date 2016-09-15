@@ -27,9 +27,9 @@
    
 # 1. Introdução
 
-Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
+<p align="justify">Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
 com o objetivo de apresentar as ferramentas utilizadas na configuração do projeto, o processo de utilização das 
-mesmas e os padrões de organização e nomeclatura a serem utilizados.
+mesmas e os padrões de organização e nomeclatura a serem utilizados.</p>
 
 ![Processo de Configuração do Software](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/processo_gcs.png)
 
