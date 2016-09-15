@@ -1,16 +1,16 @@
-## 1. Introdução
+# 1. Introdução
 
 <p align="justify">O objetivo do gerenciamento de integração é integrar todos os processos e atividades dentro do grupo de processos de gerenciamento do projeto. Neste documento, será definido como estas áreas são integradas através dos processos de gerenciamento de integração, sendo estes: Desenvolver termo de abertura e plano de gerenciamento do projeto, orientar e gerenciar o trabalho do projeto, monitorar e controlar o trabalho do projeto, realizar o controle integrado de mudanças e encerrar o projeto ou fase.</p>
 
-## 2. Termo de abertura
+# 2. Termo de abertura
 
 <p align="justify">O desenvolvimento do Termo de Abertura é um subprocesso do Gerenciamento de Integração, este artefato pode ser visto neste link e apresenta uma visão geral sobre o projeto.</p>
 
-## 3. Plano de Gerenciamento do Projeto
+# 3. Plano de Gerenciamento do Projeto
 
 <p align="justify">O desenvolvimento do Plano de Gerenciamento do Projeto também é um subprocesso do Gerenciamento de Integração, nele são definidos todos os planos subsidiários além das linhas de base do projeto.</p>
 
-## 4. Orientação e gerenciamento do trabalho do projeto
+# 4. Orientação e gerenciamento do trabalho do projeto
 
 <p align="justify">Este processo ocorre durante a execução do projeto e refere-se à liderança e realização do trabalho definido no Plano de Gerenciamento do Projeto e implementação das mudanças aprovadas a fim de atingir os objetivos também definidos no Plano de Gerenciamento do Projeto.</p>
 
@@ -56,7 +56,7 @@
 
 <p align="justify">Deverá ser criado um Postmortem sobre o projeto, a fim de registrar as lições aprendidas, pontos positivos e negativos do projeto, servindo como um documento útil para planejamentos futuros e/ou projetos semalhantes.</p>
 
-## 5. Monitoramento e controle do trabalho do projeto
+# 5. Monitoramento e controle do trabalho do projeto
 
 <p align="justify">O monitoramento e controle do projeto é o processo de acompanhamento, análise e registro do
 progresso para atender aos objetivos de desempenho definidos no plano de gerenciamento do projeto. Os principais aspectos monitorados ao longo projeto serão:</p>
@@ -71,11 +71,11 @@ progresso para atender aos objetivos de desempenho definidos no plano de gerenci
 
 <p align="justify">Através das métricas e observações obtidas no monitoramento, ações serão tomadas de forma a controlar a situação, a fim de atingir os objetivos definidos no plano de cada processo.</p>
 
-## 6. Controle integrado de mudanças
+# 6. Controle integrado de mudanças
 
 <p align="justify">O controle integrado de mudanças é o processo de revisar todas as solicitações de mudança,
 aprovar as mudanças e gerenciar as mudanças sendo feitas nas entregas. Dessa forma, quando surgir a necessidade de alguma mudança, tanto por parte da equipe, quanto por um envolvido externo, deve ser marcada uma reunião com a equipe de gerenciamento para discussão da mudança, ou, caso não seja possível, deve ser feita uma solicitação da mudança por escrito. Caso a equipe de gerenciamento aprove a mudança, a mesma deve planejar como ela deve ser inserida no projeto, para então executar esta inserção. Caso a mudança não seja aprovada, a mesma será descartada.</p>
 
-## 7. Encerramento do projeto ou fase
+# 7. Encerramento do projeto ou fase
 
 <p align="justify">O projeto é dividido em duas fases principais, a Release 01 e a Release 02. O encerramento oficial da Release 01 é no dia 23 de Setembro, enquanto o encerramento da Release 02 e logo, do projeto é planejado para o dia 28 de Novembro</p>
