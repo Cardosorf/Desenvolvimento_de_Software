@@ -4,11 +4,11 @@
 |-----|---------|----|
 |Izabela Cardoso | Criação de todo o plano de partes interessadas | 04/09/2016 |
 
-## 1. Introdução
+# 1. Introdução
 
 <p align="justify">O objetivo deste documento é definir os processos que serão utilizados para garantir o engajamento ideal das partes interessadas do projeto, sendo estes processos a identificação de tais partes, planejamento de seu gerenciamento e o monitoramento e controle das partes interessadas ao longo do projeto.</p>
 
-## 2. Identificação das partes interessadas
+# 2. Identificação das partes interessadas
 
 <p align="justify">Inicialmente as partes interessadas foram identificadas e classificadas utilizando o modelo classificatório "Grau de poder/interesse" (Figura 1), o qual define quais ações serão tomadas pelo gerenciamento de acordo com o nível de autoridade do interessado e do seu nível de preocupação com os resultados do projeto.</p>
 
@@ -26,7 +26,7 @@ A partir dessa relação poder/interesse as partes interessadas foram classifica
 |Equipe de Desenvolvimento|Desenvolvem o produto|Alto|Alto|Gerenciar com atenção|
 |Equipe de Gerenciamento|Gerenciam o projeto|Alto|Alto|Gerenciar com atenção|
 
-## 3. Gerenciamento das partes interessadas
+# 3. Gerenciamento das partes interessadas
 
 <p align="justify">Com as partes interessadas identificadas, foram definidos os níveis de engajamento desejados de acordo com o grau de interesse, poder e a ação recomendada para o envolvido. Os níveis de engajamento reais devem ser levantados a cada iteração, sendo que devem ser executadas as estratégias definidas neste tópico para garantir que o engajamento real se adéque ao planejado. </p>
 
@@ -46,7 +46,7 @@ A partir dessa relação poder/interesse as partes interessadas foram classifica
 | Equipe de Desenvolvimento | A | A | Realizar reuniões de alinhamento semanais |
 | Equipe de Gerenciamento | A | L | Realizar reuniões semanais, Identificar pontos de deficit de monitoramento e controle e engajar a equipe nestes pontos |
 
-## 4. Controle e Monitoramento
+# 4. Controle e Monitoramento
 
 As estratégias definidas no Tópico 3 deverão ser executadas de modo a atingir o engajamento planejado para cada parte interessada, além disso:
 * A cada iteração deve-se identificar a existência de novas partes interessadas, verificar se o engajamento planejado foi alcançado, identificar se partes interessadas se tornaram mais ou menos importantes.
