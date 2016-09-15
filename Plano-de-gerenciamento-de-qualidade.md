@@ -1,52 +1,53 @@
 #1. Introdução
 
-Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software e artefatos relacionados presentes no projeto Wikilegis mobile. Para que o monitoramento e controle aconteça é necessário adquirir dados que indiquem características relevantes, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.
+<p align="justify">Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software e artefatos relacionados presentes no projeto Wikilegis mobile. Para que o monitoramento e controle aconteça é necessário adquirir dados que indiquem características relevantes, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.</p>
 
 #2. Definições
 
 ##2.1. Métricas de software
-Métricas são compostas por procedimentos de medição e escalas de medidas (ISO/IEC9126-1)[2].
-Métricas de software lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) 
+<p align="justify">Métricas são compostas por procedimentos de medição e escalas de medidas (ISO/IEC9126-1)[2].
+Métricas de software lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) </p>
 
-De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:
+<p align="justify"> De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:
 * Simples e calculadas de forma precisa. Deve ser claro como a métrica é coletada.
 * Objetiva, ou seja, deve atender um objetivo do projeto.
 * apresentar uma boa relação custo-benefício.
 * Valida, isto é, deve medir o que foi determinada a medir.
-* Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.
+* Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.</p>
 
 ##2.2. Por que medir?
 
-Nos anos 90 a industria de software crescia a um ritmo assustador. Até então 50% de toda a industria empregadora já contava com a industria de software. Mas apesar do crescimento a dela, ainda apresentava grandes problemas. Dentre eles estavam: Estimativa de custo e prazo absurdamente imprecisos; Baixa qualidade de software, com baixos níveis de confiabilidade e; a produtividade dos times não crescia tanto quanto a demanda de novos softwares. (1988, Mills) 
+<p align="justify">Nos anos 90 a industria de software crescia a um ritmo assustador. Até então 50% de toda a industria empregadora já contava com a industria de software. Mas apesar do crescimento a dela, ainda apresentava grandes problemas. Dentre eles estavam: Estimativa de custo e prazo absurdamente imprecisos; Baixa qualidade de software, com baixos níveis de confiabilidade e; a produtividade dos times não crescia tanto quanto a demanda de novos softwares. (1988, Mills) 
 
-Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo, melhorar a qualidade do software e aumentar a produtividade. Acontece que isso pode ser alcançado através de uma gerência de projetos mais eficaz, que por sua vez, pode ser alcançado por um melhor uso das métricas. (1988, Mills)
+Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo, melhorar a qualidade do software e aumentar a produtividade. Acontece que isso pode ser alcançado através de uma gerência de projetos mais eficaz, que por sua vez, pode ser alcançado por um melhor uso das métricas. (1988, Mills)</p>
 
 #3. Estratégias de controle de qualidade
 
-A fim de assegurar a qualidade do produto de software e seu desenvolvimento foram adotadas as seguintes estratégias.
+<p align="justify">A fim de assegurar a qualidade do produto de software e seu desenvolvimento foram adotadas as seguintes estratégias.</p>
 
 ##3.1 Inspeção e validação dos artefatos
 
-Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. 
+<p align="justify">Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. 
 
 * Os gerentes(GPP) devem ler e fazer uma validação nos artefatos produzidos por eles e pela equipe de desenvolvimento(MDS).
 * Os couches (Monitores) são responsáveis por ajudar a equipe com dúvidas na documentação. Essas dúvidas podem surgir na hora da produção ou da validação.
-* O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. 
+* O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. </p>
 
-Pode-se ver estas reuniões no [cronograma.](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
+Pode-se ver estas reuniões no [cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
 
 ##3.2 Métricas de código
 
-"Métricas de código-fonte são aquelas obtidas através da análise do código-fonte."[3]. E código-fonte é “qualquer descrição completamente executável de um sistema de software”[4]. Métricas de código serão sempre importante, pois ele é a unica representação precisa do comportamento do sistema [4]. E não se engane, ele se tornará cada vez mais importante, pois cada vez mais o software se torna essencial na sociedade [4]. Mas não se precipite, nem tudo vale a pena ser medido. Deve-se escolher com cuidado o que vai ser medido e assim, garantir a qualidade desejada.[4]
-Para escolher as métricas do contexto do Wikilegis mobile foi feito um plano [GQM](#Apêndice A), afim de definir os objetivos da medição e assim poder definir uma rastreabilidade, e no futuro poder identificar medições que se tornarem obsoletas.
+<p align="justify">"Métricas de código-fonte são aquelas obtidas através da análise do código-fonte."[3]. E código-fonte é “qualquer descrição completamente executável de um sistema de software”[4]. Métricas de código serão sempre importante, pois ele é a unica representação precisa do comportamento do sistema [4]. E não se engane, ele se tornará cada vez mais importante, pois cada vez mais o software se torna essencial na sociedade [4]. Mas não se precipite, nem tudo vale a pena ser medido. Deve-se escolher com cuidado o que vai ser medido e assim, garantir a qualidade desejada.[4]
+Para escolher as métricas do contexto do Wikilegis mobile foi feito um plano GQM, afim de definir os objetivos da medição e assim poder definir uma rastreabilidade, e no futuro poder identificar medições que se tornarem obsoletas.</p>
+[Plano GQM](#Apêndice A)
 
 #4. Ferramentas
 
 ##4.1 Checkstyle
 
-O Checkstyle é um plugin para a plataforma JetBrains IntelliJ IDEA, que promove ao usuário um feedback em tempo real para um determinado conjunto de regras de sintaxe de uma linguagem de programação. Este plugin verifica códigos escritos no formato _.java_ e gera _warnings_ na IDE em que é instalado, caso alguma regra de sintaxe não venha a ser rigorosamente seguida pelo programador.
+<p align="justify">O Checkstyle é um plugin para a plataforma JetBrains IntelliJ IDEA, que promove ao usuário um feedback em tempo real para um determinado conjunto de regras de sintaxe de uma linguagem de programação. Este plugin verifica códigos escritos no formato java e gera warnings na IDE em que é instalado, caso alguma regra de sintaxe não venha a ser rigorosamente seguida pelo programador.
 
-O uso dessa ferramenta permitirá que o sistema seja implementado de forma padrão por todos desenvolvedores. Tal fato é importante ao stakeholder, pois não trabalham oficialmente com a linguagem de implementação do aplicativo, e seria um facilitador para eles que irão manter o aplicativo após o fim do projeto.
+O uso dessa ferramenta permitirá que o sistema seja implementado de forma padrão por todos desenvolvedores. Tal fato é importante ao stakeholder, pois não trabalham oficialmente com a linguagem de implementação do aplicativo, e seria um facilitador para eles que irão manter o aplicativo após o fim do projeto.</p>
 
 Mais informações podem ser encontradas nos links:
 
@@ -58,19 +59,19 @@ Mais informações podem ser encontradas nos links:
 
 ##4.2 JaCoCo
 
-JaCoCo é um plugin do framework Gradle, integrado ao Android Studio, utilizado para gerar cobertura de testes unitários e testes de interface, dois dos principais tipos de testes que podem ser codificados na IDE utilizada pela equipe.
+<p align="justify">JaCoCo é um plugin do framework Gradle, integrado ao Android Studio, utilizado para gerar cobertura de testes unitários e testes de interface, dois dos principais tipos de testes que podem ser codificados na IDE utilizada pela equipe.
 
-Esta ferramenta permitirá que a equipe acompanhe como estão sendo realizadas as funcionalidades e a quantidade de testes realizados por cada classe implementada. O JaCoCo, permite ainda, visualizar quais métodos não foram testados, e a quantidade de testes realizados por cada método.
+Esta ferramenta permitirá que a equipe acompanhe como estão sendo realizadas as funcionalidades e a quantidade de testes realizados por cada classe implementada. O JaCoCo, permite ainda, visualizar quais métodos não foram testados, e a quantidade de testes realizados por cada método.</p>
 
 ##4.3 Espresso
 
-O Espresso é uma ferramenta para Testes de Interface de Usuário da plataforma Android. Com tal ferramenta a equipe garante não realizar somente testes unitários na aplicação, permite verificar de forma automatizada a interação que um usuário teria com a interface do aplicativo. Garante, também, um aumento na cobertura de testes do projeto, visto que o método _**onCreate**_ das classes controladoras de interface não pode ser testado com testes unitários.
+<p align="justify">O Espresso é uma ferramenta para Testes de Interface de Usuário da plataforma Android. Com tal ferramenta a equipe garante não realizar somente testes unitários na aplicação, permite verificar de forma automatizada a interação que um usuário teria com a interface do aplicativo. Garante, também, um aumento na cobertura de testes do projeto, visto que o método onCreate das classes controladoras de interface não pode ser testado com testes unitários.</p>
 
-##4.4 Mezuro
+##4.4 Analizo
 
-Analizo Metrics é uma ferramenta escrita em Perl que faz uso de extratores para analisar código-fonte.[3] 
+<p align="justify">Analizo Metrics é uma ferramenta escrita em Perl que faz uso de extratores para analisar código-fonte.[3] 
 
-A tabela abaixo, lista algumas das métricas colhidas pelo Analizo, e que são relevantes à equipe para garantir a qualidade de implementação do software.
+A tabela abaixo, lista algumas das métricas colhidas pelo Analizo, e que são relevantes à equipe para garantir a qualidade de implementação do software.</p>
 
 | Métrica (PT-BR) | Métrica (EN-US) | Código | Escopo da Métrica |
 | --- | --- | --- | --- |
@@ -117,14 +118,14 @@ O.1 - Qualidade do produto
 ##QUESTÕES
 
 |||
-|---|---|
+|:---:|:---:|
 |**Foco na qualidade** <br/> **- Q.1.1** O produto apresenta uma boa manutenibilidade? <br/> **- Q.1.2** O produto é confiável?|**Fatores de variação** <br/> - A produtividade não atender a expectativa; <br/> - Conhecimento da equipe limitado;|
 |**Hipótese de baseline** <br/> - 30% de cobertura de teste até a primeira release; <br/> - 90% de cobertura de teste até a segunda release; <br/>Falta de coesão <br/> - 0 - 2 de acoplamento;|**Impacto das hipóteses de base line**<br/> - Baixa qualidade do produto de software;<br/> - Baixa manutenibilidade.|
 
 ##MÉTRICAS
 
 |Métrica|M.1.1.1 - Cobertura de teste|
-|---|---|
+|:---:|:---:|
 |**Objetivo da Medição**|Garantir que o software não contenha erros de lógica ou digitação, assim tendo uma garantia de qualidade.|
 |**Descrição**|A cobertura de deste é dada pela proporção entre linhas testadas e a quantidade total de linhas de código. A cobertura de código é importante para acompanhar o andamento dos desenvolvimento dos testes. Testes estes que garantem a qualidade e um error mínimo de erros de desenvolvimento.|
 |**Fórmula**|Cobertura = Linhas testadas / Linhas totais|
@@ -135,7 +136,7 @@ O.1 - Qualidade do produto
 |**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
 
 |Métrica|M.1.1.2 - Complexidade ciclomática média por Método(CC)|
-|---|---|
+|:---:|:---:|
 |**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
 |**Descrição**|Complexidade ciclomática é o número de caminhos independentes dentro do grafo de nós dentro do sistema. Cada nó é um bloco de código sequencial do sistema.<br/>De forma resumida e sucinta, complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
 |**Fórmula**|V(G) = e - n + p<br/>Onde V(G) é a complexidade ciclomática, n = vertice, e = aresta, p = componentes conectados<br/> A média estão é feita, M(V(G)), dando a complexidade ciclomática média por metodo.|
@@ -146,7 +147,7 @@ O.1 - Qualidade do produto
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.1.3 - Conexões Aferentes de uma classe (ACC)|
-|---|---|
+|:---:|:---:|
 |**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
 |**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7].Quanto menor o acoplamento melhor.|
 |**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.1.png)|
@@ -157,7 +158,7 @@ O.1 - Qualidade do produto
 |**Providências**| Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.1.4 - Tamanho médio dos Métodos (AMLOC)|
-|---|---|
+|:---:|:---:|
 |**Objetivo da Medição**|Garantir que a atomicidade dos métodos, isto é, executam somente uma tarefa, facilitando o desenvolvimento de testes.|
 |**Descrição**|"Essa medida indica se o código está bem distribuido entre os métodos."(Meirelles)[7] É melhor métodos que são pequenos e bem definidos no que fazem. Essa métrica é obtida através da contagem simples do número de linhas com operações (Não brancas) e em seguida é feita a média entre as classes.|
 |**Fórmula**|Não se aplica|
@@ -169,7 +170,7 @@ O.1 - Qualidade do produto
 
 
 |Métrica|M.1.1.5 - Falta de coesão médio por método(LCOM4)|
-|---|---|
+|:---:|:---:|
 |**Objetivo da Medição**| Garantir que as classes não possuem conteúdo não relacionado.|
 |**Descrição**|"LCOM4 calcula quantos conjuntos de métodos relacionados existem dentro de uma classe, isto é, métodos que compartilham utilização de algum atributo ou que se referenciam. O valor ideal teórico de LCOM4 é 1, que representa a maior coesão possível, e valores maiores que isso podem indicar que a classe está com muita responsabilidade, tentando alcançar muitos propósitos distintos."(Pereira)[8]|
 |**Fórmula**|Não se aplica|
@@ -180,11 +181,14 @@ O.1 - Qualidade do produto
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.2.1 - Usabilidade|
-|---|---|
+|:---:|:---:|
 |**Fórmula**| A = amostra / U = usabilidade / M = Média <br/> U = M(A1)+M(A2)+M(A3)+M(A4)+M(A5)
 |**Escala da Medição**|Ordinal|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.|
 |**Procedimentos**| Deverá ser feito um estudo de campo onde pessoas do contexto (Cidadãos) utilizam o software e a partir do uso da pessoa deverá ser avaliado o seguinte checklist.<br/>* O participante consegue descobrir as funcionalidades do sistema? <br/>* O participante conseguiu executar a funcionalidade pedida na primeira tentativa?<br/>* Como o participante julga a aparência do produto?<br/>* O participante julga a complexidade do sistema baixa?<br/>* O participante julga a relevância do sistema alta?<br/>Ao terminar uma amostragem de pelo menos 10 pessoas, as amostras devem ser armazenadas e concisas em uma média para cada ponto perguntado e ai então analisado. |
+
+## 6. Referências
+
 |**Análise**| Caso a média das amostras dê menor que 4 a usabilidade Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.erá dada como "não satisfatória" e acima de 4 como satisfatória.|
 |**Providências**|Caso a métrica esteja abaixo do esperado deve ser avaliado qual amostra estava mais baixa e em cima dela deve-se tomar providências para melhorar a interface, para que na próxima pesquisa se consiga um resultado satisfatório.| 
 
