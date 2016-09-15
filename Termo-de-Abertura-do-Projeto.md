@@ -5,15 +5,15 @@
 | 17/08/2016 | 1 | Elaboração Inicial | Igor Duarte |
 | 18/08/2016 | 1.1 | Adição da Equipe | Izabela Cardoso |
 
-## 1. Introdução
+# 1. Introdução
 
 <p align="justify">Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar um grande resumo dos riscos, limites e recursos, bem como mostrar o estudo de viabilidade do projeto. (PMBOK quinta edição, cap.4.1.3.1, pag. 71)</p>
 
-## 2. Descrição do Projeto
+# 2. Descrição do Projeto
 
 <p align="justify">O projeto trata-se de uma adaptação para Android de uma aplicação web, de código aberto, desenvolvida pelo Laboratório Hacker da Câmara dos Deputados. Seu objetivo é oferecer aos seus usuários a oportunidade de propor alterações e discussões relacionadas à redação de projetos de lei.</p>
 
-## 3. Propósito e justificativa do Projeto
+# 3. Propósito e justificativa do Projeto
 
 <p align="justify">O projeto tem como objetivo alcançar o cidadão que tem o direito democrático de contribuir com as legislações que regem seu pais. O Wikilegis procura fazer isso de forma interativa e atrativa, de forma a atrair o cidadão comum. Portanto se justifica a necessidade de uma adaptação mobile da plataforma web, tendo em vista que dos domicílios brasileiros que acessam a internet:</p>
 * 80,4% o fizeram por celular (63.42% são android3)
@@ -24,7 +24,7 @@
 
 fonte:[IBGE](http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id=1&busca=1&idnoticia=3133), [statista](http://www.statista.com/statistics/262167/market-share-held-by-mobile-operating-systems-in-brazil/)
 
-## 4. Restrições do Projeto
+# 4. Restrições do Projeto
 
 As restrições do projeto wikilegis mobile é:
 * A aplicação está restrita a plataforma android.
@@ -32,7 +32,7 @@ As restrições do projeto wikilegis mobile é:
 * O projeto está restrito ao tempo da disciplina de GPP/MDS (08/08/2015 - XX/12/2015).
 * O projeto está restrito ao escopo de recursos de alunos da matéria de GPP/MDS.
 
-## 5. Riscos do Projeto
+# 5. Riscos do Projeto
 
 <p align="justify">Os principais riscos do desenvolvimento do aplicativo Android do Wikilegis e suas respectivas medidas preventivas são:</p>
 
@@ -48,9 +48,9 @@ As restrições do projeto wikilegis mobile é:
 
 **Plano de ação: Configurar o ambiente através de uma receita de configuração de ambiente.**
 
-## 6. Custos do Projeto
+# 6. Custos do Projeto
 
-### 6.1. Recursos Humanos
+## 6.1. Recursos Humanos
 
 De acordo com o [Relatório de Gestão da UnB do ano de 2015](http://www.dpo.unb.br/documentos/Relatorio_Gestao_2015.pdf), o custo anual de um aluno de Engenharia de Software é cerca de R$ 11.020,00. Dessa forma, levando em consideração que um aluno do mesmo curso pega em média 48 créditos por ano e estimando que cada crédito corresponda a 15 horas de aula, estima-se que o custo por hora de um aluno de Engenharia de Software da UnB seja:
 
@@ -64,7 +64,7 @@ Restante do projeto: 12 * 9 * 14 * 15,3 = R$ 23.133,60
 <br>
 Total: 3.060,00 + 23.133,60 = R$ 26.193,60
 
-### 6.2. Equipamentos e Serviços
+## 6.2. Equipamentos e Serviços
 
 Os equipamentos e serviços levados em consideração e seus respectivas custos foram: 
 
@@ -78,16 +78,16 @@ Sendo assim, o valor total gasto com equipamentos e serviços durante o período
 
 1.200,00 * 4 + 241,70 * 4 + 23.000 + 75,90 * 4 + 80,10 = R$ 29.150,50.
 
-### 6.3. Custo Total
+## 6.3. Custo Total
 
 Por fim, para se obter o custo total do projeto, basta somar os custos com recursos humanos e equipamentos e serviços:
 
 26.193,60 + 29.150,50 = R$ 55.344,10.
 
 
-## 7. Stakeholders (Partes interessadas)
+# 7. Stakeholders (Partes interessadas)
 
-### 7.1. Equipe de Gerência
+## 7.1. Equipe de Gerência
 
 <p align="justify">Alunos da disciplina que tem a responsabilidade de planejar, monitorar e controlar o projeto, dessa forma garantindo um equilíbrio e assim o sucesso do projeto. Além disso, tem a responsabilidade de tomar decisões fundamentais dentro do projeto, sendo assim, responsabilizados por estas.</p>
 
@@ -110,7 +110,7 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 | Josué Nascimento    | MDS      | josuetk63@gmail.com | [@josutk](https://github.com/josutk) | 
 | Rodrigo Campos    | MDS      | rodrigo.redcode@gmail.com | [@rodrigocam](https://github.com/rodrigocam) | 
 
-### 7.3. Monitores
+## 7.3. Monitores
 
 <p align="justify">Ex-Aluno das disciplinas de MDS e GPP que tem a responsabilidade de acompanhar e ajudar a equipe de desenvolvimento e planejamento, garantindo que a avaliação do docente será terá uma fundamentação ótima. Além disso, devem tirar duvidas quanto as metodologias e as tecnologias das disciplinas.</p>
 
@@ -120,7 +120,7 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 | Gabriel Climaco | MDS        |
 | Emilie Morais |GPP|
 
-### 7.4. Docente
+## 7.4. Docente
 
 Professor das matérias de GPP e mds que tem a responsabilidade de avaliar os alunos responsáveis pelo projeto.
 
@@ -128,11 +128,11 @@ Professor das matérias de GPP e mds que tem a responsabilidade de avaliar os al
 |-----------------------|:----------:|
 | Carla Rocha          | [@rochaCarla](https://github.com/RochaCarla) |
 
-### 7.5. Usuários
+## 7.5. Usuários
 
 Os principais alvos do produto deste projeto são os cidadãos brasileiros.
 
-## 8. Produto do Projeto
+# 8. Produto do Projeto
 
 As entregas do produtos serão feitas em duas fases Release 1 (R1) e Release 2 (R2).
 
