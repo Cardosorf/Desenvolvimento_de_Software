@@ -125,18 +125,18 @@ O.1 - Qualidade do produto
 ##MÉTRICAS
 
 |Métrica|M.1.1.1 - Cobertura de teste|
-|:---:|:---:|
+|---|---|
 |**Objetivo da Medição**|Garantir que o software não contenha erros de lógica ou digitação, assim tendo uma garantia de qualidade.|
 |**Descrição**|A cobertura de deste é dada pela proporção entre linhas testadas e a quantidade total de linhas de código. A cobertura de código é importante para acompanhar o andamento dos desenvolvimento dos testes. Testes estes que garantem a qualidade e um error mínimo de erros de desenvolvimento.|
 |**Fórmula**|Cobertura = Linhas testadas / Linhas totais|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: Analizo|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.<br/>Ferramenta: JaCoCo|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**| Primeira release:<br/> “Dentro do esperado” dado por CoberturaTeste > 30%<br/>“fora do planejado” dado por CoberturaTeste < 30% <br/> Segunda release: <br/> “Dentro do esperado” dado por CoberturaTeste > 90%<br/>“fora do planejado” dado por CoberturaTeste < 90%|
 |**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
 
 |Métrica|M.1.1.2 - Complexidade ciclomática média por Método(CC)|
-|:---:|:---:|
+|---|---|
 |**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
 |**Descrição**|Complexidade ciclomática é o número de caminhos independentes dentro do grafo de nós dentro do sistema. Cada nó é um bloco de código sequencial do sistema.<br/>De forma resumida e sucinta, complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
 |**Fórmula**|V(G) = e - n + p<br/>Onde V(G) é a complexidade ciclomática, n = vertice, e = aresta, p = componentes conectados<br/> A média estão é feita, M(V(G)), dando a complexidade ciclomática média por metodo.|
@@ -147,7 +147,7 @@ O.1 - Qualidade do produto
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.1.3 - Conexões Aferentes de uma classe (ACC)|
-|:---:|:---:|
+|---|---|
 |**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
 |**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7].Quanto menor o acoplamento melhor.|
 |**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.1.png)|
@@ -158,7 +158,7 @@ O.1 - Qualidade do produto
 |**Providências**| Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.1.4 - Tamanho médio dos Métodos (AMLOC)|
-|:---:|:---:|
+|---|---|
 |**Objetivo da Medição**|Garantir que a atomicidade dos métodos, isto é, executam somente uma tarefa, facilitando o desenvolvimento de testes.|
 |**Descrição**|"Essa medida indica se o código está bem distribuido entre os métodos."(Meirelles)[7] É melhor métodos que são pequenos e bem definidos no que fazem. Essa métrica é obtida através da contagem simples do número de linhas com operações (Não brancas) e em seguida é feita a média entre as classes.|
 |**Fórmula**|Não se aplica|
@@ -170,7 +170,7 @@ O.1 - Qualidade do produto
 
 
 |Métrica|M.1.1.5 - Falta de coesão médio por método(LCOM4)|
-|:---:|:---:|
+|---|---|
 |**Objetivo da Medição**| Garantir que as classes não possuem conteúdo não relacionado.|
 |**Descrição**|"LCOM4 calcula quantos conjuntos de métodos relacionados existem dentro de uma classe, isto é, métodos que compartilham utilização de algum atributo ou que se referenciam. O valor ideal teórico de LCOM4 é 1, que representa a maior coesão possível, e valores maiores que isso podem indicar que a classe está com muita responsabilidade, tentando alcançar muitos propósitos distintos."(Pereira)[8]|
 |**Fórmula**|Não se aplica|
@@ -180,14 +180,3 @@ O.1 - Qualidade do produto
 |**Análise**|De acordo com Pereira[8], O valor ideal é 1. Mas valores além disso não são estranhos. Considerando o escopo do projeto, valores aceitáveis serão:<br/>1-3 Aceitável<br/>4-INF Ruim|
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.2.1 - Usabilidade|
-|:---:|:---:|
-|**Fórmula**| A = amostra / U = usabilidade / M = Média <br/> U = M(A1)+M(A2)+M(A3)+M(A4)+M(A5)
-|**Escala da Medição**|Ordinal|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação.|
-|**Procedimentos**| Deverá ser feito um estudo de campo onde pessoas do contexto (Cidadãos) utilizam o software e a partir do uso da pessoa deverá ser avaliado o seguinte checklist.<br/>* O participante consegue descobrir as funcionalidades do sistema? <br/>* O participante conseguiu executar a funcionalidade pedida na primeira tentativa?<br/>* Como o participante julga a aparência do produto?<br/>* O participante julga a complexidade do sistema baixa?<br/>* O participante julga a relevância do sistema alta?<br/>Ao terminar uma amostragem de pelo menos 10 pessoas, as amostras devem ser armazenadas e concisas em uma média para cada ponto perguntado e ai então analisado. |
-
-## 6. Referências
-
-|**Análise**| Caso a média das amostras dê menor que 4 a usabilidade Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.erá dada como "não satisfatória" e acima de 4 como satisfatória.|
-|**Providências**|Caso a métrica esteja abaixo do esperado deve ser avaliado qual amostra estava mais baixa e em cima dela deve-se tomar providências para melhorar a interface, para que na próxima pesquisa se consiga um resultado satisfatório.| 
