@@ -71,11 +71,11 @@ Para a configuração do ambiente de desenvolvimento, foi utiliza a tecnologia [
 2. Instalação do ferramental
 3. Configuração do ferramental
 
-No primeiro passo, basicamente foi feita a atualização do sistema e instalação de pacotes básicos do linux, necessários para o desenvolvimento, como: vim, unzip, wget, git.
+<p align="justify">No primeiro passo, basicamente foi feita a atualização do sistema e instalação de pacotes básicos do linux, necessários para o desenvolvimento, como: vim, unzip, wget, git.</p>
 
-Posteriormente, foram obtidos os arquivos fontes necessários para executar o ambiente: android-studio, sdk. Estes foram manipulados em seus diretórios corretos e instalados.
+<p align="justify">Posteriormente, foram obtidos os arquivos fontes necessários para executar o ambiente: android-studio, sdk. Estes foram manipulados em seus diretórios corretos e instalados.</p>
 
-Para finalizar, utilizamos alguns parâmetros para instalação e configuração de pacotes advindos do sdk. Dessa maneira, os desenvolvedores tiveram a única necessidade de rodar o script para executar toda a instalação.
+<p align="justify">Para finalizar, utilizamos alguns parâmetros para instalação e configuração de pacotes advindos do sdk. Dessa maneira, os desenvolvedores tiveram a única necessidade de rodar o script para executar toda a instalação.</p>
 
 ## 2.3 Circle CI
 
