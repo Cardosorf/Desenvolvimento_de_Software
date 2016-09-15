@@ -8,12 +8,12 @@
 <p align="justify">Métricas são compostas por procedimentos de medição e escalas de medidas (ISO/IEC9126-1)[2].
 Métricas de software lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) </p>
 
-<p align="justify"> De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:
+<p align="justify"> De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:</p>
 * Simples e calculadas de forma precisa. Deve ser claro como a métrica é coletada.
 * Objetiva, ou seja, deve atender um objetivo do projeto.
 * apresentar uma boa relação custo-benefício.
 * Valida, isto é, deve medir o que foi determinada a medir.
-* Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.</p>
+* Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.
 
 ##2.2. Por que medir?
 
@@ -27,11 +27,11 @@ Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo
 
 ##3.1 Inspeção e validação dos artefatos
 
-<p align="justify">Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. 
+<p align="justify">Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. </p>
 
 * Os gerentes(GPP) devem ler e fazer uma validação nos artefatos produzidos por eles e pela equipe de desenvolvimento(MDS).
 * Os couches (Monitores) são responsáveis por ajudar a equipe com dúvidas na documentação. Essas dúvidas podem surgir na hora da produção ou da validação.
-* O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. </p>
+* O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. 
 
 Pode-se ver estas reuniões no [cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
 
@@ -191,4 +191,3 @@ O.1 - Qualidade do produto
 
 |**Análise**| Caso a média das amostras dê menor que 4 a usabilidade Caso a métrica esteja abaixo do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.erá dada como "não satisfatória" e acima de 4 como satisfatória.|
 |**Providências**|Caso a métrica esteja abaixo do esperado deve ser avaliado qual amostra estava mais baixa e em cima dela deve-se tomar providências para melhorar a interface, para que na próxima pesquisa se consiga um resultado satisfatório.| 
-
