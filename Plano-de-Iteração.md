@@ -41,16 +41,58 @@ Esse documento tem por objetivo organizar as atividades e tarefas a serem realiz
 
 ### Atividades da Iteração
 
+* **Definir Equipe:** Será definida as equipes de gerência e desenvolvimento para, então, dar progresso ao projeto.
+
+* **Definir Tema de Projeto:** Será definido o projeto a partir de uma reunião no dia 15/08/2016 com o LabHacker, onde será discutido a plataforma em que o WikiLegis será portado (Android, iOS ou Híbrido).
+
+* **Instalar ambientes:** Serão instalados os ambientes dos desenvolvedores e dos gerentes com o sistema operacional semelhante, isto é, "Debian like", além de instalar a IDE de desenvolvimento o Android Studio e suas dependências.
+
+* **Realizar treinamento de Git:** Será realizado o treinamento de Git para que a Equipe de Desenvolvimento entenda a importância do controle de versão, além de ter o primeiro contato com os comandos que irão utilizar para manusear a ferramenta.
+
+* **Selecionar ferramentas de comunicação:** Serão definidas as ferramentas de comunicação da equipe, para que esta se mantenha em contato interno e também com o cliente, caso haja necessecidade de marcar algum tipo de reunião.
+
+* **Iniciar o Plano de Abertura de Projeto:** Será realizado um estudo da viabilidade do projeto com uma abordagem de alto nível em relação à custos, escopo, riscos etc.
+
+* **Criar Documento de Visão:** A equipe irá realizar a documentação geral do projeto, isto é, apresentar uma visão geral do produto, seus usuários e envolvidos.
+
+* **Realizar Reunião com o Cliente:** A equipe deve realizar uma reunião com o cliente para validar alguns artefatos produzidos, como Documento de Visão, e diagrama de Casos de Uso. 
+
+* **Iniciar Plano de Gerenciamento de Tempo:** Será criado o cronograma com as atividades da equipe de gerenciamento e desenvolvimento, suas datas de entrega e recursos alocados.
+
+* **Iniciar Plano de Gerenciamento de Projeto:** Será criado a documentação necessária para esclarecer como ocorrerá a gerência do projeto, onde serão utilizadas duas metodologias distintas, a tradicional e a ágil.
+
 ### Recursos
+
+| Nome | Função |
+| --- | --- |
+| Igor Ribeiro | Gerente de Projeto |
+| Izabela Cristina | Gerente de Projeto |
+| Lucas Brilhante | Gerente de Projeto |
+| Pedro Ivo | Gerente de Projeto |
+| Augusto Vilarins | Desenvolvedor |
+| Josué Nascimento | Desenvolvedor |
+| Marcelo Augusto | Desenvolvedor |
+| Rodrigo Oliveira | Desenvolvedor |
+| Thiago Freire | Desenvolvedor |
 
 ### Casos de Uso
 
-### Critérios de avaliação
+Exclusivamente, nesta iteração, não será realizada a implementação de nenhum caso de uso, pois a equipe de desenvolvimento estará realizando a documentação dos requisitos do sistema e validando com o cliente.
 
+### Critérios de Avaliação
+
+* Ter concluído todas atividades planejadas.
+* Ter os ambientes estáveis e prontos para codificação.
+* Ter realizado a reunião de validação de artefatos com o cliente.
+ 
 ### Planejamento da Próxima Iteração
 
-
-
+* Definir os requisitos não-funcionais
+* Documentar a arquitetura
+* Realizar a Documentação dos testes
+* Definir o protótipo do sistema
+* Implementar o Caso de Uso Cadastrar Usuário
+* Criar mais Planos de Gerenciamento
 
 
 ## Iteração 2 (22/08/2016 a 05/09/2016)
