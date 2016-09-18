@@ -44,6 +44,6 @@
 
 ###  Considerações
 - A variância de prazo indica que o projeto está consideravelmente atrasado. Os integrantes do projeto precisarão cumprir mais horas para compensar os atrasos.
-- A variância de custo indica que está sendo agregado ao projeto um valor consideravelmente menor que o esperado.
+- A variância de custo indica que está sendo agregado ao projeto um valor consideravelmente menor que o esperado, isto ocorreu devido a quantidade de horas de estudo que foram necessárias para conclusão das atividades.
 - O índice de desempenho de custo indica que há um razoável excesso de custo para o trabalho executado na iteração em questão.
 - O índice de desempenho de prazo indica que a equipe trabalhou mais que o esperado, mostrando que a equipe está se esforçando para compensar a iteração anterior.
