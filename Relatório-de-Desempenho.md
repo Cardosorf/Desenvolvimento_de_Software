@@ -12,7 +12,7 @@
 |-----------------|-------------|----------------|
 | R$ 3.060,00     | R$ 2.463,76 | R$ 3.060,00    |
 
-| Variância de Prazo | Variância de Custo | Índice de Desempenho de Custo | Índice de Desempenho de Prazo |
+| Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
 |--------------------|--------------------|-------------------------------|-------------------------------|
 |0,00                | 596,25             | 1,24                          |1                              |
 
@@ -20,9 +20,11 @@
 |-------------------------|------------------------|
 | 200 horas               | 161,03 horas           |
 
-###  Considerações
-- As 10 horas semanais podem não ser suficientes, visto que MDS usa muitas horas estudando para conseguir concluir os artefatos
-- Um membro deixou o time ao fim da iteração, logo, as horas e o trabalho deverão ser replanejados a fim de suprir a falta deste membro
+###  Análise do custo e do esforço
+- Como as atividades desta iteração eram mais simples, a equipe de GPP necessitou de menos esforço que o esperado para concluir as tarefas planejadas, o que reflete no IDP e na VC, visto que a equipe gastou menos que o orçamentado para conclusão destas atividades.
+- Outro ponto que influenciou no IDP e VC, foram as horas planejadas para os estudos (tecnologia, documentação) da equipe de MDS no início da iteração, que não foram bem aproveitadas.
+- A falta de aproveitamento dessas horas de estudo, ocasionou um esforço maior concentrado em algumas atividades, como a construção do Documento de Visão, pois exigiu muitas horas de pesquisa. A equipe de gerenciamento deve atentar-se à isso para o planejamento das próximas iterações.
+- Um membro deixou o time ao fim da iteração, logo, as horas e o trabalho deverão ser replanejados a fim de suprir a falta deste membro.
 
 <br>
 
