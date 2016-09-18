@@ -55,7 +55,7 @@ Os recursos das atividades estratégicas, foram definidos de formas variadas. Pa
 A estimativa de tempo das atividades primordialmente de acordo com projetos anteriores, experiência dos gestores e com decisões em grupo. Tais formas apoiaram a estimativa do método PERT (Program Evaluation and Review Technique), desenvolvido pela empresa de consultoria Booz, Allen & Hamilton. O PERT consiste em estimar três cenários para as atividades, pessimista, realista e otimista e definir a estimativa de tempo para cada um destes cenários. A duração total da PERT é dada pela equação:
 
 ***
-**De = P + 4R + O**
+**De = (P + 4R + O)/6**
 *** 
 
 Onde, **De** corresponde à duração estimada total de uma atividade, **P**, **R** e **O** às estimativas pessimistas, realistas e otimistas, respectivamente, de uma atividade.
