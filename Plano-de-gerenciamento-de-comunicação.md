@@ -1,8 +1,22 @@
+### Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+| 18/08/2016 | 1 | Elaboração Inicial | Lucas Brilhante |
+| 21/08/2016 | 1.1 | introdução e ferramentas | Lucas Brilhante |
+| 31/08/2016 | 1.2 | estratégia e revisão | Lucas Brilhante |
+| 18/09/2016 | 1.3 | revisão | Lucas Brilhante |
+
+
+
 # Sumário
 
 1.  [Introdução](#1-Introdução)
 2.  [Ferramentas](#2-ferramentas)
 3.  [Estratégia de comunicação](#3-Estratégia de comunicação)
+   * [3.1.  Comunicação interna](## 3.1-Comunicação interna)
+      * [3.1.1.  Comunicação interna](### 3.1.1-Reuniões)
+   * [3.2.  Comunicação interna](## 3.2-Comunicação externa)
 
 # 1. Introdução
 
@@ -25,7 +39,7 @@ A seguir é apresentada uma tabela com as ferramentas que serão utilizadas para
 
 A comunicação dentro da equipe (desenvolvedores da disciplina de MDS e gerentes da disciplina de GPP) deve acontecer de forma dinâmica e constante.
 
-### 3.1.1. Comunicação interna (Reuniões)
+### 3.1.1. Reuniões
 
 |Tema | Dia / Horário | finalidade | Responsável | Envolvidos |
 | :---: | :---: | :---: | :---: | :---: | :---: |
