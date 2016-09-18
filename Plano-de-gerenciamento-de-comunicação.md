@@ -20,11 +20,11 @@
 
 # 1. Introdução
 
-Este documento, o plano de gerenciamento de comunicação, tem como objetivo especificar a estratégia de comunicação dentro do processo de desenvolvimento do Wikilegis mobile, bem como as ferramentas que possibilitaram a execução desta estratégia. 
+<p align="justify">Este documento, o plano de gerenciamento de comunicação, tem como objetivo especificar a estratégia de comunicação dentro do processo de desenvolvimento do Wikilegis mobile, bem como as ferramentas que possibilitaram a execução desta estratégia. </p>
 
 # 2. Ferramentas
 
-A seguir é apresentada uma tabela com as ferramentas que serão utilizadas para garantir a comunicação sempre que necessário durante a execução do projeto entre todos os stakeholders.
+<p align="justify">A seguir é apresentada uma tabela com as ferramentas que serão utilizadas para garantir a comunicação sempre que necessário durante a execução do projeto entre todos os stakeholders. </p>
 
 | Logo | Ferramenta | Descrição |
 | :---: | :---: | --- |
@@ -37,7 +37,7 @@ A seguir é apresentada uma tabela com as ferramentas que serão utilizadas para
 # 3. Estratégia de comunicação
 ## 3.1. Comunicação interna
 
-A comunicação dentro da equipe (desenvolvedores da disciplina de MDS e gerentes da disciplina de GPP) deve acontecer de forma dinâmica e constante.
+<p align="justify">A comunicação dentro da equipe (desenvolvedores da disciplina de MDS e gerentes da disciplina de GPP) deve acontecer de forma dinâmica e constante.</p>
 
 ### 3.1.1. Reuniões
 
@@ -48,7 +48,7 @@ A comunicação dentro da equipe (desenvolvedores da disciplina de MDS e gerente
 
 ## 3.2. Comunicação externa
 
-A comunicação com o cliente é feita através de e-mail,e quando necessário, reuniões presenciais no Laboratório hacker da câmera legislativa. As informações sobre o projeto serão disponibilizados através dos artefatos produzidos baseados no processo Unificado (RUP). Estes documentos são:
+<p align="justify">A comunicação com o cliente é feita através de e-mail,e quando necessário, reuniões presenciais no Laboratório hacker da câmera legislativa. As informações sobre o projeto serão disponibilizados através dos artefatos produzidos baseados no processo Unificado (RUP). Estes documentos são:</p>
 
 | Artefato | objetivos |
 | :---: | :---: |
