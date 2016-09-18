@@ -34,15 +34,15 @@
 
 | Valor Planejado | Valor Real  | Valor Agregado |
 |-----------------|-------------|----------------|
-| R$ 3.304,80     | R$ 3.706,42 | R$ 2.732,00    |
+| R$ 6.364,80     | R$ 6.170,18 | R$ 5.792,00    |
 
 | Variância de Prazo | Variância de Custo | Índice de Desempenho de Custo | Índice de Desempenho de Prazo |
 |--------------------|--------------------|-------------------------------|-------------------------------|
-| -572,80            | -974,42            | 0,73                          | 0,82                          |
+| -572,80            | -378,18            | 0,94                          | 0,91                          |
 
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
-| 216 horas               | 242,25 horas           |
+| 416 horas               | 403,28 horas           |
 
 ###  Considerações
 - A variância de prazo indica que o projeto está consideravelmente atrasado. Os integrantes do projeto precisarão cumprir mais horas para compensar os atrasos.
