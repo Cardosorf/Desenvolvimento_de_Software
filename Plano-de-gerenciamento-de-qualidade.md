@@ -15,21 +15,28 @@
 | 15/09/2016 | 2.0 | Formatação e histórico de versão | Lucas Brilhante |
 
 
+# Sumário
 
-
-
-
-
-
+1.  [Introdução](#1-Introdução)
+   *  [Métricas de software](##1.1-Métricas de software)
+   *  [Métricas de software](##1.2-Por que medir?)
+2.  [Estratégias de controle de qualidade](#2-Estratégias de controle de qualidade)
+   *  [Inspeção e validação dos artefatos](##2.1-Inspeção e validação dos artefatos)
+   *  [Métricas de código](##2.2-Métricas de código)
+3.  [Ferramentas](#3-Ferramentas)
+   * [3.1.  Checkstyle](##3.1-Checkstyle)
+   * [3.2.  JaCoCo](##3.2 JaCoCo)
+   * [3.3.  Espresso](##3.3 Espresso)
+   * [3.4.  Analizo](##3.4 Analizo)
+4.  [Referências](#4-Referências)
+5.  [GQM](#Apêndice A)
 
 
 #1. Introdução
 
 <p align="justify">Este documento tem como objetivo especificar como será feito o controle de qualidade do produto de Software e artefatos relacionados presentes no projeto Wikilegis mobile. Para que o monitoramento e controle aconteça é necessário adquirir dados que indiquem características relevantes, para que por sua vez os gerentes possam tomar decisões eficazes para que o projeto se mantenha dentro do tempo, custo e escopo planejados.</p>
 
-#2. Definições
-
-##2.1. Métricas de software
+##1.1. Métricas de software
 <p align="justify">Métricas são compostas por procedimentos de medição e escalas de medidas (ISO/IEC9126-1)[2].
 Métricas de software lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) </p>
 
@@ -40,17 +47,17 @@ Métricas de software lida com a medição do produto de software, isto é, cód
 * Valida, isto é, deve medir o que foi determinada a medir.
 * Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.
 
-##2.2. Por que medir?
+##1.2. Por que medir?
 
 <p align="justify">Nos anos 90 a industria de software crescia a um ritmo assustador. Até então 50% de toda a industria empregadora já contava com a industria de software. Mas apesar do crescimento a dela, ainda apresentava grandes problemas. Dentre eles estavam: Estimativa de custo e prazo absurdamente imprecisos; Baixa qualidade de software, com baixos níveis de confiabilidade e; a produtividade dos times não crescia tanto quanto a demanda de novos softwares. (1988, Mills) 
 
 Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo, melhorar a qualidade do software e aumentar a produtividade. Acontece que isso pode ser alcançado através de uma gerência de projetos mais eficaz, que por sua vez, pode ser alcançado por um melhor uso das métricas. (1988, Mills)</p>
 
-#3. Estratégias de controle de qualidade
+#2. Estratégias de controle de qualidade
 
 <p align="justify">A fim de assegurar a qualidade do produto de software e seu desenvolvimento foram adotadas as seguintes estratégias.</p>
 
-##3.1 Inspeção e validação dos artefatos
+##2.1 Inspeção e validação dos artefatos
 
 <p align="justify">Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. </p>
 
@@ -60,15 +67,15 @@ Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo
 
 Pode-se ver estas reuniões no [cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
 
-##3.2 Métricas de código
+##2.2 Métricas de código
 
 <p align="justify">"Métricas de código-fonte são aquelas obtidas através da análise do código-fonte."[3]. E código-fonte é “qualquer descrição completamente executável de um sistema de software”[4]. Métricas de código serão sempre importante, pois ele é a unica representação precisa do comportamento do sistema [4]. E não se engane, ele se tornará cada vez mais importante, pois cada vez mais o software se torna essencial na sociedade [4]. Mas não se precipite, nem tudo vale a pena ser medido. Deve-se escolher com cuidado o que vai ser medido e assim, garantir a qualidade desejada.[4]
 Para escolher as métricas do contexto do Wikilegis mobile foi feito um plano GQM, afim de definir os objetivos da medição e assim poder definir uma rastreabilidade, e no futuro poder identificar medições que se tornarem obsoletas.</p>
 [Plano GQM](#Apêndice A)
 
-#4. Ferramentas
+#3. Ferramentas
 
-##4.1 Checkstyle
+##3.1 Checkstyle
 
 <p align="justify">O Checkstyle é um plugin para a plataforma JetBrains IntelliJ IDEA, que promove ao usuário um feedback em tempo real para um determinado conjunto de regras de sintaxe de uma linguagem de programação. Este plugin verifica códigos escritos no formato java e gera warnings na IDE em que é instalado, caso alguma regra de sintaxe não venha a ser rigorosamente seguida pelo programador.
 
@@ -82,17 +89,17 @@ Mais informações podem ser encontradas nos links:
 
 [Checkstyle Addons](http://checkstyle-addons.thomasjensen.com/)
 
-##4.2 JaCoCo
+##3.2 JaCoCo
 
 <p align="justify">JaCoCo é um plugin do framework Gradle, integrado ao Android Studio, utilizado para gerar cobertura de testes unitários e testes de interface, dois dos principais tipos de testes que podem ser codificados na IDE utilizada pela equipe.
 
 Esta ferramenta permitirá que a equipe acompanhe como estão sendo realizadas as funcionalidades e a quantidade de testes realizados por cada classe implementada. O JaCoCo, permite ainda, visualizar quais métodos não foram testados, e a quantidade de testes realizados por cada método.</p>
 
-##4.3 Espresso
+##3.3 Espresso
 
 <p align="justify">O Espresso é uma ferramenta para Testes de Interface de Usuário da plataforma Android. Com tal ferramenta a equipe garante não realizar somente testes unitários na aplicação, permite verificar de forma automatizada a interação que um usuário teria com a interface do aplicativo. Garante, também, um aumento na cobertura de testes do projeto, visto que o método onCreate das classes controladoras de interface não pode ser testado com testes unitários.</p>
 
-##4.4 Analizo
+##3.4 Analizo
 
 <p align="justify">Analizo Metrics é uma ferramenta escrita em Perl que faz uso de extratores para analisar código-fonte.[3] 
 
@@ -106,7 +113,7 @@ A tabela abaixo, lista algumas das métricas colhidas pelo Analizo, e que são r
 | Média do Tamanho dos Métodos | Average Method Lines of Code | amloc | Tamanho |
 | Falta de coesão entre entre dos métodos|Lack of coesion of methods| LCoM4|Coesão|
 
-#5. Referências
+#4. Referências
 
 [1] Mill, Everald E. **Software Métrics**. SEI - Carnegie Mellon University, 1988. [Link](http://www.sei.cmu.edu/reports/88cm012.pdf)
 
