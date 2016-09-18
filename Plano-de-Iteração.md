@@ -99,26 +99,102 @@ Exclusivamente, nesta iteração, não será realizada a implementação de nenh
 
 ### Atividades da Iteração
 
+* **Realizar a Especificação Suplementar:** Será realizada a especificação suplementar, em que, podem ser encontradas as especificações dos requisitos não-funcionais.
+
+* **Realizar a Especificação de Casos de Uso:** Será realizada a especificação dos Casos de Uso, para que os desenvolvedores possam ter uma documentação de referência em relação à implementação de cada caso de uso, e manter a equipe alinhada quanto ao desenvolvimento.
+
+* **Criar Plano de Gerenciamento de Aquisições** Será redigido este plano, para especificar como serão realizadas as aquisições de produtos ou serviços utilizados no projeto.
+
+* **Criar Plano de Gerenciamento de Escopo:** Será redigido este plano, para delimitar o escopo do projeto, a partir da EAP, além da definição de mudanças no mesmo.
+
+* **Criar Plano de Gerenciamento de Risco:** Será redigido este plano, para definir os riscos que o projeto possui, como evitá-los, e as tomadas de decisão necessárias para mitigá-los.
+
+* **Criar Plano de Gerenciamento de Partes Interessadas:** Será redigido este plano, para que sejam estabelecidas os principais stakeholders do projeto, e como deve ser o comportamento da equipe em relação à eles.
+
+* **Criar Plano de Gerenciamento de Integração:** Este plano será redigido, para representar como serão integrados todos os processos e pessoas do projeto.
+
+* **Criar Plano de Gerenciamento de Custos:** Este plano será redigido, para esclarecer como serão geridos os custos do projeto, suas técnicas de medição e avaliação dos mesmos.
+
+* **Criar Plano de Gerenciamento de Recursos Humanos:** Este plano será redigido, para que explicite como serão geridos os recursos humanos do projeto, suas responsabilidades além de prever treinamentos para manter o nível de conhecimento da equipe semelhante.
+
+* **Criar Documento de Arquitetura:** O documento de arquitetura tem como objetivo estabelecer a arquitetura do sistema, mostrar a adaptação ao MVC que será utilizado na implementação, além do diagrama de classes e casos de uso do sistema. 
+
+* **Criar Protótipo do Sistema:** O protótipo do sistema será um protótipo de alta fidelidade e servirá como a principal "visual" do sistema aos desenvolvedores.
+
+* **Criar Plano de Gerenciamento de Configuração:** O plano será redigido para que possa exemplificar como ocorre a Integração contínua do projeto, além da configuração da ferramenta de análise estática utilizada pelos integrantes do projeto.   
+
+* **Configurar Checkstyle:** Será realizada a configuração do checkstyle para que atenda a folha de estilo estabelecida pela equipe de gerenciamento.
+
+
 ### Recursos Humanos
+
+| Nome | Função |
+| --- | --- |
+| Igor Ribeiro | Gerente de Projeto |
+| Izabela Cristina | Gerente de Projeto |
+| Lucas Brilhante | Gerente de Projeto |
+| Pedro Ivo | Gerente de Projeto |
+| Augusto Vilarins | Desenvolvedor |
+| Josué Nascimento | Desenvolvedor |
+| Marcelo Augusto | Desenvolvedor |
+| Rodrigo Oliveira | Desenvolvedor |
+| Thiago Freire | Desenvolvedor |
 
 ### Casos de Uso
 
+Nesta iteração será implementado o Caso de Uso "Cadastrar Usuário". Entede-se que tal caso de uso é importante e foi priorizado pelo LabHacker junto a equipe de gerenciamento.
+
 ### Critérios de avaliação
+
+* Implementação total (100%) ou parcial (70%) do Caso de Uso Cadastrar Usuário, pois, caso a API do cliente ainda não possua a função de receber cadastros provenientes do celular, não será possível concluir tal caso de uso por completo.
+* Realizar testes (unitários e funcionais) das classes criadas para o Caso de Uso Cadastrar Usuário.
+* Redigir todos os planos previstos.
 
 ### Planejamento da Próxima Iteração
 
-
-
+* Desenvolver Caso de Uso Listar Projetos
+* Desenvolver Caso de Uso Visualizar Projetos de Lei
+* Desenvolver Caso de Uso Visualizar Item do Projeto de Lei
+* Colher métricas de código
+* Realizar Rastreabilidade de Requisitos
 
 ## Iteração 3 (06/09/2016 a 20/09/2016)
 
 ### Atividades da Iteração
 
+* **Realizar coleta de métricas de código:** Será realizada a coleta das métricas conforme estabelecido no Plano de Qualidade, e estas serão analisadas pela equipe pela equipe de gerenciamento.
+* **Realizar a rastreabilidade de Requisitos:** Será realizada a rastreabilidade dos requisitos com intuito de garantir que todos requisitos possuem necessidades e características.
+
 ### Recursos Humanos
+
+| Nome | Função |
+| --- | --- |
+| Igor Ribeiro | Gerente de Projeto |
+| Izabela Cristina | Gerente de Projeto |
+| Lucas Brilhante | Gerente de Projeto |
+| Pedro Ivo | Gerente de Projeto |
+| Augusto Vilarins | Desenvolvedor |
+| Josué Nascimento | Desenvolvedor |
+| Marcelo Augusto | Desenvolvedor |
+| Rodrigo Oliveira | Desenvolvedor |
+| Thiago Freire | Desenvolvedor |
+
 
 ### Casos de Uso
 
+* Concluir Caso de Uso Cadastrar Usuário
+* Desenvolver Caso de Uso Listar Projetos
+* Desenvolver Caso de Uso Visualizar Projetos de Lei
+* Desenvolver Caso de Uso Visualizar Item do Projeto de Lei
+
+
 ### Critérios de avaliação
+
+* Conclusão total (100%) ou parcial (75%) dos casos de uso estabelecidos.
+* Realizar testes (unitários e funcionais) dos casos de uso em implementação.
+* Garantir pelo menos 30% de cobertura de código.
+* Garantir que as métricas estão em um nivel bom, e caso não esteja analisar se tais parâmetros podem ser justificados.
 
 ### Planejamento da Próxima Iteração
 
+* Para a próxima "iteração" irá-se-á mudar a metodologia de trabalho das equipes, utilizando-se da metodologia ágil, desse modo não serão apresentado o planejamento da iteração, pois haverá um novo planejamento para a nova metodologia ágil.
