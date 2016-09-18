@@ -140,6 +140,8 @@ mission. [Link.](http://luizcamargo.com.br/arquivos/NBR%20ISO_IEC%209126-1.pdf)
 
 O.1 - Qualidade do produto
 
+<p align="justify">Visto que o software em produção será mantido pela equipe do Wikilegis da Câmera dos deputados, e que eles não possuem conhecimento da linguagem, temos que priorizar fazer um software com alta manutenibilidade, para que o cliente não tenha problemas em mantê-lo. Isto é, um produto de software documentado, altamente padronizado e com bons indicadores de orientação a objeto. Maior foco será na parte de padronização de código (Folha de estilo) e bons indicadores de orientação a objeto, que serão evidenciados nesse GQM. Dito isso, podemos concluir que o objetivo, nos padrões do GQM é:</p>
+
 |Analisar|código|
 |:---:|:---:|
 |Com o propósito de|melhorar|
@@ -155,6 +157,9 @@ O.1 - Qualidade do produto
 |**Hipótese de baseline** <br/> - 30% de cobertura de teste até a primeira release; <br/> - 90% de cobertura de teste até a segunda release; <br/>Falta de coesão <br/> - 0 - 2 de acoplamento;|**Impacto das hipóteses de base line**<br/> - Baixa qualidade do produto de software;<br/> - Baixa manutenibilidade.|
 
 ##MÉTRICAS
+
+<p align="justify">Para analise das métricas, fixando um indicador, será utilizado o conceito apresentado por Meirelles[7](2013), em que os dados serão comparados no percentil 75%, onde as curva normal começa a apresentar resultados relevantes, dado que muitos dados não atrapalham o calculo da métrica. Em alguns casos classes com métricas 0, não são desejáveis para a análise. Por isso será utilizado o valor "upper" das métricas da ferramenta analizo.
+Outro ponto importante para a análise de métricas é o artigo apresentado por Pereira(2015), onde é analisado o código fonte da API de desenvolvimento de várias versões do android. Este valores serão considerados valores ideais para a análise do código fonte da aplicação Wikilegis mobile. </p>
 
 |Métrica|M.1.1.1 - Cobertura de teste|
 |---|---|
