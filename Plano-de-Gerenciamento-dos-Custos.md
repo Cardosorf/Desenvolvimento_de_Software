@@ -20,11 +20,7 @@
 
 <p align="justify">O valor agregado é calculado tendo como base o valor planejado. Durante cada iteração, é estimada uma porcentagem do quanto realmente foi feito em relação ao que havia sido planejado para aquela iteração. Com o cálculo da porcentagem terminado, basta pegar esse valor e multiplicar pelo valor planejado para aquela iteração. O resultado será o valor agregado do projeto.</p>
 
-# 2.5. Resultado Esperado (RE)
-
-<p align="justify">Ao fim dos cálculos, espera-se que o valor agregado e o valor real do projeto sejam os mesmos, sendo aceitável para o valor agregado uma margem de erro de até 7% acima ou abaixo do valor real. Alcançar esse resultado, é um indicativo de que o custo real do projeto condiz com o que foi prometido ao cliente. Além disso, espera-se também que o valor real do projeto não exceda em mais de 15% o valor planejado, o que poderia tornar o projeto insustentável.</p>
-
-# 2.6. Variação dos custos (VC)
+# 2.5. Variação dos custos (VC)
 
 <p align="justify">A variação dos custos será calculada tirando-se a diferença entre o valor agregado e o custo real do projeto. Ela indica a relação entre o desempenho físico dos membros da equipe e os custos. O planejado é 
 que a variação dos custos seja nula, sendo que uma variação negativa pode dificultar a recuperação do projeto.
@@ -32,6 +28,11 @@ que a variação dos custos seja nula, sendo que uma variação negativa pode di
 Fórmula: VC = VA - CR.
 </p>
 
+# 2.6. Variação dos Prazos (VPR)
+</p align="justify">Indica a quantidade de adiantamento ou atraso do projeto em relação à data de entrega planejada, em um determinado momento. Espera-se que no final do projeto a variação dos prazos se iguale a 0, já que todos os valores planejados deverão ter sido agregados.
+<br>
+Fórmula: VPR = VA - VP.
+</p>
 
 # 2.7. Índice de desempenho dos custos (IDC)
 
@@ -39,3 +40,16 @@ Fórmula: VC = VA - CR.
 <br>
 Fórmula: IDC = VA / CR
 </p>
+
+# 2.8. Índice de desempenho dos prazos (IDP)
+
+<p align="justify">Mede o grau de eficiência do uso do tempo pela equipe do projeto. Um valor de IDP menor que 1.0 indica que menos trabalho foi executado do que o planejado, enquanto um valor de IDP maior que 1.0 indica que mais trabalho foi executado do que o planejado.
+<br>
+Fórmula: IDP = VA / VP
+</p>
+
+# 2.9. Resultado Esperado (RE)
+
+<p align="justify">Ao fim dos cálculos, espera-se que o valor agregado e o valor real do projeto sejam os mesmos, sendo aceitável para o valor agregado uma margem de erro de até 7% acima ou abaixo do valor real. Alcançar esse resultado, é um indicativo de que o custo real do projeto condiz com o que foi prometido ao cliente. Além disso, espera-se também que o valor real do projeto não exceda em mais de 15% o valor planejado, o que poderia tornar o projeto insustentável.</p>
+
+
