@@ -150,4 +150,4 @@ Representando a camada Model, existe o pacote Model. Na Model é onde se faz a e
 
 * **ME-R**
 
-![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS.jpg)
+![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS2.jpg)
