@@ -80,7 +80,7 @@
 
 ##4.2. Diagrama de Casos de Uso
 
-![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCase%20Diagram.jpg)
+![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCaseDiagram.jpg)
 
 ##4.3. Descrição dos Casos de Uso
 
