@@ -8,7 +8,7 @@
 | 07/09/2016  | 1.3 | Formatação de Texto | Izabela |
 | 07/09/2016 | 1.4 | Definição das Linhas de base de Escopo | Igor |
 | 08/09/2016 | 1.5 | Definição do Desenvolvimento dos Planos | Izabela |
-| 20/09/2016  | 1.6  | Adição do sumário e histórico de versão  | Pedro Ivo  |
+| 20/09/2016  | 1.6  | Adição do sumário e histórico de revisão  | Pedro Ivo  |
 
 
 # Sumário
