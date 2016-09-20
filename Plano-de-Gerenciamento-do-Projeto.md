@@ -1,3 +1,24 @@
+### Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+| 20/09/2016  | 1.  | Adição do sumário e histórico de versão  | Pedro Ivo  |
+
+
+# Sumário
+1. [Ciclo de Vida do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#1-ciclo-de-vida-do-projeto)
+    * [1.1 Metodologia Tradicional](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#11-metodologia-tradicional)
+    * [1.2 Metodologia Adaptativa](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#12-metodologia-adaptativa)
+2. [Linhas de Base do Escopo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#2-linha-de-base-do-escopo)
+3. [Linhas de Base do Cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#3-linha-de-base-do-cronograma)
+4. [Linhas de Base dos Custos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#4-linha-de-base-dos-custos)
+5. [Desenvolvimento dos Planos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#5-desenvolvimento-dos-planos)
+6. [Referências](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#6-refer%C3%AAncias)
+
+
 # 1. Ciclo de Vida do Projeto
 
 <p align="justify">A engenharia de software surgiu para resolver o problema da chamada crise do
