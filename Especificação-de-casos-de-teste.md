@@ -13,8 +13,9 @@
 | 27/08 | 1.8 | Edição CT03 | Josué Nascimento |
 | 28/08 | 1.9 | Edição CT04 | Rodrigo Oliveira |
 | 28/08 | 2.0 | Edição do CT01 e exclusão do CT05 | Josué Nascimento |
-| 29/08 | 2.1 | Ediçãp CT01 | Rodrigo Oliveira |
-| 05/09 | 2.2 | Ediçãp CT01 | Marcelo Augusto |
+| 29/08 | 2.1 | Edição CT01 | Rodrigo Oliveira |
+| 05/09 | 2.2 | Edição CT01 | Marcelo Augusto |
+| 20/09 | 2.3 | Adição CT002_02, CT002_03, CT003_02, CT003_03 | Marcelo Augusto |
 ***
 
 #Índice
