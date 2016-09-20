@@ -80,7 +80,7 @@
 
 ##4.2. Diagrama de Casos de Uso
 
-![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCaseDiagram.jpg)
+![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCaseDiagramm.png)
 
 ##4.3. Descrição dos Casos de Uso
 
@@ -109,13 +109,13 @@
 
 * **UC11 - Ativar notificações:** <p align="justify">Permite ao cidadão cadastrado receber notificações sobre ao andamento de projetos de lei de seu interesse.</p>
 
-* **UC12 - Visualizar seguimento do projeto:** <p align="justify">Permite tanto ao cidadão cadastrado como ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
+* **UC12 - Visualizar segmento do projeto:** <p align="justify">Permite tanto ao cidadão cadastrado como ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
 
-* **UC13 - Avaliar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
+* **UC13 - Avaliar segmento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
 
-* **UC14 - Comentar seguimento:** <p align="justify">Permite ao cidadão cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
+* **UC14 - Comentar segmento:** <p align="justify">Permite ao cidadão cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
 
-* **UC15 - Compartilhar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
+* **UC15 - Compartilhar segmento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
 
 #5. Visão lógica
 
@@ -150,4 +150,4 @@ Representando a camada Model, existe o pacote Model. Na Model é onde se faz a e
 
 * **ME-R**
 
-![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS.jpg)
+![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS2.jpg)
