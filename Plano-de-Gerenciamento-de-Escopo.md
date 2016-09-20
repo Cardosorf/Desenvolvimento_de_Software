@@ -1,3 +1,19 @@
+### Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+| 04/09/2016 | 1.0 | Definição do template, Introdução, EAP | Igor |
+| 05/09/2016 | 1.1 | Definição e validação do escopo | Igor |
+| 07/09/2016 | 1.2 | Gestão de Mudanças no Escopo | Igor |
+| 20/09/2016 | 1.3 | Adição do sumário e histórico de revisão  | Pedro Ivo |
+
+# Sumário
+
+1. [Introdução](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo#1-introdu%C3%A7%C3%A3o)
+2. [Definição e Validação do Escopo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo#2-defini%C3%A7%C3%A3o-e-valida%C3%A7%C3%A3o-do-escopo)
+3. [Desenvolvimento e Manutenção da Estrutura Analítica do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo#3-desenvolvimento-e-manuten%C3%A7%C3%A3o-da-estrutura-anal%C3%ADtica-do-projeto---eap)
+4. [Gestão de Mudanças do Escopo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo#4-gest%C3%A3o-de-mudan%C3%A7as-do-escopo)
+
 # 1. Introdução
 
 <p align="justify">O objetivo deste documento é descrever a forma como o escopo será definido, desenvolvido, monitorado, controlado e verificado durante o planejamento e a execução do projeto.</p>
