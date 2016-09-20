@@ -29,3 +29,4 @@ h3. Release 01
 # "Especificação dos Casos de Teste":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-de-casos-de-teste
 # "Relatório de Execução dos Testes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Relat%C3%B3rio-de-execu%C3%A7%C3%A3o-dos-casos-de-testes
 # "Especificação Suplementar":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Especifica%C3%A7%C3%A3o-suplementar
+# "Protótipo de alta fidelidade": https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Prot%C3%B3tipo-de-alta-fidelidade
