@@ -162,7 +162,7 @@
 
 ### Critérios de avaliação
 
-* Implementação total (100%) ou parcial (70%) do Caso de Uso Cadastrar Usuário, pois, caso a API do cliente ainda não possua a função de receber cadastros provenientes do celular, não será possível concluir tal caso de uso por completo.
+* <p align="justify">Implementação total ou parcial, do Caso de Uso Cadastrar Usuário, pois, caso a API do cliente ainda não possua a função de receber cadastros provenientes do celular, não será possível concluir tal caso de uso por completo. A implementação parcial significa que o caso de uso foi implementado porém não foi completamente testado.</p>
 * Realizar testes (unitários e funcionais) das classes criadas para o Caso de Uso Cadastrar Usuário.
 * Redigir todos os planos previstos.
 
@@ -208,7 +208,7 @@
 
 ### Critérios de avaliação
 
-* Conclusão total (100%) ou parcial (75%) dos casos de uso estabelecidos.
+* Conclusão total ou parcial, dos casos de uso estabelecidos. A implementação parcial significa que o caso de uso foi implementado porém não foi completamente testado.
 * Realizar testes (unitários e funcionais) dos casos de uso em implementação.
 * Garantir pelo menos 30% de cobertura de código.
 * Garantir que as métricas estão em um nivel bom, e caso não esteja analisar se tais parâmetros podem ser justificados.
