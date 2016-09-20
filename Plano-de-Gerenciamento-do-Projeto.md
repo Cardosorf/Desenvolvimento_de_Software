@@ -2,10 +2,13 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | --- | :---: |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-| 20/09/2016  | 1.  | Adição do sumário e histórico de versão  | Pedro Ivo  |
+|  21/08/2016 | 1.0  | Criação do Template  | Igor  |
+|  24/08/2016 |  1.1 | Definição dos ciclos de vida  | Tiago  |
+|  25/08/2016 |  1.2 | Linhas de Base de Custos  | Igor  |
+| 07/09/2016  | 1.3 | Formatação de Texto | Izabela |
+| 07/09/2016 | 1.4 | Definição das Linhas de base de Escopo | Igor |
+| 08/09/2016 | 1.5 | Definição do Desenvolvimento dos Planos | Izabela |
+| 20/09/2016  | 1.6  | Adição do sumário e histórico de versão  | Pedro Ivo  |
 
 
 # Sumário
