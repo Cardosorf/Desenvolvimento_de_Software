@@ -4,7 +4,27 @@
 | :---: | :---: | --- | :---: |
 | 17/08/2016 | 1 | Elaboração Inicial | Igor Duarte |
 | 18/08/2016 | 1.1 | Adição da Equipe | Izabela Cardoso |
+| 20/06/2016 | 1.2 | Adição do sumário | Pedro Ivo |
 
+# Sumário
+1.  [Introdução](#1-introdu%C3%A7%C3%A3o)
+2.  [Descrição do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#2-descri%C3%A7%C3%A3o-do-projeto)
+3.  [Propósito e Justificativa do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#3-prop%C3%B3sito-e-justificativa-do-projeto)
+4.  [Restrições do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#4-restri%C3%A7%C3%B5es-do-projeto)
+5.  [Riscos do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#5-riscos-do-projeto)
+6.  [Custos do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#6-custos-do-projeto)
+    * [6.1 Recursos Humanos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#61-recursos-humanos)
+    * [6.2 Equipamentos e Serviços](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#62-equipamentos-e-servi%C3%A7os)
+    * [6.3 Custo Total](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#63-custo-total)
+7.  [Stakeholders (Partes Interessadas)](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#7-stakeholders-partes-interessadas)
+    * [7.1 Equipe de Gerência](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#71-equipe-de-ger%C3%AAncia)
+    * [7.2 Equipe de Desenvolvimento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#72-equipe-de-desenvolvimento)
+    * [7.3 Monitores](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#73-monitores)
+    * [7.4 Docente](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#74-docente)
+    * [7.5 Usuários](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#75-usu%C3%A1rios)
+8.  [Produto do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#8-produto-do-projeto)
+    * [8.1 Requisitos de Alto Nível](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Termo-de-Abertura-do-Projeto#81-requisitos-de-alto-n%C3%ADvel)
+      
 # 1. Introdução
 
 <p align="justify">Este documento tem como objetivo a formalização do projeto Wikilegis Mobile. As informações contidas nos tópicos a seguir foram produzidos a fim de mostrar um grande resumo dos riscos, limites e recursos, bem como mostrar o estudo de viabilidade do projeto. (PMBOK quinta edição, cap.4.1.3.1, pag. 71)</p>
