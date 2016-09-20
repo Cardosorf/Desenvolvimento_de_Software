@@ -4,7 +4,7 @@
 | :---: | :---: | --- | :---: |
 | 17/08/2016 | 1 | Elaboração Inicial | Igor Duarte |
 | 18/08/2016 | 1.1 | Adição da Equipe | Izabela Cardoso |
-| 20/06/2016 | 1.2 | Adição do sumário | Pedro Ivo |
+| 20/09/2016 | 1.2 | Adição do sumário | Pedro Ivo |
 
 # Sumário
 1.  [Introdução](#1-introdu%C3%A7%C3%A3o)
