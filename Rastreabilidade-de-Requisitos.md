@@ -10,7 +10,7 @@
 2. [Objetivo]()
 3. [Rastreabilidade]()
 4. [Considerações]()
-5. [Referêcnias]()
+5. [Referências]()
 
 
 # 1. Introdução
@@ -31,11 +31,39 @@
 
 ## 3.1 Rastreabilidade Vertical
 
+<p align="justify"></p>
 
+<p align="justify">A imagem a seguir, representa todos as necessidades, caracterísiticas e os requisitos encontrados para a implementação do projeto. A partir dos itens elicitados, realiza-se a relação entre eles para gerar a rastreabilidade vertical.</p>
+![Requisitos cadastrados](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/rast_tree.PNG)
+<p align="center"><b>Figura 1:</b> Todas necessidades, características e requisitos encontrados.</p>
+
+***
+
+<p align="justify">As imagens a seguir definem a rastreabilidade encontrada entre as necessidades, caracterísiticas e requisitos do produto.</p>
+
+![Contribuir com Projetos de Lei](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/rast_tree1.PNG)
+<p align="center"><b>Figura 2:</b> Rastreabilidade da necessidade Contribuir com Projetos de Lei.</p>
+
+![Acompanhar o debate da sociedade acerca dos Projetos de lei](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/rast_tree2.PNG)
+<p align="center"><b>Figura 3:</b> Rastreabilidade da necessidade Acompanhar o debate da sociedade acerca dos Projetos de Lei.</p>
+
+![Disseminar informações sobre os Projetos de Lei](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/rast_tree3.PNG)
+<p align="center"><b>Figura 4:</b> Rastreabilidade da necessidade Disseminar informações sobre os Projetos de Lei.</p>
+
+
+***
+
+<p align="justify">Outra forma de representar a rastreabilidade dos requisitos é a partir da matriz de rastreabilidade, onde se encontram todos itens elicitados e as relações que possuem entre si. As figuras abaixo representam a Matriz de Rastreabilidade.</p>
+
+![Matriz de Rastreabilidade parte 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/rast_matrix1.png)
+<p align="center"><b>Figura 5:</b> Matriz de Rastreabilidade de Requisitos, parte 1.</p>
+
+![Matriz de Rastreabilidade parte 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/rast_matrix2.png)
+<p align="center"><b>Figura 6:</b> Matriz de Rastreabilidade de Requisitos, parte 2.</p>
 
 # 4. Considerações
 
-
+<p align="justify">Para melhor entendimento da matriz de rastreabilidade, considere as seguintes informações: (1) Um item é "pai" de outro se a seta contínua parte dele para outro item. (2) Um item é "filho" de outro se a seta contínua chega a ele a partir de outro item. (3) As setas tracejadas representam implicações, por exemplo, "Contribuir com Projetos de Lei" implicam em "Alterar Itens do Projeto de Lei", "Comentar Itens de um Projeto de Lei", detre outros.</p>
 
 # 5. Referências
 
