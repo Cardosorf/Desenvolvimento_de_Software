@@ -17,6 +17,8 @@ A métricas serão coletadas e disponibilizadas aqui, junto com um breve relató
 ##AMLOC (Tamanho médio dos métodos por classe)
 <p align="justify">Como descrito no plano de qualidade os valores aceitáveis para AMLOC é 10, Bom . O resultado obtido foi excelente dentro do percenti 0%, mas ruim nos outros dois. Isso quer dizer que há uma quantidade considerável de classes com grandes número de linhas por método. Isso ocorre pela linguagem, java, que normalmente usa muitas linhas, mas também que a equipe não se preocupou tanto com isso durante o desenvolvimento. Para a próxima interação deve ser chamada a atenção afim de melhorar esse aspecto do código.</p>
 
+##COF (Fator de acoplamento)
+<p align="justify"> Esse indicador indica que o que já era esperado olhando para a métrica de ACC no percentil 95%, que deve se ter atenção, principalmente com a classe citada.
 
 # Análise
 ![legenda](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/legenda.png)
