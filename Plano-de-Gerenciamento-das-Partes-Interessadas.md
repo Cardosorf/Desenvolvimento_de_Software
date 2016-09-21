@@ -3,6 +3,14 @@
 |Autor|Descrição|Data|
 |-----|---------|----|
 |Izabela Cardoso | Criação de todo o plano de partes interessadas | 04/09/2016 |
+| Pedro Ivo | Definição do sumário | 20/09/2016 |
+
+## Sumário
+
+1. [Introdução](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas#1-introdu%C3%A7%C3%A3o)
+2. [Identificação das Partes Interessadas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas#2-identifica%C3%A7%C3%A3o-das-partes-interessadas)
+3. [Gerenciamento das Partes Interessadas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas#3-gerenciamento-das-partes-interessadas)
+4. [Controle e Monitoramento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas#4-controle-e-monitoramento)
 
 # 1. Introdução
 
