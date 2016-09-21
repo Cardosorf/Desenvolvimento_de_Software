@@ -45,7 +45,9 @@
 | 416 horas               | 403,28 horas           |
 
 ###  Considerações
-- A variância de prazo indica que o projeto está consideravelmente atrasado. Os integrantes do projeto precisarão cumprir mais horas para compensar os atrasos.
-- A variância de custo indica que foi agregado ao projeto um valor um pouco menor que o valor gasto. Isto ocorreu devido à quantidade de horas de estudo que foram necessárias para conclusão das atividades. Espera-se uma melhora nesse quesito já na próxima iteração, visto que a equipe deverá possuir uma maior maturidade com relação à linguagem e ferramentas utilizadas no projeto.
-- O índice de desempenho de custo indica que houve um pequeno excesso de custo para o trabalho executado na iteração.
+- Como um membro saiu da equipe e foi considerado que a estimativa para as atividades de MDS foram otimistas, visto que gastavam mais devido às horas de estudo, a carga horária da equipe foi replanejada para 12 horas por semana.
+- Nesta iteração o caso de uso Realizar Cadastro não foi concluído pois houve um problema com a API do Wikilegis que permitia o cadastro de usuários na mesma. Além disso também houve atraso no protótipo de alta fidelidade, plano de gerenciamento de tempo e qualidade.
+- Estes atrasos são evidenciados na variância de prazo, que indica que o projeto está consideravelmente atrasado. Os integrantes do projeto precisarão cumprir mais horas para compensar os atrasos. 
+- A variância de custo indica que foi agregado ao projeto um valor um pouco menor que o valor gasto. Isto ocorreu devido à quantidade de horas de estudo que foram necessárias para conclusão das atividades. Espera-se uma melhora nesse quesito já na próxima iteração, visto que a equipe deverá possuir uma maior maturidade com relação à linguagem e ferramentas utilizadas no projeto, devido às experiências no projeto e treinamentos.
+- O índice de desempenho de custo indica que houve um pequeno excesso de custo para o trabalho que foi agregado na iteração.
 - O índice de desempenho de prazo indica que, até então, a equipe trabalhou um pouco menos que o esperado. Esse problema deve ser resolvido já na próxima iteração, com a equipe trabalhando mais para compensar o atraso.
