@@ -131,16 +131,16 @@
 
 <p align="justify">A visão lógica do aplicativo será distribuída em 4 pacotes principais sendo eles os pacotes Model, DAO, Controller e View.</p>
 
-<p align="justify">No pacote Model estará a representação das entidades que compõem o sistema, como:</p>
+<p align="justify">Na Model estará a representação das entidades que compõem o sistema, como:</p>
 * classes que irão representar o usuário;
 * entidade projeto de lei; 
 * entidade segmento;
 
-<p align="justify">No pacote View estarão as classes responsáveis pelos formulários, que são as camadas responsáveis pela interação com os usuários, lá estarão as classes responsáveis pelas telas de registro, login, resultado da pesquisa, informação e filtragem.</p>
+<p align="justify">Na View estarão as classes responsáveis pelos formulários, que são as camadas responsáveis pela interação com os usuários, lá estarão as classes responsáveis pelas telas de registro, login, resultado da pesquisa, informação e filtragem.</p>
 
-<p align="justify">No pacote Controller estão as classe responsáveis por estabelecer as comunicações entre a interface do aplicativo(View), o pacote Model e o pacote DAO gerenciando os registros, as filtragens, os comentários e as avaliações dos segmentos. </p>
+<p align="justify">Na Controller estão as classe responsáveis por estabelecer as comunicações entre a interface do aplicativo(View), o pacote Model e o pacote DAO gerenciando os registros, as filtragens, os comentários e as avaliações dos segmentos. </p>
 
-<p align="justify">No pacote DAO estará as classes responsáveis por fazer a comunicação entre a aplicação e o banco de dados/API.</p>
+<p align="justify">Na DAO estará as classes responsáveis por fazer a comunicação entre a aplicação e o banco de dados/API.</p>
 
 <p align="justify">Então o usuário irá fazer solicitações ao aplicativo, as solicitações são recebidas pela View, processadas pela Controller que é o intermediário entre a View e a Model, a Model tenta a criação do objeto requirido, caso ele seja instanciado corretamente a Controller entra em contato com a DAO para efetivar as alterações da Model na base de dados do sistema.</p>
 
@@ -152,8 +152,9 @@
 
 ##5.2. Visão de implementação
 
-<p align="justify">Representando a camada View, existe o pacote View. Esta é a camada de apresentação, nela irão ficar os arquivos referentes à parte visual do projeto, que são os arquivos XML, as classes Activities e as classes Fragments. Embora as classes Activities tenham características tanto de View quanto de Controller a trataremos como View pois as Activities cuidam de toda a interação da aplicação com o usuário, ou seja, como o XML será renderizado pela aplicação, como por exemplo: No caso de uma interação de um usuário clicar em um botão e acontecer uma ação na tela do usuário, toda a parte de ouvidores de botão e apresentação de dados na tela seria controlada pela Activity.
-Representando a camada Model, existe o pacote Model. Na Model é onde se faz a entrada, leitura e validação de dados do sistema.</p>
+<p align="justify">Representando a camada View, existe o pacote View. Esta é a camada de apresentação, nela irão ficar os arquivos referentes à parte visual do projeto, que são os arquivos XML, as classes Activities e as classes Fragments. Embora as classes Activities tenham características tanto de View quanto de Controller a trataremos como View pois as Activities cuidam de toda a interação da aplicação com o usuário, ou seja, como o XML será renderizado pela aplicação, como por exemplo: No caso de uma interação de um usuário clicar em um botão e acontecer uma ação na tela do usuário, toda a parte de ouvidores de botão e apresentação de dados na tela é controlada pela Activity.</p>
+
+<p align="justify">Representando a camada Model, existe o pacote Model. Na Model é onde se faz a entrada, leitura e validação de dados do sistema.</p>
 
 <p align="justify">A camada Controller deverá ficar dentro do pacote Controller. Ela é responsável por fazer a interação entre as Views, Model e DAO.</p>
 
