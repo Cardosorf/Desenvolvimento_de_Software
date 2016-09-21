@@ -163,6 +163,9 @@
 
 ![Diagrama de classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Class Diagram.jpg)
 
+Para melhor visualização da imagem acesse : goo.gl/akOzAr
+
+
 ###5.2.2. Banco de dados
 
 * **DE-R**
