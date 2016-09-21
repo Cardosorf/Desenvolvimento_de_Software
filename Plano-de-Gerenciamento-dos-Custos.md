@@ -6,6 +6,7 @@
 | 08/09/2016 | 1.2 | Atualizando variação dos custos e Índice de desempenho | Igor |
 | 18/09/2016 | 1.3 | Atualizando Indice de desempenho e Resultado esperado | Igor |
 | 20/09/2016 | 1.4 | Adicionando Sumário e Histórico de versão | Pedro Ivo |
+| 21/09/2016 | 1.5 | Adicionando Controle dos Custos | Igor |
 
 ## Sumário
 
@@ -75,4 +76,6 @@ Fórmula: IDP = VA / VP
 
 <p align="justify">Ao fim dos cálculos, espera-se que o valor agregado e o valor real do projeto sejam os mesmos, sendo aceitável para o valor agregado uma margem de erro de até 7% acima ou abaixo do valor real. Alcançar esse resultado, é um indicativo de que o custo real do projeto condiz com o que foi prometido ao cliente. Além disso, espera-se também que o valor real do projeto não exceda em mais de 15% o valor planejado, o que poderia tornar o projeto insustentável.</p>
 
+# 3. Controle dos Custos
 
+<p align="justify">O controle dos custos será feito tendo como base as estimativas explicadas no tópico anterior. Cada uma das estimativas obtidas deverá ser interpretada pela equipe de gerência. A partir dessa interpretação, a equipe deverá identificar o problema (se houver) e apontar as medidas mitigadoras/preventivas para o problema identificado. Todos esses dados poderão ser visualizados no <a href="https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Relat%C3%B3rio-de-Desempenho">relatório de desempenho das iterações</a>.</p>

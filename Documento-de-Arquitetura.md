@@ -147,7 +147,7 @@
 
 ###5.1.2. Diagrama de pacotes
 
-![Diagrama de pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Package Diagram.jpg)
+![Diagrama de pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Package Diagram3.jpg)
 
 ##5.2. Visão de implementação
 
@@ -163,12 +163,15 @@
 
 ![Diagrama de classes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Class Diagram.jpg)
 
+Para melhor visualização da imagem acesse : [Diagrama de classe](http://goo.gl/akOzAr)
+
+
 ###5.2.2. Banco de dados
 
 * **DE-R**
 
-![Diagrama entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/derMDS.jpg)
+![Diagrama entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/derMDS2.jpg)
 
 * **ME-R**
 
-![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS2.jpg)
+![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS3.jpg)
