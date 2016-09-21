@@ -56,7 +56,17 @@
 
 <p align="justify">A arquitetura será a MVC (Model-View-Controller) adaptada para Android, onde também terá uma camada DAO, uma API REST e um banco local. Utilizando essa arquitetura iremos padronizar o projeto do software.</p>
 
-<p align="justify">No MVC adaptado para Android a camada Controller é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada Model - que por sua vez gerência seus dados e responde as perguntas sobre seu o estados de seus dados e também responde instruções para mudança de estado -, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária. A camada Model é a responsável por modelar e gerenciar os dados referentes ao problema que está se tentando resolver. A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir querys para atualização do banco de dados local. As relações entre as camadas está descrita na figura 1.</p>
+<p align="justify">No MVC adaptado para Android temos as seguintes camadas:</p>
+
+* <p align="justify">Controller que é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada Model, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária.</p>
+
+* <p align="justify">View é a camada responsável por toda a interação com o usuário.</p>
+
+* <p align="justify">Model que é a camada que gerência os dados, responde as perguntas sobre seus estados e dados, e responde instruções para mudança de estado. A camada Model também é a responsável por modelar e gerenciar os dados referentes ao problema que se está tentando resolver.</p>
+
+* <p align="justify">A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir querys para atualização do banco de dados local.</p>
+
+<p align="justify">As relações entre as camadas está descrita na figura 1.</p>
 
 ![Figura1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/mvc.png)
 <p align="justify"><b>Figura 1</b> - Funções das camadas Model-View-Controller-DAO</p>
