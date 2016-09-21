@@ -1,6 +1,6 @@
 ### Local/Horário da Reunião:
 
-UnB/FGA (Faculdade do Gama)
+QG do Time WikiLegis (Casa da Izabela)
 
 16:00  ~  18:00
 
