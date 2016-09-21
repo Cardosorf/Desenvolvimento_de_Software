@@ -54,17 +54,17 @@
 
 #2. Representação Arquitetural
 
-<p align="justify">A arquitetura será a MVC (Model-View-Controller) adaptada para Android, onde também terá uma camada DAO, uma API REST e um banco local. Utilizando essa arquitetura iremos padronizar o projeto do software.</p>
+<p align="justify">A arquitetura será a MVC (Model-View-Controller) adaptada para Android, onde também terá uma camada DAO, uma API REST e um banco local. Utilizando essa arquitetura o projeto do software será padronizado.</p>
 
-<p align="justify">No MVC adaptado para Android temos as seguintes camadas:</p>
+<p align="justify">No MVC adaptado para Android existem as seguintes camadas:</p>
 
-* <p align="justify">Controller que é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada Model, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária.</p>
+* <p align="justify">Controller que é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada DAO utilizando um objeto da camada Model, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária.</p>
 
 * <p align="justify">View é a camada responsável por toda a interação com o usuário.</p>
 
-* <p align="justify">Model que é a camada que gerência os dados, responde as perguntas sobre seus estados e dados, e responde instruções para mudança de estado. A camada Model também é a responsável por modelar e gerenciar os dados referentes ao problema que se está tentando resolver.</p>
+* <p align="justify">Model que é a camada que gerencia os dados, responde as perguntas sobre seus estados e dados, e responde instruções para mudança de estado. A camada Model também é a responsável por modelar e gerenciar os dados referentes ao problema que se está tentando resolver.</p>
 
-* <p align="justify">A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir querys para atualização do banco de dados local.</p>
+* <p align="justify">A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model na base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir <i>querys</i> para atualização do banco de dados local.</p>
 
 <p align="justify">As relações entre as camadas está descrita na figura 1.</p>
 
@@ -74,7 +74,7 @@
 
 #3. Metas e Restrições de Arquitetura
 
-<p align="justify">O sistema será funcional em plataformas Android partir da versão 4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, neste ambiente será utilizado a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades offline será implementado um banco de dados local utilizando o SQLite. Para as funcionalidades online será feito a comunicação com uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
+<p align="justify">O sistema será funcional em plataformas Android partir da versão 4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, neste ambiente será utilizado a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades <i>offline</i> será implementado um banco de dados local utilizando o SQLite. Para as funcionalidades <i>online</i> será feito a comunicação com uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
 
 <p align="justify">Com a utilização do padrão MVC existe uma maior organização no momento do desenvolvimento, por ser uma equipe formada por vários membros é importante que todos sigam um padrão de desenvolvimento, permitindo que todos possam ter conhecimento pleno do que está sendo elaborado e facilitando a manutenção do sistema por qualquer membro desenvolvedor.</p>
 
@@ -84,9 +84,9 @@
 
 ![atores](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/atores.jpg)
 
-* **Cidadão brasileiro Cadastrado**: O cidadão  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
+* **Cidadão brasileiro Cadastrado**: O cidadão pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
 
-* **Cidadão brasileiro Visitante**: O cidadão  pode visualizar, filtrar, pesquisar, comentar,  compartilhar,avaliar sugerir uma proposta de alteração em um projeto ou segmento de lei 
+* **Cidadão brasileiro Visitante**: O cidadão  pode visualizar, filtrar e pesquisar um projeto de lei.
 
 ##4.2. Diagrama de Casos de Uso
 
@@ -94,8 +94,7 @@
 
 ##4.3. Descrição dos Casos de Uso
 
-<p align="justify">A seguir são apresentadas as descrições dos casos de uso do sistema , dos quais do UC01 ao UC04 serão apresentados funcionais na 1° release:</p>
-
+<p align="justify">A seguir são apresentadas as descrições dos casos de uso do sistema , dos quais do UC01 ao UC04 serão apresentados na 1° release:</p>
 
 * **UC01 - Realizar cadastro:** <p align="justify">Esse caso de uso permite ao cidadão visitante cadastrar-se no sistema.</p>
 
