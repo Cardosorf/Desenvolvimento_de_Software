@@ -50,8 +50,8 @@
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
 | CT002_00 | Toque do usuário em um projeto | Redirecionamento para uma página com o conteúdo do projeto de lei selecionado |
-|CT0002_02| id do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto| sistema notifica se todos os dados vem null|selecionado|
-|CT02_03|Aid do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto|o sistema notifica se algum dos campos vem null|seleciona|
+|CT0002_02| id do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto| sistema notifica se todos os dados vem null|
+|CT02_03|Aid do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto|o sistema notifica se algum dos campos vem null|
 #TFUC03: Visualizar segmentos do projeto de lei
 ###Classes de equivalência:
 
