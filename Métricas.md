@@ -21,6 +21,7 @@ A métricas serão coletadas e disponibilizadas aqui, junto com um breve relató
 <p align="justify"> Esse indicador indica que o que já era esperado olhando para a métrica de ACC no percentil 95%, que deve se ter atenção, principalmente com a classe citada.
 
 # Análise
+
 ![legenda](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/legenda.png)
 
 # Métricas de Estilo e Design
