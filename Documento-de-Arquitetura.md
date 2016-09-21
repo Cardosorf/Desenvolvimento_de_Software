@@ -147,7 +147,7 @@
 
 ###5.1.2. Diagrama de pacotes
 
-![Diagrama de pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Package Diagram.jpg)
+![Diagrama de pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Package Diagram2.jpg)
 
 ##5.2. Visão de implementação
 
