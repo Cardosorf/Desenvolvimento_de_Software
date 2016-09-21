@@ -49,7 +49,7 @@ fonte:[IBGE](http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id=1&busca=
 As restrições do projeto wikilegis mobile é:
 * A aplicação está restrita a plataforma android.
 * A aplicação está restrita a utilizar a API do próprio wikilegis para adquirir os dados das propostas e para autenticação dos usuários.
-* O projeto está restrito ao tempo da disciplina de GPP/MDS (08/08/2015 - XX/12/2015).
+* O projeto está restrito ao tempo da disciplina de GPP/MDS (09/08/2016 - 29/11/2016).
 * O projeto está restrito ao escopo de recursos de alunos da matéria de GPP/MDS.
 
 # 5. Riscos do Projeto
