@@ -34,7 +34,6 @@
 | CT001_02 |Segundo nome Inválido | O sistema notifica que o segundo nome do usuário é inválido e solicita uma nova entrada de dados | Apareceu uma mensagem de segundo nome inválido | Sucesso |
 | CT001_01 | E-Mail Válido | O e-mail digitado é cadastrado com sucesso | E-mail do usuário cadastrado com sucesso | Sucesso |
 | CT001_02 | E-Mail Inválido | O sistema informa que o e-mail digitado é inválido e solicita uma nova entrada de dados | Apareceu uma mensagem de e-mail inválido | Sucesso |
-| CT001_02 | E-Mail Já Cadastrado | O sistema informa que o e-mail digitado já foi cadastrado | | |
 | CT001_01 | Senha Válida | A senha do usuário é cadastrada com sucesso | Senha do usuário cadastrada com sucesso | Sucesso |
 | CT001_02 | Senha Inválida | O sistema informa ao usuário que a senha digitada é inválida e solicita uma nova entrada de dados | Apareceu uma mensagem de senha inválido | Sucesso |
 
@@ -49,8 +48,8 @@
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | :---: | :---: | :---: |
 | CT002_01 | Toque do usuário em um projeto | Redirecionamento para uma página com o conteúdo do projeto de lei selecionado | | | 
-| CT002_02 | id do projeto ,titulo,epigrafe,status, descrição, tema, segmentos do projeto, numero de propostas e data do projeto | sistema notifica se todos os dados vem null| | 
-| CT002_03 |id do projeto ,titulo,epigrafe,status,descrição, tema,segmentos do projeto, numero de propostas e data do projeto| o sistema notifica se algum dos campos vem null| | |
+| CT002_02 | id do projeto ,titulo,epigrafe,status, descrição, tema, segmentos do projeto, numero de propostas e data do projeto | sistema notifica se todos os dados vem null| O sistema exibe uma mensagem informando que o projeto de lei não pode ser carregado | Sucesso 
+| CT002_03 |id do projeto ,titulo,epigrafe,status,descrição, tema,segmentos do projeto, numero de propostas e data do projeto| o sistema notifica se algum dos campos vem null| | O sistema exibe uma mensagem informando que o projeto de lei não pode ser carregado | Sucesso
 
 #TFUC03: Visualizar segmentos do projeto de lei
 ###Classes de equivalência:
