@@ -14,6 +14,10 @@ A métricas serão coletadas e disponibilizadas aqui, junto com um breve relató
 ##LCOM4 (Falta de coesão entre métodos)
 <p align="justify">Como descrito no plano de qualidade os valores aceitáveis para LCOM4 é 1 à 3. O resultado obtido foi excelente dentro dos três percentis. Isso pode ser justificado pela baixa complexidade do projeto de software Wikilegis mobile.</p>
 
+##AMLOC (Tamanho médio dos métodos por classe)
+<p align="justify">Como descrito no plano de qualidade os valores aceitáveis para AMLOC é 10, Bom . O resultado obtido foi excelente dentro do percenti 0%, mas ruim nos outros dois. Isso quer dizer que há uma quantidade considerável de classes com grandes número de linhas por método. Isso ocorre pela linguagem, java, que normalmente usa muitas linhas, mas também que a equipe não se preocupou tanto com isso durante o desenvolvimento. Para a próxima interação deve ser chamada a atenção afim de melhorar esse aspecto do código.</p>
+
+
 # Análise
 ![legenda](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/legenda.png)
 
