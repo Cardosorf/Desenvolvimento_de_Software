@@ -75,4 +75,6 @@ Fórmula: IDP = VA / VP
 
 <p align="justify">Ao fim dos cálculos, espera-se que o valor agregado e o valor real do projeto sejam os mesmos, sendo aceitável para o valor agregado uma margem de erro de até 7% acima ou abaixo do valor real. Alcançar esse resultado, é um indicativo de que o custo real do projeto condiz com o que foi prometido ao cliente. Além disso, espera-se também que o valor real do projeto não exceda em mais de 15% o valor planejado, o que poderia tornar o projeto insustentável.</p>
 
+# 3. Controle dos Custos
 
+O controle dos custos será feito tendo como base as estimativas explicadas no tópico anterior. Cada uma das estimativas obtidas deverá ser interpretada pela equipe de gerência. A partir dessa interpretação, a equipe deverá identificar o problema (se houver) e apontar as medidas mitigadoras/preventivas para o problema identificado. Todos esses dados poderão ser visualizados no relatório de desempenho dos custos.
