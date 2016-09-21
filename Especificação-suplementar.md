@@ -56,7 +56,7 @@
 ##1.3. Definições, Acrônimos e Abreviações
 <p align="justify">Click - Ação de selecionar algo.</p>
 
-<p align="justify">Feedback - Uma palavra do inglês, que tem como significado caracterizar a opinião de uma ou mais pessoas sobre algo.</p>
+<p align="justify">Feedback - Retorno de informação dado ao usuário.</p>
 
 ##1.4. Referências
 <p align="justify">Documento de Visão;</p>
@@ -158,7 +158,7 @@
 
 #8.  Observações legais de direitos autorais etc
 
-<p align="justify"></p>
+<p align="justify">Licença: GNU GENERAL PUBLIC LICENSE v3.0</p>
 
 #9.  Padrões Aplicáveis
 

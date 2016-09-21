@@ -20,15 +20,16 @@
       * [2.1.1 Utilização](#211-utiliza%C3%A7%C3%A3o)
    * [2.2 Chef](#22-chef)
       * [2.2.1 Instalação do ambiente (Chef)](#221-instala%C3%A7%C3%A3o-do-ambiente-chef)
-   * [2.3 Checkstyle](#23-checkstyle)
-      * [3.1.1 Instalação no Android Studio](#231-instala%C3%A7%C3%A3o-no-android-studio)
-      * [3.1.2 Configuração do Checkstyle](#232-configura%C3%A7%C3%A3o-do-checkstyle)
+   * [2.3 Circle CI](#23-circle-ci)
+   * [2.4 Checkstyle](#24-checkstyle)
+      * [2.4.1 Instalação no Android Studio](#231-instala%C3%A7%C3%A3o-no-android-studio)
+      * [2.4.2 Configuração do Checkstyle](#232-configura%C3%A7%C3%A3o-do-checkstyle)
    
 # 1. Introdução
 
-Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
+<p align="justify">Este documento descreve o Plano de Gerenciamento de Configuração para o projeto de desenvolvimento do sistema Wikilegis Mobile, 
 com o objetivo de apresentar as ferramentas utilizadas na configuração do projeto, o processo de utilização das 
-mesmas e os padrões de organização e nomeclatura a serem utilizados.
+mesmas e os padrões de organização e nomeclatura a serem utilizados.</p>
 
 ![Processo de Configuração do Software](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/processo_gcs.png)
 
@@ -41,13 +42,13 @@ Será utilizado o Git como ferramenta de versionamento do código e o [GitHub](h
 
 #### Política de Branches
 
-Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.
+<p align="justify">Inicialmente, a equipe de gerenciamento será responsável pela criação de duas branches principais, a "master" e a "devel". Na "master" será hospedado o código revisado e aprovado pela equipe de gerenciamento, enquanto a "devel" armazenará o código que ainda precisa de revisão.</p>
 
-A equipe de gerenciamento criará um fork para o time, dentro da branch "devel" do fork, deverão ser criadas branches para cada Caso de Uso, cujo nome deve estar no seguinte padrão: "ucX_nomeDoCasoDeUso", onde X é o número identificador do Caso de Uso a ser produzido naquela branch e "nomeDoCasoDeUso" será o nome do Caso de Uso em inglês, utilizando camelCase, por exemplo "uc01_registerUser".
+<p align="justify">A equipe de gerenciamento criará um fork para o time, dentro da branch "devel" do fork, deverão ser criadas branches para cada Caso de Uso, cujo nome deve estar no seguinte padrão: "ucX_nomeDoCasoDeUso", onde X é o número identificador do Caso de Uso a ser produzido naquela branch e "nomeDoCasoDeUso" será o nome do Caso de Uso em inglês, utilizando camelCase, por exemplo "uc01_registerUser".</p>
 
-Quando o Caso de Uso for implementado, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel", e fazer um "Pull Request" da branch devel para a master do respositório original (upstream).
+<p align="justify">Quando o Caso de Uso for implementado, a equipe de desenvolvimento é responsável por mesclar a branch com a "devel", e fazer um "Pull Request" da branch devel para a master do respositório original (upstream).</p>
 
-Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" do respositório original e deletar as branches do fork do time, caso o mesmo seja reprovado a equipe de gerenciamento deve comentar os problemas no Pull Request e a equipe desenvolvimento deve corrigí-los. 
+<p align="justify">Ao fim de cada iteração, a equipe de gerenciamento é responsável por revisar o código, caso o mesmo seja aprovado a equipe deve mesclá-lo com a branch "master" do respositório original e deletar as branches do fork do time, caso o mesmo seja reprovado a equipe de gerenciamento deve comentar os problemas no Pull Request e a equipe desenvolvimento deve corrigí-los. </p>
 
 #### Padrões de nomeclatura
 
@@ -70,17 +71,55 @@ Para a configuração do ambiente de desenvolvimento, foi utiliza a tecnologia [
 2. Instalação do ferramental
 3. Configuração do ferramental
 
-No primeiro passo, basicamente foi feita a atualização do sistema e instalação de pacotes básicos do linux, necessários para o desenvolvimento, como: vim, unzip, wget, git.
+<p align="justify">No primeiro passo, basicamente foi feita a atualização do sistema e instalação de pacotes básicos do linux, necessários para o desenvolvimento, como: vim, unzip, wget, git.</p>
 
-Posteriormente, foram obtidos os arquivos fontes necessários para executar o ambiente: android-studio, sdk. Estes foram manipulados em seus diretórios corretos e instalados.
+<p align="justify">Posteriormente, foram obtidos os arquivos fontes necessários para executar o ambiente: android-studio, sdk. Estes foram manipulados em seus diretórios corretos e instalados.</p>
 
-Para finalizar, utilizamos alguns parâmetros para instalação e configuração de pacotes advindos do sdk. Dessa maneira, os desenvolvedores tiveram a única necessidade de rodar o script para executar toda a instalação.
+<p align="justify">Para finalizar, utilizamos alguns parâmetros para instalação e configuração de pacotes advindos do sdk. Dessa maneira, os desenvolvedores tiveram a única necessidade de rodar o script para executar toda a instalação.</p>
 
-## 2.3 Checkstyle
+## 2.3 Circle CI
+
+O Circle CI foi a ferramenta utilizada para implementação da integração contínua do projeto, as builds para o fork do time podem ser vistas [neste link](https://circleci.com/gh/izacristina/2016.2-WikiLegis) e as builds para a upstream podem ser vistas [neste link](https://circleci.com/gh/fga-gpp-mds/2016.2-WikiLegis).
+
+A configuração para funcionamento da integração contínua foi feita através do arquivo circle.yml, descrito a seguir:
+
+```yml
+    machine:
+        environment:
+            PATH: "~/$CIRCLE_PROJECT_REPONAME/gradle-2.9/bin:$PATH"
+            TERM: "dumb"
+            ADB_INSTALL_TIMEOUT: "10"
+            GRADLE_OPTS: '-Dorg.gradle.jvmargs="-Xmx2048m -XX:+HeapDumpOnOutOfMemoryError"'
+
+    dependencies:
+        pre:
+            - echo y | android update sdk --no-ui --all --filter "tools"
+            - echo y | android update sdk --no-ui --all --filter "build-tools-24.0.0"
+
+    test:
+        override:
+            # start the emulator
+            - emulator -avd circleci-android22 -no-audio -no-window:
+                background: true
+                parallel: true
+            # wait for it to have booted
+            - circle-android wait-for-boot
+            # unlock the emulator screen
+            - sleep 30
+            - adb shell input keyevent 82
+            # run tests  against the emulator.
+            - ./gradlew connectedAndroidTest -PdisablePreDex
+            # copy the build outputs to artifacts
+            - cp -r app/build/outputs $CIRCLE_ARTIFACTS
+            # copy the test results to the test results directory.
+            - cp -r app/build/outputs/androidTest-results/* $CIRCLE_TEST_REPORTS
+```
+
+## 2.4 Checkstyle
 
 O Checkstyle, conforme descrito no [Plano de Qualidade](), é uma ferramenta de análise estática para análise de códigos fonte JAVA, produzido pela IDEA. Promove uma análise em tempo real e sob demanda de padrões de código que devem ser seguidos pelos desenvolvedores. Ela é totalmente configurável e possui documentação disponível para os usuários, para mais informações, acesse: [Checkstyle Documentation](http://checkstyle.sourceforge.net/)
 
-### 2.3.1 Instalação no Android Studio
+### 2.4.1 Instalação no Android Studio
 
 Na IDE do Android Studio selecione, **File > Settings...**, e depois clique em **Plugins**, e selecione o botão **Browse Repositories...** conforme a figura abaixo:
 
@@ -94,7 +133,7 @@ Aguarde o download e instalação do plugin e clique em **Restart Android Studio
 
 [[https://github.com/fga-gpp-mds/2016.2-WikiLegis/blob/master/images_wiki/Selection_025.png|width=600px|height=400px]]
 
-### 2.3.2 Configuração do Checkstyle
+### 2.4.2 Configuração do Checkstyle
 
 Na IDE do Android Studio, selecione **File > Settings...**, selecione **Other Settings** e depois clique em Checkstyle. Na interface lateral, próximo ao campo **Configuration File** selecione o botão **+** para adicionar um arquivo de configuração.
 

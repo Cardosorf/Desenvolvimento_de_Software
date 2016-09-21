@@ -54,9 +54,19 @@
 
 #2. Representação Arquitetural
 
-<p align="justify">A arquitetura será a MVC (Model-View-Controller) adaptada para Android, onde também teremos uma camada DAO, uma API REST e um banco local. Utilizando essa arquitetura iremos padronizar o projeto do software.</p>
+<p align="justify">A arquitetura será a MVC (Model-View-Controller) adaptada para Android, onde também terá uma camada DAO, uma API REST e um banco local. Utilizando essa arquitetura iremos padronizar o projeto do software.</p>
 
-<p align="justify">No MVC adaptado para Android a camada Controller é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada Model - que por sua vez gerência seus dados e responde as perguntas sobre seu o estados de seus dados e também responde instruções para mudança de estado -, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária. A camada Model é a responsável por modelar e gerenciar os dados referentes ao problema que está se tentando resolver. A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir querys para atualização do banco de dados local. As relações entre as camadas está descrita na figura 1.</p>
+<p align="justify">No MVC adaptado para Android temos as seguintes camadas:</p>
+
+* <p align="justify">Controller que é a camada responsável por interpretar as entradas fornecidas pelo usuário através da interface do sistema (View), mapeando-as em comandos que serão enviados para atualização e/ou busca de dados na camada Model, e estes comandos podem ser utilizados para visualização (View) e uma possível alteração necessária.</p>
+
+* <p align="justify">View é a camada responsável por toda a interação com o usuário.</p>
+
+* <p align="justify">Model que é a camada que gerência os dados, responde as perguntas sobre seus estados e dados, e responde instruções para mudança de estado. A camada Model também é a responsável por modelar e gerenciar os dados referentes ao problema que se está tentando resolver.</p>
+
+* <p align="justify">A camada DAO é utilizada para se fazer requisições para a API REST incitadas pela Controller a fim de atualizar as alterações da model base de dados ou repassar informações da base de dados para alguma camada solicitante, e também é utilizada por gravar transmitir querys para atualização do banco de dados local.</p>
+
+<p align="justify">As relações entre as camadas está descrita na figura 1.</p>
 
 ![Figura1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/mvc.png)
 <p align="justify"><b>Figura 1</b> - Funções das camadas Model-View-Controller-DAO</p>
@@ -64,9 +74,9 @@
 
 #3. Metas e Restrições de Arquitetura
 
-<p align="justify">O sistema será funcional em plataformas Android  partir da versão  4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, nesse ambiente será utilizada a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades offline será implementado um banco de dados local utilizado o SQLite. Para as funcionalidades online será utilizada uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
+<p align="justify">O sistema será funcional em plataformas Android partir da versão 4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, neste ambiente será utilizado a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades offline será implementado um banco de dados local utilizando o SQLite. Para as funcionalidades online será feito a comunicação com uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
 
-<p align="justify">Com a utilização do padrão MVC existe uma maior organização no momento do desenvolvimento, por ser uma equipe formada por  vários  membros é importante que todos sigam um padrão onde estarão submetidos a um mesmo seguimento de desenvolvimento, permitindo que todos possam ter conhecimento pleno do que está sendo elaborado e facilitando a manutenção do sistema por qualquer membro desenvolvedor.</p>
+<p align="justify">Com a utilização do padrão MVC existe uma maior organização no momento do desenvolvimento, por ser uma equipe formada por vários membros é importante que todos sigam um padrão de desenvolvimento, permitindo que todos possam ter conhecimento pleno do que está sendo elaborado e facilitando a manutenção do sistema por qualquer membro desenvolvedor.</p>
 
 #4. Visão de Casos de Uso
 
@@ -80,7 +90,7 @@
 
 ##4.2. Diagrama de Casos de Uso
 
-![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCase%20Diagram.jpg)
+![Diagrama de casos de uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/UseCaseDiagramm.png)
 
 ##4.3. Descrição dos Casos de Uso
 
@@ -109,17 +119,28 @@
 
 * **UC11 - Ativar notificações:** <p align="justify">Permite ao cidadão cadastrado receber notificações sobre ao andamento de projetos de lei de seu interesse.</p>
 
-* **UC12 - Visualizar seguimento do projeto:** <p align="justify">Permite tanto ao cidadão cadastrado como ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
+* **UC12 - Visualizar segmento do projeto:** <p align="justify">Permite tanto ao cidadão cadastrado como ao não cadastrado visualizar parte mais internas do projeto de lei, tais como artigos, parágrafos e incisos que compõem aquele projeto de lei.</p>
 
-* **UC13 - Avaliar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
+* **UC13 - Avaliar segmento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado “dar like” ou “dislike” nos artigos, parágrafos ou incisivos que compõem o projeto de lei.</p>
 
-* **UC14 - Comentar seguimento:** <p align="justify">Permite ao cidadão cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
+* **UC14 - Comentar segmento:** <p align="justify">Permite ao cidadão cadastrado comentar artigos, parágrafos ou incisos que compõem o projeto de lei.</p>
 
-* **UC15 - Compartilhar seguimento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
+* **UC15 - Compartilhar segmento:** <p align="justify">Permite exclusivamente ao cidadão cadastrado compartilhar parágrafos, artigos ou incisivos que compõem o projeto de lei.</p>
 
 #5. Visão lógica
 
-<p align="justify">A visão logica do aplicativo será distribuída em 4 pacotes principais sendo eles os pacotes Model, DAO, Controller e View. Na Model teremos a representação das entidades que compõem o sistema, como classes que irão representar o usuário, entidades projeto de lei e segmentos, já no pacote View estarão as classes responsáveis pelos formulários, que são as camadas responsáveis pela interação com os usuários, lá terão classes como a classe responsável pelas telas de registro, login, resultado da pesquisa, informação e filtragem, no pacote Controller estão as classe responsáveis por estabelecer as comunicações entre a interface do aplicativo(View), o pacote Model e o pacote DAO gerenciando os registros, as filtragens, os comentários e as avaliações dos segmentos, por fim na DAO teremos classes responsáveis por fazer a comunicação entre a aplicação e o banco de dados/API.</p>
+<p align="justify">A visão lógica do aplicativo será distribuída em 4 pacotes principais sendo eles os pacotes Model, DAO, Controller e View.</p>
+
+<p align="justify">Na Model estará a representação das entidades que compõem o sistema, como:</p>
+* classes que irão representar o usuário;
+* entidade projeto de lei; 
+* entidade segmento;
+
+<p align="justify">Na View estarão as classes responsáveis pelos formulários, que são as camadas responsáveis pela interação com os usuários, lá estarão as classes responsáveis pelas telas de registro, login, resultado da pesquisa, informação e filtragem.</p>
+
+<p align="justify">Na Controller estão as classe responsáveis por estabelecer as comunicações entre a interface do aplicativo(View), o pacote Model e o pacote DAO gerenciando os registros, as filtragens, os comentários e as avaliações dos segmentos. </p>
+
+<p align="justify">Na DAO estará as classes responsáveis por fazer a comunicação entre a aplicação e o banco de dados/API.</p>
 
 <p align="justify">Então o usuário irá fazer solicitações ao aplicativo, as solicitações são recebidas pela View, processadas pela Controller que é o intermediário entre a View e a Model, a Model tenta a criação do objeto requirido, caso ele seja instanciado corretamente a Controller entra em contato com a DAO para efetivar as alterações da Model na base de dados do sistema.</p>
 
@@ -127,10 +148,13 @@
 
 ###5.1.2. Diagrama de pacotes
 
+![Diagrama de pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Package Diagram.jpg)
+
 ##5.2. Visão de implementação
 
-<p align="justify">Representando a camada View, teremos o pacote View. Esta é a camada de apresentação, nela irão ficar os arquivos referentes à parte visual do projeto, que são os arquivos XML, as classes Activities e as classes Fragments. Embora as classes Activities tenham características tanto de View quanto de Controller a trataremos como View pois as Activities cuidam de toda a interação da aplicação com o usuário, ou seja, como o XML será renderizado pela aplicação, como por exemplo: No caso de uma interação de um usuário clicar em um botão e acontecer uma ação na tela do usuário, toda a parte de ouvidores de botão e apresentação de dados na tela seria controlada pela Activity.
-Representando a camada Model, teremos o pacote Model. A Model é onde se faz a entrada, leitura e validação de dados do sistema.</p>
+<p align="justify">Representando a camada View, existe o pacote View. Esta é a camada de apresentação, nela irão ficar os arquivos referentes à parte visual do projeto, que são os arquivos XML, as classes Activities e as classes Fragments. Embora as classes Activities tenham características tanto de View quanto de Controller a trataremos como View pois as Activities cuidam de toda a interação da aplicação com o usuário, ou seja, como o XML será renderizado pela aplicação, como por exemplo: No caso de uma interação de um usuário clicar em um botão e acontecer uma ação na tela do usuário, toda a parte de ouvidores de botão e apresentação de dados na tela é controlada pela Activity.</p>
+
+<p align="justify">Representando a camada Model, existe o pacote Model. Na Model é onde se faz a entrada, leitura e validação de dados do sistema.</p>
 
 <p align="justify">A camada Controller deverá ficar dentro do pacote Controller. Ela é responsável por fazer a interação entre as Views, Model e DAO.</p>
 
@@ -148,4 +172,4 @@ Representando a camada Model, teremos o pacote Model. A Model é onde se faz a e
 
 * **ME-R**
 
-![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS.jpg)
+![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS2.jpg)

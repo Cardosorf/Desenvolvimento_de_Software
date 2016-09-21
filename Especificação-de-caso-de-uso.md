@@ -92,13 +92,10 @@ No passo 4 do fluxo principal, se o sistema identifica alguma informação invá
 | Informação da lei | Valor | 
 | :---: | :---: |
 | Lei selecionada | Proposta de lei que o cidadão selecionou |
+| Descrição da lei | Descrição da lei que o cidadão selecionou |
+| Descrição dos segmentos | Descrição dos segmentos referentes à lei selecionada |
 | Número | Número que identifica qual lei está sendo apresentada |
-| Autor | Nome do autor que está propondo a lei |
-| Relator | Nome de quem redigiu a lei |
-| Número de participantes | Número de pessoas que já opinaram sobre a lei proposta |
 | Número de propostas | Quantidade de opiniões dada sobre a lei |
-| Data da contribuição | Até quando é possível opinar sobre a lei |
-
 
 #UC03: Visualizar segmentos do projeto de lei
 
@@ -126,7 +123,6 @@ No passo 4 do fluxo principal, se o sistema identifica alguma informação invá
 | Segmento selecionado | Texto do segmento selecionado |
 | Avaliações do segmento | Curtidas e descurtidas feitas pelos cidadãos no Segmento |
 | Sugestões | Sugestões de propostas dos usuários para o Segmento |
-| Relator | Nome de quem redigiu a lei |
 | Avaliações de sugestões | Curtidas e descurtidas feitas pelos cidadãos nas sugestões |
 
 #UC04: Listar projetos

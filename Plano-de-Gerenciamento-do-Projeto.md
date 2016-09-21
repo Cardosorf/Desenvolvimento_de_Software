@@ -1,37 +1,61 @@
+### Histórico de Revisão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+|  21/08/2016 | 1.0  | Criação do Template  | Igor  |
+|  24/08/2016 |  1.1 | Definição dos ciclos de vida  | Tiago  |
+|  25/08/2016 |  1.2 | Linhas de Base de Custos  | Igor  |
+| 07/09/2016  | 1.3 | Formatação de Texto | Izabela |
+| 07/09/2016 | 1.4 | Definição das Linhas de base de Escopo | Igor |
+| 08/09/2016 | 1.5 | Definição do Desenvolvimento dos Planos | Izabela |
+| 20/09/2016  | 1.6  | Adição do sumário e histórico de revisão  | Pedro Ivo  |
+
+
+# Sumário
+1. [Ciclo de Vida do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#1-ciclo-de-vida-do-projeto)
+    * [1.1 Metodologia Tradicional](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#11-metodologia-tradicional)
+    * [1.2 Metodologia Adaptativa](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#12-metodologia-adaptativa)
+2. [Linhas de Base do Escopo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#2-linha-de-base-do-escopo)
+3. [Linhas de Base do Cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#3-linha-de-base-do-cronograma)
+4. [Linhas de Base dos Custos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#4-linha-de-base-dos-custos)
+5. [Desenvolvimento dos Planos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#5-desenvolvimento-dos-planos)
+6. [Referências](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-do-Projeto#6-refer%C3%AAncias)
+
+
 # 1. Ciclo de Vida do Projeto
 
-A engenharia de software surgiu para resolver o problema da chamada crise do
+<p align="justify">A engenharia de software surgiu para resolver o problema da chamada crise do
 software em 1970. Baseada em modelos industriais, foram criadas as metodologias de
 desenvolvimento que organizariam de maneira profissional e padronizada a forma de
-desenvolver software.
+desenvolver software.</p>
 
-Esses métodos, hoje conhecidos como tradicionais, apresentavam problemas
+<p align="justify">Esses métodos, hoje conhecidos como tradicionais, apresentavam problemas
 quanto ao desenvolvimento do software, pois o processo de desenvolvimento é
 bastante mutável. Ao longo do tempo os requisitos mudam por parte do cliente, e em
 uma abordagem tradicional é mais custoso e difícil lidar com essas mudanças, pois o
-processo é mais engessado e suas fases ocorrem de forma linear.
+processo é mais engessado e suas fases ocorrem de forma linear.</p>
 
-Com o objetivo de solucionar esses problemas, líderes experientes de
+<p align="justify">Com o objetivo de solucionar esses problemas, líderes experientes de
 desenvolvimento criaram o manifesto ágil. As metodologias ágeis buscam resultados
 práticos em um tempo mais reduzido, o que é alcançado através do foco no produto em
 vez do processo. Trazer o cliente para perto da equipe de desenvolvimento também é
 uma de suas características, pois a obtenção de informações e tomada de decisões se
-torna mais rápida.
+torna mais rápida.</p>
 
-Ambas abordagens possuem vantagens e desvantagens, que individualmente
+<p align="justify">Ambas abordagens possuem vantagens e desvantagens, que individualmente
 cada uma delas não é capaz de solucionar todos os problemas do desenvolvimento de
 software. Dessa maneira, ao longo deste projeto, todos os stakeholders irão vivenciar
 ambas abordagens. Será utilizada uma abordagem tradicional durante metade do período
-de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.
+de desenvolvimento e a outra metade será guiada pelos métodos adaptativos.</p>
 
 ## 1.1 Metodologia Tradicional
-Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
-onde, o desenvolvimento será feito de acordo com as diretrizes do [RUP (Rational Unified Process)](http://sce.uhcl.edu/helm/rationalunifiedprocess/) e o gerenciamento será direcionado
+<p align="justify">Bem como dito, a parte inicial do projeto será guiada pela metodologia tradicional,
+onde, o desenvolvimento será feito de acordo com as diretrizes do <a href="http://sce.uhcl.edu/helm/rationalunifiedprocess/">RUP (Rational Unified Process)</a> e o gerenciamento será direcionado
 pelo corpo de conhecimentos sobre gerenciamento de projetos gerais, 
-[PMBoK](http://www.pmi.org/pmbok-guide-standards), mantido pelo
-[Instituto de Gerenciamento de Projeto (PMI)](http://www.pmi.org/).
+<a href="http://www.pmi.org/pmbok-guide-standards">PMBoK</a>, mantido pelo
+<a href="http://www.pmi.org/">Instituto de Gerenciamento de Projeto (PMI)</a>.
 
-O [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/) é divido em quatro fases ao longo do
+O <a href="http://sce.uhcl.edu/helm/rationalunifiedprocess/">RUP</a> é divido em quatro fases ao longo do
 desenvolvimento do software. Elas são:
 
 1. Iniciação
@@ -39,10 +63,10 @@ desenvolvimento do software. Elas são:
 3. Construção
 4. Implantação
 
-Como esta primeira metade corresponde à parte inicial do projeto, iremos entrar no projeto
-com a Iniciação, segundo as diretrizes do [RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/).
+<p align="justify>"Como esta primeira metade corresponde à parte inicial do projeto, iremos entrar no projeto
+com a Iniciação, segundo as diretrizes do <a href="http://sce.uhcl.edu/helm/rationalunifiedprocess/">RUP</a>.
 Após, entraremos na elaboração do projeto, fazendo a especificação dos requisitos e já entregando
-um incremento de software com valor agregado para o cliente. 
+um incremento de software com valor agregado para o cliente.</p>
 
 ## 1.2 Metodologia Adaptativa
  
@@ -98,7 +122,7 @@ para o cliente dono do produto.
 
 # 2. Linha de Base do Escopo
 
-A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvolvida para dispositivos android por meio da linguagem de programação Java, utilizando a linguagem SQL para consulta e gerenciamento de dados. A aplicação poderá ser utilizada por meio de celulares ou tablets que possuam android como sistema operacional, cuja versão seja igual ou superior à **X.XX**. Tendo em vista que a equipe do projeto não se responsabiliza pelo fornecimento da infraestrutura necessária para o desenvolvimento da aplicação, a equipe se propõe a entregar as seguintes funcionalidades:
+A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvolvida para dispositivos android por meio da linguagem de programação Java, utilizando a linguagem SQL para consulta e gerenciamento de dados. A aplicação poderá ser utilizada por meio de celulares ou tablets que possuam android como sistema operacional, cuja versão seja igual ou superior à 4.4(KitKat). Tendo em vista que a equipe do projeto não se responsabiliza pelo fornecimento da infraestrutura necessária para o desenvolvimento da aplicação, a equipe se propõe a entregar as seguintes funcionalidades:
 
 * Gerenciamento dos usuários
 * Gerenciamento dos projetos de lei
@@ -106,12 +130,11 @@ A versão mobile da aplicação Wikilegis, proposta nesse projeto, será desenvo
 
 Logo abaixo, é possível visualizar a Estrutura Analítica do Projeto (EAP):
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/EAP.png)
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/EAP_2.png)
 
 # 3. Linha de Base do Cronograma
 
-Colocar aqui uma imagem do cronograma.
-
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/schedule_second_version.png)
 
 # 4. Linha de Base dos Custos
 
@@ -119,43 +142,35 @@ Tendo em vista que o projeto é dividido em iterações fixas de 2 semanas e que
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/linha_de_base_custos.png)
 
+# 5. Desenvolvimento dos planos
 
-# 5. Plano de Gerenciamento do Escopo
+O desenvolvimento dos planos de gerenciamento das áreas do projeto também contribuem para o gerenciamento do mesmo. Dessa forma, os seguintes planos foram desenvolvidos para auxiliar no gerenciamento do projeto.
 
+* [Plano de Gerenciamento de Configuração](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
-# 6. Plano de Gerenciamento de Configuração
-[Plano de Gerenciamento de Configuração](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
+* [Plano de Gerenciamento de Tempo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Tempo)
 
-#7. Plano de Gerenciamento dos Requisitos
+* [Plano de Gerenciamento dos Custos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-dos-Custos)
 
+* [Plano de Gerenciamento da Qualidade](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade)
 
-#8. Plano de Gerenciamento do Cronograma
+* [Plano de Gerenciamento dos Recursos Humanos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos)
 
+* [Plano de Gerenciamento das Comunicações](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o)
 
-#9. Plano de Gerenciamento dos Custos
+* [Plano de Gerenciamento dos Riscos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos)
 
+* [Plano de Gerenciamento das Aquisições](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es)
 
-#10. Plano de Gerenciamento da Qualidade
+* [Plano de Gerenciamento das Partes Interessadas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas)
 
+* [Plano de Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo)
 
-#11. Plano de Melhorias no Processo
+* [Plano de Gerenciamento de Integração](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o)
 
+* [Plano de Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-Gerenciamento-de-Configura%C3%A7%C3%A3o)
 
-#12. Plano de Gerenciamento dos Recursos Humanos
-
-
-#13. Plano de Gerenciamento das Comunicações
-[Plano de Gerenciamento das Comunicações](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o)
-
-#14. Plano de Gerenciamento dos Riscos
-
-
-#15. Plano de Gerenciamento das Aquisições
-
-
-#16. Plano de Gerenciamento das Partes Interessadas
-
-#17. Referências
+# 6. Referências
 ###### 1. Rational Unified Process (RUP): [http://sce.uhcl.edu/helm/rationalunifiedprocess/](http://sce.uhcl.edu/helm/rationalunifiedprocess/) 
 
 ###### 2. Project Management Body of Knowledge (PMBoK): [http://www.pmi.org/pmbok-guide-standards](http://www.pmi.org/pmbok-guide-standards)

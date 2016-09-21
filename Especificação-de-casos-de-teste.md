@@ -13,8 +13,9 @@
 | 27/08 | 1.8 | Edição CT03 | Josué Nascimento |
 | 28/08 | 1.9 | Edição CT04 | Rodrigo Oliveira |
 | 28/08 | 2.0 | Edição do CT01 e exclusão do CT05 | Josué Nascimento |
-| 29/08 | 2.1 | Ediçãp CT01 | Rodrigo Oliveira |
-| 05/09 | 2.2 | Ediçãp CT01 | Marcelo Augusto |
+| 29/08 | 2.1 | Edição CT01 | Rodrigo Oliveira |
+| 05/09 | 2.2 | Edição CT01 | Marcelo Augusto |
+| 20/09 | 2.3 | Adição CT002_02, CT002_03, CT003_02, CT003_03 | Marcelo Augusto |
 ***
 
 #Índice
@@ -74,6 +75,26 @@
 
 <b>Dados requeridos:</b> Não há.
 
+###<b>CT002_02:</b> Verificar se todos os campos dos projetos de lei vem diferentes de nulos.
+
+<b>Descrição:</b> Este caso de teste irá verificar se ao baixar as informações da api todos os dados são diferentes de null.
+
+<b>Pré condições:</b> Não há
+
+<b>Pós condições:</b> O sistema deve ter baixado para o banco local as informações do projeto de lei.
+
+<b>Dados requeridos:</b> Não há.
+
+###<b>CT002_03:</b> Verificar se algum dos campos dos projetos de lei vem nulos.
+
+<b>Descrição:</b> Este caso de teste irá verificar se ao baixar as informações da api algum dos dados vem nulo.
+
+<b>Pré condições:</b> Não há
+
+<b>Pós condições:</b> Será mostrado para o usuário que houve um erro na aplicação.
+
+<b>Dados requeridos:</b> Não há.
+
 #UC03: Visualizar segmento
 
 ###<b>CT003_01:</b> Clicar para visualizar um segmento.
@@ -83,6 +104,26 @@
 <b>Pré condições:</b> Selecionar o segmento do projeto de lei.
 
 <b>Pós condições:</b> O sistema exibe o segmento e as sugestões de propostas referentes a ele.
+
+<b>Dados requeridos:</b> Não há.
+
+###<b>CT003_02:</b> Verificar se todos os campos dos segmentos vem diferentes de nulos.
+
+<b>Descrição:</b> Este caso de teste irá verificar se ao baixar as informações da api todos os dados são diferentes de null.
+
+<b>Pré condições:</b> Não há
+
+<b>Pós condições:</b> O sistema deve ter baixado para o banco local as todas informações dos segmentos.
+
+<b>Dados requeridos:</b> Não há.
+
+###<b>CT003_03:</b> Verificar se algum dos campos dos projetos de lei vem nulos.
+
+<b>Descrição:</b> Este caso de teste irá verificar se ao baixar as informações da api algum dos dados vem nulo.
+
+<b>Pré condições:</b> Não há
+
+<b>Pós condições:</b> Será mostrado para o usuário que houve um erro na aplicação.
 
 <b>Dados requeridos:</b> Não há.
 
