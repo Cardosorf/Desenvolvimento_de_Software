@@ -20,6 +20,10 @@
 |-------------------------|------------------------|
 | 200 horas               | 161,03 horas           |
 
+
+###  Riscos Ocorridos
+- Dificuldade com as tecnologias utilizadas
+
 ###  Análise do custo e do esforço
 - Como as atividades desta iteração eram mais simples, a equipe de GPP necessitou de menos esforço que o esperado para concluir as tarefas planejadas, o que reflete no IDP e na VC, visto que a equipe gastou menos que o orçamentado para conclusão destas atividades.
 - Outro ponto que influenciou no IDP e VC, foram as horas planejadas para os estudos (tecnologia, documentação) da equipe de MDS no início da iteração, que não foram bem aproveitadas.
@@ -43,6 +47,13 @@
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
 | 416 horas               | 403,28 horas           |
+
+
+###  Riscos Ocorridos
+- Redução de Membros
+- Dificuldade com as tecnologias utilizadas
+- Atraso nas entregas das atividades
+- Erros de estimativa e Planejamento
 
 ###  Considerações
 - Como um membro saiu da equipe e foi considerado que a estimativa para as atividades de MDS foram otimistas, visto que gastavam mais devido às horas de estudo, a carga horária da equipe foi replanejada para 12 horas por semana.
