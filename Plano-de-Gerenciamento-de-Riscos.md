@@ -16,7 +16,7 @@
     * [2.2 Categorização dos Riscos - EAR](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#22-categoriza%C3%A7%C3%A3o-dos-riscos---ear)
         * [2.2.1 Descrição dos itens da EAR](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#221-descri%C3%A7%C3%A3o-dos-itens-da-ear)
     * [2.3 Registro dos Riscos Identificados](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#23-registro-dos-riscos-identificados)
-3. [3. Análise Quantitativa dos Riscos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#3-an%C3%A1lise-quantitativa-dos-riscos)
+3. [Análise Quantitativa dos Riscos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#3-an%C3%A1lise-quantitativa-dos-riscos)
     * [3.1 Probabilidade](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#31-probabilidade)
     * [3.2 Impacto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#32-impacto)
     * [3.3 Prioridade](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos#33-prioridade)
