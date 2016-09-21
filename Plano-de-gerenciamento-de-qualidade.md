@@ -201,7 +201,7 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |---|---|
 |**Objetivo da Medição**| Garantir que não há dependências demais entre classes, diminuindo o esforço de manutenção (Acoplamento).|
 |**Descrição**| Esta métrica utiliza a acc para realizar o calculo do indicador. A cof indica o quanto o software está acoplado. De forma geral pode-se dizer que COF é a razão de ligações (Meirelles,2013).|
-|**Fórmula**|[formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula2.png)|
+|**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula2.png)|
 |**Escala da Medição**|Racional|
 |**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
 |**Procedimentos**| Será feito o uso da ferramenta no último commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
