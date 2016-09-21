@@ -64,7 +64,7 @@
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
 | CT002_00 | Toque do usuário em um segmento | Redirecionamento para uma página com o conteúdo do segmento, sugestões de proposta e avaliações do mesmo |
-
+|
 #TFUC04: Listar projetos
 ###Classes de equivalência:
 
