@@ -87,7 +87,7 @@
 
 | Valor Planejado | Valor Real  | Valor Agregado |
 |-----------------|-------------|----------------|
-| x    | x | x  |
+| 10142,311    | x | x  |
 
 | Variância de Prazo | Variância de Custo | Índice de Desempenho de Custo | Índice de Desempenho de Prazo |
 |--------------------|--------------------|-------------------------------|-------------------------------|
@@ -95,7 +95,7 @@
 
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
-| x horas               | x horas           |
+|          246,86     | x horas           |
 
 
 ###  2.3.2. Riscos Ocorridos
