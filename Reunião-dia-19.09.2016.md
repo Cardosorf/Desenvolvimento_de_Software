@@ -32,3 +32,4 @@ Thiago Freire|    :x:
 ### Pendências
 
 * Atualizar diagrama de classes.
+* Adicionar a licença utilizada à especificação suplementar.
