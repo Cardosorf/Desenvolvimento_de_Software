@@ -100,6 +100,11 @@
 
 ###  2.3.2. Riscos Ocorridos
 
+- Dificuldade com as tecnologias utilizadas
+- Erros de estimativa e Planejamento
+- Falhas de comunicação entre a equipe
+
+
 ###  2.3.3. Considerações
 
 - A variância de prazo ser nula indica que o projeto está no prazo.
