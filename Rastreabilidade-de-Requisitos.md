@@ -69,6 +69,9 @@
 # 5. Referências
 
 [1]. RAMESH, B. et al. Lessons learned from Implementing Requirements Traceability. [S.l.:s.n.], 1995.
+
 [2]. HOKKANEN, M. Requirements traceability. 2001.
+
 [3]. GOTEL, O.; FINKELSTEIN, A. An analysis of the requirements traceability problem. Imperial College of Science, Technology and Medicine, p. 27, 1994.
+
 [4]. RUP. Rational Unified Process. Best Practices for Software Development Teams. IBM. July, 2001.
