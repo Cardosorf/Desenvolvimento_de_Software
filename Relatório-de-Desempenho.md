@@ -87,7 +87,7 @@
 
 | Valor Planejado | Valor Real  | Valor Agregado |
 |-----------------|-------------|----------------|
-| 10142,311    | x | x  |
+| R$ 10.142,32    | x | x  |
 
 | Variância de Prazo | Variância de Custo | Índice de Desempenho de Custo | Índice de Desempenho de Prazo |
 |--------------------|--------------------|-------------------------------|-------------------------------|
