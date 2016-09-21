@@ -1,3 +1,23 @@
+### Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+| 23/08/2016 | 1.0 | Template e Introdução | Tiago |
+| 24/08/2016 | 1.1 | Origem dos Recursos, treinamentos e gerenciamento da equipe | Tiago |
+| 06/09/2016 | 1.2 | Formatação, refinando equipes | Izabela |
+| 06/09/2016 | 1.3 | Formatação e revisão textual | Izabela |
+| 20/09/2016 | 1.4 | Adicionando sumário e histórico de versão | Pedro Ivo |
+
+### Sumário
+
+1. [Introdução](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos#1-introdu%C3%A7%C3%A3o)
+2. [Origem dos recursos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos#2-origem-dos-recursos)
+3. [Equipe e Responsabilidades](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos#3-equipe-e-responsabilidades)
+    * [3.1 Equipe de Gerenciamento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos#31-equipe-de-gerenciamento)
+    * [3.2 Equipe de Desenvolvimento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos#32-equipe-de-desenvolvimento)
+4. [Treinamentos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos#4-treinamentos)
+5. [Gerenciamento da Equipe](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos#5-gerenciamento-da-equipe)
+
 # 1. Introdução
 <p align="justify">Este presente documento irá discorrer sobre a alocação de cada recurso humano da equipe para ser empregado no projeto. Cada recurso terá seu papel e suas funções que serão detalhadas nas sessões seguintes.</p>
 
