@@ -63,8 +63,8 @@
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
-| CT002_00 | Toque do usuário em um segmento | Redirecionamento para uma página com o conteúdo do segmento, sugestões de proposta e avaliações do mesmo |
-|
+| CT003_00 | Toque do usuário em um segmento | Redirecionamento para uma página com o conteúdo do segmento, sugestões de proposta e avaliações do mesmo |
+|CT003_02|id do segmento, ordem , identificado projeto ao qual o segmento pertence, se o segmento já sofreu alteração,se o projeto sofreu proposta de alteração , tipo , numero ,conteudo da proposta de alteração, identificador ,id voto , id do comentario data|
 #TFUC04: Listar projetos
 ###Classes de equivalência:
 
