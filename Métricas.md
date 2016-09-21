@@ -1,0 +1,1 @@
+A métricas serão coletadas e disponibilizadas aqui, junto com um breve relatório.
