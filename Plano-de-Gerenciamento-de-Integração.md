@@ -1,3 +1,24 @@
+### Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+| 04/09/2016 | 1.0 | Template e Introdução | Izabela |
+| 05/09/2016 | 1.1 | Termo de Abertura, Plano de Gerenciamento, Orientação, Monitoramento e Controle | Izabela |
+| 15/09/2016 | 1.2 | Formatação | Izabela |
+| 20/09/2016 | 1.3 | Adicionando sumário e histórico de versão | Pedro Ivo |
+
+
+### Sumário
+
+1. [Introdução](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o#1-introdu%C3%A7%C3%A3o)
+2. [Termo de Abertura](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o#2-termo-de-abertura)
+3. [Plano de Gerenciamento do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o#3-plano-de-gerenciamento-do-projeto)
+4. [Orientação e Gerenciamento do Trabalho do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o#4-orienta%C3%A7%C3%A3o-e-gerenciamento-do-trabalho-do-projeto)
+5. [Monitoramento e Controle do Trabalho do Projeto](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o#5-monitoramento-e-controle-do-trabalho-do-projeto)
+6. [Controle integrado de Mudanças](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o#6-controle-integrado-de-mudan%C3%A7as)
+7. [Encerramento do Projeto ou Fase](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Integra%C3%A7%C3%A3o#7-encerramento-do-projeto-ou-fase)
+
+
 # 1. Introdução
 
 <p align="justify">O objetivo do gerenciamento de integração é integrar todos os processos e atividades dentro do grupo de processos de gerenciamento do projeto. Neste documento, será definido como estas áreas são integradas através dos processos de gerenciamento de integração, sendo estes: Desenvolver termo de abertura e plano de gerenciamento do projeto, orientar e gerenciar o trabalho do projeto, monitorar e controlar o trabalho do projeto, realizar o controle integrado de mudanças e encerrar o projeto ou fase.</p>
