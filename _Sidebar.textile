@@ -16,7 +16,6 @@ h3. Release 01
 # "Plano de Gerenciamento de Escopo":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Escopo
 # "Plano de Gerenciamento de Riscos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Riscos
 # "Plano de Gerenciamento de Custos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-dos-Custos
-# "Planos das Iterações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Itera%C3%A7%C3%A3o
 # "Plano de Gerenciamento de Aquisicões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es
 # "Plano de Gerenciamento de Qualidade":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade
 ## "Acompanhamento das métricas":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/M%C3%A9tricas
@@ -24,6 +23,8 @@ h3. Release 01
 # "Plano de Gerenciamento das Partes Interessadas":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-das-Partes-Interessadas
 # "Plano de Gerenciamento de Recursos Humanos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Recursos-Humanos
 ## "Planejamento dos Treinamentos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-dos-treinamentos
+# "Planos das Iterações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Itera%C3%A7%C3%A3o
+# "Relatórios de Desempenho das Iterações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Relat%C3%B3rio-de-Desempenho
 
 *Métodos de Desenvolvimento de Software*
 # "Documento de Visão":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Documento-de-Vis%C3%A3o
