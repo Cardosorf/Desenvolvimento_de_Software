@@ -49,7 +49,7 @@
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
-| CT002_00 | Toque do usuário em um projeto | Redirecionamento para uma página com o conteúdo do projeto de lei selecionado |
+
 |CT002_01|Toque do usuário em um projeto| Redirecionamento para uma página com o conteúdo do projeto de lei selecionado|
 |CT0002_02| id do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto| sistema notifica se todos os dados vem null|
 |CT02_03|Aid do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto|o sistema notifica se algum dos campos vem null|
@@ -64,7 +64,7 @@
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
-| CT003_00 | Toque do usuário em um segmento | Redirecionamento para uma página com o conteúdo do segmento, sugestões de proposta e avaliações do mesmo |
+| CT003_01 | Toque do usuário em um segmento | Redirecionamento para uma página com o conteúdo do segmento, sugestões de proposta e avaliações do mesmo |
 |CT003_02|id do segmento, ordem , identificado projeto ao qual o segmento pertence, se o segmento já sofreu alteração,se o projeto sofreu proposta de alteração , tipo , numero ,conteudo da proposta de alteração, identificador ,id voto , id do comentario ,data de criação do segmento|O sistema informa ao usuario que parou a aplicação|
 |CT003_03|id do segmento, ordem , identificado projeto ao qual o segmento pertence, se o segmento já sofreu alteração,se o projeto sofreu proposta de alteração , tipo , numero ,conteudo da proposta de alteração, identificador ,id voto , id do comentario ,data de criação do segmento|O sistema informa ao usuario que parou a aplicação|
 #TFUC04: Listar projetos
