@@ -38,9 +38,8 @@
  1. [Interfaces do usuário](#61-interfaces-do-usuário)
  2. [Interfaces de hardware](#62-interfaces-de-hardware)
  1. [Interfaces de software](#63-interfaces-de-software)
-7. [Requisitos de Licenciamento](#7--requisitos-de-licenciamento)
-8. [Observações legais de direitos autorais etc](#8--observações-legais-de-direitos-autorais-etc)
-9. [Padrões Aplicáveis](#9--padrões-aplicáveis)
+7. [Observações legais de direitos autorais etc](#8--observações-legais-de-direitos-autorais-etc)
+8. [Padrões Aplicáveis](#9--padrões-aplicáveis)
 
 ***
 
@@ -152,15 +151,11 @@
 
 <p align="justify">Android Studio</p>
 
-#7.  Requisitos de Licenciamento
-
-<p align="justify">Não é preciso nenhum licenciamento por parte do usuário para utilizar o sistema.</p>
-
-#8.  Observações legais de direitos autorais etc
+#7.  Observações legais de direitos autorais etc
 
 <p align="justify">Licença: GNU GENERAL PUBLIC LICENSE v3.0</p>
 
-#9.  Padrões Aplicáveis
+#8.  Padrões Aplicáveis
 
 <p align="justify">Padrão arquitetural MVC (Model - View - Controller).</p>
 
