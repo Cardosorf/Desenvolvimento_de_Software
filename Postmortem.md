@@ -21,3 +21,4 @@
 ## 4.2. Negativas
 - Escrever, atualizar planos gera muito overhead
 - Tudo tem que ser documentado
+- Não subestime a dificuldade do Android
