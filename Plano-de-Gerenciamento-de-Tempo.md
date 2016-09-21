@@ -124,7 +124,7 @@ Onde, **De** corresponde à duração estimada total de uma atividade, **P**, **
 
 # 3. Cronograma
 
-Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?id=0B-txm4abVzqGRUpHSmlldUJrM0E), via Gantter.
+Para melhor visualização acesse o  [Cronograma](https://drive.google.com/open?id=0B-txm4abVzqGOHlUMG1fWlVNbnc), via Gantter.
 
 # 4. Gráfico de Gantt
 
