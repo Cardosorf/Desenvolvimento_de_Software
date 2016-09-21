@@ -6,6 +6,7 @@
 | 08/09/2016 | 1.2 | Atualizando variação dos custos e Índice de desempenho | Igor |
 | 18/09/2016 | 1.3 | Atualizando Indice de desempenho e Resultado esperado | Igor |
 | 20/09/2016 | 1.4 | Adicionando Sumário e Histórico de versão | Pedro Ivo |
+| 21/09/2016 | 1.5 | Adicionando Controle dos Custos | Igor |
 
 ## Sumário
 
