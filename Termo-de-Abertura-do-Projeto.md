@@ -107,7 +107,11 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 
 # 7. Stakeholders (Partes interessadas)
 
-## 7.1. Equipe de Gerência
+## 7.1. Cliente
+
+<p>Laboratório Hacker (LabHacker) - Câmara dos Deputados</p>
+
+## 7.2. Equipe de Gerência
 
 <p align="justify">Alunos da disciplina que tem a responsabilidade de planejar, monitorar e controlar o projeto, dessa forma garantindo um equilíbrio e assim o sucesso do projeto. Além disso, tem a responsabilidade de tomar decisões fundamentais dentro do projeto, sendo assim, responsabilizados por estas.</p>
 
@@ -118,7 +122,7 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 | Igor Ribeiro       | GPP        | igor.ribeiro.duarte@gmail.com | [@igorribeiroduarte](https://github.com/igorribeiroduarte) |
 | Pedro Ivo        | GPP        | andradepedroivo@gmail.com | [@freemanpivo](https://github.com/freemanpivo)  |
 
-### 7.2. Equipe de desenvolvimento
+### 7.3. Equipe de desenvolvimento
 
 <p align="justify">Alunos da disciplina de MDS(Métodos de desenvolviemnto de software), que tem a responsabilidade de construir o produto e a documentação relacionada a metodologia seguida (RUP).</p>
 
@@ -130,7 +134,7 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 | Josué Nascimento    | MDS      | josuetk63@gmail.com | [@josutk](https://github.com/josutk) | 
 | Rodrigo Campos    | MDS      | rodrigo.redcode@gmail.com | [@rodrigocam](https://github.com/rodrigocam) | 
 
-## 7.3. Monitores
+## 7.4. Monitores
 
 <p align="justify">Ex-Aluno das disciplinas de MDS e GPP que tem a responsabilidade de acompanhar e ajudar a equipe de desenvolvimento e planejamento, garantindo que a avaliação do docente será terá uma fundamentação ótima. Além disso, devem tirar duvidas quanto as metodologias e as tecnologias das disciplinas.</p>
 
@@ -140,7 +144,7 @@ Por fim, para se obter o custo total do projeto, basta somar os custos com recur
 | Gabriel Climaco | MDS        |
 | Emilie Morais |GPP|
 
-## 7.4. Docente
+## 7.5. Docente
 
 Professor das matérias de GPP e mds que tem a responsabilidade de avaliar os alunos responsáveis pelo projeto.
 
@@ -148,7 +152,7 @@ Professor das matérias de GPP e mds que tem a responsabilidade de avaliar os al
 |-----------------------|:----------:|
 | Carla Rocha          | [@rochaCarla](https://github.com/RochaCarla) |
 
-## 7.5. Usuários
+## 7.6. Usuários
 
 Os principais alvos do produto deste projeto são os cidadãos brasileiros.
 
