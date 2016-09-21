@@ -18,7 +18,7 @@
 
 <p align="justify"></p>
 
-<p align="justify">Uma das principais tarefas da gerência de requisitos é possibilitar a rastreabilidade dos requisitos durante o processo de Engenharia de Requisitos. Se a rastreabilidade de requisitos é feita com sucesso, tem-se um impacto positivo e percebe-se uma melhoria significativa no projeto, sendo então, considerada parte valiosa da Engenharia de software.</p>
+<p align="justify">Uma das principais tarefas da gerência de requisitos é possibilitar a rastreabilidade dos requisitos durante o processo de Engenharia de Requisitos. Se a rastreabilidade de requisitos é feita com sucesso, tem-se um impacto positivo e percebe-se uma melhoria significativa no projeto, sendo então, considerada parte valiosa da Engenharia de software, (HOKKANEN, 2001).</p>
 
 <p align="justify">Um requisito é considerado rastreável se para qualquer parte do produto pode-se identificar o requisito que o ocasionou. Segundo Gotel e Finkelstein (1994, p. 1), a Rastreabilidade de Requisitos se refere a habilidade de escrever e seguir a vida de um requisito, tanto para "trás", quanto para "frente", isto é, de sua origem até sua implementação e especificação e vice-versa.</p>
 
@@ -68,4 +68,7 @@
 
 # 5. Referências
 
-
+[1]. RAMESH, B. et al. Lessons learned from Implementing Requirements Traceability. [S.l.:s.n.], 1995.
+[2]. HOKKANEN, M. Requirements traceability. 2001.
+[3]. GOTEL, O.; FINKELSTEIN, A. An analysis of the requirements traceability problem. Imperial College of Science, Technology and Medicine, p. 27, 1994.
+[4]. RUP. Rational Unified Process. Best Practices for Software Development Teams. IBM. July, 2001.
