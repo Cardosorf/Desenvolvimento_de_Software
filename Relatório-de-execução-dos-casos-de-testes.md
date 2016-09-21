@@ -1,5 +1,5 @@
 | Data | Versão | Descrição | Autor(es) |
-| :---: | :---: | --- | :---: |
+| :---: | :---: | :---: | :---: |
 | 28/08/2016 | 1.0 | Abertura do documento | Rodrigo Oliveira |
 | 28/08/2016 | 1.1 | Adição do teste do UC04 | Rodrigo Oliveira |
 | 28/08/2016 | 1.2 | Adição do teste UC01, UC02, UC03 | Rodrigo Oliveira |
@@ -18,7 +18,7 @@
 ###Classes de equivalência:
 
 | Casos de teste | Entrada | Classes de Equivalência Válidas | Classes de equivalência inválidas |
-| :---: | :---: | --- | :---: |
+| :---: | :---: | :---: | :---: |
 | CT001 | Nome | Nome com letras do alfabeto de até 30 caracteres. Caracteres de A-Z, a-z. | Números, espaços em branco ou sem preenchimento, nomes com mais de 30 caracteres. |
 | CT001 | Segundo Nome | Nome com letras do alfabeto de até 30 caracteres. Caracteres de A-Z, a-z. | Números, espaços em branco ou sem preenchimento, nomes com mais de 30 caracteres. |
 | CT001 | E-Mail | E-Mail com até 150 caracteres. Caracteres A-Z, a-z, 0-9. Além desses caracteres, é permitido usar: “ - ”, “ _ ” , ” . ” , “+”, “@” | Outros caracteres, espaços em branco ou sem preenchimento, e-mail com mais de 150 caracteres |
@@ -27,7 +27,7 @@
 ###Análise de resultados:
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
-| :---: | :---: | --- | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | CT001_01 | Nome Válido | O nome do usuário é cadastrado com sucesso | Nome de usuário cadastrado com sucesso | Sucesso |
 | CT001_02 | Nome Inválido | O sistema notifica que o nome do usuário é inválido e solicita uma nova entrada de dados | Apareceu uma mensagem de nome inválido | Sucesso |
 | CT001_01 | Segundo nome Válido | O segundo nome do usuário é cadastrado com sucesso | Segundo nome cadastrado com sucesso | Sucesso |
@@ -40,19 +40,17 @@
 
 #TFUC02: Visualizar projeto de lei
 ###Classes de equivalência:
-
 | Casos de teste | Entrada | Classes de Equivalência Válidas | Classes de equivalência inválidas |
-| :---: | :---: | --- | :---: |
+| :---: | :---: | :---: | :---: |
 | CT002_00 | Toque do usuário | Toque do usuário | Não se aplica |
 
 ###Análise de resultados:
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
-| :---: | :---: | --- | :---: | :---: |
-
-|CT002_01|Toque do usuário em um projeto| Redirecionamento para uma página com o conteúdo do projeto de lei selecionado|
-|CT0002_02| id do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto| sistema notifica se todos os dados vem null|
-|CT02_03|id do projeto ,titulo,epigrafe,status,descriação,tema,segmentos do projeto , numero de propostas e data do projeto|o sistema notifica se algum dos campos vem null|
+| :---: | :---: | :---: | :---: | :---: |
+| CT002_01 | Toque do usuário em um projeto | Redirecionamento para uma página com o conteúdo do projeto de lei selecionado | | | 
+| CT002_02 | id do projeto ,titulo,epigrafe,status, descrição, tema, segmentos do projeto, numero de propostas e data do projeto | sistema notifica se todos os dados vem null| | 
+| CT002_03 |id do projeto ,titulo,epigrafe,status,descrição, tema,segmentos do projeto, numero de propostas e data do projeto| o sistema notifica se algum dos campos vem null| | |
 
 #TFUC03: Visualizar segmentos do projeto de lei
 ###Classes de equivalência:
