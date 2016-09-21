@@ -1,3 +1,22 @@
+### Histórico de Versão
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | --- | :---: |
+| 28/08/2016 | 1.0 | Introdução, Etapas da aquisição, Frequência de solicitação de aquisições | Igor |
+| 28/08/2016 | 1.1 | Correções ortográficas | Igor |
+| 04/09/2016 | 1.2 | Formatação do texto | Igor |
+| 20/09/2016 | 1.3 | Adicionando sumário e histórico de versão | Pedro Ivo |
+
+### Sumário
+
+1. [Introdução](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es#1-introdu%C3%A7%C3%A3o)
+2. [Etapas da Aquisição](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es#2-etapas-da-aquisi%C3%A7%C3%A3o)
+    * [2.1 Solicitar aquisição](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es#21-solicitar-aquisi%C3%A7%C3%A3o)
+    * [2.2 Verificar necessidade e viabilidade da compra](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es#22-verificar-necessidade-e-viabilidade-da-compra)
+    * [2.3 Escolher fornecedor](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es#23-escolher-fornecedor)
+    * [2.4 Efetuar compra](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es#24-efetuar-compra)
+3. [Frequência de solicitação de aquisições](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-Gerenciamento-de-Aquisi%C3%A7%C3%B5es#3-frequ%C3%AAncia-de-solicita%C3%A7%C3%A3o-de-aquisi%C3%A7%C3%B5es)
+
 # 1. Introdução
 
 <p align="justify">Esse plano tem como objetivo informar como serão feitas as aquisições ao longo do projeto, explicando os critérios de escolha utilizados para decidir se um produto será adquirido e descrevendo as atividades do processo de aquisição.</p>
