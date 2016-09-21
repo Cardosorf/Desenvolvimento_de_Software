@@ -7,14 +7,16 @@
 | 31/08/2016 | 1.2 | Elaboração do GQM | Lucas Brilhante |
 | 01/09/2016 | 1.3 | Descrição das ferramentas | Lucas Brilhante |
 | 04/09/2016 | 1.4 | Refinamento dos conceitos | Lucas Brilhante |
+| 04/09/2016 | 1.4 | Descrição das ferramentas | Pedro Ivo |
 | 05/09/2016 | 1.5 | Revisão bibliográfica | Lucas Brilhante |
 | 05/09/2016 | 1.6 | Escolha de métricas | Lucas Brilhante |
 | 05/09/2016 | 1.7 | Análise das métricas | Lucas Brilhante |
 | 06/09/2016 | 1.8 | Atualizando métricas | Lucas Brilhante |
-| 15/09/2016 | 1.9 | Atualizando ferramentas | Lucas Brilhante |
-| 15/09/2016 | 2.0 | Formatação e histórico de versão | Lucas Brilhante |
-| 17/09/2016 | 2.1 | Adicionando referência de indicadores | Lucas Brilhante |
-| 20/09/2016 | 2.2 | Correções apontadas pela monitora | Lucas Brilhante |
+| 09/09/2016 | 1.9 | Atualizando Análise de métricas na tabela GQM | Pedro Ivo
+| 15/09/2016 | 2.0 | Atualizando ferramentas | Lucas Brilhante |
+| 15/09/2016 | 2.1 | Formatação e histórico de versão | Lucas Brilhante |
+| 17/09/2016 | 2.2 | Adicionando referência de indicadores | Lucas Brilhante |
+| 20/09/2016 | 2.3 | Correções apontadas pela monitora | Lucas Brilhante |
 
 # Sumário
 
