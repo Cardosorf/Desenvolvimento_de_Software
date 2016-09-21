@@ -32,7 +32,7 @@
 
 | Variância de Prazo (VP) | Variância de Custo (VC) | Índice de Desempenho de Custo (IDC) | Índice de Desempenho de Prazo (IDP) |
 |--------------------|--------------------|-------------------------------|-------------------------------|
-|0,00                | 596,25             | 1,24                          |1                              |
+|0,00                | 596,25             | 1,24                          |1,00                           |
 
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
@@ -87,17 +87,22 @@
 
 | Valor Planejado | Valor Real  | Valor Agregado |
 |-----------------|-------------|----------------|
-| R$ 10.142,32    | x | x  |
+| R$ 10.142,32    | R$ 11.980,48| R$ 10.142,32   |
 
 | Variância de Prazo | Variância de Custo | Índice de Desempenho de Custo | Índice de Desempenho de Prazo |
 |--------------------|--------------------|-------------------------------|-------------------------------|
-| x            | x         | x                          | x                         |
+| 0                  | -1.838,16          | 0,85                          | 1,00                          |
 
 | Horas totais planejadas | Horas totais cumpridas |
 |-------------------------|------------------------|
-|          246,86     | x horas           |
+| 662,87 horas            | 784,13 horas           |
 
 
 ###  2.3.2. Riscos Ocorridos
 
 ###  2.3.3. Considerações
+
+- A variância de prazo ser nula indica que o projeto está no prazo.
+- A variância de custo indica que, mais uma vez, foi agregado ao projeto um valor menor que o valor gasto. Isto ocorreu devido à dificuldade com a tecnologia, que fez com que os membros da equipe gastassem muito tempo a estudando.
+- O índice de desempenho de custo indica que houve um pequeno excesso de custo para o trabalho que foi agregado até então.
+- O índice de desempenho de prazo indica que a equipe trabalhou o esperado, o que foi possível graças ao empenho da equipe em compensar os atrasos das iterações passadas.
