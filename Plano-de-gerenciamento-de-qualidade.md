@@ -195,7 +195,28 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |**Análise dos indicadores**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim [7] <br/> Segundo [FILHO](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf), caso a métrica atinja valores muito altos [5,7] a classe possui muitas dependências, sendo necessário seguir o princípio da depêndencia única e reduzir o número de interfaces utilizadas.|
 |**Providências**| Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.1.4 - Tamanho médio dos Métodos (AMLOC)|
+|Métrica|M.1.1.3 - Conexões Aferentes por classe média(ACC)|
+|---|---|
+|**Objetivo da Medição**| Garantir que não há dependências demais entre classes, diminuindo o esforço de manutenção (Acoplamento).|
+|**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7].Quanto menor o acoplamento melhor.|
+|**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.1.png)|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
+|**Procedimentos**| Será feito o uso da ferramenta no ultimo commit da interação para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar a evolução do software.|
+|**Análise dos indicadores**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim [7] <br/> Segundo [FILHO](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf), caso a métrica atinja valores muito altos [5,7] a classe possui muitas dependências, sendo necessário seguir o princípio da depêndencia única e reduzir o número de interfaces utilizadas.|
+|**Providências**| Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+
+|Métrica|M.1.1.4 - Fator de acoplamento (cof)|
+|---|---|
+|**Objetivo da Medição**| Garantir que não há dependências demais entre classes, diminuindo o esforço de manutenção (Acoplamento).|
+|**Descrição**| Esta métrica utiliza a acc para realizar o calculo do indicador. A cof indica o quanto o software está acoplado, levando em consideração também o numero de |
+|**Fórmula**|Não se aplica|
+|**Escala da Medição**|Racional|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
+|**Procedimentos**| Será feito o uso da ferramenta no último commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
+|**Análise**|De acordo com Pereira[8], O valor ideal é 1. Mas valores além disso não são estranhos. Considerando o escopo do projeto, valores aceitáveis serão:<br/>1-3 Aceitável<br/>4-INF Ruim|
+|**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
+|Métrica|M.1.1.6 - Tamanho médio dos Métodos (AMLOC)|
 |---|---|
 |**Objetivo da Medição**|Garantir que a atomicidade dos métodos, isto é, executam somente uma tarefa, facilitando o desenvolvimento de testes.|
 |**Descrição**|"Essa medida indica se o código está bem distribuido entre os métodos."(Meirelles)[7] É melhor métodos que são pequenos e bem definidos no que fazem. Essa métrica é obtida através da contagem simples do número de linhas com operações (Não brancas) e em seguida é feita a média entre as classes.|
@@ -207,13 +228,3 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 
-|Métrica|M.1.1.5 - Falta de coesão médio por método(LCOM4)|
-|---|---|
-|**Objetivo da Medição**| Garantir que as classes não possuem conteúdo não relacionado (coesão).|
-|**Descrição**|"LCOM4 calcula quantos conjuntos de métodos relacionados existem dentro de uma classe, isto é, métodos que compartilham utilização de algum atributo ou que se referenciam. O valor ideal teórico de LCOM4 é 1, que representa a maior coesão possível, e valores maiores que isso podem indicar que a classe está com muita responsabilidade, tentando alcançar muitos propósitos distintos."(Pereira)[8]|
-|**Fórmula**|Não se aplica|
-|**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
-|**Procedimentos**| Será feito o uso da ferramenta no último commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
-|**Análise**|De acordo com Pereira[8], O valor ideal é 1. Mas valores além disso não são estranhos. Considerando o escopo do projeto, valores aceitáveis serão:<br/>1-3 Aceitável<br/>4-INF Ruim|
-|**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
