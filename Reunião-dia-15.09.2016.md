@@ -28,8 +28,7 @@ Thiago Freire|    :white_check_mark:
 
 * Explicou-se as métricas utilizadas no projeto.
 * Corrigiu-se o Protótipo de Alta Fidelidade.
-* Ajudou-se a equipe de desenvolvimento com o Caso de Uso xxxxxxxx.
-* Alinhou-se a equipe quanto ao desenvolvimento do Caso de Uso Cadastrar Usuário.
+* Ajudou-se a equipe de desenvolvimento com o Caso de Uso Visualizar Projetos de Lei.
 
 ### Pendências
 
