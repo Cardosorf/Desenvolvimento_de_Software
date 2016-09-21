@@ -173,7 +173,7 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |**Análise**| Primeira release:<br/> “Dentro do esperado” dado por CoberturaTeste > 30%<br/>“fora do planejado” dado por CoberturaTeste < 30% <br/> Segunda release: <br/> “Dentro do esperado” dado por CoberturaTeste > 90%<br/>“fora do planejado” dado por CoberturaTeste < 90%|
 |**Providências**| Caso a métrica esteja abaixo do esperado na primeira release, em qualquer uma das interações que envolvam desenvolvimento, a equipe de gerência deve ser alertada e o coach(Monitor) deve ser procurado em caso de dificuldades.<br/> Caso a métrica esteja abaixo do esperado na segunda release, na primeira semana a equipe de desenvolvimento deve ser alertada apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando do desenvolvimento de testes|
 
-|Métrica|M.1.1.2 - Complexidade ciclomática média por Método(CC)|
+|Métrica|M.1.1.2 - Complexidade ciclomática média (ACCM)|
 |---|---|
 |**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
 |**Descrição**|Complexidade ciclomática é o número de caminhos independentes dentro do grafo de nós dentro do sistema. Cada nó é um bloco de código sequencial do sistema.<br/>De forma resumida e sucinta, complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
@@ -184,7 +184,7 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |**Análise**| De acordo com a ferramenta [Mezuro](http://mezuro.org/pt/kalibro_configurations/1/metric_configurations/2), baseado em conhecimentos empiricos:<br/> 0 - 3 Exelente <br/> 3 - 5 Bom (Esperado)<br/> 5 - 7 Regular <br/> 7 - INF Preocupante <br/>|
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.1.3 - Conexões Aferentes de uma classe (ACC)|
+|Métrica|M.1.1.3 - Conexões Aferentes por classe média(ACC)|
 |---|---|
 |**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código (Acoplamento).|
 |**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7].Quanto menor o acoplamento melhor.|
