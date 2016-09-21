@@ -22,7 +22,7 @@
 <p align="justify">Este presente documento irá discorrer sobre a alocação de cada recurso humano da equipe para ser empregado no projeto. Cada recurso terá seu papel e suas funções que serão detalhadas nas sessões seguintes.</p>
 
 # 2. Origem dos recursos
-<p align="justify">Nosso projeto irá contar contar com a equipe de projeto Wikilegis, totalizando
+<p align="justify">Nosso projeto irá contar com a equipe de projeto Wikilegis, totalizando
 9 alunos no seu desenvolvimento. Estes alunos estão cursando duas diferentes
 disciplinas da Universidade de Brasília - Faculdade Gama: Gestão de Projetos e
 Portfólios (GPP) e Métodos de Desenvolvimento de Software (MDS). Sendo que cinco destes
