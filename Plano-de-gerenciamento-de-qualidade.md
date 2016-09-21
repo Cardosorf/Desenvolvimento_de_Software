@@ -13,7 +13,8 @@
 | 06/09/2016 | 1.8 | Atualizando métricas | Lucas Brilhante |
 | 15/09/2016 | 1.9 | Atualizando ferramentas | Lucas Brilhante |
 | 15/09/2016 | 2.0 | Formatação e histórico de versão | Lucas Brilhante |
-
+| 17/09/2016 | 2.1 | Adicionando referência de indicadores | Lucas Brilhante |
+| 20/09/2016 | 2.2 | Correções apontadas pela monitora | Lucas Brilhante |
 
 # Sumário
 
@@ -38,18 +39,18 @@
 
 ##1.1. Métricas de software
 <p align="justify">Métricas são compostas por procedimentos de medição e escalas de medidas (ISO/IEC9126-1)[2].
-Métricas de software lida com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) </p>
+Métricas de software lidam com a medição do produto de software, isto é, código, documentação e o processo de desenvolvimento. Os dados obtidos desse processo de medição são então analisados e modelados, podendo então serem usados para estimar custo e prazos, bem como medir a produtividade e a qualidade de software. (1988, Mills) </p>
 
 <p align="justify"> De acordo com Mills[1], boas métricas não devem apenas descrever o produto ou o processo de software, mas além disso, facilitar o desenvolvimento de modelos de predição do processo de desenvolvimento. Assim, o ideal é que as métricas possam ser:</p>
 * Simples e calculadas de forma precisa. Deve ser claro como a métrica é coletada.
 * Objetiva, ou seja, deve atender um objetivo do projeto.
 * apresentar uma boa relação custo-benefício.
-* Valida, isto é, deve medir o que foi determinada a medir.
+* Válida, isto é, deve medir o que foi determinada a medir.
 * Robusta - Relativamente insensível a mudanças insignificantes no produto ou processo.
 
 ##1.2. Por que medir?
 
-<p align="justify">Nos anos 90 a industria de software crescia a um ritmo assustador. Até então 50% de toda a industria empregadora já contava com a industria de software. Mas apesar do crescimento a dela, ainda apresentava grandes problemas. Dentre eles estavam: Estimativa de custo e prazo absurdamente imprecisos; Baixa qualidade de software, com baixos níveis de confiabilidade e; a produtividade dos times não crescia tanto quanto a demanda de novos softwares. (1988, Mills) 
+<p align="justify">Nos anos 90 a indústria de software crescia a um ritmo assustador. Até então 50% de toda a industria empregadora já contava com a industria de software. Mas apesar do crescimento a dela, ainda apresentava grandes problemas. Dentre eles estavam: Estimativa de custo e prazo absurdamente imprecisos; Baixa qualidade de software, com baixos níveis de confiabilidade e; a produtividade dos times não crescia tanto quanto a demanda de novos softwares. (1988, Mills) 
 
 Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo, melhorar a qualidade do software e aumentar a produtividade. Acontece que isso pode ser alcançado através de uma gerência de projetos mais eficaz, que por sua vez, pode ser alcançado por um melhor uso das métricas. (1988, Mills)</p>
 
@@ -59,10 +60,10 @@ Para "resolver" a crise era necessário melhorar as estimativas de prazo e custo
 
 ##2.1 Inspeção e validação dos artefatos
 
-<p align="justify">Os documentação produzida na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os steakholders. </p>
+<p align="justify">As documentações produzidas na fase de iniciação e elaboração do processo unificado te, grande foco na produção dos requisitos refletem o produto final, sendo assim, é necessário garantir que o artefatos estão de acordo com o esperado do ponto de vista de todos os stakeholders. </p>
 
 * Os gerentes(GPP) devem ler e fazer uma validação nos artefatos produzidos por eles e pela equipe de desenvolvimento(MDS).
-* Os couches (Monitores) são responsáveis por ajudar a equipe com dúvidas na documentação. Essas dúvidas podem surgir na hora da produção ou da validação.
+* Os coaches (Monitores) são responsáveis por ajudar a equipe com dúvidas na documentação. Essas dúvidas podem surgir na hora da produção ou da validação.
 * O cliente (Desenvolvedores do wikilegis) - São marcadas reuniões para validar a corretude dos artefatos gerados de acordo com a expectativa deles. 
 
 Pode-se ver estas reuniões no [cronograma](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Cronograma).
@@ -178,18 +179,18 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |**Descrição**|Complexidade ciclomática é o número de caminhos independentes dentro do grafo de nós dentro do sistema. Cada nó é um bloco de código sequencial do sistema.<br/>De forma resumida e sucinta, complexidade ciclomática equivale ao número de desvios (ou estruturas condicionais) mais 1. Como a coleta consiste em contar o número de condicionais, a métrica também é chamada de complexidade condicional. Ela indica o número de testes que o fragmento de software precisa ter para cobrir todos caminhos linearmente independentes de execução.[5]|
 |**Fórmula**|V(G) = e - n + p<br/>Onde V(G) é a complexidade ciclomática, n = vertice, e = aresta, p = componentes conectados<br/> A média estão é feita, M(V(G)), dando a complexidade ciclomática média por metodo.|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**| De acordo com a ferramenta [Mezuro](http://mezuro.org/pt/kalibro_configurations/1/metric_configurations/2), baseado em conhecimentos empiricos:<br/> 0 - 3 Exelente <br/> 3 - 5 Bom (Esperado)<br/> 5 - 7 Regular <br/> 7 - INF Preocupante <br/>|
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
 |Métrica|M.1.1.3 - Conexões Aferentes de uma classe (ACC)|
 |---|---|
-|**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código.|
+|**Objetivo da Medição**|Garantir a manutenibilidade do código, garantindo que o cliente será capaz de evoluir o código (Acoplamento).|
 |**Descrição**|Digamos q a classe Ca acessa a classe Cb. Podemos dizer que a classe Ca é cliente da classe fornecedora Cb e denotamos Ca => Cb. Considerando Ci != Cj e Ci => Cj, então cliente(Ci,Cj) = 1, se não cliente(Ci,Cj) = 0. Então ACC = Somatório, de 1 até n,cliente(Ci,C), onde n = ao numero total de classes do sistema e C a classe em que se está calculando. Essa métrica indica, se apresentar um grande valor, que o sistema é de difícil manutenção, pois, será qualquer mudança provavelmente afetará outras partes do sistema.(Meirelles, 2013)[7].Quanto menor o acoplamento melhor.|
 |**Fórmula**|![formula 1](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.png)<br/>![formula 2](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/formula_1.1.png)|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit da interação para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar a evolução do software.|
 |**Análise dos indicadores**| 0 - 2 Bom (Esperado)<br/> 2 - 20 Regular <br/> 20 - INF Ruim [7] <br/> Segundo [FILHO](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf), caso a métrica atinja valores muito altos [5,7] a classe possui muitas dependências, sendo necessário seguir o princípio da depêndencia única e reduzir o número de interfaces utilizadas.|
 |**Providências**| Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
@@ -200,7 +201,7 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |**Descrição**|"Essa medida indica se o código está bem distribuido entre os métodos."(Meirelles)[7] É melhor métodos que são pequenos e bem definidos no que fazem. Essa métrica é obtida através da contagem simples do número de linhas com operações (Não brancas) e em seguida é feita a média entre as classes.|
 |**Fórmula**|Não se aplica|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
 |**Procedimentos**| Será feito o uso da ferramenta no ultimo commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise e indicadores**| De acordo com Meirelles[7]:<br/>AMLOC <= 10 - Bom (Esperado) <br/>10 > AMLOC <= 13 Regular AMLOC >13 Ruim <br/> Segundo [FILHO](http://www.teses.usp.br/teses/disponiveis/45/45134/tde-25092013-142158/publico/dissertacao.pdf), caso a métrica atinja valores elevados [5,7] faz se necessário "quebrar" métodos grandes em métodos menores, e também, códigos muito aninhados são fortes candidatos a um novo método.|
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
@@ -208,11 +209,11 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 
 |Métrica|M.1.1.5 - Falta de coesão médio por método(LCOM4)|
 |---|---|
-|**Objetivo da Medição**| Garantir que as classes não possuem conteúdo não relacionado.|
+|**Objetivo da Medição**| Garantir que as classes não possuem conteúdo não relacionado (coesão).|
 |**Descrição**|"LCOM4 calcula quantos conjuntos de métodos relacionados existem dentro de uma classe, isto é, métodos que compartilham utilização de algum atributo ou que se referenciam. O valor ideal teórico de LCOM4 é 1, que representa a maior coesão possível, e valores maiores que isso podem indicar que a classe está com muita responsabilidade, tentando alcançar muitos propósitos distintos."(Pereira)[8]|
 |**Fórmula**|Não se aplica|
 |**Escala da Medição**|Racional|
-|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Mezuro|
+|**Coleta**|Responsável: Equipe de gerência.<br/> Periodicidade ou Evento: A cada interação. <br/>Ferramenta: Analizo|
 |**Procedimentos**| Será feito o uso da ferramenta no último commit para obter os dados. Será mantido junto com as outras métricas numa tabela para acompanhar o software.|
 |**Análise**|De acordo com Pereira[8], O valor ideal é 1. Mas valores além disso não são estranhos. Considerando o escopo do projeto, valores aceitáveis serão:<br/>1-3 Aceitável<br/>4-INF Ruim|
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
