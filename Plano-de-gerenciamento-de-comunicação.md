@@ -32,6 +32,7 @@
 | ![Google-drive](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Google-Drive.png) | Google drive | Utilizado como ferramenta de comunicação estática, onde os artefatos são mantidos, caso necessário. |
 | ![hangouts](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/hangouts.png) | Hangouts | Ferramenta utilizada para reuniões online. |
 | ![github](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/github.png) | Github | Utilizado para disponibilizar e alterar documentos para todos através da wiki |
+| ![facebook](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/facebook.png) | Github | Utilizado para entrar em contato com a equipe do wikilegis de forma rápida a fim de tirar duvidas sobre a api, reuniões e etc. |
 
 # 3. Estratégia de comunicação
 ## 3.1. Comunicação interna
