@@ -74,9 +74,9 @@
 
 #3. Metas e Restrições de Arquitetura
 
-<p align="justify">O sistema será funcional em plataformas Android  partir da versão  4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, nesse ambiente será utilizada a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades offline será implementado um banco de dados local utilizado o SQLite. Para as funcionalidades online será utilizada uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
+<p align="justify">O sistema será funcional em plataformas Android partir da versão 4.4(kitkat), o ambiente de desenvolvimento utilizado será o Android Studio, neste ambiente será utilizado a linguagem de programação JAVA e a linguagem de marcação XML. Como o aplicativo terá funcionalidades offline será implementado um banco de dados local utilizando o SQLite. Para as funcionalidades online será feito a comunicação com uma API REST que irá interagir através de requisições GET e POST para atualização/solicitação de dados da base de dados.</p>
 
-<p align="justify">Com a utilização do padrão MVC existe uma maior organização no momento do desenvolvimento, por ser uma equipe formada por  vários  membros é importante que todos sigam um padrão onde estarão submetidos a um mesmo seguimento de desenvolvimento, permitindo que todos possam ter conhecimento pleno do que está sendo elaborado e facilitando a manutenção do sistema por qualquer membro desenvolvedor.</p>
+<p align="justify">Com a utilização do padrão MVC existe uma maior organização no momento do desenvolvimento, por ser uma equipe formada por vários membros é importante que todos sigam um padrão de desenvolvimento, permitindo que todos possam ter conhecimento pleno do que está sendo elaborado e facilitando a manutenção do sistema por qualquer membro desenvolvedor.</p>
 
 #4. Visão de Casos de Uso
 
@@ -129,7 +129,18 @@
 
 #5. Visão lógica
 
-<p align="justify">A visão logica do aplicativo será distribuída em 4 pacotes principais sendo eles os pacotes Model, DAO, Controller e View. Na Model terá a representação das entidades que compõem o sistema, como classes que irão representar o usuário, entidades projeto de lei e segmentos, já no pacote View estarão as classes responsáveis pelos formulários, que são as camadas responsáveis pela interação com os usuários, lá terão classes como a classe responsável pelas telas de registro, login, resultado da pesquisa, informação e filtragem, no pacote Controller estão as classe responsáveis por estabelecer as comunicações entre a interface do aplicativo(View), o pacote Model e o pacote DAO gerenciando os registros, as filtragens, os comentários e as avaliações dos segmentos, por fim na DAO estará as classes responsáveis por fazer a comunicação entre a aplicação e o banco de dados/API.</p>
+<p align="justify">A visão lógica do aplicativo será distribuída em 4 pacotes principais sendo eles os pacotes Model, DAO, Controller e View.</p>
+
+<p align="justify">No pacote Model estará a representação das entidades que compõem o sistema, como:</p>
+* classes que irão representar o usuário;
+* entidade projeto de lei; 
+* entidade segmento;
+
+<p align="justify">No pacote View estarão as classes responsáveis pelos formulários, que são as camadas responsáveis pela interação com os usuários, lá estarão as classes responsáveis pelas telas de registro, login, resultado da pesquisa, informação e filtragem.</p>
+
+<p align="justify">No pacote Controller estão as classe responsáveis por estabelecer as comunicações entre a interface do aplicativo(View), o pacote Model e o pacote DAO gerenciando os registros, as filtragens, os comentários e as avaliações dos segmentos. </p>
+
+<p align="justify">No pacote DAO estará as classes responsáveis por fazer a comunicação entre a aplicação e o banco de dados/API.</p>
 
 <p align="justify">Então o usuário irá fazer solicitações ao aplicativo, as solicitações são recebidas pela View, processadas pela Controller que é o intermediário entre a View e a Model, a Model tenta a criação do objeto requirido, caso ele seja instanciado corretamente a Controller entra em contato com a DAO para efetivar as alterações da Model na base de dados do sistema.</p>
 
