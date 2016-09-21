@@ -7,7 +7,7 @@
       * [2.1.1 Custo e Esforço](#211-custo-e-esfor%C3%A7o)
       * [2.1.2 Riscos Ocorridos](#212-riscos-ocorridos)
       * [2.1.3 Considerações](#213-considera%C3%A7%C3%B5es)
-   * [2.2 Iteração 2](#22-itera%C3%A7%C3%A3o)
+   * [2.2 Iteração 2](22-itera%C3%A7%C3%A3o-2)
       * [2.2.1 Custo e Esforço](#221-custo-e-esfor%C3%A7o)
       * [2.2.2 Riscos Ocorridos](#222-riscos-ocorridos)
       * [2.2.3 Considerações](#223-considera%C3%A7%C3%B5es)
@@ -81,8 +81,7 @@
 - O índice de desempenho de custo indica que houve um pequeno excesso de custo para o trabalho que foi agregado na iteração.
 - O índice de desempenho de prazo indica que, até então, a equipe trabalhou um pouco menos que o esperado. Esse problema deve ser resolvido já na próxima iteração, com a equipe trabalhando mais para compensar o atraso.
 
-
-## 2.3. Iteração 2
+## 2.3. Iteração 3
 
 ### 2.3.1. Custo e Esforço
 
