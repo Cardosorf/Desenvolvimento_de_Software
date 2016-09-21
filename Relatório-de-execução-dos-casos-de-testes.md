@@ -76,6 +76,8 @@
 | CT004_04 | Toque do usuário | Toque do usuário | Não se aplica |
 | CT004_05 | Toque do usuário | Toque do usuário | Não se aplica |
 | CT004_06 | Toque do usuário | Toque do usuário | Não se aplica |
+| CT004_07 | Toque do usuário | Toque do usuário | Não se aplica |
+| CT004_08 | Toque do usuário | Toque do usuário | Não se aplica |
 
 ###Análise de resultados:
 
@@ -87,3 +89,7 @@
 | CT004_04 | Toque do usuário em listar projetos por status aberto, sem a existência de projetos com tal status | O sistema exibe uma mensagem, informando que não existem projetos com este status |
 | CT004_05 | Toque do usuário em listar projetos por relevância | O sistema lista todos os projetos de lei, ordenando do projeto com mais sugestões de proposta para o projeto com menos sugestões de proposta |
 | CT004_06 | Toque do usuário em listar projetos por relevância, sem a existêcia de projetos | O sistema exibe uma mensagem, informando que não existem projetos |
+| CT004_07 | Toque do usuário em listar projetos por status recente, com a existêcia de projetos | O sistema exibe todos os projetos em ordem de mais recente para meno recente |
+| CT004_08 | Toque do usuário em listar projetos por status recente, sem a existêcia de projetos | O sistema exibe uma mensagem, informando que não existem projetos |
+
+
