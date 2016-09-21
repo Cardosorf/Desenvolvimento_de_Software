@@ -170,8 +170,8 @@ Para melhor visualização da imagem acesse : [Diagrama de classe](http://goo.gl
 
 * **DE-R**
 
-![Diagrama entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/derMDS.jpg)
+![Diagrama entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/derMDS2.jpg)
 
 * **ME-R**
 
-![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS2.jpg)
+![Modelo entidade-relacionamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/merMDS3.jpg)
