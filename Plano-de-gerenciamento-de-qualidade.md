@@ -18,19 +18,19 @@
 
 # Sumário
 
-1.  [Introdução](#1-Introdução)
-   *  [Métricas de software](##1.1-Métricas de software)
-   *  [Métricas de software](##1.2-Por que medir?)
-2.  [Estratégias de controle de qualidade](#2-Estratégias de controle de qualidade)
-   *  [Inspeção e validação dos artefatos](##2.1-Inspeção e validação dos artefatos)
-   *  [Métricas de código](##2.2-Métricas de código)
-3.  [Ferramentas](#3-Ferramentas)
-   * [3.1.  Checkstyle](##3.1-Checkstyle)
-   * [3.2.  JaCoCo](##3.2 JaCoCo)
-   * [3.3.  Espresso](##3.3 Espresso)
-   * [3.4.  Analizo](##3.4 Analizo)
-4.  [Referências](#4-Referências)
-5.  [GQM](#Apêndice A)
+1.  [Introdução](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#1-introdu%C3%A7%C3%A3o)
+   *  [Métricas de software](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#11-m%C3%A9tricas-de-software)
+   *  [Métricas de software](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#12-por-que-medir)
+2.  [Estratégias de controle de qualidade](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#2-estrat%C3%A9gias-de-controle-de-qualidade)
+   *  [Inspeção e validação dos artefatos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#21-inspe%C3%A7%C3%A3o-e-valida%C3%A7%C3%A3o-dos-artefatos)
+   *  [Métricas de código](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#22-m%C3%A9tricas-de-c%C3%B3digo)
+3.  [Ferramentas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#3-ferramentas)
+   * [3.1.  Checkstyle](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#31-checkstyle)
+   * [3.2.  JaCoCo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#32-jacoco)
+   * [3.3.  Espresso](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#33-espresso)
+   * [3.4.  Analizo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#34-analizo)
+4.  [Referências](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#4-refer%C3%AAncias)
+5.  [GQM](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#gqm-goal-question-m%C3%A9tric)
 
 
 #1. Introdução
@@ -72,7 +72,7 @@ Pode-se ver estas reuniões no [cronograma](https://github.com/fga-gpp-mds/2016.
 
 <p align="justify">"Métricas de código-fonte são aquelas obtidas através da análise do código-fonte."[3]. E código-fonte é “qualquer descrição completamente executável de um sistema de software”[4]. Métricas de código serão sempre importante, pois ele é a unica representação precisa do comportamento do sistema [4]. E não se engane, ele se tornará cada vez mais importante, pois cada vez mais o software se torna essencial na sociedade [4]. Mas não se precipite, nem tudo vale a pena ser medido. Deve-se escolher com cuidado o que vai ser medido e assim, garantir a qualidade desejada.[4]
 Para escolher as métricas do contexto do Wikilegis mobile foi feito um plano GQM, afim de definir os objetivos da medição e assim poder definir uma rastreabilidade, e no futuro poder identificar medições que se tornarem obsoletas.</p>
-[Plano GQM](#Apêndice A)
+[Plano GQM](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-qualidade#gqm-goal-question-m%C3%A9tric)
 
 #3. Ferramentas
 
