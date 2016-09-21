@@ -3,7 +3,7 @@ h3. Release 01
 # "Folha de Estilo":https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/Folha-de-Estilo
 # "Atas de Reuniões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Atas-de-Reuni%C3%B5es
 # "Apresentação R01":https://docs.google.com/presentation/d/1-uehcwlX5bhw3sqe7YUF2Yvz2c2o5WPmyDXdWG2wy7k/edit?usp=sharing
-# "Postmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/"
+# "Postmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/
 
 *Gestão de Portfólios e Projetos*
 
