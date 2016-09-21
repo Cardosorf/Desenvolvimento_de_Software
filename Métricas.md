@@ -6,10 +6,13 @@ A métricas serão coletadas e disponibilizadas aqui, junto com um breve relató
 ## Terceira Interação
 ![metricas](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/metrics_v1.png)
 ### ACCM (Complexidade Ciclomática)
-<p align="justify">Como descrito no plano de qualidade os valores aceitáveis para complexidade ciclomática é 0 - 3 Exelente e 3 - 5 Bom. O resultado obtido foi execente dentro dos três percentis. Isso pode ser justificado pela baixa complexidade do projeto de software Wikilegis mobile.</p>
-### ACC (Conexões aferentes)
+<p align="justify">Como descrito no plano de qualidade os valores aceitáveis para complexidade ciclomática é 0 - 3 Exelente e 3 - 5 Bom. O resultado obtido foi excelente dentro dos três percentis. Isso pode ser justificado pela baixa complexidade do projeto de software Wikilegis mobile.</p>
+##ACC (Conexões aferentes)
 
-<p align="justify">Como descrito no plano de qualidade os valores aceitáveis para complexidade ciclomática é 0 - 3 Exelente e 3 - 5 Bom. O resultado obtido foi execente dentro dos três percentis. Isso pode ser justificado pela baixa complexidade do projeto de software Wikilegis mobile.</p>
+<p align="justify">Como descrito no plano de qualidade os valores aceitáveis para conexões aferentes é 0 - 2, ou seja, bom. O resultado obtido para os percentis 0% e 75% foram "bom" e 95% foi "regular". Ao analisar os valores individuais de cada classe foi encontrada uma classe com o valor ACC absurdo de 31 ( Dao/DaoUtilities.java) e outras duas Bill(6) e Segment(4). O fato de serem poucas classes não influenciaram no resultado dos percentis baixos, o que evidencia a necessidade de rodar com vários percentis a fim de ter resultados relevantes.</p>
+
+##LCOM4 (Falta de coesão entre métodos)
+<p align="justify">Como descrito no plano de qualidade os valores aceitáveis para LCOM4 é 1 à 3. O resultado obtido foi excelente dentro dos três percentis. Isso pode ser justificado pela baixa complexidade do projeto de software Wikilegis mobile.</p>
 
 # Análise
 ![legenda](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/legenda.png)
