@@ -28,15 +28,15 @@
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
-| CT001_01 | Nome Válido | O nome do usuário é cadastrado com sucesso | | |
-| CT001_02 | Nome Inválido | O sistema notifica que o nome do usuário é inválido e solicita uma nova entrada de dados | | |
-| CT001_01 | Segundo nome Válido | O segundo nome do usuário é cadastrado com sucesso | | |
-| CT001_02 |Segundo nome Inválido | O sistema notifica que o segundo nome do usuário é inválido e solicita uma nova entrada de dados | | |
-| CT001_01 | E-Mail Válido | O e-mail digitado é cadastrado com sucesso | | |
-| CT001_02 | E-Mail Inválido | O sistema informa que o e-mail digitado é inválido e solicita uma nova entrada de dados | | |
+| CT001_01 | Nome Válido | O nome do usuário é cadastrado com sucesso | Nome de usuário cadastrado com sucesso | Sucesso |
+| CT001_02 | Nome Inválido | O sistema notifica que o nome do usuário é inválido e solicita uma nova entrada de dados | Apareceu uma mensagem de nome inválido | Sucesso |
+| CT001_01 | Segundo nome Válido | O segundo nome do usuário é cadastrado com sucesso | Segundo nome cadastrado com sucesso | Sucesso |
+| CT001_02 |Segundo nome Inválido | O sistema notifica que o segundo nome do usuário é inválido e solicita uma nova entrada de dados | Apareceu uma mensagem de segundo nome inválido | Sucesso |
+| CT001_01 | E-Mail Válido | O e-mail digitado é cadastrado com sucesso | E-mail do usuário cadastrado com sucesso | Sucesso |
+| CT001_02 | E-Mail Inválido | O sistema informa que o e-mail digitado é inválido e solicita uma nova entrada de dados | Apareceu uma mensagem de e-mail inválido | Sucesso |
 | CT001_02 | E-Mail Já Cadastrado | O sistema informa que o e-mail digitado já foi cadastrado | | |
-| CT001_01 | Senha Válida | A senha do usuário é cadastrada com sucesso | | |
-| CT001_02 | Senha Inválida | O sistema informa ao usuário que a senha digitada é inválida e solicita uma nova entrada de dados | | |
+| CT001_01 | Senha Válida | A senha do usuário é cadastrada com sucesso | Senha do usuário cadastrada com sucesso | Sucesso |
+| CT001_02 | Senha Inválida | O sistema informa ao usuário que a senha digitada é inválida e solicita uma nova entrada de dados | Apareceu uma mensagem de senha inválido | Sucesso |
 
 #TFUC02: Visualizar projeto de lei
 ###Classes de equivalência:
@@ -64,9 +64,9 @@
 
 | Casos de teste | Entrada | Resultado esperado | Resultado obtido | Status |
 | :---: | :---: | --- | :---: | :---: |
-| CT003_00 | Toque do usuário em um segmento | Redirecionamento para uma página com o conteúdo do segmento, sugestões de proposta e avaliações do mesmo | 
-|CT003_02|id do segmento, ordem , identificado projeto ao qual o segmento pertence, se o segmento já sofreu alteração,se o projeto sofreu proposta de alteração , tipo , numero ,conteúdo da proposta de alteração, identificador ,id voto , id do comentário ,data de criação do segmento|O sistema informa ao usuário que parou a aplicação| O sistema informou ao usuário que parou a aplicação e apresentou uma mensagem de erro |
-|CT003_03|id do segmento, ordem , identificado projeto ao qual o segmento pertence, se o segmento já sofreu alteração,se o projeto sofreu proposta de alteração , tipo , numero ,conteudo da proposta de alteração, identificador ,id voto , id do comentario ,data de criação do segmento|O sistema informa ao usuario que parou a aplicação| O sistema informou ao usuário que parou a aplicação e apresentou uma mensagem de erro |
+| CT003_00 | Toque do usuário em um segmento | Redirecionamento para uma página com o conteúdo do segmento, sugestões de proposta e avaliações do mesmo |
+|CT003_02|id do segmento, ordem , identificado projeto ao qual o segmento pertence, se o segmento já sofreu alteração,se o projeto sofreu proposta de alteração , tipo , numero ,conteudo da proposta de alteração, identificador ,id voto , id do comentario ,data de criação do segmento|O sistema informa ao usuario que parou a aplicação|
+|CT003_03|id do segmento, ordem , identificado projeto ao qual o segmento pertence, se o segmento já sofreu alteração,se o projeto sofreu proposta de alteração , tipo , numero ,conteudo da proposta de alteração, identificador ,id voto , id do comentario ,data de criação do segmento|O sistema informa ao usuario que parou a aplicação|
 #TFUC04: Listar projetos
 ###Classes de equivalência:
 
