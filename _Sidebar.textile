@@ -4,7 +4,7 @@ h3. Release 01
 # "Atas de Reuniões":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Atas-de-Reuni%C3%B5es
 # "Apresentação R01":https://docs.google.com/presentation/d/1-uehcwlX5bhw3sqe7YUF2Yvz2c2o5WPmyDXdWG2wy7k/edit?usp=sharing
 # "Rastreabilidade de Requisitos":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Rastreabilidade-de-Requisitos
-# "Postmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/
+# "Postmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Postmortem
 
 *Gestão de Portfólios e Projetos*
 
