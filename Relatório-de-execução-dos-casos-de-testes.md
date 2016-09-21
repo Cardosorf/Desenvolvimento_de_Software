@@ -41,7 +41,7 @@
 ###Classes de equivalência:
 | Casos de teste | Entrada | Classes de Equivalência Válidas | Classes de equivalência inválidas |
 | :---: | :---: | :---: | :---: |
-| CT002_00 | Toque do usuário | Toque do usuário | Não se aplica |
+| CT002_01 | Toque do usuário | Toque do usuário | Não se aplica |
 
 ###Análise de resultados:
 
