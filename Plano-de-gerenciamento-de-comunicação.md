@@ -11,12 +11,12 @@
 
 # Sumário
 
-1.  [Introdução](#1-Introdução)
-2.  [Ferramentas](#2-ferramentas)
-3.  [Estratégia de comunicação](#3-Estratégia de comunicação)
-   * [3.1.  Comunicação interna](## 3.1-Comunicação interna)
-      * [3.1.1.  Comunicação interna](### 3.1.1-Reuniões)
-   * [3.2.  Comunicação interna](## 3.2-Comunicação externa)
+1.  [Introdução](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o#1-introdu%C3%A7%C3%A3o)
+2.  [Ferramentas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o#2-ferramentas)
+3.  [Estratégia de comunicação](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o#3-estrat%C3%A9gia-de-comunica%C3%A7%C3%A3o)
+   * [3.1.  Comunicação interna](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o#31-comunica%C3%A7%C3%A3o-interna)
+      * [3.1.1.  Comunicação interna](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o#311-reuni%C3%B5es)
+   * [3.2.  Comunicação interna](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Plano-de-gerenciamento-de-comunica%C3%A7%C3%A3o#32-comunica%C3%A7%C3%A3o-externa)
 
 # 1. Introdução
 
@@ -32,7 +32,7 @@
 | ![Google-drive](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/Google-Drive.png) | Google drive | Utilizado como ferramenta de comunicação estática, onde os artefatos são mantidos, caso necessário. |
 | ![hangouts](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/hangouts.png) | Hangouts | Ferramenta utilizada para reuniões online. |
 | ![github](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/github.png) | Github | Utilizado para disponibilizar e alterar documentos para todos através da wiki |
-| ![facebook](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/facebook.png) | Github | Utilizado para entrar em contato com a equipe do wikilegis de forma rápida a fim de tirar duvidas sobre a api, reuniões e etc. |
+| ![facebook](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/facebook.png) | Facebook | Utilizado para entrar em contato com a equipe do wikilegis de forma rápida a fim de tirar duvidas sobre a api, reuniões e etc. |
 
 # 3. Estratégia de comunicação
 ## 3.1. Comunicação interna
