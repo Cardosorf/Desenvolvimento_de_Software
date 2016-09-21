@@ -161,7 +161,7 @@ O.1 - Qualidade do produto
 
 ##MÉTRICAS
 
-<p align="justify">Para analise das métricas, fixando um indicador, será utilizado o conceito apresentado por Meirelles[7](2013), em que os dados serão comparados no percentil 75%, onde as curva normal começa a apresentar resultados relevantes, dado que muitos dados não atrapalham o calculo da métrica. Em alguns casos classes com métricas 0, não são desejáveis para a análise. Por isso será utilizado o valor "upper" das métricas da ferramenta analizo.
+<p align="justify">Para analise das métricas, fixando um indicador, será utilizado o conceito apresentado por Meirelles[7](2013), em que os dados serão comparados no percentil 75% e 95%, onde as curva normal começa a apresentar resultados relevantes, dado que muitos dados não atrapalham o calculo da métrica. Em alguns casos classes com métricas 0, não são desejáveis para a análise. Por isso será utilizado o valor "upper" das métricas da ferramenta analizo.
 Outro ponto importante para a análise de métricas é o artigo apresentado por Pereira(2015), onde é analisado o código fonte da API de desenvolvimento de várias versões do android. Este valores serão considerados valores ideais para a análise do código fonte da aplicação Wikilegis mobile. </p>
 
 |Métrica|M.1.1.1 - Cobertura de teste|
@@ -208,7 +208,7 @@ Outro ponto importante para a análise de métricas é o artigo apresentado por 
 |**Análise**|De acordo com Meirelles(2013), O valor ideal é abaixo de 0,02 e:<br/>0.2 < Aceitável<br/>0.14 < Atenção<br/>0.14 > Ruim|
 |**Providências**|Caso a métrica esteja acima do esperado, na primeira semana a equipe de desenvolvimento deve ser alertada e apontada para possíveis materiais de ajuda. Se continuar por uma segunda semana, a equipe de gerência de interferir, participando da manutenção do código.|
 
-|Métrica|M.1.1.5 - Conexões Aferentes por classe média(ACC)|
+|Métrica|M.1.1.5 - Falta de coesão entre métodos|
 |---|---|
 |**Objetivo da Medição**| Garantir que as classes não possuem conteúdo não relacionado (coesão).|
 |**Descrição**|"LCOM4 calcula quantos conjuntos de métodos relacionados existem dentro de uma classe, isto é, métodos que compartilham utilização de algum atributo ou que se referenciam. O valor ideal teórico de LCOM4 é 1, que representa a maior coesão possível, e valores maiores que isso podem indicar que a classe está com muita responsabilidade, tentando alcançar muitos propósitos distintos."(Pereira)[8]|
