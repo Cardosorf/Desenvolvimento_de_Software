@@ -1,6 +1,6 @@
 h3. Release 02
 
-# "Planejamento da Release":
+# "Planejamento da Release":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-da-Release
 
 **Sprints**
 # "Sprint 0":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/sprint-0
