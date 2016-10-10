@@ -115,6 +115,8 @@ _Pontos:_  5 pontos
 
 **Para** utilizar a aplicação offline
 
+_Pontos:_  5 pontos
+
 ## 2. Histórias Técnicas
 
 ### TS01 - Testar View
@@ -200,3 +202,5 @@ _Pontos:_  5 pontos
 **Desejo** refatorar o download de dados
 
 **Para** quando houver internet, baixar os dados através de requisições
+
+_Pontos:_  13 pontos
