@@ -1,11 +1,13 @@
 ## 1. Histórias de Usuário
-
 ### US01 - Realizar Login
+
 **Eu, como** cidadão visitante
 
 **Desejo** realizar login no aplicativo
 
 **Para** acessar as funcionalidades que exigem identificação
+
+_Pontos:_ 8 pontos
 
 ### US02 - Editar Perfil
 **Eu, como** cidadão registrado
@@ -14,12 +16,16 @@
 
 **Para** manter minhas informações atualizadas
 
+_Pontos:_ 3 pontos
+
 ### US03 - Pesquisar Projetos
 **Eu, como** cidadão 
 
 **Desejo** pesquisar projetos 
 
 **Para** acessar os projetos de meu interesse mais rapidamente
+
+_Pontos:_ 5 pontos
 
 ### US04 - Sugerir proposta de alteração
 **Eu, como** cidadão registrado
@@ -28,12 +34,16 @@
 
 **Para** exercer minha cidadania
 
+_Pontos:_ 8 pontos
+
 ### US05 - Relatar Erro
 **Eu, como** cidadão
 
 **Desejo** relatar erros nos projetos de lei 
 
 **Para** contribuir com a integridade dos projetos de lei
+
+_Pontos:_ 5 pontos
 
 ### US06 - Visualizar informações sobre o aplicativo
 **Eu, como** cidadão
@@ -42,12 +52,16 @@
 
 **Para** entender seu propósito e funcionamento
 
+_Pontos:_ 1 ponto
+
 ### US07 - Avaliar segmento
 **Eu, como** cidadão registrado
 
 **Desejo** expressar minha opinião através de curtidas
 
 **Para** dar feedback ao parlamentar sobre o segmento.
+
+_Pontos:_ 5 pontos
 
 ### US08 - Compartilhar projeto
 **Eu, como** cidadão registrado
@@ -56,12 +70,16 @@
 
 **Para** que outras pessoas possam acessá-lo
 
+_Pontos:_ 5 pontos
+
 ### US09 - Comentar Segmento
 **Eu, como** cidadão registrado
 
 **Desejo** comentar projetos de lei e seus segmentos
 
 **Para** expressar sua opinião em relação a ele
+
+_Pontos:_  5 pontos
 
 ### US10 - Compartilhar segmento
 **Eu, como** cidadão registrado
@@ -70,12 +88,16 @@
 
 **Para** que outras pessoas possam acessá-los
 
+_Pontos:_  3 pontos
+
 ### US11 - Ativar notificações de um projeto de lei
 **Eu, como** cidadão registrado
 
 **Desejo** ativar notificações de um projeto de lei
 
 **Para** para acompanhar contribuições e alterações nele
+
+_Pontos:_  8 pontos
 
 ### US12 - Ativar notificações de um segmento
 **Eu, como** cidadão registrado
@@ -84,14 +106,9 @@
 
 **Para** para acompanhar contribuições e alterações nele
 
-### US13 - Favoritar projeto de lei
-**Eu, como** cidadão
+_Pontos:_  5 pontos
 
-**Desejo** favoritar um projeto de lei
-
-**Para** para ter os dados deste offline
-
-### US14 - Baixar dados
+### US13 - Baixar dados
 **Eu, como** cidadão
 
 **Desejo** ter a opção de baixar todos os dados
