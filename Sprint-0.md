@@ -10,7 +10,7 @@ Duração: 1.5h
 
 ### 1.2. Backlog da Sprint
 
-<p align="justify"> As entregas dessa sprint de acordo com os épicos e as issues (histórias técnicas) relacionadas: </p>
+<p align="justify"> As histórias técnicas planejadas para esta sprint estão listadas a seguir, de acordo com seus respectivos épicos: </p>
 
 * [EP01 - Melhorar Métricas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/12)
    * [TS01 - Testar View](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/19)
@@ -25,6 +25,8 @@ Duração: 1.5h
    * [TS08 - Tornar títulos de segmentos não clicáveis](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/16)
    * [TS09 - Melhorar desempenho da tela de cadastro](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/21)
    * [TS11 - Melhorar ACC](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/22)
+
+**Total:** 45 pontos
 
 ###1.3. Como o trabalho foi organizado
 
