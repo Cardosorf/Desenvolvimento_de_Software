@@ -10,6 +10,8 @@
 
 ## 2. Épicos e Histórias de Usuário
 
+Podem ser encontradas no [Backlog do Produto.](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Backlog-do-Produto)
+
 ## 3. Papéis
 
 Os papéis utilizados serão:
