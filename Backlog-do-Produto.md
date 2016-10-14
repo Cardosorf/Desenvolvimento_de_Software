@@ -143,6 +143,11 @@ _Pontos:_  5 pontos
 
 _Epico:_ DISPONIBILIZAR DADOS OFFLINE
 
+Critérios de aceitação:
+
+* O usuário deve ter a opção de baixar ou não.
+* O usuário deve ter a opção de baixar somente no wifi ou no wifi e nos dados móveis.
+
 
 ## 2. Histórias Técnicas
 
@@ -277,3 +282,8 @@ _Epico:_ MELHORAR MÉTRICAS
 _Pontos:_  13 pontos
 
 _Epico:_ MELHORAR UX
+
+Critérios de aceitação:
+
+* Caso não tenha os dados, estes devem ser baixados em background.
+* Baixar somente os dados que passaram a existir após o ultimo download.
