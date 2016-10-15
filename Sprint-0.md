@@ -29,20 +29,22 @@
 ## 2. Resultados
 
 
-## 3. Indicadores
+## 2.1. Indicadores
 
-Cobertura:
+### 2.1.1. Métricas
+
+#### 2.1.1.1. Métricas 0%
  
 ![cobertura](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-cobertura.png)
 
-Métricas 0%:
+#### 2.1.1.2. Métricas 0%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-metricas0.png)
 
-Métricas 75%:
+#### 2.1.1.3. Métricas 75%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p75.png)
 
-Métricas 95%:
+#### 2.1.1.4. Métricas 95%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
