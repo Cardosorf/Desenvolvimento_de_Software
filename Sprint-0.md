@@ -47,3 +47,7 @@
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
 
 ## 3.1. Quadros
+
+### Conhecimento
+
+[[imagens/conhecimento_sprint_0.png]]
