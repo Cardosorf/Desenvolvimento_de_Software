@@ -2,6 +2,12 @@
 
 **Duração:** 26 de Setembro à 03 de Outubro
 
+**Product Owner:** Equipe LabHacker
+
+**Scrum Master:** Será rotacionado entre a equipe de GPP
+
+**Time:** Integrantes da equipe de MDS e GPP
+
 ###1.1. Objetivos da sprint
 
 <p align="justify"> Resolver pendências da primeira parte do projeto. Dentre estas, implementar os testes que não foram feitos e as refatorações necessárias para melhorar as métricas e a experiência do usuário.</p>
@@ -47,3 +53,7 @@
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
 
 ## 3.1. Quadros
+
+### Conhecimento
+
+[[imagens/conhecimento_sprint_0.png]]
