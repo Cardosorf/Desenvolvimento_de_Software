@@ -57,3 +57,7 @@
 ### Conhecimento
 
 [[imagens/conhecimento_sprint_0.png]]
+
+### Retrospectiva
+
+[[imagens/retrospectiva_sprint0.jpg]]
