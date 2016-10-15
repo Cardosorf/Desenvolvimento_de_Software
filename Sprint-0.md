@@ -1,12 +1,10 @@
-## Sprint 0 - 26 de Setembro à 03 de Outubro
+##1. Planejamento da sprint
 
-##1. Reunião de planejamento da sprint
-
-Duração: 1.5h
+**Duração:** 26 de Setembro à 03 de Outubro
 
 ###1.1. Objetivos da sprint
 
-<p align="justify"> Resolver pendências da primeira parte do projeto. Dentre estas estas implementar os testes que não foram feitos e as refatorações necessárias para melhorar as métricas e a experiência do usuário.</p>
+<p align="justify"> Resolver pendências da primeira parte do projeto. Dentre estas, implementar os testes que não foram feitos e as refatorações necessárias para melhorar as métricas e a experiência do usuário.</p>
 
 ### 1.2. Backlog da Sprint
 
@@ -27,8 +25,6 @@ Duração: 1.5h
    * [TS11 - Melhorar ACC](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/22)
 
 **Total:** 45 pontos
-
-###1.3. Como o trabalho foi organizado
 
 ## 2. Resultados
 
