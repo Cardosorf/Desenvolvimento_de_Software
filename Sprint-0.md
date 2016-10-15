@@ -1,6 +1,9 @@
 ##1. Planejamento da sprint
 
 **Duração:** 26 de Setembro à 03 de Outubro
+**Product Owner:** Equipe LabHacker
+**Scrum Master:** Será rotacionado entre a equipe de GPP
+**Time:** Integrantes da equipe de MDS e GPP
 
 ###1.1. Objetivos da sprint
 
