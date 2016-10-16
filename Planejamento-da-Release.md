@@ -6,9 +6,15 @@
 
 **Quantidade de Sprints:** 9 sprints
 
-**Definição do "_Done_"**: Para deixar claro o que viria a ser considerado pronto, essa definição foi estabelecida como sendo histórias testadas, mescladas na branch devel do fork do time, e com pull request na master do upstream.
+**Definição de Pronto:** Para deixar claro o que viria a ser considerado pronto, essa definição foi estabelecida como sendo histórias testadas, dentro dos valores aceitáveis das métricas, mescladas na branch devel do fork do time, e com pull request na master do upstream.
 
 ## 2. Épicos e Histórias de Usuário
+
+A descrição e pontuação das histórias de usuário e histórias técnicas podem ser encontradas no [Backlog do Produto.](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Backlog-do-Produto) No diagrama a seguir, é mostrada a rastreabilidade entre os épicos e histórias técnicas e de usuário identificadas.
+
+[[imagens/rastreabilidade.png]]
+
+[Clique aqui para aumentar a imagem](https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/imagens/rastreabilidade.png)
 
 ## 3. Papéis
 

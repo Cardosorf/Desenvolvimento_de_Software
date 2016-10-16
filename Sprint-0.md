@@ -1,21 +1,63 @@
-## Sprint 0 - 26 de Setembro à 03 de Outubro
+##1. Planejamento da sprint
 
-##1. Reunião de planejamento da sprint
+**Duração:** 26 de Setembro à 03 de Outubro
 
-Duração: 1.5h
+**Product Owner:** Equipe LabHacker
+
+**Scrum Master:** Será rotacionado entre a equipe de GPP
+
+**Time:** Integrantes da equipe de MDS e GPP
 
 ###1.1. Objetivos da sprint
 
-<p align="justify"> Resolver pendências da primeira parte do projeto. Dentre estas estas temos testes que não foram feitos e refatorações necessárias para melhorar a experiência do usuário.</p>
+<p align="justify"> Resolver pendências da primeira parte do projeto. Dentre estas, implementar os testes que não foram feitos e as refatorações necessárias para melhorar as métricas e a experiência do usuário.</p>
 
 ### 1.2. Backlog da Sprint
 
-<p align="justify"> As entregas dessa sprint de acordo com os épicos e as issues (histórias técnicas) relacionadas: </p>
+<p align="justify"> As histórias técnicas planejadas para esta sprint estão listadas a seguir, de acordo com seus respectivos épicos: </p>
 
 * [EP01 - Melhorar Métricas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/12)
+   * [TS01 - Testar View](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/19)
+   * [TS02 - Testar DAO](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/9)
+   * [TS03 - Testar Model](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/17)
+   * [TS04 - Testar Controller](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/87)
+   * [TS05 - Aplicar Folha de Estilo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/13)
+   * [TS10 - Melhorar AMLOC](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/18)
 * [EP02 - Melhorar UX](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/15)
+   * [TS06 - Refatorar Design da Filtragem](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/10)
+   * [TS07 - Restringir orientação da tela](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/48)
+   * [TS08 - Tornar títulos de segmentos não clicáveis](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/16)
+   * [TS09 - Melhorar desempenho da tela de cadastro](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/21)
+   * [TS11 - Melhorar ACC](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/22)
 
-###1.3. Como o trabalho foi organizado
+**Total:** 45 pontos
 
 ## 2. Resultados
 
+## 2.1. Métricas
+
+### 2.1.1. Cobertura
+ 
+![cobertura](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-cobertura.png)
+
+### 2.1.2. Métricas 0%
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-metricas0.png)
+
+### 2.1.3. Métricas 75%
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p75.png)
+
+### 2.1.4. Métricas 95%
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
+
+## 3.1. Quadros
+
+### Conhecimento
+
+[[imagens/conhecimento_sprint_0.png]]
+
+### Retrospectiva
+
+[[imagens/retrospectiva_sprint0.jpg]]
