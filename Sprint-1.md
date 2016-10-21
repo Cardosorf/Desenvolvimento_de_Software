@@ -48,7 +48,7 @@
 
 ### 2.3.2. Retrospectiva
 
-[[imagens/retro_1.png]]
+[[imagens/retro_1.jpg]]
 
 ### 2.3.3. Pareamento
 
