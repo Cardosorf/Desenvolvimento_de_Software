@@ -48,6 +48,8 @@
 
 ### 2.3.2. Retrospectiva
 
+[[imagens/retro_1.png]]
+
 ### 2.3.3. Pareamento
 
 ### 2.3.4. Frequência
