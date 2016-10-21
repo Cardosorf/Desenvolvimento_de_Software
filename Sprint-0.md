@@ -4,7 +4,7 @@
 
 **Product Owner:** Equipe LabHacker
 
-**Scrum Master:** Será rotacionado entre a equipe de GPP
+**Scrum Master:** Decidiu-se por não definir um Scrum Master nesta sprint, por ser uma sprint experimental e dessa forma, analisar a maturidade das equipes na metodologia ágil para decidir se serão apenas membros de GPP ou também membros de MDS
 
 **Time:** Integrantes da equipe de MDS e GPP
 
@@ -36,7 +36,11 @@
 
 ## 2.1. Burndown
 
+[[imagens/burndown_0.png]]
+
 ## 2.2. Velocity
+
+[[imagens/velocity_0.png]]
 
 ## 2.3. Quadros
 
