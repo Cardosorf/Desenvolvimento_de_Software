@@ -34,26 +34,38 @@
 
 ## 2. Resultados
 
-## 2.1. Métricas
+## 2.1. Burndown
 
-### 2.1.1. Cobertura
+## 2.2. Velocity
+
+## 2.3. Quadros
+
+### 2.3.1. Conhecimento
+
+[[imagens/conhecimento_sprint_0.png]]
+
+### 2.3.2. Retrospectiva
+
+[[imagens/retrospectiva_sprint0.jpg]]
+
+### 2.3.3. Pareamento
+
+### 2.3.4. Frequência
+
+## 2.4. Métricas
+
+### 2.4.1. Cobertura
  
 ![cobertura](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-cobertura.png)
 
-### 2.1.2. Métricas 0%
+### 2.4.2. Métricas 0%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-metricas0.png)
 
-### 2.1.3. Métricas 75%
+### 2.4.3. Métricas 75%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p75.png)
 
-### 2.1.4. Métricas 95%
+### 2.4.4. Métricas 95%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
-
-## 3.1. Quadros
-
-### Conhecimento
-
-[[imagens/conhecimento_sprint_0.png]]
