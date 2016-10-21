@@ -36,7 +36,11 @@
 
 ## 2.1. Burndown
 
+[[imagens/burndown_0.png]]
+
 ## 2.2. Velocity
+
+[[imagens/velocity_0.png]]
 
 ## 2.3. Quadros
 
