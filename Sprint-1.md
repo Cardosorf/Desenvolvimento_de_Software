@@ -54,6 +54,8 @@
 
 ### 2.3.3. Pareamento
 
+[[imagens/pareamento_sprint_1.png]]
+
 ### 2.3.4. Frequência
 
 ## 2.4. Métricas
