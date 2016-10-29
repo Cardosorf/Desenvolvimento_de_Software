@@ -15,6 +15,10 @@
 * [EP02 - Melhoria da UX](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/15)
    * [US06 - Visualizar informações sobre o aplicativo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/32)
 
+* [EP05 - Expressão de Opinião](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/35)
+   * [US07 - Avaliar Segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/30)
+   * [US09 - Comentar Segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/31)
+
 **Total:** 
 
 ## 2. Resultados
@@ -31,6 +35,8 @@
 ## 2.3. Quadros
 
 ### 2.3.1. Conhecimento
+
+![Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/conhecimento2.png)
 
 ### 2.3.2. Retrospectiva
 
