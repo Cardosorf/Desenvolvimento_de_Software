@@ -40,7 +40,11 @@
 
 ### 2.3.2. Retrospectiva
 
+![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/retrospectiva2.png)
+
 ### 2.3.3. Pareamento
+
+![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/conhecimentos2.png)
 
 ### 2.3.4. Frequência
 
