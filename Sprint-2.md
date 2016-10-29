@@ -7,3 +7,23 @@
 **Scrum Master:** Izabela Cristina
 
 **Time:** Integrantes da equipe de MDS e GPP
+
+## 2. Resultados
+
+## 2.1. Burndown
+
+## 2.2. Velocity
+
+## 2.3. Quadros
+
+### 2.3.1. Conhecimento
+
+### 2.3.2. Retrospectiva
+
+### 2.3.3. Pareamento
+
+### 2.3.4. Frequência
+
+## 2.4. Métricas
+
+### 2.4.1. Cobertura
