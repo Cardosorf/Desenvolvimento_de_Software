@@ -54,7 +54,11 @@
 
 ### 2.3.3. Pareamento
 
+[[imagens/pareamento_sprint_1.png]]
+
 ### 2.3.4. Frequência
+
+![Presenca](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presenca2.png)
 
 ## 2.4. Métricas
 
