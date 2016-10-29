@@ -46,6 +46,8 @@
 
 ### 2.3.1. Conhecimento
 
+[[imagens/conhecimento_sprint_1.png]]
+
 ### 2.3.2. Retrospectiva
 
 [[imagens/retro_1.jpg]]
