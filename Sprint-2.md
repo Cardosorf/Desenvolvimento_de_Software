@@ -36,6 +36,8 @@
 
 ### 2.3.1. Conhecimento
 
+![Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/conhecimento2.png)
+
 ### 2.3.2. Retrospectiva
 
 ### 2.3.3. Pareamento
