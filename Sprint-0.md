@@ -59,7 +59,7 @@
 
 ### 2.3.4. Frequência
 
-![Presenca](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presenca1.png)
+[[imagens/presenca1.png]]
 
 ## 2.4. Métricas
 
