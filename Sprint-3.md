@@ -1,6 +1,6 @@
 #1. Planejamento da sprint
 
-**Duração:** 14 de outubro a 29 de outubro
+**Duração:** 14 de outubro a 30 de outubro
 
 **Product Owner:** Equipe LabHacker
 
