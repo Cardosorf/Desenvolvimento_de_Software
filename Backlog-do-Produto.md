@@ -121,16 +121,16 @@ _Pontos:_  8 pontos
 
 _Epico:_ COMUNICAÇÃO EXTERNA
 
-### US12 - Ativar notificações de um segmento
-**Eu, como** cidadão registrado
+### US12 - Visualizar comentários
+**Eu, como** cidadão
 
-**Desejo** ativar notificações de um segmento do projeto de lei
+**Desejo** visualizar os comentários realizados
 
-**Para** para acompanhar contribuições e alterações nele
+**Para** para acompanhar a discussão da sociedade a cerca do projeto de lei
 
 _Pontos:_  5 pontos
 
-_Epico:_ COMUNICAÇÃO EXTERNA
+_Epico:_ EXPRESSÃO DE OPINIÃO
 
 ### US13 - Baixar dados
 **Eu, como** cidadão
