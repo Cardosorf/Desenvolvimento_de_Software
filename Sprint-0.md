@@ -38,6 +38,8 @@
 
 [[imagens/burndown_0.png]]
 
+Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o que fez com que as histórias não fossem todas entregues. Este fato serviu como lição aprendida para obter o comprometimento da equipe com o planejamento das sprints, explicitando a importância de levar em conta os compromissos da semana ao considerar os pontos a serem realizados.
+
 ## 2.2. Velocity
 
 [[imagens/velocity_0.png]]
