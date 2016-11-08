@@ -44,11 +44,15 @@ Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o 
 
 [[imagens/velocity_0.png]]
 
+O fato da avaliação citada no tópico anterior também influenciou no velocity da equipe, visto que como houve pouca produção, algumas histórias não foram entregues.
+
 ## 2.3. Quadros
 
 ### 2.3.1. Conhecimento
 
 [[imagens/conhecimento_sprint_0.png]]
+
+O quadro de conhecimento foi utilizado tanto para verificar o alinhamento da equipe em relação aos conhecimentos das tecnologias utilizadas no projeto, quanto para estabelecer os pares nas sprints.
 
 ### 2.3.2. Retrospectiva
 
