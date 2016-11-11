@@ -73,7 +73,7 @@ O quadro de conhecimento foi utilizado tanto para verificar o alinhamento da equ
  
 ![cobertura](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-cobertura.png)
 
-### 2.4.2. Métricas 0%
+### 2.4.2. Métricas 50%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-metricas0.png)
 
@@ -84,3 +84,6 @@ O quadro de conhecimento foi utilizado tanto para verificar o alinhamento da equ
 ### 2.4.4. Métricas 95%
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
+### 2.5 Analise
+
+Como não foi terminada as histórias de melhoria de métricas, as métricas não melhoraram como foi esperado.
