@@ -265,8 +265,3 @@ _Epico:_ MELHORAR MÉTRICAS
 _Pontos:_  13 pontos
 
 _Epico:_ MELHORAR UX
-
-Critérios de aceitação:
-
-* Caso não tenha os dados, estes devem ser baixados em background.
-* Baixar somente os dados que passaram a existir após o ultimo download.
