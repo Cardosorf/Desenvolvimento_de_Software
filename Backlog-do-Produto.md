@@ -40,9 +40,9 @@ _Epico:_ EXPRESSAR OPINIÃO
 
 **Para** contribuir com a integridade dos projetos de lei
 
-_Epico:_ COMUNICAÇÃO EXTERNA
-
 _Pontos:_ 5 pontos
+
+_Epico:_ COMUNICAÇÃO EXTERNA
 
 ### US06 - Visualizar informações sobre o aplicativo
 **Eu, como** cidadão
