@@ -11,17 +11,6 @@ _Pontos:_ 8 pontos
 
 _Epico:_ GERENCIAR USUARIO
 
-### US02 - Editar Perfil
-**Eu, como** cidadão registrado
-
-**Desejo** editar o meu perfil
-
-**Para** manter minhas informações atualizadas
-
-_Pontos:_ 3 pontos
-
-_Epico:_ GERENCIAR USUARIO
-
 ### US03 - Pesquisar Projetos
 **Eu, como** cidadão 
 
@@ -142,12 +131,6 @@ _Epico:_ EXPRESSÃO DE OPINIÃO
 _Pontos:_  5 pontos
 
 _Epico:_ DISPONIBILIZAR DADOS OFFLINE
-
-Critérios de aceitação:
-
-* O usuário deve ter a opção de baixar ou não.
-* O usuário deve ter a opção de baixar somente no wifi ou no wifi e nos dados móveis.
-
 
 ## 2. Histórias Técnicas
 
