@@ -66,10 +66,10 @@ _Pontos:_ 5 pontos
 
 _Epico:_ EXPRESSAR OPINIÃO
 
-### US08 - Compartilhar projeto
+### US08 - Compartilhar via whatsapp
 **Eu, como** cidadão registrado
 
-**Desejo** compartilhar um projeto de lei
+**Desejo** compartilhar um projeto de lei e/ou seus segmentos
 
 **Para** que outras pessoas possam acessá-lo
 
@@ -88,10 +88,10 @@ _Pontos:_  5 pontos
 
 _Epico:_ EXPRESSAR OPINIÃO
 
-### US10 - Compartilhar segmento
+### US10 - Compartilhar via facebook
 **Eu, como** cidadão registrado
 
-**Desejo** compartilhar informações sobre os segmentos de um projeto de lei
+**Desejo** compartilhar um projeto de lei e/ou seus segmentos
 
 **Para** que outras pessoas possam acessá-los
 
