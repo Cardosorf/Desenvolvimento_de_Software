@@ -5,7 +5,9 @@ h3. Release 02
 ## "Padrão de qualidade":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Padr%C3%A3o-de-qualidade
 
 **Sprints**
-# "Sprint 0":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-0
+# Sprint 0:
+## "Planejamento": https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento
+## "Resultados": https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Resultados
 # "Sprint 1":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-1
 # "Sprint 2":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-2
 # "Sprint 3":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-3
