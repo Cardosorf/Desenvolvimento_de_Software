@@ -3,6 +3,8 @@ h3. Release 02
 # "Planejamento da Release":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-da-Release
 ## "Backlog do Produto":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Backlog-do-Produto
 ## "Padrão de qualidade":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Padr%C3%A3o-de-qualidade
+# "Scrum, XP e Kanban":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Scrum,-XP-e-Kanban
+# "Refatorações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Refatorações
 
 **Sprints**
 # **Sprint 0**:
