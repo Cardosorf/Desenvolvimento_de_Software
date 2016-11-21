@@ -8,16 +8,16 @@ h3. Release 02
 # **Sprint 0**:
 ## "Planejamento":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-S0
 ## "Resultados":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Resultados-S0
-# "Sprint 1":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-1
+# **Sprint 1**:
 ## "Planejamento":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-S1
 ## "Resultados":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Resultados-S1 
-# "Sprint 2":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-2
+# **Sprint 2**:
 ## "Planejamento":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-S2
 ## "Resultados":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Resultados-S2
-# "Sprint 3":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-3
+# **Sprint 3**:
 ## "Planejamento":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-S3
 ## "Resultados":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Resultados-S3
-# "Sprint 4":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Sprint-4
+# **Sprint 4**:
 ## "Planejamento":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-S4
 ## "Resultados":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Resultados-S4
 # **Sprint 5**:
