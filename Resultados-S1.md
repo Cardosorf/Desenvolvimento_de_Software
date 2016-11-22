@@ -60,4 +60,4 @@
 
 ### 2.5. Considerações
 
-Conforme percebeu-se que a ACCM (complexidade ciclomática) e AMLOC (média de linhas por método) estavam um pouco acima dos parâmetros no percentil 75%, resolveu-se refatorar algumas classes com intuito de melhorar as métricas. As principais classes afetadas foram as DAOs, pois nelas se encontravam métodos com tipo de acesso protected e uma especialização de DAO que era extremamente desnecessária.
+Conforme percebeu-se que a ACCM (complexidade ciclomática) e AMLOC (média de linhas por método) estavam um pouco acima dos parâmetros no percentil 75%, resolveu-se refatorar algumas classes com intuito de melhorar as métricas. As principais classes afetadas foram as DAOs, pois nelas se encontravam métodos com tipo de acesso protected e uma especialização de DAO que era extremamente desnecessária, estas ações diminuiram a métrica de ACCM. Para melhorar o AMLOC refatorou-se as classes de JSON e SegmentController, pois haviam métodos com muitas linhas.
