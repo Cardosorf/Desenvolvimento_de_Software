@@ -27,21 +27,40 @@ Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o 
 ## 2. Indicadores de qualidade do produto
 
 ### 2.1. Cobertura
- 
+
 ![cobertura](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-cobertura.png)
+
 
 ### 2.2. Métricas 50%
 
+**Resultados obtidos**
+
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-metricas0.png)
+
+**Valores chave**
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/valores_0.png)
 
 ### 2.3. Métricas 75%
 
+**Resultados obtidos**
+
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p75.png)
+
+**Valores chave**
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/valores_75.png)
 
 ### 2.4. Métricas 95%
 
+**Resultados obtidos**
+
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
+
+**Valores chave**
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/valores_95.png)
 
 ### 2.5. Considerações
 
-Como não foi terminada as histórias de melhoria de métricas, as métricas não melhoraram como foi esperado.
+Conforme observado nas métricas obtidas, as métricas de ACCM (Complexidade Ciclomática) e AMLOC (Média de linhas por método) acusam valores elevados nos percentis 75% e 95%. Criou-se então uma issue para que tais métricas fossem melhoradas na sprint seguinte.
