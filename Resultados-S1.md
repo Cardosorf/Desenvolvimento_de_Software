@@ -22,7 +22,7 @@
 
 ### 1.6. Considerações
 
-Notando-se da falta de comprometimento de alguns membros da equipe, criou-se uma reunião para que a equipe pudesse conversar sobrea ausência desses membros e formas de poder ajudá-los no decorrer do projeto. Uma ação criada para tal fato foi a utilização do quadro de sentimentos, em sua versão inicial, para que todos pudessem escrever em post-its o que não gostava no projeto, na gerência e nas tecnologias. A versão inicial deste quadro é exibida abaixo (a foto foi tirada após a dinâmica, então faltam muitos post-its e tomadas de decisão que foram escritas no quadro):
+Notando-se da falta de comprometimento de alguns membros da equipe, criou-se uma reunião para que a equipe pudesse conversar sobrea ausência desses membros e formas de poder ajudá-los no decorrer do projeto. Uma ação criada para tal fato foi a utilização do quadro de sentimentos, em sua versão inicial, para que todos pudessem escrever em post-its o que gostava/não gostava no projeto, na gerência e nas tecnologias. A versão inicial deste quadro é exibida abaixo (a foto foi tirada após a dinâmica, então faltam muitos post-its e tomadas de decisão que foram escritas no quadro):
 
 ![quadroSentimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sent1.jpg)
 
