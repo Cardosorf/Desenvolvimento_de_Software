@@ -69,3 +69,4 @@ Notando-se da falta de comprometimento de alguns membros da equipe, criou-se uma
 
 ### 2.5. Considerações
 
+Notou-se que o AMLOC (média de linhas por método) voltou a crescer, isso aconteceu pois na única história entregue, havia a criação de uma tela, com muitas operações ocorrendo dentro do método onCreate(). Na próxima sprint 3 espera-se resolver tal problema.
