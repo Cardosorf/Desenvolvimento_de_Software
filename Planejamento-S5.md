@@ -20,4 +20,4 @@
 * [EP05 - Expressão de Opinião](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/35)
    * [US11 - Visualizar Comentários](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/38)
 
-**Total:** 21
+**Total:** 21 pontos
