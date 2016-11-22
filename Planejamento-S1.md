@@ -1,4 +1,4 @@
-##1. Planejamento da sprint
+#1. Planejamento da sprint
 
 **Duração:** 03 de Outubro à 10 de Outubro
 
@@ -8,11 +8,11 @@
 
 **Time:** Integrantes da equipe de MDS e GPP
 
-###1.1. Objetivos da sprint
+##1.1. Objetivos da sprint
 
 <p align="justify"> Resolver dívidas técnicas da sprint anterior e implementar novas histórias de usuário.</p>
 
-### 1.2. Backlog da Sprint
+## 1.2. Backlog da Sprint
 
 <p align="justify"> As histórias técnicas planejadas para esta sprint estão listadas a seguir, de acordo com seus respectivos épicos: </p>
 
@@ -31,3 +31,7 @@
    * [US04 - Sugerir Proposta de Alteração](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/24)
 
 **Total:** 49 pontos
+
+## 1.3. Pareamento
+
+[[imagens/pareamento_sprint_1.png]]
