@@ -1,4 +1,4 @@
-## 1. Indicadores de qualidade do processo
+# 1. Indicadores de qualidade do processo
 
 ## 1.1. Burndown
 
@@ -8,23 +8,19 @@
 
 [[imagens/velocity_1.png]]
 
-## 1.3. Quadros
-
-### 1.3.1. Conhecimento
+## 1.3. Conhecimento
 
 [[imagens/conhecimento_sprint_1.png]]
 
-### 1.3.2. Retrospectiva
+## 1.4. Retrospectiva
 
 [[imagens/retro_1.jpg]]
 
-### 1.3.3. Pareamento
-
-[[imagens/pareamento_sprint_1.png]]
-
-### 1.3.4. Frequência
+## 1.5. Frequência
 
 ![Presenca](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presenca2.png)
+
+## 1.6. Considerações
 
 ## 2. Indicadores de qualidade do produto
 
