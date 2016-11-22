@@ -35,7 +35,7 @@ Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o 
 
 **Resultados obtidos**
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-metricas0.png)
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0_mean.png)
 
 **Valores chave**
 
@@ -45,7 +45,7 @@ Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o 
 
 **Resultados obtidos**
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p75.png)
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0_upper.png)
 
 **Valores chave**
 
@@ -55,7 +55,7 @@ Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o 
 
 **Resultados obtidos**
 
-![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-p95.png)
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0_ninety.png)
 
 **Valores chave**
 
