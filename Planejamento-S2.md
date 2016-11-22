@@ -12,6 +12,8 @@
 
 <p align="justify">Implementar novas histórias de usuário e adaptar data de fechamento das sprints à disponibilidade dos clientes.</p>
 
+### 1.2. Backlog da sprint
+
 * [EP01 - Melhorar Métricas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/12)
    * [TS02 - Testar DAO](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/9)
 * [EP02 - Melhoria da UX](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/15)
@@ -24,3 +26,7 @@
    * [US09 - Comentar Segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/31)
 
 **Total:** 35 pontos
+
+### 1.3. Pareamento
+
+![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/conhecimentos2.png)
