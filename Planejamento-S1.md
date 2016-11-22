@@ -31,3 +31,7 @@
    * [US04 - Sugerir Proposta de Alteração](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/24)
 
 **Total:** 49 pontos
+
+## 1.3. Pareamento
+
+[[imagens/pareamento_sprint_1.png]]
