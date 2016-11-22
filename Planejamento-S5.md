@@ -14,13 +14,10 @@
 
 * [EP01 - Melhor Métricas](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/12)
    * [TS13 - Mockar API](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/55)
-
-* [EP02 - Melhorar UX](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/15)
-   * [US03 - Pesquisar Projetos](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/43)
-   * [TS14 - Design do Comentário](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/56)
-   * [TS15 - Design da Sugestão](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/57)
-
+* [EP04 - Comunicação Externa](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/34)
+   * [US10 - Compartilhar no Facebook](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/41)
+   * [US08 - Compartilhar no Whatsapp](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/40)
 * [EP05 - Expressão de Opinião](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/35)
-   * [US07 - Avaliar Segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/30)
+   * [US11 - Visualizar Comentários](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/38)
 
-**Total:** 24
+**Total:** 21
