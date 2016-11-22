@@ -22,6 +22,7 @@
 
 ### 1.6. Considerações
 
+
 ## 2. Indicadores de qualidade do produto
 
 ### 2.1. Cobertura
