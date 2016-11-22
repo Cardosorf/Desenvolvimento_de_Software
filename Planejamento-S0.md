@@ -31,3 +31,7 @@
    * [TS11 - Melhorar ACC](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/22)
 
 **Total:** 45 pontos
+
+### 1.3. Pareamento
+
+[[imagens/pareamento_sprint_0.png]]
