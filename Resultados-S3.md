@@ -70,3 +70,10 @@ Além da refatoração do download de dados, a equipe teve que refatorar, també
 
 ### 2.5. Considerações
 
+Apesar de algumas métricas estarem acima do estabelecido como "bom", é preciso analisar as classes que causaram tal valor fora do padrão. Em relação ao ACCM, a principal classe que causa um valor ruim é a MainActivity.java localizada dentro do pacote view. Analisando tal classe percebe-se uma estrutura de switch-cases que para os desenvolvedores são importantes e não há como reduzir o valor do ACCM de tal classe para um valor menor que 3.
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint3_metrics_justify.png)
+
+Ainda sobre o ACCM, a equipe notou uma implementação de comparadores de projetos ou de segmentos, que influenciam também no valor da métrica de complexidade. Um exemplo desses códigos é dado abaixo, e notando que tal implementação é necessária ao projeto, manteve-se tais recursos sabendo que precisa-se analisar estas classes de forma individual para influenciar na nota de complexidade.
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint3_metrics_justify2.png)
