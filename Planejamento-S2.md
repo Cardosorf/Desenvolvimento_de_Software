@@ -23,4 +23,4 @@
    * [US07 - Avaliar Segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/30)
    * [US09 - Comentar Segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/31)
 
-**Total:** 35
+**Total:** 35 pontos
