@@ -29,4 +29,8 @@
 
 **Total:** 47 pontos
 
+###1.3. Pareamento
+
+![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/pareamento_sprint_3.png)
+
 
