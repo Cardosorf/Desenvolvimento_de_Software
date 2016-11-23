@@ -18,7 +18,7 @@
 
 ### 1.5. Frequência
 
-![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presSprint3.jpg)
+![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presencaS3.png)
 
 ### 1.6. Quadro de Humor
 
