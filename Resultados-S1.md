@@ -18,7 +18,7 @@
 
 ### 1.5. Frequência
 
-![Presenca](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presenca2.png)
+![Presenca](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presencaS1.png)
 
 ### 1.6. Considerações
 
