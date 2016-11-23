@@ -24,6 +24,8 @@
 
 ### 1.3.4. Frequência
 
+![Frequẽncia](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presencaS4.png)
+
 ### 1.3.5. Quadro de Humor
 
 ![HUmor](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sent3.jpg)
