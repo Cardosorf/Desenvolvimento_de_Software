@@ -32,6 +32,8 @@ Outro ponto positivo foi que de fato a realização das reuniões no LabHacker m
 
 Além da refatoração do download de dados, a equipe teve que refatorar, também, o design do aplicativo. Este fato foi pedido à equipe de desenvolvimento pelo Designer do LabHacker, que notou problemas de UX na sugestão de proposta e comentários feitos pelo usuário, pois tal tarefa não era muito intuitiva.
 
+Um ponto percebido é que, na pressa para terminar as pendências, o grupo estava planejando muitos pontos para uma sprint de uma semana, visto que só foi possível concluir todos os pontos desta sprint pois a mesma foi mais longa, e anteriormente, era planejado um valor de pontos muito parecido com este para sprints de uma só semana, para as próximas sprints pretende-se então distribuir melhor as pendências, de forma que o planejado esteja mais de acordo com o velocity da equipe.
+
 ## 2. Indicadores de qualidade do produto
 
 ### 2.1. Cobertura
