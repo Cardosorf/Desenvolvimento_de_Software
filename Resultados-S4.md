@@ -38,6 +38,8 @@ Em relação ao "Pesquisar Projeto", estava faltando os testes de tal história 
 
 Nota-se pelo quadro de humor da equipe que nessa sprint os membros estavam um pouco chateados com os acontecimentos, principalmente por causa da realização falha do Mock. Começou-se a perceber que o humor da equipe é proporcional as entregas realizadas.
 
+Percebeu-se também que o planejamento mais adequado ao velocity refletiu positivamente no processo, uma vez que a diferença entre pontos planejados e executados foi menor.
+
 # 2. Indicadores de qualidade do produto
 
 ### 2.1. Cobertura
