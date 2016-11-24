@@ -1,10 +1,8 @@
 ## 1. Planejamento da Release
 
-**Duração da Relase:** De 26/09 à 28/11
+**Duração da Relase:** De 26/09 à 24/11
 
-**Duração das Sprints:** 1 semana, com início e fim nas segundas-feiras
-
-**Quantidade de Sprints:** 9 sprints
+**Quantidade de Sprints:** 6 sprints
 
 **Definição de Pronto:** Para deixar claro o que viria a ser considerado pronto, essa definição foi estabelecida como sendo histórias testadas, dentro dos valores aceitáveis das métricas, mescladas na branch devel do fork do time, e com pull request na master do upstream.
 
