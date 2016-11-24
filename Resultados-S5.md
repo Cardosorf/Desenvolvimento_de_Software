@@ -6,6 +6,8 @@
 
 ## 1.2. Velocity
 
+[[imagens/velocity_sprint5.png]]
+
 ## 1.3. Quadros
 
 ### 1.3.1. Conhecimento
