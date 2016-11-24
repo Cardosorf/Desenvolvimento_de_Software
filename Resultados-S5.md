@@ -11,7 +11,7 @@
 
 ### 1.3.2. Retrospectiva
 
-![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS5.png)
+![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS5.jpg)
 
 ### 1.3.3. Pareamento
 
