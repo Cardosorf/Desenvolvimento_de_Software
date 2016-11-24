@@ -28,6 +28,8 @@
 
 A equipe conseguiu entregar todos os pontos planejados! Por um lado foi gratificante ter conseguido por um fim nas pendências, mas por outro foi bem estressante, pois passamos pela refatoração do download de dados, a história com maior valor de pontos, motivo pelo qual esta sprint foi mais longa. Notou-se uma melhora na integração da equipe em algumas reuniões que houveram, mas houveram problemas em relação aos Daily Meetings devido à semana universitária da UnB, pois os Daily Meetings eram feitos na Universidade. Para tal problema utilizou-se de Daily Meetings via hangout ou por mensagens no Telegram.
 
+Outro ponto positivo foi que de fato a realização das reuniões no LabHacker minimizou os problemas de dependência com a API, pois os problemas eram facilmente comunicados para os desenvolvedores da API, por outro lado, como o LabHacker fica na Câmara dos Deputados, o local ficou complicado para alguns membros, o que gerou mais faltas.
+
 Além da refatoração do download de dados, a equipe teve que refatorar, também, o design do aplicativo. Este fato foi pedido à equipe de desenvolvimento pelo Designer do LabHacker, que notou problemas de UX na sugestão de proposta e comentários feitos pelo usuário, pois tal tarefa não era muito intuitiva.
 
 ## 2. Indicadores de qualidade do produto
