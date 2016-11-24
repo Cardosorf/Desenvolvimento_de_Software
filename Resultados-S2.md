@@ -24,7 +24,7 @@
 
 Nessa sprint houve um grande problema de dependência com a API do cliente. A utilização da API é um requisito, entretanto, a mesma ainda está em desenvolvimento, dessa forma, alguns problemas inesperados podem acontecer eventualmente, que foi o ocorrido na sprint, na qual somente ao desenvolver as histórias percebeu-se a necessidade de uma alteração na API para que as mesmas fossem concluídas.
 
-Para a resolução deste problema esta sprint foi mais curta justamente para ajustar o dia da reunião de restrospectiva, review e planejamento das sprints para um dia em que fosse possível o cliente participar, sendo este, nas sexta-feiras.
+Para a resolução deste problema esta sprint foi mais curta justamente para ajustar o dia da reunião de restrospectiva, review e planejamento das sprints para um dia em que fosse possível o cliente participar, sendo este, nas sexta-feiras, espera-se que esta mudança diminua os problemas de dependência com a API nas próximas sprints.
 
 Notando-se da falta de comprometimento de alguns membros da equipe, criou-se uma reunião para que a equipe pudesse conversar sobre a ausência desses membros e formas de poder ajudá-los no decorrer do projeto. Uma ação criada para tal fato, foi a utilização do quadro de sentimentos, em sua versão inicial, para que todos pudessem escrever em post-its o que gostava/não gostava no projeto, na gerência e nas tecnologias. A versão inicial deste quadro é exibida abaixo (a foto foi tirada após a dinâmica, então faltam muitos post-its e tomadas de decisão que foram escritas no quadro):
 
