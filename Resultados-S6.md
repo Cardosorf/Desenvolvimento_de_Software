@@ -10,15 +10,19 @@
 
 ### 1.3. Conhecimento
 
+![Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/conhecimento4.jpg)
 
 ### 1.4. Retrospectiva
 
+![restrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS6.jpg)
 
 ### 1.5. Frequência
 
-
+![frequencia](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/frequenciaS6.jpg)
 
 ### 1.6. Quadro de Humor
+
+![humor](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/humor6.jpg)
 
 ### 1.7. Considerações
 
