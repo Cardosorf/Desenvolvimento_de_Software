@@ -22,3 +22,7 @@
    * [US07 - Avaliar Segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/30)
 
 **Total:** 24 pontos
+
+###1.3. Pareamento
+
+![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/pair4.jpg)
