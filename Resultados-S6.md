@@ -6,7 +6,7 @@
 
 ### 1.2. Velocity
 
-[[imagens/velocity_sprint5.png]]
+[[imagens/velocity6.png]]
 
 ### 1.3. Conhecimento
 
