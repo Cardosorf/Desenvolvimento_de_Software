@@ -32,7 +32,7 @@
 
 ## 1.4. Considerações
 
-A equipe falhou em entregar o Mock de API e também a funcionalidade de pesquisar projetos. O Mock vem sendo um problema recorrente desde a sprint 0, em que a equipe tem dificuldade de realizar tal método de teste. Vem se tentando utilizar diferentes frameworks para implementação deste teste no Android Studio, porém, sem sucesso. 
+A equipe falhou em entregar o Mock de API. O Mock vem sendo um problema recorrente desde a sprint 0, em que a equipe tem dificuldade de realizar tal método de teste. Vem se tentando utilizar diferentes frameworks para implementação deste teste no Android Studio, porém, sem sucesso. 
 
 Nota-se pelo quadro de humor da equipe que nessa sprint os membros estavam um pouco chateados com os acontecimentos, principalmente por causa da realização falha do Mock. Começou-se a perceber que o humor da equipe é proporcional as entregas realizadas.
 
