@@ -18,7 +18,7 @@
 
 ### 1.5. Frequência
 
-![frequencia](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/frequenciaS6.jpg)
+[[imagens/frequencia6.png]]
 
 ### 1.6. Quadro de Humor
 
