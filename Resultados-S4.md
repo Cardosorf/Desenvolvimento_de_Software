@@ -6,7 +6,7 @@
 
 ## 1.2. Velocity
 
-![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/velocity4.png)
+[[imagens/velocity_sprint4.png]]
 
 ## 1.3. Quadros
 
