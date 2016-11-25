@@ -2,7 +2,7 @@
 
 ### 1.1. Burndown
 
-[[burdown_sprint6.png]]
+[[imagens/burdown_sprint6.png]]
 
 ### 1.2. Velocity
 
