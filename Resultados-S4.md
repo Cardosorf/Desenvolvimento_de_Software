@@ -18,21 +18,17 @@
 
 ![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS4.jpg)
 
-### 1.3.3. Pareamento
-
-![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/pair4.jpg)
-
-### 1.3.4. Frequência
+### 1.3.3. Frequência
 
 ![Frequẽncia](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presencaS4.png)
 
-### 1.3.5. Quadro de Humor
+### 1.3.4. Quadro de Humor
 
 ![HUmor](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sent3.jpg)
 
 ## 1.4. Considerações
 
-A equipe falhou em entregar o Mock de API e também a funcionalidade de pesquisar projetos. O Mock vem sendo um problema recorrente desde a sprint 0, em que a equipe tem dificuldade de realizar tal método de teste. Vem se tentando utilizar diferentes frameworks para implementação deste teste no Android Studio, porém, sem sucesso. 
+A equipe falhou em entregar o Mock de API. O Mock vem sendo um problema recorrente desde a sprint 0, em que a equipe tem dificuldade de realizar tal método de teste. Vem se tentando utilizar diferentes frameworks para implementação deste teste no Android Studio, porém, sem sucesso. 
 
 Nota-se pelo quadro de humor da equipe que nessa sprint os membros estavam um pouco chateados com os acontecimentos, principalmente por causa da realização falha do Mock. Começou-se a perceber que o humor da equipe é proporcional as entregas realizadas.
 

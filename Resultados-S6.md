@@ -20,11 +20,12 @@
 
 [[imagens/frequencia6.png]]
 
-### 1.6. Quadro de Humor
 
-![humor](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/humor6.jpg)
+### 1.6. Considerações
 
-### 1.7. Considerações
+Apesar das poucas histórias previstas, a equipe teve como missão nessa sprint relizar a correção de uma série de bugs, consertar testes que não estavam passando, realizar a melhoria de métricas de código. Outras tarefas foram necessárias como, documentar as metodologias, documentar as principais refatorações, publicar o aplicativo na Play Store e realizar a gravação do vídeo das funcionalidades do aplicativo.
+
+De forma geral, percebeu-se que o conhecimento da equipe sobre ela mesma amadureceu nas sprints finais, uma vez que o velocity se estabilizou.
 
 ## 2. Indicadores de qualidade do produto
 
@@ -67,3 +68,5 @@
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/valores_95.png)
 
 ### 2.5. Considerações
+
+Um problema recorrente em sprints passadas foram as métricas de AMLOC e ACCM. Criou-se nessa última sprint uma "força tarefa" com intuito de estabelecer tais métricas dentro dos intervalos previstos nos indicadores. A tarefa foi concluída com sucesso, e todas métricas, seja a cobertura de testes, ou as métricas de Orientação a Objetos dentro dos padrões estabelecidos.

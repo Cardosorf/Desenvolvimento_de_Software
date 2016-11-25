@@ -7,6 +7,8 @@ h3. Release 02
 # "Refatorações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Refatorações
 # "Release Notes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Release-Notes-%7C-Vers%C3%A3o-1.0
 # "Posmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem
+# **"Vídeo Demonstrativo"**
+# **"App Play Store"**
 
 **Sprints**
 # **Sprint 0**:
