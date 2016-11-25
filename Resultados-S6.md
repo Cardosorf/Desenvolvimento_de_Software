@@ -14,7 +14,7 @@
 
 ### 1.4. Retrospectiva
 
-![restrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS6.jpg)
+![restrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/retros6.png)
 
 ### 1.5. Frequência
 
