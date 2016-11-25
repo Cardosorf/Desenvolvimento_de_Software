@@ -1,36 +1,30 @@
-# 1. Resultados
+## 1. Indicadores de qualidade do processo
 
-## 1.1. Burndown
+### 1.1. Burndown
 
 ![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/burdown_sprint5.png)
 
-## 1.2. Velocity
+### 1.2. Velocity
 
 [[imagens/velocity_sprint5.png]]
 
-## 1.3. Quadros
-
-### 1.3.1. Conhecimento
+### 1.3. Conhecimento
 
 ![Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/conhecimento4.jpg)
 
-### 1.3.2. Retrospectiva
+### 1.4. Retrospectiva
 
 ![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS5.jpg)
 
-### 1.3.3. Pareamento
-
-![Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/pair5.jpg)
-
-### 1.3.4. Frequência
+### 1.5. Frequência
 
 ![Frequẽncia](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presencaS5.png)
 
-### 1.3.5. Quadro de Humor
+### 1.6. Quadro de Humor
 
 ![Humor](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sent4.jpg)
 
-## 1.4. Considerações
+### 1.7. Considerações
 
 Concluiu-se 2 histórias de usuário logo no início da sprint, sao elas Compartilhar no WhatsApp e Compartilhar no Facebook. Notou-se que talvez a equipe tenha pontuado de forma equivocada as histórias, pois foram de certa forma bem fáceis de serem realizadas, e quando se terminou a opção de compartilhar via Facebook, automaticamente ele compartilhava via WhatsApp, pois utiliza dos Intents do Android, isto é, todo aplicativo instalado no celular que possui características de compartilhamento podem utilizar do compartilhamento de projetos. Além dessas duas redes sociais, é possível compartilhar via email, Instagram, Snapchat e Telegram caso o usuário os possua no dispositivo móvel.
 
@@ -38,7 +32,7 @@ Após alguns dias, entregou-se a funcionalidade de visualizar comentário, que n
 
 Nota-se que alguns membros da equipe que tiveram problemas em trabalhar na sprint anterior retornaram, e o contato contínuo com o cliente para validação das funcionalidades ajuda a equipe a evitar implementações erradas de funcionalidades, só havendo pequenos problemas em relação à interface, pois não há um conhecimento da equipe em relação à design e usabilidade.
 
-# 2. Indicadores de qualidade do produto
+## 2. Indicadores de qualidade do produto
 
 ### 2.1. Cobertura
 
