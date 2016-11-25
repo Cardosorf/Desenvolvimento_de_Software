@@ -18,15 +18,11 @@
 
 ![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS4.jpg)
 
-### 1.3.3. Pareamento
-
-![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/pair4.jpg)
-
-### 1.3.4. Frequência
+### 1.3.3. Frequência
 
 ![Frequẽncia](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/presencaS4.png)
 
-### 1.3.5. Quadro de Humor
+### 1.3.4. Quadro de Humor
 
 ![HUmor](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sent3.jpg)
 
