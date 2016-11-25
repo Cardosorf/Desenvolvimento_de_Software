@@ -25,6 +25,8 @@
 
 Apesar das poucas histórias previstas, a equipe teve como missão nessa sprint relizar a correção de uma série de bugs, consertar testes que não estavam passando, realizar a melhoria de métricas de código. Outras tarefas foram necessárias como, documentar as metodologias, documentar as principais refatorações, publicar o aplicativo na Play Store e realizar a gravação do vídeo das funcionalidades do aplicativo.
 
+De forma geral, percebeu-se que o conhecimento da equipe sobre ela mesma amadureceu nas sprints finais, uma vez que o velocity se estabilizou.
+
 ## 2. Indicadores de qualidade do produto
 
 ### 2.1. Cobertura
