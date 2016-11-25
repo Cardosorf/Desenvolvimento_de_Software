@@ -69,3 +69,7 @@ Nota-se que alguns membros da equipe que tiveram problemas em trabalhar na sprin
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/valores_95.png)
 
 ### 2.5. Considerações
+
+Pela primeira vez conseguiu-se chegar ao parâmetro dos 90% de cobertura de testes, ainda faltando a realização de duas histórias para a última sprint. Tentou-se ajustar as métricas de ACCM e AMLOC, porém sem sucesso pois as novas funcionalidades produzidas, tornaram os valores novamente altos.
+
+Para a última sprint será focado uma melhora nas métricas visto que há um total de 18 classes problemáticas (fora do padrão no percentil 50% e 75%) para que garanta uma qualidade de entrega razoável.
