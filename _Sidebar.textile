@@ -6,7 +6,7 @@ h3. Release 02
 # "Scrum, XP e Kanban":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Scrum,-XP-e-Kanban
 # "Refatorações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Refatorações
 # "Release Notes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/ReleaseNotes
-# "Posmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem2
+# "Posmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem
 
 **Sprints**
 # **Sprint 0**:
