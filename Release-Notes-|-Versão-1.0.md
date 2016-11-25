@@ -5,11 +5,11 @@ Esta sessão da Wiki tem como objetivo evidenciar tudo de novo que está sendo l
 ##Novas Funcionalidades
 * Relatar erro;
 * Visualizar informações sobre o aplicativo;
-* Sugerir proposta de alteração;
 * Efetuar Login;
 * Pesquisar projetos;
 * Compartilhar projeto;
-* Ativar notificações;
+* Ativar notificações de newsletter;
+* Sugerir proposta de alteração de segmento;
 * Avaliar Segmento;
 * Comentar Segmento;
 * Compartilhar Segmento;
@@ -17,6 +17,8 @@ Esta sessão da Wiki tem como objetivo evidenciar tudo de novo que está sendo l
 
 ##Funcionalidades Modificadas/Removidas
 * Editar Perfil;
+* Tela de login removida;
 
 ##Erros Consertados
+* Não houveram erros consertados relacionados a ultima release;
 
