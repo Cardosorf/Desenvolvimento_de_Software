@@ -26,7 +26,7 @@
 
 ### 1.7. Considerações
 
-Concluiu-se 2 histórias de usuário logo no início da sprint, sao elas Compartilhar no WhatsApp e Compartilhar no Facebook. Notou-se que talvez a equipe tenha pontuado de forma equivocada as histórias, pois foram de certa forma bem fáceis de serem realizadas, e quando se terminou a opção de compartilhar via Facebook, automaticamente ele compartilhava via WhatsApp, pois utiliza dos Intents do Android, isto é, todo aplicativo instalado no celular que possui características de compartilhamento podem utilizar do compartilhamento de projetos. Além dessas duas redes sociais, é possível compartilhar via email, Instagram, Snapchat e Telegram caso o usuário os possua no dispositivo móvel.
+Concluiu-se 2 histórias de usuário logo no início da sprint, são elas "Compartilhar no WhatsApp" e "Compartilhar no Facebook". Notou-se que, talvez a equipe tenha pontuado de forma equivocada as histórias, pois foram de certa forma bem fáceis de serem realizadas, e quando se terminou a opção de compartilhar via Facebook, automaticamente ele compartilhava via WhatsApp, pois utiliza dos Intents do Android, isto é, todo aplicativo instalado no celular que possui características de compartilhamento podem utilizar do compartilhamento de projetos. Além dessas duas redes sociais, é possível compartilhar via email, Instagram, Snapchat e Telegram caso o usuário os possua no dispositivo móvel.
 
 Após alguns dias, entregou-se a funcionalidade de visualizar comentário, que na reunião de retrospectiva com o LabHacker, foi requisitada pequenas alterações na interface pelo designer do local.
 
