@@ -20,7 +20,7 @@
    * [TS01 - Testar View](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/19)
    * [TS02 - Testar DAO](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/9)
    * [TS03 - Testar Model](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/17)
-   * [TS04 - Testar Controller](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/87)
+   * [TS04 - Testar Controller](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/59)
    * [TS05 - Aplicar Folha de Estilo](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/13)
    * [TS10 - Melhorar AMLOC](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/18)
 * [EP02 - Melhorar UX](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/15)

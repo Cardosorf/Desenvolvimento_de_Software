@@ -17,4 +17,4 @@
 * [EP05 - Comunicação Externa](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/34)
    * [US12 - Ativar notificação de um segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/39)
 
-**Total:** 13 pontos
+**Total:** 10 pontos
