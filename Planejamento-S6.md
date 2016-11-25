@@ -10,7 +10,7 @@
 
 ###1.1. Objetivos da sprint
 
-<p align="justify">Implementar novas histórias de usuário e concertar bugs.</p>
+<p align="justify">Implementar novas histórias de usuário e corrigir alguns bugs.</p>
 
 * [EP05 - Expressão de Opinião](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/35)
    * [US05 - Relatar Erro](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/42)
