@@ -67,3 +67,5 @@
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/valores_95.png)
 
 ### 2.5. Considerações
+
+Um problema recorrente em sprints passadas foram as métricas de AMLOC e ACCM. Criou-se nessa última sprint uma "força tarefa" com intuito de estabelecer tais métricas dentro dos intervalos previstos nos indicadores. A tarefa foi concluída com sucesso, e todas métricas, seja a cobertura de testes, ou as métricas de Orientação a Objetos dentro dos padrões estabelecidos.
