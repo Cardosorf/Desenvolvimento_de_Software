@@ -20,11 +20,8 @@
 
 [[imagens/frequencia6.png]]
 
-### 1.6. Quadro de Humor
 
-![humor](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/humor6.jpg)
-
-### 1.7. Considerações
+### 1.6. Considerações
 
 Apesar das poucas histórias previstas, a equipe teve como missão nessa sprint relizar a correção de uma série de bugs, consertar testes que não estavam passando, realizar a melhoria de métricas de código. Outras tarefas foram necessárias como, documentar as metodologias, documentar as principais refatorações, publicar o aplicativo na Play Store e realizar a gravação do vídeo das funcionalidades do aplicativo.
 
