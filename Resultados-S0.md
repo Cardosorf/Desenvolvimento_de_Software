@@ -22,7 +22,7 @@
 
 ### 1.6 Considerações
 
-Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o que fez com que as histórias não fossem todas entregues, o que foi refletido no burdown e no velocity. Este fato serviu como lição aprendida para obter o comprometimento da equipe com o planejamento das sprints, explicitando a importância de levar em conta os compromissos da semana ao considerar os pontos a serem realizados.
+Como a equipe de MDS tinha uma avaliação na semana, houve pouca produção, o que fez com que as histórias não fossem todas entregues, o que foi refletido no burdown e no velocity. Este fato serviu como lição aprendida para obter o comprometimento da equipe com o planejamento das sprints, explicitando a importância de levar em conta os compromissos da semana ao considerar os pontos a serem realizados, visto que como foi a primeira sprint da equipe com o ágil, a importância desses quesitos ainda não havia sindo vivenciada.
 
 ## 2. Indicadores de qualidade do produto
 

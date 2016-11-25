@@ -26,9 +26,13 @@
 
 ### 1.7. Considerações
 
-A equipe conseguiu entregar todos os pontos planejados! Por um lado foi gratificante ter conseguido por um fim nas pendências, mas por outro foi bem estressante, pois passamos pela refatoração do download de dados, a história com maior valor de pontos, alocada nessa sprint justamente por conter mais dias. Notou-se uma melhora na integração da equipe em algumas reuniões que houveram, mas houve problemas em relação aos dailies devido à semana universitária da UnB, pois os Dailies eram feitos na Universidade. Para tal problema utilizou-se de Dailies via hangout ou por mensagens no Telegram.
+A equipe conseguiu entregar todos os pontos planejados! Por um lado foi gratificante ter conseguido por um fim nas pendências, mas por outro foi bem estressante, pois passamos pela refatoração do download de dados, a história com maior valor de pontos, motivo pelo qual esta sprint foi mais longa. Notou-se uma melhora na integração da equipe em algumas reuniões que houveram, mas houveram problemas em relação aos Daily Meetings devido à semana universitária da UnB, pois os Daily Meetings eram feitos na Universidade. Para tal problema utilizou-se de Daily Meetings via hangout ou por mensagens no Telegram.
 
-Além da refatoração do download de dados, a equipe teve que refatorar, também, o design do aplciativo. Este fato foi pedido à equipe de desenvolvimento pelo Designer do LabHacker, que notou problemas de UX na sugestão de proposta e comentários feitos pelo usuário, pois tal tarefa não era muito intuitiva.
+Outro ponto positivo foi que de fato a realização das reuniões no LabHacker minimizou os problemas de dependência com a API, pois os problemas eram facilmente comunicados para os desenvolvedores da API, por outro lado, como o LabHacker fica na Câmara dos Deputados, o local ficou complicado para alguns membros, o que gerou mais faltas.
+
+Além da refatoração do download de dados, a equipe teve que refatorar, também, o design do aplicativo. Este fato foi pedido à equipe de desenvolvimento pelo Designer do LabHacker, que notou problemas de UX na sugestão de proposta e comentários feitos pelo usuário, pois tal tarefa não era muito intuitiva.
+
+Um ponto percebido é que, na pressa para terminar as pendências, o grupo estava planejando muitos pontos para uma sprint de uma semana, visto que só foi possível concluir todos os pontos desta sprint pois a mesma foi mais longa, e anteriormente, era planejado um valor de pontos muito parecido com este para sprints de uma só semana, para as próximas sprints pretende-se então distribuir melhor as pendências, de forma que o planejado esteja mais de acordo com o velocity da equipe.
 
 ## 2. Indicadores de qualidade do produto
 
@@ -36,7 +40,7 @@ Além da refatoração do download de dados, a equipe teve que refatorar, també
 
 ![cobertura](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/sprint0-cobertura.png).
 
-**OBS:** Não foi possível gerar a cobertura de testes nesssa sprint, por este fato manteve-se a a cobertura de testes da sprint anterior. Não foi possível gerar a cobertura de testes porque havia testes para verificar o tipo de conexão do celular, como tais testes eram executados em máquinas virtuais do Android, elas não permitem que se use Wi-fi, pois possuem por padrão o 3G, portanto sempre um dos testes sempre falhava nestes dispositivos.
+**OBS:** Não foi possível gerar a cobertura de testes nessa sprint, por este fato manteve-se a a cobertura de testes da sprint anterior. Não foi possível gerar a cobertura de testes porque havia testes para verificar o tipo de conexão do celular, como tais testes eram executados em máquinas virtuais do Android, elas não permitem que se use Wi-fi, pois possuem por padrão o 3G, portanto sempre um dos testes sempre falhava nestes dispositivos.
 
 ### 2.2. Métricas 50%
 

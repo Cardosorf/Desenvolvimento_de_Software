@@ -2,11 +2,11 @@
 
 ## 1.1. Burndown
 
-[[imagens/burndown4.png]]
+[[imagens/burdown_sprint4.png]]
 
 ## 1.2. Velocity
 
-![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/velocity4.png)
+[[imagens/velocity_sprint4.png]]
 
 ## 1.3. Quadros
 
@@ -16,7 +16,7 @@
 
 ### 1.3.2. Retrospectiva
 
-[colocar]
+![Retrospectiva](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/RetrospectivaS4.jpg)
 
 ### 1.3.3. Pareamento
 
@@ -34,9 +34,9 @@
 
 A equipe falhou em entregar o Mock de API e também a funcionalidade de pesquisar projetos. O Mock vem sendo um problema recorrente desde a sprint 0, em que a equipe tem dificuldade de realizar tal método de teste. Vem se tentando utilizar diferentes frameworks para implementação deste teste no Android Studio, porém, sem sucesso. 
 
-Em relação ao "Pesquisar Projeto", estava faltando os testes de tal história (para ser considerada concluída) e a validação do designer do LabHacker.
+Nota-se pelo quadro de humor da equipe que nessa sprint os membros estavam um pouco chateados com os acontecimentos, principalmente por causa da realização falha do Mock. Começou-se a perceber que o humor da equipe é proporcional as entregas realizadas.
 
-Nota-se pelo quadro de humor da equipe que nessa print os membros estavam um pouco chateados com os acontecimentos, principalmente por causa da realização falha do Mock. Começou-se a perceber que o humor da equipe é proporcional as entregas realizadas.
+Percebeu-se também que o planejamento mais adequado ao velocity refletiu positivamente no processo, uma vez que a diferença entre pontos planejados e executados foi menor, e todas as histórias só não foram entregues devido aos problemas técnicos com o mock, e não por falta de comprometimento dos membros.
 
 # 2. Indicadores de qualidade do produto
 
