@@ -35,6 +35,8 @@ De forma geral, percebeu-se que o conhecimento da equipe sobre ela mesma amadure
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/coverage_graphic.png)
 
+[Clique aqui para aumentar a imagem](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/coverage_s7.png)
+
 ### 2.2. Métricas 50%
 
 **Resultados obtidos**
