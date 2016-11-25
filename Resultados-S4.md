@@ -36,7 +36,7 @@ A equipe falhou em entregar o Mock de API e também a funcionalidade de pesquisa
 
 Nota-se pelo quadro de humor da equipe que nessa sprint os membros estavam um pouco chateados com os acontecimentos, principalmente por causa da realização falha do Mock. Começou-se a perceber que o humor da equipe é proporcional as entregas realizadas.
 
-Percebeu-se também que o planejamento mais adequado ao velocity refletiu positivamente no processo, uma vez que a diferença entre pontos planejados e executados foi menor.
+Percebeu-se também que o planejamento mais adequado ao velocity refletiu positivamente no processo, uma vez que a diferença entre pontos planejados e executados foi menor, e todas as histórias só não foram entregues devido aos problemas técnicos com o mock, e não por falta de comprometimento dos membros.
 
 # 2. Indicadores de qualidade do produto
 
