@@ -18,3 +18,7 @@
    * [US12 - Ativar notificação de um segmento](https://github.com/fga-gpp-mds/2016.2-WikiLegis/issues/39)
 
 **Total:** 10 pontos
+
+###1.2. Pareamento
+
+![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/pair.png)
