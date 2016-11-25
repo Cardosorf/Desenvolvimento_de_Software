@@ -2,7 +2,7 @@
 
 ## 1.1. Burndown
 
-[[imagens/burdown_sprint5.png]]
+![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time01-WikiLegis/imagens/burndown5.png)
 
 ## 1.2. Velocity
 
