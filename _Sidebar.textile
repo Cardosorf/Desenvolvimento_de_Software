@@ -5,7 +5,7 @@ h3. Release 02
 ## "Padrão de qualidade":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Padr%C3%A3o-de-qualidade
 # "Scrum, XP e Kanban":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Scrum,-XP-e-Kanban
 # "Refatorações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Refatorações
-# "Posmotem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem2
+# "Posmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem2
 
 **Sprints**
 # **Sprint 0**:
