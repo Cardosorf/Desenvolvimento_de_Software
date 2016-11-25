@@ -3,6 +3,7 @@ h3. Release 02
 # "Planejamento da Release":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Planejamento-da-Release
 ## "Backlog do Produto":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Backlog-do-Produto
 ## "Padrão de qualidade":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Padr%C3%A3o-de-qualidade
+# "Agile EVM":https://docs.google.com/spreadsheets/d/1efInSThbZV-S04TWs5BM4uyO7TXdUTRguJE0H3fRx1k/edit?usp=sharing
 # "Scrum, XP e Kanban":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Scrum,-XP-e-Kanban
 # "Refatorações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Refatorações
 # "Release Notes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Release-Notes-%7C-Vers%C3%A3o-1.0
