@@ -9,7 +9,7 @@ h3. Release 02
 # "Release Notes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Release-Notes-%7C-Vers%C3%A3o-1.0
 # "Posmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem
 # **"Vídeo Demonstrativo"**
-# "App Play Store":https://play.google.com/store/apps/details?id=gppmds.wikilegis&hl=pt_BR
+# "Google Play":https://play.google.com/store/apps/details?id=gppmds.wikilegis&hl=pt_BR
 
 **Sprints**
 # **Sprint 0**:
