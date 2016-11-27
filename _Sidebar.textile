@@ -10,6 +10,7 @@ h3. Release 02
 # "Posmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem
 # **"Vídeo Demonstrativo"**
 # "Google Play":https://play.google.com/store/apps/details?id=gppmds.wikilegis&hl=pt_BR
+# "Apresentação R2":https://docs.google.com/presentation/d/1suhdFoMJTnJOT9GXEz9vSgVcKFTusS4bfByo6wYdkzk/edit?usp=sharing
 
 **Sprints**
 # **Sprint 0**:
