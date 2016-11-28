@@ -8,7 +8,7 @@ h3. Release 02
 # "Refatorações":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Refatorações
 # "Release Notes":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Release-Notes-%7C-Vers%C3%A3o-1.0
 # "Posmortem":https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Posmortem
-# **"Vídeo Demonstrativo"**
+# "Vídeo Demonstrativo":https://www.youtube.com/watch?v=kMidJwkv5-c
 # "Google Play":https://play.google.com/store/apps/details?id=gppmds.wikilegis&hl=pt_BR
 # "Apresentação R2":https://docs.google.com/presentation/d/1suhdFoMJTnJOT9GXEz9vSgVcKFTusS4bfByo6wYdkzk/edit?usp=sharing
 
