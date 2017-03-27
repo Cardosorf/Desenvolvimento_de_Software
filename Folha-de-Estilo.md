@@ -38,7 +38,7 @@ Este documento define as convenções de código a serem usados no projeto Wikil
     }
 ```
 
-**1.3.** TO nome do método deve representar o que ele faz, usando um verbo.
+**1.3.** O nome do método deve representar o que ele faz, usando um verbo.
 
 ``` Java
 
