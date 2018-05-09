@@ -53,7 +53,7 @@
 <b>Pós condições:</b> Ao final do caso de uso, o cidadão brasileiro possuirá um cadastro no sistema.
 
 <b>Regras de Negócio:</b>
-#####<b>[RN01] - Cadastro de usuário:</b>
+##### [RN01] - Cadastro de usuário:
 
 | Campo | Formato | Obrigatoriedade | Valor | 
 | :---: | :---: | :---: | :---: |
